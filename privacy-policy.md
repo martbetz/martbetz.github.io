@@ -5,7 +5,7 @@ layout: page
 
 This website is an independant and personal project hosted by [GitHub Pages](https://pages.github.com); it was built using [Jekyll](https://jekyllrb.com) and incorporates a fork of the [Minima](https://jekyll.github.io/minima/about/) Jekyll theme. The source code for this website is hosted by [GitHub](github.com).
 
-This website does not retain vistor data (of any kind or in any form); however, please be aware of the following declaration that has been sourced directly from [GitHub Docs](https://docs.github.com/en):
+This website does not retain vistor data (of any kind or in any form); however, please be aware of the following declaration sourced directly from [GitHub Docs](https://docs.github.com/en):
 
  >When a GitHub Pages site is visited, the visitor's IP address is logged and stored [by GitHub] for security purposes, regardless of whether the visitor has signed into GitHub or not. For more information about GitHub's security practices, see [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement).
 
