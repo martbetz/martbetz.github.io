@@ -43,7 +43,8 @@ header_pages:
  - now.md
  - archive.html
  - links.html
- - legal.html
+ - privacy-policy
+# - legal.html
 # - test.html
 
 # Build settings
