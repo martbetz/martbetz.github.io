@@ -40,8 +40,8 @@ minima:
 # this and add the path to the pages in order as they should show up
 header_pages:
  - about.html
- - terms-of-use.html
  - now.md
+ - terms-of-use.html
  - archive.html
  - links.html
 # - legal.html
