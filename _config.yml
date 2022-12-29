@@ -42,8 +42,8 @@ header_pages:
  - about.html
  - now.md
  - terms-of-use.html
- - archive.html
- - links.html
+ - archive.md
+# - links.html
 # - legal.html
 # - test.html
 
