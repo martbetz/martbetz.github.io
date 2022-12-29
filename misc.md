@@ -13,5 +13,3 @@ This page is currently under construction.
 ## General ##
 
 - [Useful Links](https://martbetz.github.io/links.html)
-
-
