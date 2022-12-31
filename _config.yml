@@ -41,8 +41,8 @@ minima:
 header_pages:
  - about.html
  - now.html
- - ref.md
- - arc.md
+ - reference.md
+ - archive.md
 # - terms-of-use.html
 # - links.html
 # - legal.html
