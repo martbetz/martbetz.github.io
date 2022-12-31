@@ -23,7 +23,11 @@ layout: page
   
 - <kbd>CONTROL</kbd> + <kbd>COMMAND</kbd> + <kbd>Q</kbd>
 
+  (activate the lock-screen)
+
 - <kbd>ESCAPE</kbd>
+
+  (turn off the displays)
 
 ---
 
