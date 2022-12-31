@@ -9,15 +9,15 @@ layout: page
 
 ### pacman/pamac ###
 
-**Issue:**
+**Issue:** 
 
-- A package from the AUR failed because pgp signature(s) could not be varified.
+- a  package from the AUR failed because pgp signature(s) could not be varified
 
 **Solution:**
 
 - `gpg --recv-keys` [SIG]
 
-   Replace [SIG] with the signature to be added.
+   replace [SIG] with the signature to be added
 
 **Comments:**
 
@@ -45,7 +45,8 @@ layout: page
 
 **Comments:**
 
-- Deleting all *.pyc files will subsequently remove any corrupted/incompatible *.pyc files. Re-installing python-pip will create a new batch of *.pyc files that will replace those previously deleted.
+- deleting all *.pyc files will subsequently remove any corrupted/incompatible *.pyc files
+- re-installing python-pip will create a new batch of *.pyc files that will replace those previously deleted
 
 ----
 
@@ -53,7 +54,7 @@ layout: page
 
 **Issue:**
 
- - A previous commit comment is incorrect and needs to be amended.
+ - a previous commit comment is incorrect and needs to be amended
 
 **Solution:**
 
@@ -63,11 +64,11 @@ layout: page
 
 - `git rebase -i` [SHA]
 
-Replace [SHA] with the SHA of the commit that immediately _**proceeds**_ the comment to be amended.
+  replace [SHA] with the SHA of the commit that immediately _**proceeds**_ the comment to be amended
 
-- For the comment to be amended, replace the keyword `pick` with the keyword `reword`. Save the file and exit the editor.
+- for the comment to be amended, replace the keyword `pick` with the keyword `reword`. Save the file and exit the editor
 
-- Amend the commit comment and save the file.
+- amend the commit comment and save the file
 
 - `git log --oneline --graph`
 
@@ -75,7 +76,7 @@ Replace [SHA] with the SHA of the commit that immediately _**proceeds**_ the com
 
 **Comments:**
 
-- An alternative and _much_ quicker solution would be to use the 'reword' option in `laygit`.
+- an alternative and _much_ quicker solution would be to use the 'reword' option in `lazygit`
 
 ----  
   
@@ -83,7 +84,7 @@ Replace [SHA] with the SHA of the commit that immediately _**proceeds**_ the com
   
  **Issue:**
   
- - The latest commit is incorrect and needs to be removed.
+ - the latest commit is incorrect and needs to be removed
   
   **Solution:**
   
@@ -97,7 +98,7 @@ Replace [SHA] with the SHA of the commit that immediately _**proceeds**_ the com
 
 **Issue:**
 
-- The database signatures fail to update.
+- the database signatures fail to update
 
 **Solution:**
 
@@ -115,7 +116,7 @@ Replace [SHA] with the SHA of the commit that immediately _**proceeds**_ the com
    
 **Comments:**
 
-- Windows executables and file wrappers (used with Wine, for example) may produce false positives.
+- Windows executables and file wrappers (used with Wine, for example) may produce false positives
 
 ----
 
@@ -123,7 +124,7 @@ Replace [SHA] with the SHA of the commit that immediately _**proceeds**_ the com
 
 **Issue:**
 
-- Python modules have been removed from the official repository package resulting in Python scripts and plug-ins (such as Resynthesizer) being unsupported and the Python-Fu console becoming unavailable.
+- Python modules have been removed from the official repository package resulting in Python scripts and plug-ins (such as Resynthesizer) being unsupported and the Python-Fu console becoming unavailable
 
 **Solution:**
 
@@ -133,7 +134,7 @@ Replace [SHA] with the SHA of the commit that immediately _**proceeds**_ the com
     
 **Comments:**
     
-- Pamac AUR support _must_ be enabled.
+- pamac AUR support _must_ be enabled
 
 ----
 
@@ -141,13 +142,13 @@ Replace [SHA] with the SHA of the commit that immediately _**proceeds**_ the com
 
 **Issue:**
 
-- Apps do not run via firefjail by default.
+- apps do not run via firefjail by default
 
 **Solution:**
 
 - `ln -s /usr/bin/firejail /usr/local/bin/`[appname]
 
-   Repace [appname] with the name of the app.
+   repace [appname] with the name of the app
    
    (create a symbolic link for a specific app)
    
@@ -163,15 +164,15 @@ Replace [SHA] with the SHA of the commit that immediately _**proceeds**_ the com
     
 -  `sudo rm -v !("`[appname1]`"|"`[appname2]`")`
 
-   Repace [appname1] and [appname2] with the names of the apps.
+   repace [appname1] and [appname2] with the names of the apps
 
     (delete all symbolic links except those required)
     
 **Comments:**
     
-- firecfg is the desktop integration utility for firejail - it allows the user to sandbox applications automatically by clicking on desktop manager icons and menus).
+- firecfg is the desktop integration utility for firejail - it allows the user to sandbox applications automatically by clicking on desktop manager icons and menus)
 
-- `sudo firecfg --clean` will delete all created symbolic links.
+- `sudo firecfg --clean` will delete all created symbolic links
 
 ----
 
@@ -179,7 +180,7 @@ Replace [SHA] with the SHA of the commit that immediately _**proceeds**_ the com
 
 **Issue:**
 
-- 30fps action cam footage needs to be converted to a lower framerate.
+- 30fps action cam footage needs to be converted to a lower framerate
 
 **Solution:**
 
@@ -187,4 +188,4 @@ Replace [SHA] with the SHA of the commit that immediately _**proceeds**_ the com
  
 **Comments:**
 
-- Set `fps=` value to twice the desired framerate (for example, set `fps=50` for 25fps or `fps=48` for 24fps).
+- set `fps=` value to twice the desired framerate (for example, set `fps=50` for 25fps or `fps=48` for 24fps)
