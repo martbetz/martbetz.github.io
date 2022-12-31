@@ -27,28 +27,27 @@ Author: <a href="https://github.com/martbetz">Mart Betz</a>
        1. Terms of Use
     </h2> 
     <p>
-By interacting with this website, you are confirming your undertanding and acceptance of the conditions as outlined below. All conditions are non-negotiable.
-<br>
-<br>
-As per the <a href="#disclaimer">General Disclaimer</a>: 
-<br>
-<br>
-This website is a continual work in progress; the author reserves the right to add, remove, or amend any part or all of this website at any time with or without prior notice.
-<br>
-<br>
-The author provides no guarantees regarding the accuracy of the website's content and accepts no responsibility should any misinterpretation or misunderstanding arise.
-<br>
-<br>
-As per the <a href="#copyright">Copyright Notice</a>: 
-<br>
-<br>
-Unless otherwise stated, all content is the copyright of the author and may neither be redistributed nor reproduced — be it completely or partially — without the author's consent.
-<br>
-<br>
-As per the <a href="#privacy">Privacy Statement</a>: 
-<br>
-<br>
-<q>When a GitHub Pages site is visited, the visitor's IP address is logged and stored [by GitHub] for security purposes, regardless of whether the visitor has signed into GitHub or not. For more information about GitHub's security practices, see <a href="https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement">GitHub Privacy Statement</a>.</q>
+By interacting with this website, you are confirming your undertanding and acceptance of the conditions as outlined below (all conditions are non-negotiable):
+<ul>
+<li>
+(as per the <a href="#disclaimer">General Disclaimer</a>) this website is a continual work in progress; the author reserves the right to add, remove, or amend any part or all of this website at any time with or without prior notice
+</li>
+</ul>
+<ul>
+<li>
+(as per the <a href="#disclaimer">General Disclaimer</a>) the author provides no guarantees regarding the accuracy of the website's content and accepts no responsibility should any misinterpretation or misunderstanding arise
+</li>
+</ul>
+<ul>
+<li>
+(as per the <a href="#copyright">Copyright Notice</a>) unless otherwise stated, all content is the copyright of the author and may neither be redistributed nor reproduced — be it completely or partially — without the author's consent
+</li>
+</ul>
+<ul>
+<li>
+(as per the <a href="#privacy">Privacy Statement</a>) <q>When a GitHub Pages site is visited, the visitor's IP address is logged and stored [by GitHub] for security purposes, regardless of whether the visitor has signed into GitHub or not. For more information about GitHub's security practices, see <a href="https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement">GitHub Privacy Statement</a>.</q>
+</li>
+</ul>
     </p>
  </div> 
 
