@@ -33,6 +33,8 @@ layout: page
 
 - `diskutil secureErase freespace` [n] `/Volumes/`[drive_name]
 
+  replace [drivename] with the name of the drive
+
   replace [n] with one of the following numerical values:
 
     - 0 – Single-pass zero-fill erase
@@ -42,4 +44,5 @@ layout: page
     - 4 – US DoE algorithm 3-pass secure erase
     
 
-  replace [drivename] with the name of the drive
+  
+  
