@@ -17,7 +17,7 @@ layout: page
 
 **Solution:**
 
-- `gpg --recv-keys` [SIG]
+- `gpg --recv-keys [SIG]`
 
    replace [SIG] with the signature to be added
 
@@ -65,7 +65,7 @@ layout: page
 
   (list commits to identify SHA)
 
-- `git rebase -i` [SHA]
+- `git rebase -i [SHA]` 
 
   replace [SHA] with the SHA of the commit that immediately _**proceeds**_ the comment to be amended
 
@@ -149,7 +149,7 @@ layout: page
 
 **Solution:**
 
-- `ln -s /usr/bin/firejail /usr/local/bin/`[appname]
+- `ln -s /usr/bin/firejail /usr/local/bin/[appname]`
 
    repace [appname] with the name of the app
    
@@ -165,9 +165,9 @@ layout: page
 
     (navigate to directory where symbolic links have been created)
     
--  `sudo rm -v !("`[appname1]`"|"`[appname2]`")`
+-  `sudo rm -v !("[appname1]"|"[appname2]")`
 
-   repace [appname1] and [appname2] with the names of the apps
+   replace [appname1] and [appname2] with the names of the apps
 
     (delete all symbolic links except those required)
     
@@ -187,7 +187,9 @@ layout: page
 
 **Solution:**
 
-- [30fps.MOV] `-vf minterpolate=mi_mode=mci:mc_mode=aobmc:me_mode=bidir:vsbmc=1:fps=50,decimate=cycle=2,format=pix_fmts=yuvj420p -c:v libx264 -preset veryslow -tune film -crf 17` [25fps.MOV]
+- `[30fps.MOV] -vf minterpolate=mi_mode=mci:mc_mode=aobmc:me_mode=bidir:vsbmc=1:fps=50,decimate=cycle=2,format=pix_fmts=yuvj420p -c:v libx264 -preset veryslow -tune film -crf 17 [25fps.MOV]`
+
+  replace [30fps.MOV] with the name of the input file and [25fps.MOV] with the name of the output file
  
 **Comments:**
 
