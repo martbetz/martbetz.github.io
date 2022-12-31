@@ -11,7 +11,7 @@ layout: page
 
 **Issue:**
 
-- Keyboard shortcut `control-shift-eject` (put displays to sleep) is no longer available as the keyboard has no eject key
+- keyboard shortcut `control-shift-eject` (put displays to sleep) is no longer available as the keyboard has no eject key
 
 **Solution:**
 
@@ -27,7 +27,7 @@ layout: page
 
 **Issue:**
 
-- Free space on HD needs to be securely erased
+- free space on HD needs to be securely erased
 
 **Solution:**
 
