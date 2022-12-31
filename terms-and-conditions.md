@@ -7,7 +7,6 @@ Website: <a href="https://github.com/martbetz/martbetz.github.io">martbetz.githu
 <br>
 Author: <a href="https://github.com/martbetz">Mart Betz</a>
 <br>
-<br>
 <ol>
    <li>
      <a href="#terms">Terms of Use</a>
