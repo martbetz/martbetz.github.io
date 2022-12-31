@@ -23,7 +23,7 @@ Author: <a href="https://github.com/martbetz">Mart Betz</a>
     </li>
 </ol>
 <br>
-<br>
+
 <div id="terms"> 
     <h2>
        1. Terms of Use
