@@ -1,9 +1,9 @@
 ---
-Title: Linux (Arch) Troubleshooting
+title: Linux (Arch) Troubleshooting
 layout: page
 ---
 
-Disclaimer: These solutions have worked for me and are listed here for my own personal reference. If they work for you too, then great; if they don't, and something catastrophic happens, I won't be held responsible.
+**Disclaimer: These solutions have worked for me and are listed here for my own personal reference. If they work for you too, then great; if they don't, and something catastrophic happens, I won't be held responsible.**
 
 ---
 
