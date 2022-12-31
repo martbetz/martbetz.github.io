@@ -17,11 +17,11 @@ layout: page
 
 **Solution:**
 
-- <kbd>CONYROL</kbd> + <kbd>SHIFT</kbd> + <kbd>POWER</kbd>
+- <kbd>CONTROL</kbd> + <kbd>SHIFT</kbd> + <kbd>POWER</kbd>
 
   or
   
-- <kbd>CONYROL</kbd> + <kbd>COMMAND</kbd> + <kbd>Q</kbd> followed by <kbd>ESCAPE</kbd>
+- <kbd>CONTROL</kbd> + <kbd>COMMAND</kbd> + <kbd>Q</kbd> followed by <kbd>ESCAPE</kbd>
 
 ---
 
