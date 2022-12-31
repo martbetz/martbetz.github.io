@@ -15,8 +15,10 @@ I never said it would be a good one.
 ## Website ## 
 
 - [Terms of Use](https://martbetz.github.io/terms-of-use.html)
-- [ Test Page](https://martbetz.github.io/test.html)
+- [Test Page](https://martbetz.github.io/test.html)
 
 ## General ##
 
-- [ Useful Links](https://martbetz.github.io/links.html)
+- [Useful Links](https://martbetz.github.io/links.html)
+- [Linux (Arch) Troubleshooting](https://martbetz.github.io/linux-trouble-shooting.html)
+- [macOS Troubleshooting](https://martbetz.github.io/macos-trouble-shooting.html)
