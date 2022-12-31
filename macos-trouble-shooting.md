@@ -11,7 +11,7 @@ layout: page
 
 **Issue:**
 
-- The keyboard shortcut `control-shift-eject` (put displays to sleep) is no longer available as the keyboard has no eject key.
+- the keyboard shortcut `control-shift-eject` (put displays to sleep) is no longer available as the keyboard has no eject key
 
 **Solution:**
 
@@ -19,7 +19,7 @@ layout: page
 
   or
   
-   `control-command-Q` followed by `escape`
+- `control-command-Q` followed by `escape`
 
 ---
 
@@ -27,15 +27,15 @@ layout: page
 
 **Issue:**
 
-- Free space on HD needs to be securely erased.
+- the free space on a hard-drive needs to be securely erased
 
 **Solution:**
 
 - `diskutil secureErase freespace` [n] `/Volumes/`[drive_name]
 
-  Replace [drivename] with the name of the drive.
+  replace [drivename] with the name of the drive
 
-  Replace [n] with one of the following numerical values:
+  replace [n] with one of the following numerical values:
 
     - 0 – Single-pass zero-fill erase
     - 1 – Single-pass random-fill erase
