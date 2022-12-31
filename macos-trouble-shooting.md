@@ -3,7 +3,7 @@ title: macOS Troubleshooting
 layout: page
 ---
 
-**Disclaimer: These solutions have worked for me and are listed here for my personal reference only. If you decide to give any of them a go and they solve all of life's problems, then great; if they don't, and something catastrophic happens, I won't be held responsible. Once again: these solutions are listed here for my personal reference only!**
+**Disclaimer: These solutions have worked for me and are listed here for my personal reference only. If you decide to give any of them a go and they solve all of life's problems, then great; if they don't, and something catastrophic happens, you've no one to blame but yourself. Once again: these solutions are listed here for my personal reference only!**
 
 ---
 
@@ -40,5 +40,7 @@ layout: page
     - 2 – US DoD 7-pass secure erase
     - 3 – Gutmann algorithm 35-pass secure erase
     - 4 – US DoE algorithm 3-pass secure erase
+    
+<br>
 
   replace [drivename] with the name of the drive
