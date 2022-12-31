@@ -14,7 +14,7 @@ I never said it would be a good one.
 
 ## Website ## 
 
-- [Terms of Use](https://martbetz.github.io/terms-of-use.html)
+- [Terms and Conditions](https://martbetz.github.io/terms-and-conditions.html)
 - [Test Page](https://martbetz.github.io/test.html)
 
 ## General ##
