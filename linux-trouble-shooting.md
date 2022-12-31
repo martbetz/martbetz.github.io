@@ -41,9 +41,15 @@ layout: page
 
    (find and delete all *.pyc files)
 
-- `pacman -S python-pip` / `pamac install python-pip`
+- `pacman -S python-pip`
 
-   (re-install python-pip)
+   (re-install python-pip with pacman
+   
+   or
+
+- `pamac install python-pip`
+
+   (re-install python-pip with pamac)
 
 **Comments:**
 
