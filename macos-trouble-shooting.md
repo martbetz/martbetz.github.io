@@ -33,7 +33,7 @@ layout: page
 
 **Solution:**
 
-- `diskutil secureErase freespace`[n] `/Volumes/`[drive_name]
+- `diskutil secureErase freespace` [n] `/Volumes/` [drive_name]
 
   replace [n] with one of the following numerical values and [drivename] with the name of the drive:
 
