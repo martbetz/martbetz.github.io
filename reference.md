@@ -9,7 +9,7 @@ A RAID-member disk walks into a bar. <br>
 “What's wrong with you?” asks the bartender.<br>
 “Parity error,” replied the RAID-member disk. <br>
 “Ah,” said the bartender, “I thought you looked a bit off.”
-<br>
+<br><br>
 I never said it would be a good one. 
 </font>
 
