@@ -19,4 +19,4 @@ I never said it would be a good one.
 
 ## General ##
 
-[ Useful Links](https://martbetz.github.io/links.html)
+- [ Useful Links](https://martbetz.github.io/links.html)
