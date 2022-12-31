@@ -9,19 +9,19 @@ layout: page
 
 ### pacman/pamac ###
 
-**issue:**
+**Issue:**
 
-- Package from the AUR failed because pgp signature(s) could not be varified
+- A package from the AUR failed because pgp signature(s) could not be varified.
 
 **Solution:**
 
 - `gpg --recv-keys` [SIG]
 
-   Replace [SIG] with the signature to be added
+   Replace [SIG] with the signature to be added.
 
 **Comments:**
 
-- Link to [pacman cheat-sheet](https://difyel.com/cheatsheet/pacman-cheat-sheet/index.html)
+- [pacman cheat-sheet](https://difyel.com/cheatsheet/pacman-cheat-sheet/index.html)
 
 ----
 
@@ -63,11 +63,11 @@ layout: page
 
 - `git rebase -i` [SHA]
 
-  Replace [SHA] with the SHA of the commit that immediately _**proceeds**_ the comment to be amended
+Replace [SHA] with the SHA of the commit that immediately _**proceeds**_ the comment to be amended.
 
-- For the comment to be amended, replace the keyword `pick` with the keyword `reword`. Save the file and exit the editor
+- For the comment to be amended, replace the keyword `pick` with the keyword `reword`. Save the file and exit the editor.
 
-- Amend the commit comment and save the file
+- Amend the commit comment and save the file.
 
 - `git log --oneline --graph`
 
@@ -83,7 +83,7 @@ layout: page
   
  **Issue:**
   
- - The latest commit is incorrect and needs to be removed
+ - The latest commit is incorrect and needs to be removed.
   
   **Solution:**
   
@@ -97,7 +97,7 @@ layout: page
 
 **Issue:**
 
-- Signatures fail to update
+- Signatures fail to update.
 
 **Solution:**
 
@@ -123,7 +123,7 @@ layout: page
 
 **Issue:**
 
-- Python modules have been removed from the official repository package resulting in Python scripts and plug-ins (such as Resynthesizer) being unsupported and the Python-Fu console becoming unavailable
+- Python modules have been removed from the official repository package resulting in Python scripts and plug-ins (such as Resynthesizer) being unsupported and the Python-Fu console becoming unavailable.
 
 **Solution:**
 
@@ -141,13 +141,13 @@ layout: page
 
 **Issue:**
 
-- Apps do not run via firefjail by default
+- Apps do not run via firefjail by default.
 
 **Solution:**
 
 - `ln -s /usr/bin/firejail /usr/local/bin/`[appname]
 
-   Repace [appname] with the name of the app
+   Repace [appname] with the name of the app.
    
    (create a symbolic link for a specific app)
    
@@ -163,15 +163,15 @@ layout: page
     
 -  `sudo rm -v !("`[appname1]`"|"`[appname2]`")`
 
-   Repace [appname1] and [appname2] with the names of the apps
+   Repace [appname1] and [appname2] with the names of the apps.
 
     (delete all symbolic links except those required)
     
 **Comments:**
     
-- firecfg is the desktop integration utility for firejail - it allows the user to sandbox applications automatically by clicking on desktop manager icons and menus)
+- firecfg is the desktop integration utility for firejail - it allows the user to sandbox applications automatically by clicking on desktop manager icons and menus).
 
-- `sudo firecfg --clean` will delete all created symbolic links
+- `sudo firecfg --clean` will delete all created symbolic links.
 
 ----
 
@@ -179,7 +179,7 @@ layout: page
 
 **Issue:**
 
-- 30fps action cam footage needs to be converted to a lower framerate
+- 30fps action cam footage needs to be converted to a lower framerate.
 
 **Solution:**
 
@@ -187,4 +187,4 @@ layout: page
  
 **Comments:**
 
-- Set `fps=` value to twice the desired framerate (for example, set `fps=50` for 25fps or `fps=48` for 24fps)
+- Set `fps=` value to twice the desired framerate (for example, set `fps=50` for 25fps or `fps=48` for 24fps).
