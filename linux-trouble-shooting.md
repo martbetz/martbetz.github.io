@@ -43,7 +43,7 @@ layout: page
 
 - `pacman -S python-pip`
 
-   (re-install python-pip with pacman
+   (re-install python-pip with pacman)
    
    or
 
@@ -85,7 +85,7 @@ layout: page
 
 **Comments:**
 
-- an alternative and _much_ quicker solution would be to use the 'reword' option in `lazygit`
+- an alternative and _much_ quicker solution would be to use the 'reword' option in [lazygit](https://github.com/jesseduffield/lazygit).
 
 ----  
   
