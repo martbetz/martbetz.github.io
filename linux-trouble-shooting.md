@@ -46,6 +46,7 @@ layout: page
 **Comments:**
 
 - deleting all *.pyc files will subsequently remove any corrupted/incompatible *.pyc files
+
 - re-installing python-pip will create a new batch of *.pyc files that will replace those previously deleted
 
 ----
