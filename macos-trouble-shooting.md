@@ -3,7 +3,9 @@ title: macOS Troubleshooting
 layout: page
 ---
 
-**Disclaimer: These solutions have worked for me and are listed here for my personal reference only. If you decide to give any of them a go and they solve all of life's problems, then great; if they don't, and something catastrophic happens, you've no one to blame but yourself. Once again: these solutions are listed here for my personal reference only!**
+<font size="4">
+<b>Disclaimer: These solutions have worked for me and are listed here for my personal reference only. If you decide to give any of them a go and they solve all of life's problems, then great; if they don't, and something catastrophic happens, you've no one to blame but yourself. Once again: these solutions are listed here for my personal reference only!</b>
+</font>
 
 ---
 
