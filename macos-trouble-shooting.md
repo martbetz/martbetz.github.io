@@ -13,15 +13,15 @@ layout: page
 
 **Issue:**
 
-- the keyboard shortcut  <kbd>CONTROL</kbd> + <kbd>SHIFT</kbd> + <kbd>EJECT</kbd>  (put displays to sleep) is no longer available as the keyboard has no  <kbd>EJECT</kbd>  key
+- the keyboard shortcut <kbd>CONTROL</kbd> + <kbd>SHIFT</kbd> + <kbd>EJECT</kbd> (put displays to sleep) is no longer available as the keyboard has no <kbd>EJECT</kbd> key
 
 **Solution:**
 
-- <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Power</kbd>
+- <kbd>CONYROL</kbd> + <kbd>SHIFT</kbd> + <kbd>POWER</kbd>
 
   or
   
-- <kbd>Ctrl</kbd> + <kbd>Cmd</kbd> + <kbd>Q</kbd>      followed by  <kbd>Esc</kbd>
+- <kbd>CONYROL</kbd> + <kbd>COMMAND</kbd> + <kbd>Q</kbd> followed by <kbd>ESCAPE</kbd>
 
 ---
 
