@@ -53,7 +53,7 @@ layout: page
 
 **Issue:**
 
- - A previous commit comment is incorrect and needs to be amended
+ - A previous commit comment is incorrect and needs to be amended.
 
 **Solution:**
 
@@ -89,7 +89,7 @@ Replace [SHA] with the SHA of the commit that immediately _**proceeds**_ the com
   
  - `git reset --hard HEAD^`
   
- - (delete the latest commit and revert to the previous state)
+   (delete the latest commit and revert to the previous state)
  
  ---- 
 
@@ -97,7 +97,7 @@ Replace [SHA] with the SHA of the commit that immediately _**proceeds**_ the com
 
 **Issue:**
 
-- Signatures fail to update.
+- The database signatures fail to update.
 
 **Solution:**
 
