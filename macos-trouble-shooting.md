@@ -39,9 +39,9 @@ layout: page
 
 **Solution:**
 
-- `diskutil secureErase freespace [n] /Volumes/[drive_name]`
+- `diskutil secureErase freespace [N] /Volumes/[DRIVE]`
 
-  replace [n] with one of the following numerical values and [drivename] with the name of the drive:
+  replace [N] with one of the following numerical values and [DRIVE] with the name of the drive:
 
     - 0 – Single-pass zero-fill erase
     - 1 – Single-pass random-fill erase
