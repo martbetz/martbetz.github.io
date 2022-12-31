@@ -21,7 +21,9 @@ layout: page
 
   or
   
-- <kbd>CONTROL</kbd> + <kbd>COMMAND</kbd> + <kbd>Q</kbd> followed by <kbd>ESCAPE</kbd>
+- <kbd>CONTROL</kbd> + <kbd>COMMAND</kbd> + <kbd>Q</kbd>
+
+- <kbd>ESCAPE</kbd>
 
 ---
 
