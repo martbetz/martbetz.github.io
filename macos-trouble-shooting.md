@@ -9,6 +9,22 @@ layout: page
 
 ---
 
+### macOS ###
+
+**Issue:**
+
+- the keyboard shortcut `control-shift-eject` (put displays to sleep) is no longer available as the keyboard has no eject key
+
+**Solution:**
+
+- `control-shift-power`
+
+  or
+  
+- `control-command-Q` followed by `escape`
+
+---
+
 ### diskutil ###
 
 **Issue:**
@@ -29,16 +45,3 @@ layout: page
   
   ---
   
-  ### macOS ###
-
-**Issue:**
-
-- the keyboard shortcut `control-shift-eject` (put displays to sleep) is no longer available as the keyboard has no eject key
-
-**Solution:**
-
-- `control-shift-power`
-
-  or
-  
-- `control-command-Q` followed by `escape`
