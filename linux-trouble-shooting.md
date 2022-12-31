@@ -3,7 +3,7 @@ title: Linux (Arch) Troubleshooting
 layout: page
 ---
 
-**Disclaimer: These solutions have worked for me and are listed here for my own personal reference. If they work for you too, then great; if they don't, and something catastrophic happens, I won't be held responsible.**
+**Disclaimer: These solutions have worked for me and are listed here for my personal reference only. If you decide to give any of them a go and they solve all of life's problems, then great; if they don't, and something catastrophic happens, I won't be held responsible. Once again: these solutions are listed here for my personal reference only!**
 
 ---
 
