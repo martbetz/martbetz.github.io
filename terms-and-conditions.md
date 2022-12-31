@@ -1,0 +1,110 @@
+---
+title: Terms and Conditions
+layout: page
+---
+
+Website: <a href="https://github.com/martbetz/martbetz.github.io">martbetz.github.io</a>
+<br>
+Author: <a href="https://github.com/martbetz">Mart Betz</a>
+<br>
+<br>
+<ol>
+   <li>
+     <a href="#terms">Terms of Use</a>
+   </li> 
+   <li>
+     <a href="#disclaimer">General Disclaimer</a>
+   </li> 
+   <li>
+     <a href="#copyright">Copyright Notice</a>
+   </li>
+   <li>
+     <a href="#privacy">Privacy Statement</a>
+    </li>
+</ol>
+<br>
+<br>
+<div id="terms"> 
+    <h2>
+       1. Terms of Use
+    </h2> 
+    <p>
+By interacting with this website, you are confirming your undertanding and acceptance of the conditions as outlined below. All conditions are non-negotiable.
+<br>
+<br>
+As per the <a href="#disclaimer">General Disclaimer</a>: 
+<br>
+<br>
+This website is a continual work in progress; the author reserves the right to add, remove, or amend any part or all of this website at any time with or without prior notice.
+<br>
+<br>
+The author provides no guarantees regarding the accuracy of the website's content and accepts no responsibility should any misinterpretation or misunderstanding arise.
+<br>
+<br>
+As per the <a href="#copyright">Copyright Notice</a>: 
+<br>
+<br>
+Unless otherwise stated, all content is the copyright of the author and may neither be redistributed nor reproduced — be it completely or partially — without the author's consent.
+<br>
+<br>
+As per the <a href="#privacy">Privacy Statement</a>: 
+<br>
+<br>
+<q>When a GitHub Pages site is visited, the visitor's IP address is logged and stored [by GitHub] for security purposes, regardless of whether the visitor has signed into GitHub or not. For more information about GitHub's security practices, see <a href="https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement">GitHub Privacy Statement</a>.</q>
+    </p>
+ </div> 
+
+<div id="disclaimer">
+   <h2>
+      2. General Disclaimer
+   </h2>
+   <p>
+This website is hosted by <a href="https://pages.github.com">GitHub Pages</a>; it was built using <a href="https://jekyllrb.com">Jekyll</a> and incorporates a fork of the <a href="https://jekyll.github.io/minima/about/">Minima</a> theme. The source code for this website is hosted by <a href="github.com">GitHub</a>.
+<br>
+<br>
+Images attributed to the author are hosted by GitHub (as 'user content') and <a href="https:/ello.co">Ello</a>. Images that are not attributed to the author may be hosted by other sites.
+<br>
+<br>
+This website is a continual work in progress; the author reserves the right to add, remove, or amend any part or all of this website at any time with or without prior notice.
+<br>
+<br>
+All content is reflective of style; for example, humorous and/or hyperbolic statements are exclusively intended as such — the author does not promote such statments as literal. 
+<br>
+<br>
+Opinions expressed by the author are solely representational of independent observation and experience — the author does not promote such opinions as absolute.
+<br>
+<br>
+The author provides no guarantees regarding the accuracy of the website's content and accepts no responsibility should any misinterpretation or misunderstanding arise.
+    </p>
+ </div> 
+
+
+
+<div id="copyright"> 
+    <h2>
+       3. Copyright Notice
+    </h2> 
+    <p>
+The title ("JPEG Junkie"), slogan ("An Affliction of Addiction to Obsessive Observation and the Prevailing Preservation Thereof!") and logo (<img src="/favicon.ico" alt="logo">) are the trademark of the author.
+<br>
+<br>
+Unless otherwise stated, all content is the copyright of the author and may neither be redistributed nor reproduced — be it completely or partially — without the author's consent.
+     </p> 
+ </div>
+
+
+
+<div id="privacy"> 
+   <h2>
+      4. Privacy Statement
+   </h2> 
+   <p>
+This website does not collect data of any kind or in any form; however, please observe the following declaration as quoted directly from <a href="https://docs.github.com/en/">GitHub Docs</a>:
+<br>
+<br>
+<q>When a GitHub Pages site is visited, the visitor's IP address is logged and stored [by GitHub] for security purposes, regardless of whether the visitor has signed into GitHub or not. For more information about GitHub's security practices, see <a href="https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement">GitHub Privacy Statement</a>.</q>
+<br>
+<br>
+This website does not make use of cookies, and neither does any of its content; however, it does make use of hyperlinks that refer to external sources.
+  </p> 
+</div> 
