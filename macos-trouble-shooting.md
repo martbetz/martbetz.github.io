@@ -41,6 +41,5 @@ layout: page
     - 3 – Gutmann algorithm 35-pass secure erase
     - 4 – US DoE algorithm 3-pass secure erase
     
-<br>
 
   replace [drivename] with the name of the drive
