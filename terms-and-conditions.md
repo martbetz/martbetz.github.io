@@ -6,7 +6,7 @@ layout: page
 Website: <a href="https://github.com/martbetz/martbetz.github.io">martbetz.github.io</a>
 <br>
 Author: <a href="https://github.com/martbetz">Mart Betz</a>
-<br>
+<hr>
 <ol>
    <li>
      <a href="#terms">Terms of Use</a>
@@ -21,7 +21,7 @@ Author: <a href="https://github.com/martbetz">Mart Betz</a>
      <a href="#privacy">Privacy Statement</a>
     </li>
 </ol>
-
+<hr>
 <div id="terms"> 
     <h2>
        1. Terms of Use
@@ -50,7 +50,7 @@ By interacting with this website, you are confirming your undertanding and accep
 </ul>
     </p>
  </div> 
-
+<hr>
 <div id="disclaimer">
    <h2>
       2. General Disclaimer
@@ -76,7 +76,7 @@ The author provides no guarantees regarding the accuracy of the website's conten
  </div> 
 
 
-
+<hr>
 <div id="copyright"> 
     <h2>
        3. Copyright Notice
@@ -90,7 +90,7 @@ Unless otherwise stated, all content is the copyright of the author and may neit
  </div>
 
 
-
+<hr>
 <div id="privacy"> 
    <h2>
       4. Privacy Statement
