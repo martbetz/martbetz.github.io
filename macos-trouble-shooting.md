@@ -13,7 +13,7 @@ layout: page
 
 **Issue:**
 
-- the keyboard shortcut `control-shift-eject` (put displays to sleep) is no longer available as the keyboard has no eject key
+- the keyboard shortcut  <kbd>CONTROL</kbd> + <kbd>SHIFT</kbd> + <kbd>EJECT</kbd>  (put displays to sleep) is no longer available as the keyboard has no  <kbd>EJECT</kbd>  key
 
 **Solution:**
 
@@ -21,7 +21,7 @@ layout: page
 
   or
   
-- <kbd>Ctrl</kbd> + <kbd>Cmd</kbd> + <kbd>Q</kbd> followed by <kbd>Esc</kbd>
+- <kbd>Ctrl</kbd> + <kbd>Cmd</kbd> + <kbd>Q</kbd>      followed by  <kbd>Esc</kbd>
 
 ---
 
