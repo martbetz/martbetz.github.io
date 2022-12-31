@@ -22,7 +22,6 @@ Author: <a href="https://github.com/martbetz">Mart Betz</a>
      <a href="#privacy">Privacy Statement</a>
     </li>
 </ol>
-<br>
 
 <div id="terms"> 
     <h2>
