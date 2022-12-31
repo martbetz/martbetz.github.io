@@ -9,22 +9,6 @@ layout: page
 
 ---
 
-### macOS ###
-
-**Issue:**
-
-- the keyboard shortcut `control-shift-eject` (put displays to sleep) is no longer available as the keyboard has no eject key
-
-**Solution:**
-
-- `control-shift-power`
-
-  or
-  
-- `control-command-Q` followed by `escape`
-
----
-
 ### diskutil ###
 
 **Issue:**
@@ -42,5 +26,21 @@ layout: page
     - 2 – US DoD 7-pass secure erase
     - 3 – Gutmann algorithm 35-pass secure erase
     - 4 – US DoE algorithm 3-pass secure erase
-   <br>
+   
   replace [drivename] with the name of the drive
+  
+  ---
+  
+  ### macOS ###
+
+**Issue:**
+
+- the keyboard shortcut `control-shift-eject` (put displays to sleep) is no longer available as the keyboard has no eject key
+
+**Solution:**
+
+- `control-shift-power`
+
+  or
+  
+- `control-command-Q` followed by `escape`
