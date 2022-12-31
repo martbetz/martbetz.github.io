@@ -1,5 +1,5 @@
 ---
-Title: macOS Troubleshooting
+title: macOS Troubleshooting
 layout: page
 ---
 
