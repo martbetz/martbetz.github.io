@@ -17,11 +17,11 @@ layout: page
 
 **Solution:**
 
-- `control-shift-power`
+- <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Power</kbd>
 
   or
   
-- `control-command-Q` followed by `escape`
+- <kbd>Ctrl</kbd> + <kbd>Cmd</kbd> + <kbd>Q</kbd> followed by <kbd>Esc</kbd>
 
 ---
 
