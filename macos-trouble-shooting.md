@@ -55,6 +55,7 @@ layout: page
     - 3 – Gutmann algorithm 35-pass secure erase
     - 4 – US DoE algorithm 3-pass secure erase
     
+    
 - If the name of the drive contains a space, preceed it with `\`; for example, `diskutil secureErase freespace 4 /Volumes/Macintosh\ HD`
   
   ---
