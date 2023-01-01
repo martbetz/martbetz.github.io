@@ -13,7 +13,7 @@ layout: page
 
 **Issue:** 
 
-- a  package from the AUR failed because pgp signature(s) could not be varified
+- a package from the AUR failed because the pgp signature(s) could not be varified
 
 **Solution:**
 
