@@ -49,8 +49,8 @@ layout: page
 
 - the following values can be used for [N]:
 
-    - 0 – Single-pass zero-fill erase
-    - 1 – Single-pass random-fill erase
+    - 0 – single-pass zero-fill erase
+    - 1 – single-pass random-fill erase
     - 2 – US DoD 7-pass secure erase
     - 3 – Gutmann algorithm 35-pass secure erase
     - 4 – US DoE algorithm 3-pass secure erase
