@@ -45,7 +45,7 @@ layout: page
   
   Replace [DRIVE] with the name of the drive
   
-***Comments:**
+**Comments:**
 
 - the following values can be used for [N]:
 
