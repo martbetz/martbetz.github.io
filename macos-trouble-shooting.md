@@ -43,7 +43,7 @@ layout: page
 
   replace [N] with the required value
   
-  Replace [DRIVE] with the name of the drive
+  replace [DRIVE] with the name of the drive
   
 **Comments:**
 
