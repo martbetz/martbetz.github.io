@@ -41,7 +41,13 @@ layout: page
 
 - `diskutil secureErase freespace [N] /Volumes/[DRIVE]`
 
-  replace [N] with one of the following numerical values and [DRIVE] with the name of the drive:
+  replace [N] with the required value
+  
+  Replace [DRIVE] with the name of the drive
+  
+***Comments:**
+
+- the following values can be used for [N]:
 
     - 0 – Single-pass zero-fill erase
     - 1 – Single-pass random-fill erase
