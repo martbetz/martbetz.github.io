@@ -35,7 +35,7 @@ By interacting with this website, you are confirming your undertanding and accep
 </ul>
 <ul>
 <li>
-(as per the <a href="#disclaimer">General Disclaimer</a>) the author provides no guarantees regarding the accuracy of the website's content and accepts no responsibility should any misinterpretation or misunderstanding arise
+(as per the <a href="#disclaimer">General Disclaimer</a>) the author provides no guarantees regarding the accuracy of the website's content; nor does the author accept responsibility should any misinterpretation or misunderstanding of any content arise
 </li>
 </ul>
 <ul>
@@ -71,7 +71,7 @@ All content is reflective of style; for example, humorous and/or hyperbolic stat
 Opinions expressed by the author are solely representational of independent observation and experience — the author does not promote such opinions as absolute.
 <br>
 <br>
-The author provides no guarantees regarding the accuracy of the website's content and accepts no responsibility should any misinterpretation or misunderstanding arise.
+The author provides no guarantees regarding the accuracy of the website's content; nor does the author  accepts responsibility should any misinterpretation or misunderstanding of any content arise.
     </p>
  </div> 
 
