@@ -62,7 +62,7 @@ This website is hosted by <a href="https://pages.github.com">GitHub Pages</a>; i
 Images attributed to the author are hosted by GitHub (as 'user content') and <a href="https:/ello.co">Ello</a>. Images that are not attributed to the author may be hosted by other sites.
 <br>
 <br>
-This website is a continual work in progress; the author reserves the right to amend or temove any part or all of this website at any time with or without prior notice.
+This website is a continual work in progress; the author reserves the right to amend or remove any part or all of this website at any time with or without prior notice.
 <br>
 <br>
 All content is reflective of style; for example, humorous and/or hyperbolic statements are exclusively intended as such — the author does not promote such statments as literal. 
