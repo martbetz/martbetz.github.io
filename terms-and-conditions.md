@@ -49,7 +49,7 @@ By interacting with this website, you are confirming your undertanding and accep
 </ul>
 <ul>
 <li>
-(as per the <a href="#privacy">Privacy Statement</a>) this website does not make use of cookies and neither does any of it's content; however, this website does make use of hyperlinks that refer to external sources
+(as per the <a href="#privacy">Privacy Statement</a>) this website does not make use of cookies and neither does any of its content; however, this website does make use of hyperlinks that refer to external sources
 </li>
 </ul>
 <ul>
