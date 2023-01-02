@@ -9,9 +9,7 @@ Author: <a href="https://github.com/martbetz">Mart Betz</a>
 <br>
 <br>
 This website is a hosted by <a href="https://pages.github.com">GitHub Pages</a>; it was built using <a href="https://jekyllrb.com">Jekyll</a> and incorporates a fork of the <a href="https://jekyll.github.io/minima/about/">Minima</a> theme. The source code for this website is hosted by <a href="github.com">GitHub</a>.
-<br>
-<br>
-Images attributed to the author are hosted by GitHub (as 'user content') and <a href="https:/ello.co">Ello</a>. Images that are not attributed to the author may be hosted by other sites.
+
 <hr>
 <ol>
    <li>
@@ -109,5 +107,8 @@ This website does not collect data of any kind or in any form; however, please o
 <br>
 <br>
 This website does not make use of cookies, and neither does any of its content; however, it does make use of hyperlinks that refer to external sources.
+<br>
+<br>
+Images attributed to the author are hosted by GitHub (as 'user content') and <a href="https:/ello.co">Ello</a>; however, images that are not attributed to the author may be hosted by other sites.
   </p> 
 </div>
