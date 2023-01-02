@@ -56,5 +56,5 @@ layout: page
     - 4 – US DoE algorithm 3-pass secure erase
     
 <ul>    
-<li>If the name of the drive contains a space, precede it with <code>\</code>; for example, <code>diskutil secureErase freespace 4 /Volumes/Macintosh\ HD</code></li>
+<li>if the name of the drive contains a space, precede it with <code>\</code>; for example, <code>diskutil secureErase freespace 4 /Volumes/Macintosh\ HD</code></li>
 </ul>
