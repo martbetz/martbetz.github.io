@@ -68,7 +68,8 @@ By interacting with this website, you are confirming your undertanding and accep
    </h2>
    <p>
 This website is an independent and personal project on the part of the author; unless otherwise stated, neither this website nor its author are connected with any other venture.
-
+<br>
+<br>
 This website is a continual work in progress; the author reserves the right to change or remove any part or all of this website at any time with or without prior notice.
 <br>
 <br>
