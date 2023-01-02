@@ -8,7 +8,7 @@ Website: <a href="https://github.com/martbetz/martbetz.github.io">martbetz.githu
 Author: <a href="https://github.com/martbetz">Mart Betz</a>
 <br>
 <br>
-This website is a hosted by <a href="https://pages.github.com">GitHub Pages</a>; it was built using <a href="https://jekyllrb.com">Jekyll</a> and incorporates a fork of the <a href="https://jekyll.github.io/minima/about/">Minima</a> theme. The source code for this website is hosted by <a href="github.com">GitHub</a>.
+This website is a petsonal project hosted by <a href="https://pages.github.com">GitHub Pages</a>; it was built using <a href="https://jekyllrb.com">Jekyll</a> and incorporates a fork of the <a href="https://jekyll.github.io/minima/about/">Minima</a> theme. The source code for this website is hosted by <a href="github.com">GitHub</a>.
 <br>
 <br>
 Images attributed to the author are hosted by GitHub (as 'user content') and <a href="https:/ello.co">Ello</a>. Images that are not attributed to the author may be hosted by other sites.
@@ -33,7 +33,7 @@ Images attributed to the author are hosted by GitHub (as 'user content') and 
        1. Terms of Use
     </h2> 
     <p>
-This website is a personal project. By interacting with this website, you are confirming your undertanding and acceptance of the conditions as outlined below:
+By interacting with this website, you are confirming your undertanding and acceptance of the conditions as outlined below (all conditions are non-negotiable):
 <ul>
 <li>
 (as per the <a href="#disclaimer">General Disclaimer</a>) this website is a continual work in progress; the author reserves the right to change (which includes the right to remove) any part or all of this website at any time without prior notice
