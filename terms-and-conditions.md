@@ -6,6 +6,12 @@ layout: page
 Website: <a href="https://github.com/martbetz/martbetz.github.io">martbetz.github.io</a>
 <br>
 Author: <a href="https://github.com/martbetz">Mart Betz</a>
+<br>
+<br>
+This website is hosted by <a href="https://pages.github.com">GitHub Pages</a>; it was built using <a href="https://jekyllrb.com">Jekyll</a> and incorporates a fork of the <a href="https://jekyll.github.io/minima/about/">Minima</a> theme. The source code for this website is hosted by <a href="github.com">GitHub</a>.
+<br>
+<br>
+Images attributed to the author are hosted by GitHub (as 'user content') and <a href="https:/ello.co">Ello</a>. Images that are not attributed to the author may be hosted by other sites.
 <hr>
 <ol>
    <li>
@@ -61,12 +67,7 @@ By interacting with this website, you are confirming your undertanding and accep
       2. General Disclaimer
    </h2>
    <p>
-This website is hosted by <a href="https://pages.github.com">GitHub Pages</a>; it was built using <a href="https://jekyllrb.com">Jekyll</a> and incorporates a fork of the <a href="https://jekyll.github.io/minima/about/">Minima</a> theme. The source code for this website is hosted by <a href="github.com">GitHub</a>.
-<br>
-<br>
-Images attributed to the author are hosted by GitHub (as 'user content') and <a href="https:/ello.co">Ello</a>. Images that are not attributed to the author may be hosted by other sites.
-<br>
-<br>
+
 This website is a continual work in progress; the author reserves the right to change or remove any part or all of this website at any time with or without prior notice.
 <br>
 <br>
