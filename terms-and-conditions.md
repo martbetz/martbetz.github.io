@@ -36,7 +36,7 @@ Images attributed to the author are hosted by GitHub (as 'user content') and 
 By interacting with this website, you are confirming your undertanding and acceptance of the conditions as outlined below (all conditions are non-negotiable):
 <ul>
 <li>
-(as per the <a href="#disclaimer">General Disclaimer</a>) this website is a continual work in progress; the author reserves the right to change (which includes the right to remove) any part or all of this website at any time without prior notice
+(as per the <a href="#disclaimer">General Disclaimer</a>) this website is a continual work in progress; the author reserves the right to change (which includes the right to remove) any part or all of this website at any time and without prior notice
 </li>
 </ul>
 <ul>
@@ -68,7 +68,7 @@ By interacting with this website, you are confirming your undertanding and accep
    </h2>
    <p>
 
-This website is a continual work in progress; the author reserves the right to change (which inludes the right to remove) any part or all of this website at any time without prior notice.
+This website is a continual work in progress; the author reserves the right to change (which inludes the right to remove) any part or all of this website at any time and without prior notice.
 <br>
 <br>
 All content is reflective of style; for example, humorous and/or hyperbolic statements are exclusively intended as such — the author does not promote such statments as literal. 
