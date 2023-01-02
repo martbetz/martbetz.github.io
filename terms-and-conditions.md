@@ -8,7 +8,7 @@ Website: <a href="https://github.com/martbetz/martbetz.github.io">martbetz.githu
 Author: <a href="https://github.com/martbetz">Mart Betz</a>
 <br>
 <br>
-This website is a petsonal project hosted by <a href="https://pages.github.com">GitHub Pages</a>; it was built using <a href="https://jekyllrb.com">Jekyll</a> and incorporates a fork of the <a href="https://jekyll.github.io/minima/about/">Minima</a> theme. The source code for this website is hosted by <a href="github.com">GitHub</a>.
+This website is a personal project hosted by <a href="https://pages.github.com">GitHub Pages</a>; it was built using <a href="https://jekyllrb.com">Jekyll</a> and incorporates a fork of the <a href="https://jekyll.github.io/minima/about/">Minima</a> theme. The source code for this website is hosted by <a href="github.com">GitHub</a>.
 <br>
 <br>
 Images attributed to the author are hosted by GitHub (as 'user content') and <a href="https:/ello.co">Ello</a>. Images that are not attributed to the author may be hosted by other sites.
