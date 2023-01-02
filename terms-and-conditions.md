@@ -69,10 +69,10 @@ By interacting with this website, you are confirming your undertanding and accep
 This website is a continual work in progress; the author reserves the right to change (which inludes the right to remove) any part or all of this website at any time and without prior notice.
 <br>
 <br>
-All content is reflective of style; for example, humorous and/or hyperbolic statements are exclusively intended as such — the author does not promote such statments as literal. 
+All content is reflective of style — for example, humorous and/or hyperbolic statements are exclusively intended as such; the author does not promote such statments as literal. 
 <br>
 <br>
-Opinions expressed by the author are solely representational of independent observation and experience — the author does not promote such opinions as absolute.
+Opinions expressed by the author are solely representational of independent observation and experience; the author does not promote such opinions as absolute.
 <br>
 <br>
 The author provides no guarantees regarding the accuracy of the website's content; nor does the author  accept responsibility should any misinterpretation of its content arise.
