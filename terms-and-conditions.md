@@ -103,7 +103,8 @@ Unless otherwise stated, all content is the copyright of the author and may neit
 This website does not collect data of any kind or in any form; however, please observe the following declaration as quoted directly from <a href="https://docs.github.com/en/">GitHub Docs</a>: 
 <br>
 <blockquote><q>When a GitHub Pages site is visited, the visitor's IP address is logged and stored [by GitHub] for security purposes, regardless of whether the visitor has signed into GitHub or not. For more information about GitHub's security practices, see <a href="https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement">GitHub Privacy Statement</a>.</q></blockquote>
-
+</p>
+<p>
 This website does not make use of cookies and neither does any of its content; however, this website does make use of hyperlinks that refer to external sources.
 <br>
 <br>
