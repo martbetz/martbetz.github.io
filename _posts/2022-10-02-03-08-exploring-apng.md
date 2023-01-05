@@ -29,4 +29,4 @@ Creating APNGs is a fairly straight forward process (a quick web search will bri
   1. create PNG files with (or rename existing PNG files as) `frame0001.PNG`, `frame0002.PNG`, etc.
   2. `CD` into folder containing the files to be assembled
   3. open the command terminal
-  4. run command `apngasm -o output-file.apng frame0001.png 5000 frame0002.png 5000 output.png`
+  4. run command `apngasm -o output-file.apng frame0001.png 5000 frame0002.png 5000`
