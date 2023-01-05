@@ -9,7 +9,6 @@ Author: <a href="https://github.com/martbetz">Mart Betz</a>
 <br>
 <br>
 This website is a personal project hosted by <a href="https://pages.github.com">GitHub Pages</a>; it was built using <a href="https://jekyllrb.com">Jekyll</a> and incorporates a fork of the <a href="https://jekyll.github.io/minima/about/">Minima</a> theme. The source code for this website is hosted by <a href="github.com">GitHub</a>.
-
 <hr>
 <ol>
    <li>
@@ -65,7 +64,6 @@ By interacting with this website, you are confirming your undertanding and accep
       2. General Disclaimer
    </h2>
    <p>
- 
 This website is a continual work in progress; the author reserves the right to change (which inludes the right to remove) any part or all of this website at any time and without prior notice.
 <br>
 <br>
@@ -90,8 +88,6 @@ The title ("JPEG Junkie"), slogan ("An Affliction of Addiction to Obsessive Obse
 Unless otherwise stated, all content is the copyright of the author and may neither be redistributed nor reproduced — be it completely or partially — without the author's consent.
      </p> 
  </div>
-
-
 <hr>
 <div id="privacy"> 
    <h2>
@@ -99,7 +95,6 @@ Unless otherwise stated, all content is the copyright of the author and may neit
    </h2> 
    <p>
 This website does not make use of cookies and neither does any of its content; however, this website does make use of hyperlinks that refer to external sources.
-
 <br>
 <br>
 This website does not collect data of any kind or in any form; however, please observe the following declaration as quoted directly from <a href="https://docs.github.com/en/">GitHub Docs</a>: 
