@@ -58,6 +58,11 @@ By interacting with this website, you are confirming your undertanding and accep
 
 </li>
 </ul>
+<ul>
+<li>
+(as per the <a href="#privacy">Privacy Statement</a>) images attributed to the author are hosted by GitHub (as 'user content') and <a href="https:/ello.co">Ello</a>; however, images that are not attributed to the author may be hosted by other sites
+</li>
+</ul>
     </p>
  </div> 
 <hr>
