@@ -100,7 +100,10 @@ Unless otherwise stated, all content is the copyright of the author and may neit
       4. Privacy Statement
    </h2> 
    <p>
-This website does not collect data of any kind or in any form; however, please observe the following declaration as quoted directly from <a href="https://docs.github.com/en/">GitHub Docs</a>: <q>When a GitHub Pages site is visited, the visitor's IP address is logged and stored [by GitHub] for security purposes, regardless of whether the visitor has signed into GitHub or not. For more information about GitHub's security practices, see <a href="https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement">GitHub Privacy Statement</a>.</q>
+This website does not collect data of any kind or in any form; however, please observe the following declaration as quoted directly from <a href="https://docs.github.com/en/">GitHub Docs</a>: 
+<br>
+<br>
+p<<q>When a GitHub Pages site is visited, the visitor's IP address is logged and stored [by GitHub] for security purposes, regardless of whether the visitor has signed into GitHub or not. For more information about GitHub's security practices, see <a href="https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement">GitHub Privacy Statement</a>.</q>
 
 <br>
 <br>
