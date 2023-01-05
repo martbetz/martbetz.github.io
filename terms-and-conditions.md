@@ -55,10 +55,8 @@ By interacting with this website, you are confirming your undertanding and accep
 <ul>
 <li>
 (as per the <a href="#privacy">Privacy Statement</a>)   this website does not collect data of any kind or in any form; however, please observe the following declaration as quoted directly from <a href="https://docs.github.com/en/">GitHub Docs</a>: <q>When a GitHub Pages site is visited, the visitor's IP address is logged and stored [by GitHub] for security purposes, regardless of whether the visitor has signed into GitHub or not. For more information about GitHub's security practices, see <a href="https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement">GitHub Privacy Statement</a>.</q>
-
 </li>
 </ul>
-
     </p>
  </div> 
 <hr>
@@ -67,7 +65,7 @@ By interacting with this website, you are confirming your undertanding and accep
       2. General Disclaimer
    </h2>
    <p>
-
+ 
 This website is a continual work in progress; the author reserves the right to change (which inludes the right to remove) any part or all of this website at any time and without prior notice.
 <br>
 <br>
@@ -80,8 +78,6 @@ Opinions expressed by the author are solely representational of independent obse
 The author provides no guarantees regarding the accuracy of the website's content; nor does the author  accept responsibility should any misinterpretation of its content arise.
     </p>
  </div> 
-
-
 <hr>
 <div id="copyright"> 
     <h2>
