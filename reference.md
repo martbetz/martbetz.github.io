@@ -2,7 +2,7 @@
 title: Reference
 layout: page
 --- 
-<font size="4">
+<!-- <font size="4">
 This page is currently under construction. In the meantime, here's a joke:
 <br><br>
 A RAID-member disk walks into a bar. <br>
@@ -11,7 +11,7 @@ A RAID-member disk walks into a bar. <br>
 “Ah,” said the bartender, “I thought you looked a bit off.”
 <br><br>
 I never said it would be a good one. 
-</font>
+</font> -->
 
 ## Website ## 
 
