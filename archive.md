@@ -4,7 +4,7 @@ layout: page
 ---
 
 <font size="4">
-This page is currently under construction — when finished, it will serve as an index for finding your way around (well, fanby that.)
+This page is currently under construction — when finished, it will serve as an index for finding your way around (well, fancy that).
 </font>
 
 ## Portfolio ##
