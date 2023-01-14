@@ -4,7 +4,7 @@ layout: post
 categories: photography computing
 ---
 
-For as long as there's been digital photography, there's been JPEG — _it's been the standard digital photo format for over 30 years!_ — but its direct sucessor, JPEG XL, is finally here (and it could even replace PNG and GIF, too!)
+For as long as there's been digital photography, there's been JPEG — _it's been the standard digital photo format for over 30 years!_ — but its direct sucessor, JPEG XL, is finally here (and it could even replace PNG and GIF, too).
 
 ### Why replace JPEG? ###
 
