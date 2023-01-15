@@ -30,7 +30,7 @@ This website is hosted by <a href="https://pages.github.com">GitHub Pages</a>; i
        1. Terms of Use
     </h2> 
     <p>
-By interacting with this website, you are confirming your undertanding and acceptance of the conditions as outlined below (all conditions are non-negotiable):
+All terms are non-negotiable. By interacting with this website, you are confirming your undertanding and acceptance of the conditions as outlined below:
 <ul>
 <li>
 (as per the <a href="#disclaimer">General Disclaimer</a>) this website is a continual work in progress; the author reserves the right to change (which includes the right to remove) any part or all of this website at any time and without prior notice
