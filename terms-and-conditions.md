@@ -43,7 +43,7 @@ By interacting with this website, you are confirming your undertanding and accep
 </ul>
 <ul>
 <li>
-(as per the <a href="#copyright">Intellectual Property Notice</a>) unless otherwise stated, all content is the copyright of the author and may neither be redistributed nor reproduced — be it completely or partially — without the author's consent
+(as per the <a href="#copyright">Intellectual Property Notice</a>) unless otherwise stated, all content is the copyright of the author and may neither be redistributed nor reproduced (be it completely or partially) without the author's consent
 </li>
 </ul>
 <ul>
@@ -85,7 +85,7 @@ The author provides no guarantees regarding the accuracy of the website's conten
 The title ("JPEG Junkie"), slogan ("An Affliction of Addiction to Obsessive Observation and the Prevailing Preservation Thereof!") and logo (<img src="/favicon.ico" alt="logo">) are the trademark (™) of the author.
 <br>
 <br>
-Unless otherwise stated, all content is the copyright (©) of the author and may neither be redistributed nor reproduced — be it completely or partially — without the author's consent.
+Unless otherwise stated, all content is the copyright (©) of the author and may neither be redistributed nor reproduced (be it completely or partially) without the author's consent.
      </p> 
  </div>
 <hr>
