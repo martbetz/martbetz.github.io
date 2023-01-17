@@ -14,6 +14,7 @@ This page is currently under construction — when finished, it will serve as an
 ## Projects ##
 
 - [The Promura Project](https://martbetz.github.io/photography/2022/08/21/the-promura-project.html)
+- [The Presgrip Project](https://github.com/martbetz/The-Presgrip-Project) (coming soon)
 - [Custom Lensfun LCPs](https://martbetz.github.io/photography/computing/2022/08/23/custom-lensfun-lcps.html)
 
 ## Articles ##
