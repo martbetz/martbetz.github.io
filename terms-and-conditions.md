@@ -1,5 +1,5 @@
 ---
-title: Terms and Conditions
+title: Legal
 
 layout: page
 ---
