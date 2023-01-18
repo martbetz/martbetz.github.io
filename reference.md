@@ -16,7 +16,7 @@ I never said it would be a good one.
 ## Website ## 
 
 - [Dedication](https://martbetz.github.io/dedication.html)
-- [Terms of Use](https://martbetz.github.io/terms-and-conditions.html)
+- [Legal Documents](https://martbetz.github.io/terms-and-conditions.html)
 - [RSS Feed](https://martbetz.github.io/feed)
 - [Test Page](https://martbetz.github.io/test.html)
 
