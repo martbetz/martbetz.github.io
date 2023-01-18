@@ -64,7 +64,7 @@ By interacting with this website, you are confirming both your undertanding and 
 </ul>
 <ul>
 <li>
-(as per the <a href="#privacy">Privacy Policy</a>) this website does not make use of cookies and neither does any of its content; however, this website does make use of hyperlinks that refer to external sources
+(as per the <a href="#privacy">Privacy Policy</a>) this website does not make use of cookies, and neither does any of its content; however, this website does make use of hyperlinks that refer to external sources
 </li>
 </ul>
 <ul>
@@ -123,7 +123,7 @@ Unless otherwise stated, all content is the copyright (©) of the author and may
       4. Privacy Policy
    </h2> 
    <p>
-This website does not make use of cookies and neither does any of its content; however, this website does make use of hyperlinks that refer to external sources.
+This website does not make use of cookies, and neither does any of its content; however, this website does make use of hyperlinks that refer to external sources.
 <br>
 <br>
 This website does not collect data of any kind or in any form; however, please observe the following declaration as quoted directly from <a href="https://docs.github.com/en/">GitHub Docs</a>: 
