@@ -1,5 +1,5 @@
 ---
-title: Terms and Conditions
+title: Website Statement
 layout: page
 ---
 
@@ -21,7 +21,7 @@ This website is hosted by <a href="https://pages.github.com">GitHub Pages</a>; i
      <a href="#copyright">Intellectual Property Notice</a>
    </li>
    <li>
-     <a href="#privacy">Privacy Statement</a>
+     <a href="#privacy">Privacy Policy</a>
     </li>
 </ol>
 <hr>
@@ -49,7 +49,7 @@ By interacting with this website, you are confirming both your undertanding and 
 </ul>
 <ul>
 <li>
-(as per the <a href="#privacy">Privacy Statement</a>) this website does not make use of cookies and neither does any of its content; however, this website does make use of hyperlinks that refer to external sources
+(as per the <a href="#privacy">Privacy Policy</a>) this website does not make use of cookies and neither does any of its content; however, this website does make use of hyperlinks that refer to external sources
 </li>
 </ul>
 <ul>
@@ -92,7 +92,7 @@ Unless otherwise stated, all content is the copyright (©) of the author and may
 <hr>
 <div id="privacy"> 
    <h2>
-      4. Privacy Statement
+      4. Privacy Policy
    </h2> 
    <p>
 This website does not make use of cookies and neither does any of its content; however, this website does make use of hyperlinks that refer to external sources.
