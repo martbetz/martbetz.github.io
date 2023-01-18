@@ -1,5 +1,5 @@
 ---
-title: Terms and Conditions
+title: Terms of Use
 
 layout: page
 ---
@@ -13,7 +13,7 @@ This website is hosted by <a href="https://pages.github.com">GitHub Pages</a>; i
 <hr>
 <ol>
    <li>
-     <a href="#terms">Terms of Use</a>
+     <a href="#terms">Visitor Declaration</a>
    </li> 
    <li>
      <a href="#disclaimer">General Disclaimer</a>
@@ -28,7 +28,7 @@ This website is hosted by <a href="https://pages.github.com">GitHub Pages</a>; i
 <hr>
 <div id="terms"> 
     <h2>
-       1. Terms of Use
+       1. Visitor Declaration
     </h2> 
     <p>
 <!-- All terms are non-negotiable. By interacting with this website, you are confirming your undertanding and acceptance of the conditions as outlined below: -->
