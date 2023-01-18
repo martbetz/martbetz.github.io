@@ -1,5 +1,6 @@
 ---
-title: Legal Statements
+title: Terms and Conditions
+
 layout: page
 ---
 
