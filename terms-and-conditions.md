@@ -3,7 +3,6 @@ title: Terms of Use
 
 layout: page
 ---
-
 Website: <a href="https://github.com/martbetz/martbetz.github.io">martbetz.github.io</a>
 <br>
 Author: <a href="https://github.com/martbetz">Mart Betz</a>
@@ -38,14 +37,24 @@ By interacting with this website, you are confirming both your undertanding and 
 (as per the <a href="#disclaimer">General Disclaimer</a>) this website is a continual work in progress; the author reserves the right to change (which includes the right to remove) any part or all of this website at any time and without prior notice
 </li>
 </ul>
-<ul>
+<!-- <ul>
 <li>
 (as per the <a href="#disclaimer">General Disclaimer</a>) the author provides no guarantees regarding the accuracy of the website's content; nor does the author accept responsibility should any misinterpretation of its content arise
+</li>
+</ul> -->
+<ul>
+<li>
+(as per the <a href="#disclaimer">General Disclaimer</a>) all content is reflective of style — for example, humorous and/or hyperbolic statements are exclusively intended as such; the author does not promote such statements as literal and accepts no responsibility should any misinterpretation arise.
 </li>
 </ul>
 <ul>
 <li>
-(as per the <a href="#copyright">Intellectual Property Notice</a>) unless otherwise stated, all content is the copyright of the author and may neither be redistributed nor reproduced (be it completely or partially) without the author's consent
+(as per the <a href="#disclaimer">General Disclaimer</a>) opinions expressed by the author are solely representational of independent observation and experience; the author does not promote such opinions as absolute and provides no guarantees regarding the accuracy or acceptance of such opinions.
+</li>
+</ul>
+<ul>
+<li>
+(as per the <a href="#copyright">Intellectual Property Notice</a>) the title ("JPEG Junkie"), slogan ("An Affliction of Addiction to Obsessive Observation and the Prevailing Preservation Thereof!") and logo (<img src="/favicon.ico" alt="logo">) are the trademark (™) of the author; unless otherwise stated, all content is the copyright (©) of the author and may neither be redistributed nor reproduced without the author's consent.
 </li>
 </ul>
 <ul>
@@ -56,6 +65,11 @@ By interacting with this website, you are confirming both your undertanding and 
 <ul>
 <li>
 (as per the <a href="#privacy">Privacy Policy</a>)   this website does not collect data of any kind or in any form; however, please observe the following declaration as quoted directly from <a href="https://docs.github.com/en/">GitHub Docs</a>: <q>When a GitHub Pages site is visited, the visitor's IP address is logged and stored for security purposes, regardless of whether the visitor has signed into GitHub or not. For more information about GitHub's security practices, see <a href="https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement">GitHub Privacy Statement</a>.</q>
+</li>
+</ul>
+<ul>
+<li>
+(as per the <a href="#privacy">Privacy Policy</a>) images attributed to the author are hosted by GitHub (as 'user content') and <a href="https:/ello.co">Ello</a>; however, images that are not attributed to the author may be hosted by other sites.
 </li>
 </ul>
     </p>
@@ -69,13 +83,17 @@ By interacting with this website, you are confirming both your undertanding and 
 This website is a continual work in progress; the author reserves the right to change (which inludes the right to remove) any part or all of this website at any time and without prior notice.
 <br>
 <br>
-All content is reflective of style (for example, humorous and/or hyperbolic statements are exclusively intended as such; the author does not promote such statments as literal). 
+<!-- All content is reflective of style (for example, humorous and/or hyperbolic statements are exclusively intended as such; the author does not promote such statments as literal). 
 <br>
 <br>
 Opinions expressed by the author are solely representational of independent observation and experience; the author does not promote such opinions as absolute.
 <br>
 <br>
-The author provides no guarantees regarding the accuracy of the website's content; nor does the author  accept responsibility should any misinterpretation of its content arise.
+The author provides no guarantees regarding the accuracy of the website's content; nor does the author  accept responsibility should any misinterpretation of its content arise. -->
+All content is reflective of style — for example, humorous and/or hyperbolic statements are exclusively intended as such; the author does not promote such statements as literal and accepts no responsibility should any misinterpretation arise.
+<br>
+<br>
+Opinions expressed by the author are solely representational of independent observation and experience; the author does not promote such opinions as absolute and provides no guarantees regarding the accuracy or acceptance of such opinions.
     </p>
  </div> 
 <hr>
@@ -84,10 +102,11 @@ The author provides no guarantees regarding the accuracy of the website's conten
        3. Intellectual Property Notice
     </h2> 
     <p>
-The title ("JPEG Junkie"), slogan ("An Affliction of Addiction to Obsessive Observation and the Prevailing Preservation Thereof!") and logo (<img src="/favicon.ico" alt="logo">) are the trademark (™) of the author.
+<!-- The title ("JPEG Junkie"), slogan ("An Affliction of Addiction to Obsessive Observation and the Prevailing Preservation Thereof!") and logo (<img src="/favicon.ico" alt="logo">) are the trademark (™) of the author.
 <br>
 <br>
-Unless otherwise stated, all content is the copyright (©) of the author and may neither be redistributed nor reproduced (be it completely or partially) without the author's consent.
+Unless otherwise stated, all content is the copyright (©) of the author and may neither be redistributed nor reproduced (be it completely or partially) without the author's consent. -->
+The title ("JPEG Junkie"), slogan ("An Affliction of Addiction to Obsessive Observation and the Prevailing Preservation Thereof!") and logo (<img src="/favicon.ico" alt="logo">) are the trademark (™) of the author; unless otherwise stated, all content is the copyright (©) of the author and may neither be redistributed nor reproduced without the author's consent.
      </p> 
  </div>
 <hr>
