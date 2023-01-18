@@ -34,7 +34,7 @@ This website is hosted by <a href="https://pages.github.com">GitHub Pages</a>; i
 By interacting with this website, you are confirming both your undertanding and your acceptance of the following contractual terms (none of which are negotiable):
 <ul>
 <li>
-(as per the <a href="#disclaimer">General Disclaimer</a>) this website is a continual work in progress; the author reserves the right to change (which includes the right to remove) any part or all of this website at any time and without prior notice
+(as per the <a href="#disclaimer">General Disclaimer</a>) this website is an independent and personal project on the part of the author; as such, the author provides no guarantees regarding the accuracy or relevancy of the website's content
 </li>
 </ul>
 <!-- <ul>
@@ -44,17 +44,22 @@ By interacting with this website, you are confirming both your undertanding and 
 </ul> -->
 <ul>
 <li>
-(as per the <a href="#disclaimer">General Disclaimer</a>) all content is reflective of style — for example, humorous and/or hyperbolic statements are exclusively intended as such; the author does not promote such statements as literal and accepts no responsibility should any misinterpretation arise.
+(as per the <a href="#disclaimer">General Disclaimer</a>) all content is reflective of style — for example, humorous and/or hyperbolic statements are exclusively intended as such; the author does not promote such statements as literal and accepts no responsibility should any misinterpretation arise
 </li>
 </ul>
 <ul>
 <li>
-(as per the <a href="#disclaimer">General Disclaimer</a>) opinions expressed by the author are solely representational of independent observation and experience; the author does not promote such opinions as absolute and provides no guarantees regarding the accuracy or acceptance of such opinions.
+(as per the <a href="#disclaimer">General Disclaimer</a>) opinions expressed by the author are solely representational of independent observation and experience; the author does not promote such opinions as absolute and provides no guarantees regarding the accuracy or acceptance of such opinions
 </li>
 </ul>
 <ul>
 <li>
-(as per the <a href="#copyright">Intellectual Property Notice</a>) the title ("JPEG Junkie"), slogan ("An Affliction of Addiction to Obsessive Observation and the Prevailing Preservation Thereof!") and logo (<img src="/favicon.ico" alt="logo">) are the trademark (™) of the author; unless otherwise stated, all content is the copyright (©) of the author and may neither be redistributed nor reproduced without the author's consent.
+(as per the <a href="#disclaimer">General Disclaimer</a>) this website is a continual work in progress; the author reserves the right to change (which includes the right to remove) any part or all of this website at any time and without prior notice
+</li>
+</ul>
+<ul>
+<li>
+(as per the <a href="#copyright">Intellectual Property Notice</a>) unless otherwise stated, all content is the copyright (©) of the author and may neither be redistributed nor reproduced without the author's consent; the title ("JPEG Junkie"), slogan ("An Affliction of Addiction to Obsessive Observation and the Prevailing Preservation Thereof!") and logo (<img src="/favicon.ico" alt="logo">) are the trademark (™) of the author
 </li>
 </ul>
 <ul>
@@ -69,7 +74,7 @@ By interacting with this website, you are confirming both your undertanding and 
 </ul>
 <ul>
 <li>
-(as per the <a href="#privacy">Privacy Policy</a>) images attributed to the author are hosted by GitHub (as 'user content') and <a href="https:/ello.co">Ello</a>; however, images that are not attributed to the author may be hosted by other sites.
+(as per the <a href="#privacy">Privacy Policy</a>) images attributed to the author are hosted by GitHub (as 'user content') and <a href="https:/ello.co">Ello</a>; however, images that are not attributed to the author may be hosted by other sites
 </li>
 </ul>
     </p>
@@ -80,7 +85,7 @@ By interacting with this website, you are confirming both your undertanding and 
       2. General Disclaimer
    </h2>
    <p>
-This website is a continual work in progress; the author reserves the right to change (which inludes the right to remove) any part or all of this website at any time and without prior notice.
+This website is an independent and personal project on the part of the author; as such, the author provides no guarantees regarding the accuracy or relevancy of the website's content.
 <br>
 <br>
 <!-- All content is reflective of style (for example, humorous and/or hyperbolic statements are exclusively intended as such; the author does not promote such statments as literal). 
@@ -94,6 +99,9 @@ All content is reflective of style — for example, humorous and/or hyperbolic s
 <br>
 <br>
 Opinions expressed by the author are solely representational of independent observation and experience; the author does not promote such opinions as absolute and provides no guarantees regarding the accuracy or acceptance of such opinions.
+<br>
+<br>   
+This website is a continual work in progress; the author reserves the right to change (which inludes the right to remove) any part or all of this website at any time and without prior notice.
     </p>
  </div> 
 <hr>
@@ -106,7 +114,7 @@ Opinions expressed by the author are solely representational of independent obse
 <br>
 <br>
 Unless otherwise stated, all content is the copyright (©) of the author and may neither be redistributed nor reproduced (be it completely or partially) without the author's consent. -->
-The title ("JPEG Junkie"), slogan ("An Affliction of Addiction to Obsessive Observation and the Prevailing Preservation Thereof!") and logo (<img src="/favicon.ico" alt="logo">) are the trademark (™) of the author; unless otherwise stated, all content is the copyright (©) of the author and may neither be redistributed nor reproduced without the author's consent.
+Unless otherwise stated, all content is the copyright (©) of the author and may neither be redistributed nor reproduced without the author's consent; the title ("JPEG Junkie"), slogan ("An Affliction of Addiction to Obsessive Observation and the Prevailing Preservation Thereof!") and logo (<img src="/favicon.ico" alt="logo">) are the trademark (™) of the author.
      </p> 
  </div>
 <hr>
