@@ -1,5 +1,5 @@
 ---
-title: Website Statement
+title: Legal Statements
 layout: page
 ---
 
