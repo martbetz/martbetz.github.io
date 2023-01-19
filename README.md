@@ -6,7 +6,5 @@ _I built a website, in a bar, with a Kindle! — WITH A FRICKING KINDLE! — Who
 
 ---
 
-With the exception of the original minima theme source code, both the website and its associated content (unless specifically attributed otherwise therein) are the sole copyright of the author: © Mart Betz (2022) - all rights reserved. 
-
-Any redistribution or reproduction of either the website or its associated content without the full prior consent of the copyright holder, in any form and whether completely or partially, is strictly prohibited.
+Unless otherwise stated, all content is the copyright (©) of the author and may neither be redistributed nor reproduced (be it completely or partially) without the author's consent; the title ("JPEG Junkie"), slogan ("An Affliction of Addiction to Obsessive Observation and the Prevailing Preservation Thereof!") and logo (<img src="/favicon.ico" alt="logo">) are the trademark (™) of the author.
 
