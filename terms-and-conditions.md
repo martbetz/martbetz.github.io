@@ -49,7 +49,7 @@ By interacting with this website, you are confirming both your undertanding and 
 </ul>
 <ul>
 <li>
-(as per the <a href="#disclaimer">General Disclaimer</a>) opinions expressed by the author are solely representational of independent observation and experience; the author does not promote such opinions as absolute and provides no guarantees regarding the accuracy or relevancy of such opinions
+(as per the <a href="#disclaimer">General Disclaimer</a>) opinions expressed by the author are solely representational of independent observation and experience — the author does not promote such opinions as absolute; however, the author does reserve the right to present such opinions without prejudice
 </li>
 </ul>
 <ul>
@@ -98,7 +98,7 @@ The author provides no guarantees regarding the accuracy of the website's conten
 All content is reflective of style — for example, humorous and/or hyperbolic statements are exclusively intended as such; the author does not promote such statements as literal and accepts no responsibility should any misinterpretation arise.
 <br>
 <br>
-Opinions expressed by the author are solely representational of independent observation and experience; the author does not promote such opinions as absolute and provides no guarantees regarding the accuracy or relevancy of such opinions.
+Opinions expressed by the author are solely representational of independent observation and experience — the author does not promote such opinions as absolute; however, the author does reserve the right to present such opinions without prejudice.
 <br>
 <br>   
 This website is a continual work in progress; the author reserves the right to change (which inludes the right to remove) any part or all of this website at any time and without prior notice.
