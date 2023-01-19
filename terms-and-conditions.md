@@ -1,5 +1,5 @@
 ---
-title: Legal Documents
+title: Legalities
 layout: page
 ---
 Website: <a href="https://github.com/martbetz/martbetz.github.io">martbetz.github.io</a>
