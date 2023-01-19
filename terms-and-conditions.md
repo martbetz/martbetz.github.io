@@ -1,6 +1,5 @@
 ---
 title: Legal Documents
-
 layout: page
 ---
 Website: <a href="https://github.com/martbetz/martbetz.github.io">martbetz.github.io</a>
@@ -59,7 +58,7 @@ By interacting with this website, you are confirming both your undertanding and 
 </ul>
 <ul>
 <li>
-(as per the <a href="#copyright">Intellectual Property Notice</a>) unless otherwise stated, all content is the copyright (©) of the author and may neither be redistributed nor reproduced without the author's consent; the title ("JPEG Junkie"), slogan ("An Affliction of Addiction to Obsessive Observation and the Prevailing Preservation Thereof!") and logo (<img src="/favicon.ico" alt="logo">) are the trademark (™) of the author
+(as per the <a href="#copyright">Intellectual Property Notice</a>) unless otherwise stated, all content is the copyright (©) of the author and may neither be redistributed nor reproduced (be it completely or partially) without the author's consent; the title ("JPEG Junkie"), slogan ("An Affliction of Addiction to Obsessive Observation and the Prevailing Preservation Thereof!") and logo (<img src="/favicon.ico" alt="logo">) are the trademark (™) of the author
 </li>
 </ul>
 <ul>
@@ -114,7 +113,7 @@ This website is a continual work in progress; the author reserves the right to c
 <br>
 <br>
 Unless otherwise stated, all content is the copyright (©) of the author and may neither be redistributed nor reproduced (be it completely or partially) without the author's consent. -->
-Unless otherwise stated, all content is the copyright (©) of the author and may neither be redistributed nor reproduced without the author's consent; the title ("JPEG Junkie"), slogan ("An Affliction of Addiction to Obsessive Observation and the Prevailing Preservation Thereof!") and logo (<img src="/favicon.ico" alt="logo">) are the trademark (™) of the author.
+Unless otherwise stated, all content is the copyright (©) of the author and may neither be redistributed nor reproduced (be it completely or partially) without the author's consent; the title ("JPEG Junkie"), slogan ("An Affliction of Addiction to Obsessive Observation and the Prevailing Preservation Thereof!") and logo (<img src="/favicon.ico" alt="logo">) are the trademark (™) of the author.
      </p> 
  </div>
 <hr>
