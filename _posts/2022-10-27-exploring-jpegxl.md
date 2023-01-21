@@ -12,11 +12,11 @@ The **J**oint **P**hotographic **E**xprts **G**roup format has been a mainstay o
 
 ### How does JPEG XL address this? ###
 
-The **J**oint **P**hotographic **E**xprts **G**roup **X** **L**ong-Term format (_WTF?!_ 🤢) brings _a lot_ of new features to the table: support for wide colour gamuts and high bit-depths, alpha channel and multi-layer image support, significantly improved lossy _and_ lossless file compression, and advanced progressive decoding.
+The **J**oint **P**hotographic **E**xprts **G**roup **X** **L**ong-Term format (_WTF?!_ 🤢) brings _a lot_ of new features to the table: support for wide colour gamuts and high bit-depths, alpha channel and multi-layer image support, significantly improved lossy _and_ lossless file compression, and advanced progressive decoding.¹
 
 ### How do the results compare? ###
 
-The following chart shows the comparative file sizes when following my typical workflow. In order to create and display the JXLs, I installed the [qt6-jpegxl-image-plugin](https://aur.archlinux.org/packages/qt6-jpegxl-image-plugin) from the AUR.¹ I used an intermediate TIF as both a reference point and as a  'stepping stone' between RawTherapee and Krita.²
+The following chart shows the comparative file sizes when following my typical workflow. In order to create and display the JXLs, I installed the [qt6-jpegxl-image-plugin](https://aur.archlinux.org/packages/qt6-jpegxl-image-plugin) from the AUR.² I used an intermediate TIF as both a reference point and as a  'stepping stone' between RawTherapee and Krita.³
 
 
 <div align="center">
@@ -33,16 +33,17 @@ As far as image quality goes, I could see no discernible difference right accros
 
 ### When will adoption role out? ###
 
-JPEG XL has already been finalised, but it could take a while before it gains traction; none of the popular web browsers support it just yet (at least, not by default), but here's to hoping that changes very soon.³ ⁴
+JPEG XL has already been finalised, but it could take a while before it gains traction; none of the popular web browsers support it just yet (at least, not by default), but here's to hoping that changes very soon.⁴ ⁵
 
 
 
 ---
+¹ wikipedia.com provides a comprehensuve list of [JPEG XL features](https://en.m.wikipedia.org/wiki/JPEG_XL#Features).
 
-¹ My weapon of choice is KDE Manaro, so this was a no-brainer; in less than two minutes, support was added to _all_ my KDE apps — _as well as [GIMP](https://www.gimp.org/), and even my beloved [feh](https://feh.finalrewind.org)!_ 😍️ 
+² My weapon of choice is KDE Manaro, so this was a no-brainer; in less than two minutes, support was added to _all_ my KDE apps — _as well as [GIMP](https://www.gimp.org/), and even my beloved [feh](https://feh.finalrewind.org)!_ 😍️ 
 
-² I could have just used the PNG, of course, but then my chart wouldn't have looked anywhere near as pretty! 😉
+³ I could have just used the PNG, of course, but then my chart wouldn't have looked anywhere near as pretty! 😉
 
-³ caniuse.com provides up-to-date statistics on [JPEG XL browser support](https://caniuse.com/?search=jxl). 
+⁴ caniuse.com provides up-to-date statistics on [JPEG XL browser support](https://caniuse.com/?search=jxl). 
 
-⁴ And yet, just as I finished writing this post, _[Google dropped support for JPEG XL in Chromium](https://cloudinary.com/blog/the-case-for-jpeg-xl)!_ 😠
+⁵ And yet, just as I finished writing this post, _[Google dropped support for JPEG XL in Chromium](https://cloudinary.com/blog/the-case-for-jpeg-xl)!_ 😠
