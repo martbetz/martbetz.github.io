@@ -8,7 +8,7 @@ For as long as there's been digital photography, there's been JPEG — _it's bee
 
 ### Why replace JPEG? ###
 
-The **J**oint **P**hotographic **E**xprts **G**roup format has been a mainstay of digital imagery since 1992; yet, despite its unprecedented popularity, it's never really offered a _complete_ solution for digital photographers. 
+The **J**oint **P**hotographic **E**xprts **G**roup format has been a mainstay of digital imagery since 1992; however, despite its unprecedented popularity, it's never really offered a _complete_ solution for digital photographers. 
 
 ### How does JPEG XL address this? ###
 
