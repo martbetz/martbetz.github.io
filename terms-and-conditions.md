@@ -31,7 +31,7 @@ This website is hosted by <a href="https://pages.github.com">GitHub Pages</a>; i
     </h2> 
     <p>
 <!-- All terms are non-negotiable. By interacting with this website, you are confirming your undertanding and acceptance of the conditions as outlined below: -->
-By interacting with this website, you (the visitor) hereby subseqently confirm both your understanding and your acceptance of the following contractual terms:
+By interacting with this website, you (the visitor) hereby subseqently affirm both your understanding and your acceptance of the following contractual terms:
 <ul>
 <li>
 (as per the <a href="#disclaimer">General Disclaimer</a>) this website is an independent and personal project on the part of the author; as such, the author provides no guarantees regarding the accuracy or relevancy of the website's content
