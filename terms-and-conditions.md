@@ -64,7 +64,7 @@ By interacting with this website, you (the visitor) hereby subsequently acknowle
 </ul>
 <ul>
 <li>
-(as per the <a href="#privacy">Privacy Policy</a>) this website does not make use of cookies, and neither does any of its content; however, the author does reserve the right to use hyperlinks that refer to external sources
+(as per the <a href="#privacy">Privacy Policy</a>) this website does not make use of cookies, and neither does any of its content; however, this website does make use of hyperlinks that refer to external sources
 </li>
 </ul>
 <ul>
@@ -74,7 +74,7 @@ By interacting with this website, you (the visitor) hereby subsequently acknowle
 </ul>
 <ul>
 <li>
-(as per the <a href="#privacy">Privacy Policy</a>) images attributed to the author are hosted by GitHub (as 'user content') and <a href="https:/ello.co">Ello</a>; however, the author reserves the right to use images that are hosted by other sites
+(as per the <a href="#privacy">Privacy Policy</a>) images attributed to the author are hosted by GitHub (as 'user content') and <a href="https:/ello.co">Ello</a>; however, images that are not attributed to the author may be hosted by other sites
 </li>
 </ul>
     </p>
@@ -123,14 +123,14 @@ Unless otherwise stated, all content is the copyright (©) of the author and may
       4. Privacy Policy
    </h2> 
    <p>
-This website does not make use of cookies, and neither does any of its content; however, the author retains the right to use hyperlinks that refer to external sources.
+This website does not make use of cookies, and neither does any of its content; however, this website does make use of hyperlinks that refer to external sources.
 <br>
 <br>
 This website does not collect data of any kind or in any form; however, please observe the following quotation as sourced directly from <a href="https://docs.github.com/en/">GitHub Docs</a>: 
 <q>When a GitHub Pages site is visited, the visitor's IP address is logged and stored for security purposes, regardless of whether the visitor has signed into GitHub or not. For more information about GitHub's security practices, see <a href="https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement">GitHub Privacy Statement</a>.</q>
 <br>
 <br>
-Images attributed to the author are hosted by GitHub (as 'user content') and <a href="https:/ello.co">Ello</a>; however, the author retains the right to use images that are hosted by other websites.
+Images attributed to the author are hosted by GitHub (as 'user content') and <a href="https:/ello.co">Ello</a>; however, images that are not attributed to the author may be hosted by other sites.
 
   </p>
 </div>
