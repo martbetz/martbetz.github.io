@@ -13,7 +13,7 @@ This website is hosted by <a href="https://pages.github.com">GitHub Pages</a>; i
 <br>
 Images attributed to the author are hosted by <a href="https:/ello.co">Ello</a>; images not attributed to the author may be hosted by other sites. <br>
 <br>
-The source code for this website is hosted by <a href="github.com">GitHub</a> (via a public repository) and is available for general reference.
+The source code for this website is hosted by <a href="github.com">GitHub</a> and is available for public audit.
 <hr>
 <ol>
    <li>
