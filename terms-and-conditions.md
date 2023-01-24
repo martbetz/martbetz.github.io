@@ -65,7 +65,7 @@ By interacting with this website, you (the visitor) hereby subsequently acknowle
 <ul>
 <li>
 
-(as per the <a href="#privacy">Privacy Policy</a>) this website does not collect data of any kind or in any form; however, please observe the following quotation as sourced directly from <a href="https://docs.github.com/en/">GitHub Docs</a>: <q>When a GitHub Pages site is visited, the visitor's IP address is logged and stored for security purposes, regardless of whether the visitor has signed into GitHub or not. For more information about GitHub's security practices, see <a href="https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement">GitHub Privacy Statement</a>.</q>
+(as per the <a href="#privacy">Privacy Policy</a>) this website does not collect data of any kind or in any form; however, please observe the following aside as quoted directly from <a href="https://docs.github.com/en/">GitHub Docs</a>: <q>When a GitHub Pages site is visited, the visitor's IP address is logged and stored for security purposes, regardless of whether the visitor has signed into GitHub or not. For more information about GitHub's security practices, see <a href="https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement">GitHub Privacy Statement</a>.</q>
 
 </li>
 </ul>
@@ -120,7 +120,7 @@ Unless otherwise stated, all content is the copyright (©) of the author and may
       4. Privacy Policy
    </h2> 
    <p>
-This website does not collect data of any kind or in any form; however, please observe the following quotation as sourced directly from <a href="https://docs.github.com/en/">GitHub Docs</a>: 
+This website does not collect data of any kind or in any form; however, please observe the following aside as quoted directly from <a href="https://docs.github.com/en/">GitHub Docs</a>: 
 <q>When a GitHub Pages site is visited, the visitor's IP address is logged and stored for security purposes, regardless of whether the visitor has signed into GitHub or not. For more information about GitHub's security practices, see <a href="https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement">GitHub Privacy Statement</a>.</q>
 <br>
 <br>
