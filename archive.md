@@ -12,19 +12,12 @@ This page is currently under construction — when finished, it will serve as an
 - (coming soon)
 
 ## Projects ##
-<ul><li>
-<a href="https://martbetz.github.io/photography/2022/08/21/the-promura-project.html">The Promura Project</a>
-<br>
-<a href="https://github.com/martbetz/The-Presgrip-Project">The Presgrip Project</a> (coming soon)
-</ul></li>
-<ul><li>
-<a href="https://martbetz.github.io/photography/computing/2022/08/23/custom-lensfun-lcps.html">Custom Lensfun LCPs</a>
-</ul></li>
-<ul><li>
-Dry Box (coming soon)
-<br>
-Actioncam Lens Cap (coming soon)
-</ul></li>
+
+- [The Promura Project](https://martbetz.github.io/photography/2022/08/21/the-promura-project.html)
+- [The Presgrip Project](https://github.com/martbetz/The-Presgrip-Project) (coming soon)
+- [Custom Lensfun LCPs](https://martbetz.github.io/photography/computing/2022/08/23/custom-lensfun-lcps.html)
+- DIY Dry Box (coming soon)
+- DIY Actioncam Lens Cap (coming soon)
 
 ## Articles ##
 
