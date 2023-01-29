@@ -42,7 +42,7 @@ JPEG XL has already been finalised, but it could take a while before it gains tr
 
 ² My weapon of choice is KDE Manaro, so this was a no-brainer; in less than two minutes, support was added to _all_ my KDE apps — _as well as [GIMP](https://www.gimp.org/), and even my beloved [feh](https://feh.finalrewind.org)!_ 😍️ 
 
-³ I could have just used the PNG, of course, but then my chart wouldn't have looked anywhere near as pretty! 😉
+³ I could have just used the PNG, of course, but then my chart wouldn't have looked _anywhere near_ as pretty! 😉
 
 ⁴ caniuse.com provides up-to-date statistics on [JPEG XL browser support](https://caniuse.com/?search=jxl). 
 
