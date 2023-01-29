@@ -24,8 +24,8 @@ This page is currently under construction — when finished, it will serve as an
 
 - DIY
 
-  - Dry Box (coming soon)
-  - Actioncam Lens Cap (coming soon)
+   - Dry Box (coming soon)
+   - Actioncam Lens Cap (coming soon)
 
 ## Articles ##
 
