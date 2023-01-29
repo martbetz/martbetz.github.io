@@ -9,4 +9,4 @@ I've never spoken with boggy; I always meant to reach out, if only to say 'thank
 
 When a website like this one goes bye-bye, it's never good news; mountains of irreplaceable information can instantly blink out of existence — _hopelessly lost forever; never to be seen again_ — and I definitely feared the worst!
 
-Fortunately — _and with great relief!_ — I tracked boggy down to [KironKlub](https://groups.io/g/KironKlub)where all the amazing work is still in high gear! where all the amazing work is still in high gear! While you'll now need to join the group to access all the goodies, membership is free and open to everyone. 😊
+Fortunately — _and with great relief!_ — I tracked boggy down to [KironKlub](https://groups.io/g/KironKlub) where all the amazing work is still in high gear! While you'll now need to register for access to all the goodies, membership is free and open to everyone. 😊
