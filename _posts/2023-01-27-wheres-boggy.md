@@ -1,5 +1,5 @@
 ---
-title: Where's Boggy?!
+title: Where's boggy?!
 layout: post
 ---
 
