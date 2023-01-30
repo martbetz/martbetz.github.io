@@ -13,5 +13,6 @@ When a website like this one goes bye-bye, it's never good news; mountains of ir
 <center><img src="https://raw.githubusercontent.com/martbetz/martbetz.github.io/main/_includes/custom/kironklub.png" alt="The KironKlub website" width="400"><font size= "2"><br>© KironKlub@groups.io</font>
 </center>
 </div>
+<br>
 
 Fortunately — _and with great relief!_ — I tracked boggy down to [KironKlub](https://groups.io/g/KironKlub) where all the amazing work is still in high gear (and while you'll now need to register to access all the goodies, membership is both free and open to everyone). 😊
