@@ -21,5 +21,5 @@ When a website like this one goes bye-bye, it's never good news; mountains of ir
   </p>
 </div>
 <p style="padding-top: 10px;">
-Fortunately — <i>and with great relief!</i> — I tracked boggy down to <a href="https://groups.io/g/KironKlub" >KironKlub</a> where all the amazing work is still in high gear (and while you'll now need to register to access all the goodies, membership is both free and open to everyone). 😊
+Fortunately — <i>and with great relief!</i> — I tracked boggy down to <a href="https://groups.io/g/KironKlub" >KironKlub</a> where all the amazing work is still in high gear (and while you'll now need to register to access all the goodies, membership is both free and open to everyone). 🍻
 </p>
