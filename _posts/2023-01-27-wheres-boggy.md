@@ -20,6 +20,6 @@ When a website like this one goes bye-bye, it's never good news; mountains of ir
     </center>
   </p>
 </div>
-<p style="padding-top: 5px;">
-Fortunately — _and with great relief!_ — I tracked boggy down to [KironKlub](https://groups.io/g/KironKlub) where all the amazing work is still in high gear (and while you'll now need to register to access all the goodies, membership is both free and open to everyone). 😊
+<p style="padding-top: 8px;">
+Fortunately — <i>and with great relief!</i> — I tracked boggy down to <a href="https://groups.io/g/KironKlub" >KironKlub</a> where all the amazing work is still in high gear (and while you'll now need to register to access all the goodies, membership is both free and open to everyone). 😊
 </p>
