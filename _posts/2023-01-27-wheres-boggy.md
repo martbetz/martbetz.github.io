@@ -12,11 +12,13 @@ When a website like this one goes bye-bye, it's never good news; mountains of ir
 <div>
   <p>
     <center>
+    <style="padding-top: 15px; padding-bottom: 20px;">
       <img src="https://raw.githubusercontent.com/martbetz/martbetz.github.io/main/_includes/custom/kironklub.png" alt="The KironKlub website" width="600">
       <font size= "1">
         <br>
         © KironKlub@groups.io
       </font>
+      </style>
     </center>
   </p>
 </div>
