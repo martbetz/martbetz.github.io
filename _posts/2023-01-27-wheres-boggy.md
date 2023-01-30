@@ -10,9 +10,8 @@ boggys.co.uk is no more — the site was host to a plethora of user manuals and 
 When a website like this one goes bye-bye, it's never good news; mountains of irreplaceable information can instantly blink out of existence — _hopelessly lost forever; never to be seen again_ — and I most certainly feared the worst!
 
 <div>
-  <p>
+  <p style="padding-top: 15px; padding-bottom: 20px;">
     <center>
-    <style="padding-top: 15px; padding-bottom: 20px;">
       <img src="https://raw.githubusercontent.com/martbetz/martbetz.github.io/main/_includes/custom/kironklub.png" alt="The KironKlub website" width="600">
       <font size= "1">
         <br>
