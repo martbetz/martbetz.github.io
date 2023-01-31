@@ -32,7 +32,12 @@ More importantly, it's never been my intention to submit _replacement_ LCPs — 
 
 I'm very pleased with them, personally, but why not judge for yourself?
 
-![LCP Test](https://assets0.ello.co/uploads/asset/attachment/15653744/ello-optimized-1a1cdaab.gif)
+<div align="center">
+<p>
+ <img style="padding-top: 15px; padding-bottom: 20px;" src="https://assets0.ello.co/uploads/asset/attachment/15653744/ello-optimized-1a1cdaab.gif" alt="LCP Test">
+</p>
+</div>
+
 
 I've also uploaded a short [LCP test video](https://youtu.be/r3FstrYvvno) to YouTube (I've no idea why, but it's there if you want to see it).³ 
 
