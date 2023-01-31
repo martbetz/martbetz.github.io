@@ -10,19 +10,21 @@ Why don't action cameras come with lens caps? I <i>would</i> say it's like buyin
 If you're lucky enough to own a 3D printer, you could always print your own;² I'm not, so I made one out of a bottle top — it didn't cost me a penny, _and_ I saved the life of a seagull. 😇
 
 
-<div align="center">
-<p>
- <img style="padding-top: 10px; padding-bottom: 0px;" src="https://user-images.githubusercontent.com/110672536/188282838-bc42d93a-ea3b-439f-9c73-a0d27369b889.jpg" alt="DIY Lens Cap" with=600 >
-</p>
+
+
+<div>
+  <p style="padding-top: 10px;">
+    <center>
+      <img src="https://user-images.githubusercontent.com/110672536/188282838-bc42d93a-ea3b-439f-9c73-a0d27369b889.jpg" alt="DIY Lens Cap" width="600">
+      <font size= "2">
+        <br>
+        That I have, liddle buddy; that I have. 👍
+      </font>
+    </center>
+  </p>
 </div>
 
-<p style="margin-top: -10px;">
-<center>
-<font size="2">
-That I have, liddle buddy; that I have. 👍
-</font>
-</center>
-</p>
+
 
 While I'm on the subject, it's great to see that Simon Forster's added some nice M42 rear caps to his selection. I think I might get me some.
 
