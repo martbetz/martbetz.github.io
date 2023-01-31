@@ -13,7 +13,7 @@ If you're lucky enough to own a 3D printer, you could always print your own;² I
 
 
 <div>
-  <p style="padding-top: 0px;">
+  <p style="padding-top: 5px;">
     <center>
       <img src="https://user-images.githubusercontent.com/110672536/188282838-bc42d93a-ea3b-439f-9c73-a0d27369b889.jpg" alt="DIY Lens Cap" width="600">
       <font size= "2">
