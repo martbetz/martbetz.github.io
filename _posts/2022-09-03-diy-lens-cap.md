@@ -25,7 +25,7 @@ If you're lucky enough to own a 3D printer, you could always print your own;² I
 </div>
 
 
-<p style="margin-top: 10px;">
+<p style="padding-top: 10px;">
 While I'm on the subject, it's great to see that Simon Forster's added some nice M42 rear caps to his selection. I think I might get me some.
 </p>
 
