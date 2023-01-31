@@ -47,9 +47,7 @@ I'm slowly but surely uploading them to the GitHub repo; you can check them out 
 
 ³ Please try to ignore the fact that I don't have any subscribers.&nbsp;😆
 
-
 <!-- Place this tag where you want the button to render. -->
-
 
 <p style="padding-top: 10px;">
 <a class="github-button" href="https://github.com/martbetz/Custom-Lensfun-LCPs" data-size="large" aria-label="View Repo">View Repo</a><a style="margin-right: 5px;"></a><a class="github-button" href="https://github.com/martbetz/Custom-Lensfun-LCPs/archive/refs/heads/main.zip" data-icon="octicon-download" data-size="large" aria-label="Download">Download</a>
