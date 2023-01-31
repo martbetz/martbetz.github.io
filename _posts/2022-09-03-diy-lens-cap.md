@@ -16,7 +16,13 @@ If you're lucky enough to own a 3D printer, you could always print your own;² I
 </p>
 </div>
 
-(That I have, liddle buddy; that I have. 👍)
+<p style="padding-top: -10px; ">
+<center>
+<font size="2" >
+That I have, liddle buddy; that I have. 👍
+<font>
+</center>
+</p>
 
 While I'm on the subject, it's great to see that Simon Forster's added some nice M42 rear caps to his selection. I think I might get me some.
 
