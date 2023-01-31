@@ -12,7 +12,7 @@ If you're lucky enough to own a 3D printer, you could always print your own;² I
 
 <div align="center">
 <p>
- <img style="padding-top: 10px; padding-bottom: 0px;" src="https://user-images.githubusercontent.com/110672536/188282838-bc42d93a-ea3b-439f-9c73-a0d27369b889.jpg" alt="DIY Lens Cap">
+ <img style="padding-top: 10px; padding-bottom: 0px;" with="500px" src="https://user-images.githubusercontent.com/110672536/188282838-bc42d93a-ea3b-439f-9c73-a0d27369b889.jpg" alt="DIY Lens Cap">
 </p>
 </div>
 
