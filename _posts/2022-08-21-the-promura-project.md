@@ -36,5 +36,3 @@ Please provide links to references that support any contributed information. If 
 <p style="padding-top: 10px;">
 <a class="github-button" href="https://github.com/martbetz/The-Promura-Project   " data-size="large" aria-label="View Repo">View Repo</a>
 </p>
-
-
