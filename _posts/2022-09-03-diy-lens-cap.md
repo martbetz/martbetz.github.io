@@ -9,7 +9,12 @@ Why don't action cameras come with lens caps? I <i>would</i> say it's like buyin
 
 If you're lucky enough to own a 3D printer, you could always print your own;² I'm not, so I made one out of a bottle top — it didn't cost me a penny, _and_ I saved the life of a seagull. 😇
 
-![diy-lens-cap](https://user-images.githubusercontent.com/110672536/188282838-bc42d93a-ea3b-439f-9c73-a0d27369b889.jpg)
+
+<div align="center">
+<p>
+ <img style="padding-top: 15px; padding-bottom: -20px;" src="https://user-images.githubusercontent.com/110672536/188282838-bc42d93a-ea3b-439f-9c73-a0d27369b889.jpg" alt="DIY Lens Cap">
+</p>
+</div>
 
 (That I have, liddle buddy; that I have. 👍)
 
