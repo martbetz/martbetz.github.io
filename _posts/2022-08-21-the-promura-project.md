@@ -30,7 +30,7 @@ actions:
 
 - full-frame and crop-sensor revews of the Auto-Promura 20mm C.P. Hi-Lux MC
 
-Please provide links to references that support any contributed information. If you'd like to submit details of identified lenses, please include links to photos that clearly show the relative serial number and mount type.
+Please provide links to references that support any contributed information. If you'd like to submit details of identified lenses, please include links to photos that clearly show the mount type and serial number.
 
 <!-- Place this tag where you want the button to render. -->
 <p style="padding-top: 10px;">
