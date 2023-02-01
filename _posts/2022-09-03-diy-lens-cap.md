@@ -25,16 +25,16 @@ If you're lucky enough to own a 3D printer, you could always print your own;² I
 </div> -->
 
 <center>
-<img style="padding-top: 20px;" src="https://user-images.githubusercontent.com/110672536/188282838-bc42d93a-ea3b-439f-9c73-a0d27369b889.jpg" class="align-center" alt="DIY Lens Cap" width="600">
+<img style="padding-top: 15px;" src="https://user-images.githubusercontent.com/110672536/188282838-bc42d93a-ea3b-439f-9c73-a0d27369b889.jpg" class="align-center" alt="DIY Lens Cap" width="600">
 </center>
 
-<p style="text-align:center; padding-top: 10px;">
+<p style="text-align:center; padding-top: 5px;">
   <font size=" 2">
 That I have, liddle buddy; that I have. 👍
   </font>
 </p>
 
-<p style="padding-top: 10px;">
+<p style="padding-top: 5px;">
 While I'm on the subject, it's great to see that Simon Forster's added some nice M42 rear caps to his selection. I think I might get me some.
 </p>
 
