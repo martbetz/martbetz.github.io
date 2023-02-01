@@ -7,8 +7,6 @@ I bought a bunch of containers last week, but they didn't quite fit the purpose 
 
 I’ve been planning on a project like this for quite some time, and (thanks to the aforementioned mishap) I'm ready to make a start. 
 
-<p>
 <center>
-<b>*** THIS POST IS A WORK IN PROGRESS ***<b>
+<b>*** THIS POST IS A WORK IN PROGRESS ***</b>
 </center>
-</p>
