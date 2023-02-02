@@ -46,7 +46,7 @@ I'm slowly but surely uploading them to the GitHub repo; you can check them out 
 
 ---
 
-¹ ² Having said this, my custom LCPs are completely free and open-source; if you're a Lensfun maintainer and you'd like to include anything, please feel free — just be sure to leave me out of the politics! 😉
+¹ ² Having said this, my custom LCPs are completely free and open-source; if you're a Lensfun maintainer and you'd like to include anything, please feel free — <i>just be sure to leave me out of the politics!</i> 😉
 <br>
 
 ³ Please try to ignore the fact that I don't have any subscribers.&nbsp;😆
