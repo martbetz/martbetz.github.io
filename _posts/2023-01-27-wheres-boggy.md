@@ -1,6 +1,7 @@
 ---
 title: Where's boggy?!
 layout: post
+categories: photography
 ---
 
 boggys.co.uk is sadly no more; the site was host to a plethora of user manuals and repair guides for numerous vintage Kiron lenses — _amongst a great many other such wonderful things!_ — all made readily available as a curated public resource. 
