@@ -4,7 +4,7 @@ layout: page
 ---
 
 <font size="4">
-<b>Disclaimer: these solutions have worked for me and are listed here for my personal reference only — if you decide to give any of them a go and they solve all of life's problems, then great; if they don't, and something catastrophic happens, you've no one to blame but yourself.</b>
+<b>Disclaimer: these solutions have worked for me and are listed here for my personal reference only — if you decide to give any of them a go and they solve all of life’s problems, then great; if they don’t, and something catastrophic happens, you’ve no one to blame but yourself.</b>
 </font>
 
 ---
