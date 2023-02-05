@@ -22,6 +22,8 @@ I never said it would be a good one.
 - [RSS Feed](https://martbetz.github.io/feed)
 - [Test Page](https://martbetz.github.io/test.html)
 
+---
+
 ## General ##
 
 - [Useful Links](https://martbetz.github.io/links.html)
