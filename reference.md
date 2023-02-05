@@ -26,6 +26,6 @@ I never said it would be a good one.
 
 ### General ###
 
-- [Useful Links](https://martbetz.github.io/links.html)
+- [Useful Links](https://martbetz.github.io/linksx.html)
 - [Linux (Arch) Troubleshooting](https://martbetz.github.io/linux-trouble-shooting.html)
 - [macOS Troubleshooting](https://martbetz.github.io/macos-trouble-shooting.html)
