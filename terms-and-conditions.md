@@ -34,12 +34,12 @@ This website is hosted by <a href="https://pages.github.com">GitHub Pages</a>; i
 By interacting with this website, you (the visitor) hereby subsequently acknowledge both your understanding and your acceptance of each of the following terms:
 <ul>
 <li>
-(as per the <a href="#disclaimer">General Disclaimer</a>) this website is an independent and personal project on the part of the author; as such, the author provides no guarantees regarding the accuracy or relevancy of the website's content
+(as per the <a href="#disclaimer">General Disclaimer</a>) this website is an independent and personal project on the part of the author; as such, the author provides no guarantees regarding the accuracy or relevancy of the website’s content
 </li>
 </ul>
 <!-- <ul>
 <li>
-(as per the <a href="#disclaimer">General Disclaimer</a>) the author provides no guarantees regarding the accuracy of the website's content; nor does the author accept responsibility should any misinterpretation of its content arise
+(as per the <a href="#disclaimer">General Disclaimer</a>) the author provides no guarantees regarding the accuracy of the website’s content; nor does the author accept responsibility should any misinterpretation of its content arise
 </li>
 </ul> -->
 <ul>
@@ -59,13 +59,13 @@ By interacting with this website, you (the visitor) hereby subsequently acknowle
 </ul>
 <ul>
 <li>
-(as per the <a href="#copyright">Intellectual Property Notice</a>) unless otherwise stated, all content is the copyright (©) of the author and may neither be redistributed nor reproduced (in full or in part) without the author's prior consent; the title ("JPEG Junkie"), slogan ("An Affliction of Addiction to Obsessive Observation and the Prevailing Preservation Thereof!") and logo (<img src="/favicon.ico" alt="logo">) are the trademark (™) of the author
+(as per the <a href="#copyright">Intellectual Property Notice</a>) unless otherwise stated, all content is the copyright (©) of the author and may neither be redistributed nor reproduced (in full or in part) without the author’s prior consent; the title ("JPEG Junkie"), slogan ("An Affliction of Addiction to Obsessive Observation and the Prevailing Preservation Thereof!") and logo (<img src="/favicon.ico" alt="logo">) are the trademark (™) of the author
 </li>
 </ul>
 <ul>
 <li>
 
-(as per the <a href="#privacy">Privacy Policy</a>) this website does not collect data of any kind or in any form; however, this website does comply with the following obligation as quoted from <a href="https://docs.github.com/en/">GitHub Docs</a>: <q>When a GitHub Pages site is visited, the visitor's IP address is logged and stored for security purposes, regardless of whether the visitor has signed into GitHub or not. For more information about GitHub's security practices, see <a href="https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement">GitHub Privacy Statement</a>.</q>
+(as per the <a href="#privacy">Privacy Policy</a>) this website does not collect data of any kind or in any form; however, this website does comply with the following obligation as quoted from <a href="https://docs.github.com/en/">GitHub Docs</a>: <q>When a GitHub Pages site is visited, the visitor’s IP address is logged and stored for security purposes, regardless of whether the visitor has signed into GitHub or not. For more information about GitHub’s security practices, see <a href="https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement">GitHub Privacy Statement</a>.</q>
 
 </li>
 </ul>
@@ -82,7 +82,7 @@ By interacting with this website, you (the visitor) hereby subsequently acknowle
       2. General Disclaimer
    </h2>
    <p>
-This website is an independent and personal project on the part of the author; as such, the author provides no guarantees regarding the accuracy or relevancy of the website's content.
+This website is an independent and personal project on the part of the author; as such, the author provides no guarantees regarding the accuracy or relevancy of the website’s content.
 <br>
 <br>
 <!-- All content is reflective of style (for example, humorous and/or hyperbolic statements are exclusively intended as such; the author does not promote such statments as literal). 
@@ -91,7 +91,7 @@ This website is an independent and personal project on the part of the author; a
 Opinions expressed by the author are solely representational of independent observation and experience; the author does not promote such opinions as absolute.
 <br>
 <br>
-The author provides no guarantees regarding the accuracy of the website's content; nor does the author  accept responsibility should any misinterpretation of its content arise. -->
+The author provides no guarantees regarding the accuracy of the website’s content; nor does the author  accept responsibility should any misinterpretation of its content arise. -->
 All content is reflective of style; for example, humorous and/or hyperbolic statements are exclusively intended as such — the author does not promote such statements as literal and accepts no responsibility should any misinterpretation arise.
 <br>
 <br>
@@ -110,8 +110,8 @@ This website is a continual work in progress; the author reserves the right to c
 <!-- The title ("JPEG Junkie"), slogan ("An Affliction of Addiction to Obsessive Observation and the Prevailing Preservation Thereof!") and logo (<img src="/favicon.ico" alt="logo">) are the trademark (™) of the author.
 <br>
 <br>
-Unless otherwise stated, all content is the copyright (©) of the author and may neither be redistributed nor reproduced (in full or in part) without the author's consent. -->
-Unless otherwise stated, all content is the copyright (©) of the author and may neither be redistributed nor reproduced (in full or in part) without the author's prior consent; the title ("JPEG Junkie"), slogan ("An Affliction of Addiction to Obsessive Observation and the Prevailing Preservation Thereof!") and logo (<img src="/favicon.ico" alt="logo">) are the trademark (™) of the author.
+Unless otherwise stated, all content is the copyright (©) of the author and may neither be redistributed nor reproduced (in full or in part) without the author’s consent. -->
+Unless otherwise stated, all content is the copyright (©) of the author and may neither be redistributed nor reproduced (in full or in part) without the author’s prior consent; the title ("JPEG Junkie"), slogan ("An Affliction of Addiction to Obsessive Observation and the Prevailing Preservation Thereof!") and logo (<img src="/favicon.ico" alt="logo">) are the trademark (™) of the author.
      </p> 
  </div>
 <hr>
@@ -121,7 +121,7 @@ Unless otherwise stated, all content is the copyright (©) of the author and may
    </h2> 
    <p>
 This website does not collect data of any kind or in any form; however, this website does comply with the following obligation as quoted from <a href="https://docs.github.com/en/">GitHub Docs</a>: 
-<q>When a GitHub Pages site is visited, the visitor's IP address is logged and stored for security purposes, regardless of whether the visitor has signed into GitHub or not. For more information about GitHub's security practices, see <a href="https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement">GitHub Privacy Statement</a>.</q>
+<q>When a GitHub Pages site is visited, the visitor’s IP address is logged and stored for security purposes, regardless of whether the visitor has signed into GitHub or not. For more information about GitHub’s security practices, see <a href="https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement">GitHub Privacy Statement</a>.</q>
 <br>
 <br>
 This website does not make use of cookies, and neither does any of its content; however, the author does reserve the right to use hyperlinks that refer to external sources.
