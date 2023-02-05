@@ -6,7 +6,7 @@ layout: page
 This page is currently under construction. In the meantime, how about a joke?
 <br><br>
 A RAID-member disk walks into a bar. <br>
-“What's wrong with you?” asks the bartender.<br>
+“What’s wrong with you?” asks the bartender.<br>
 “Parity error,” replied the RAID-member disk. <br>
 “Ah,” said the bartender, “I thought you looked a bit off.”
 <br><br>
