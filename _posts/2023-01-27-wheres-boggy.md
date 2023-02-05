@@ -1,5 +1,5 @@
 ---
-title: Where's boggy?!
+title: Where’s boggy?!
 layout: post
 categories: photography
 ---
