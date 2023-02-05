@@ -13,6 +13,8 @@ This page is currently under construction — when finished, it will serve as an
 
 - (coming soon)
 
+---
+
 ## Projects ##
 
 - [The Promura Project](https://martbetz.github.io/photography/2022/08/21/the-promura-project.html)
@@ -20,6 +22,8 @@ This page is currently under construction — when finished, it will serve as an
 - [Custom Lensfun LCPs](https://martbetz.github.io/photography/computing/2022/08/23/custom-lensfun-lcps.html)
 - [DIY Dry-Boxes](https://martbetz.github.io/2023/02/01/diy-dry-boxes.html) (coming soon)
 - DIY Actioncam Lens Cap (coming soon)
+
+---
 
 ## Articles ##
 
