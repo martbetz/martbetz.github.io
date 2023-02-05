@@ -15,7 +15,7 @@ I never said it would be a good one.
 
 ---
 
-## Website ## 
+### Website ###
 
 - [Dedication](https://martbetz.github.io/dedication.html)
 - [Legalities](https://martbetz.github.io/terms-and-conditions.html)
@@ -24,7 +24,7 @@ I never said it would be a good one.
 
 ---
 
-## General ##
+### General ###
 
 - [Useful Links](https://martbetz.github.io/links.html)
 - [Linux (Arch) Troubleshooting](https://martbetz.github.io/linux-trouble-shooting.html)
