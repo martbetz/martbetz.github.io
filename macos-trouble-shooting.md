@@ -11,7 +11,7 @@ layout: page
 
 ---
 
-### macOS ###
+## **macOS** ##
 
 **Issue:**
 
@@ -33,7 +33,7 @@ layout: page
 
 ---
 
-### diskutil ###
+## **diskutil** ##
 
 **Issue:**
 
