@@ -111,7 +111,7 @@ layout: page
 
 - the database signatures fail to update
 
-### Solution:###
+### Solution: ###
 
 - `sudo rm /var/lib/clamav/*.*`
 
