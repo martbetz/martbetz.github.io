@@ -29,7 +29,7 @@ This website is hosted by <a href="https://pages.github.com">GitHub Pages</a>; i
 -->
 <div id="terms"> 
     <h2>
-       1. Visitor Declaration
+       Visitor Declaration
     </h2> 
     <p>
 <!-- All terms are non-negotiable. By interacting with this website, you are confirming your undertanding and acceptance of the conditions as outlined below: -->
@@ -81,7 +81,7 @@ By interacting with this website, you (the visitor) hereby subsequently acknowle
 <hr>
 <div id="disclaimer">
    <h2>
-      2. General Disclaimer
+      General Disclaimer
    </h2>
    <p>
 This website is an independent and personal project on the part of the author; as such, the author provides no guarantees regarding the accuracy or relevancy of the website’s content.
@@ -106,7 +106,7 @@ This website is a continual work in progress; the author reserves the right to c
 <hr>
 <div id="copyright"> 
     <h2>
-       3. Intellectual Property Notice
+       Intellectual Property Notice
     </h2> 
     <p>
 <!-- The title ("JPEG Junkie"), slogan ("An Affliction of Addiction to Obsessive Observation and the Prevailing Preservation Thereof!") and logo (<img src="/favicon.ico" alt="logo">) are the trademark (™) of the author.
@@ -119,7 +119,7 @@ Unless otherwise stated, all content is the copyright (©) of the author and may
 <hr>
 <div id="privacy"> 
    <h2>
-      4. Privacy Policy
+      Privacy Policy
    </h2> 
    <p>
 This website does not collect data of any kind or in any form; however, this website does comply with the following obligation as quoted from <a href="https://docs.github.com/en/">GitHub Docs</a>: 
