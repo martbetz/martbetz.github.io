@@ -11,7 +11,7 @@ layout: page
 
 ---
 
-### pacman/pamac ###
+## pacman/pamac ##
 
 **Issue:** 
 
