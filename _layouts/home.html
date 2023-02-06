@@ -1,8 +1,6 @@
 ---
 layout: default
 ---
-<p style="padding-top: 15px">
-</p>
 
 <div class="home">
   {%- if page.title -%}
@@ -18,7 +16,9 @@ layout: default
     {% assign posts = site.posts %}
   {% endif %}
 
-
+<p style="padding-top: 15px">
+  </p>
+  
   {%- if posts.size > 0 -%}
     {%- if page.list_title -%}
       <h2 class="post-list-heading">{{ page.list_title }}</h2>
