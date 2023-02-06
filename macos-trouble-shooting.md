@@ -17,7 +17,7 @@ layout: page
 
 - the keyboard shortcut <kbd>CONTROL</kbd> + <kbd>SHIFT</kbd> + <kbd>EJECT</kbd> (put displays to sleep) is no longer available as the keyboard has no <kbd>EJECT</kbd> key
 
-**Solution:**
+### Solution: ###
 
 - <kbd>CONTROL</kbd> + <kbd>SHIFT</kbd> + <kbd>POWER</kbd>
 
@@ -35,11 +35,11 @@ layout: page
 
 ## **diskutil** ##
 
-**Issue:**
+### Issue ###
 
 - the free space on a hard-drive needs to be securely erased
 
-**Solution:**
+### Solution: ###
 
 - `diskutil secureErase freespace [N] /Volumes/[DRIVE]`
 
@@ -47,7 +47,7 @@ layout: page
   
   replace [DRIVE] with the name of the drive
   
-**Comments:**
+### Comments: ###
 
 - the following values can be used for [N]:
 
