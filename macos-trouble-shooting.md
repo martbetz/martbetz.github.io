@@ -33,7 +33,7 @@ layout: page
 
 ---
 
-## **diskutil** ##
+## diskutil ##
 
 ### Issue ###
 
