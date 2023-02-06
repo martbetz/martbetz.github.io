@@ -10,6 +10,7 @@ Author: <a href="https://github.com/martbetz">Mart Betz</a>
 <br>
 This website is hosted by <a href="https://pages.github.com">GitHub Pages</a>; it was built using <a href="https://jekyllrb.com">Jekyll</a> and incorporates a fork of the <a href="https://jekyll.github.io/minima/about/">Minima</a> theme. Images attributed to the author are hosted by <a href="https:/ello.co">Ello</a>; images not attributed to the author may be hosted by other sites. The source code for this website is hosted by <a href="github.com">GitHub</a>.
 <hr>
+<!--
 <ol>
    <li>
      <a href="#terms">Visitor Declaration</a>
@@ -25,6 +26,7 @@ This website is hosted by <a href="https://pages.github.com">GitHub Pages</a>; i
     </li>
 </ol>
 <hr>
+-->
 <div id="terms"> 
     <h2>
        1. Visitor Declaration
