@@ -11,33 +11,33 @@ layout: page
 
 ---
 
-## **pacman/pamac** ##
+## pacman/pamac ##
 
-**Issue:** 
+### Issue: ###
 
 - a package from the AUR failed because the pgp signature(s) could not be varified
 
-**Solution:**
+### Solution: ###
 
 - `gpg --recv-keys [SIG]`
 
    replace [SIG] with the signature to be added
 
-**Comments:**
+### Comments: ###
 
 - [pacman cheat-sheet](https://difyel.com/cheatsheet/pacman-cheat-sheet/index.html)
 
 ----
 
-## **python-pip** ##
+## python-pip ##
 
-**Issue:**
+### Issue: ###
 
 - `ValueError: bad marshal data (unknown type code)`
 
    (corrupt/incompatible *.pyc file/files)
 
-**Solution:**
+### Solution: ###
 
 - `find /usr -name '*.pyc' -delete`
 
@@ -53,7 +53,7 @@ layout: page
 
    (re-install python-pip with pamac)
 
-**Comments:**
+### Comments: ###
 
 - deleting all *.pyc files will subsequently remove any corrupted/incompatible *.pyc files
 
@@ -61,13 +61,13 @@ layout: page
 
 ----
 
-## **git** ##
+## git ##
 
-**Issue:**
+### Issue: ###
 
  - a previous commit comment is incorrect and needs to be amended
 
-**Solution:**
+### Solution: ###
 
 - `git log --oneline --graph`
 
@@ -85,19 +85,19 @@ layout: page
 
   (list commits to review changes)
 
-**Comments:**
+### Comments: ###
 
 - an alternative and _much_ quicker solution would be to use the 'reword' option in [lazygit](https://github.com/jesseduffield/lazygit).
 
 ----  
   
-## **git** ##
+## git ##
   
- **Issue:**
+### Issue: ###
   
  - the latest commit is incorrect and needs to be removed
   
-  **Solution:**
+  ### Solution: ###
   
  - `git reset --hard HEAD^`
   
@@ -105,13 +105,13 @@ layout: page
  
  ---- 
 
-## **clamav** ##
+## clamav ##
 
-**Issue:**
+### Issue: ###
 
 - the database signatures fail to update
 
-**Solution:**
+### Solution:###
 
 - `sudo rm /var/lib/clamav/*.*`
 
@@ -125,37 +125,37 @@ layout: page
 
    (run full recursive system scan, list positives only, and output results to a text file named 'clamav.log')
    
-**Comments:**
+### Comments: ###
 
 - Windows executables and file wrappers (used with Wine, for example) may produce false positives
 
 ----
 
-## **gimp** ##
+## gimp ##
 
-**Issue:**
+### Issue: ###
 
 - Python modules have been removed from the official repository package resulting in Python scripts and plug-ins (such as Resynthesizer) being unsupported and the Python-Fu console becoming unavailable
 
-**Solution:**
+### Solution: ###
 
 - `pamac install python2-gimp`
   
     (install the Python support modules from the AUR)
     
-**Comments:**
+### Comments: ###
     
 - pamac AUR support _must_ be enabled
 
 ----
 
-## **fiejail** ##
+## fiejail ##
 
-**Issue:**
+### Issue: ###
 
 - apps do not run via firefjail by default
 
-**Solution:**
+### Solution: ###
 
 - `ln -s /usr/bin/firejail /usr/local/bin/[appname]`
 
@@ -163,7 +163,7 @@ layout: page
    
    (create a symbolic link for a specific app)
    
-   **or:**
+   or
 
 - `sudo firecfg`
 
@@ -179,7 +179,7 @@ layout: page
 
     (delete all symbolic links except those required)
     
-**Comments:**
+### Comments: ###
     
 - firecfg is the desktop integration utility for firejail - it allows the user to sandbox applications automatically by clicking on desktop manager icons and menus)
 
@@ -187,18 +187,18 @@ layout: page
 
 ----
 
-## **FFmpeg** ##
+## FFmpeg ##
 
-**Issue:**
+### Issue: ###
 
 - 30fps action cam footage needs to be converted to a lower framerate
 
-**Solution:**
+### Solution: ###
 
 - `[30fps.MOV] -vf minterpolate=mi_mode=mci:mc_mode=aobmc:me_mode=bidir:vsbmc=1:fps=50,decimate=cycle=2,format=pix_fmts=yuvj420p -c:v libx264 -preset veryslow -tune film -crf 17 [25fps.MOV]`
 
   replace [30fps.MOV] with the name of the input file and [25fps.MOV] with the name of the output file
  
-**Comments:**
+### Comments: ###
 
 - set `fps=` value to twice the desired framerate (for example, set `fps=50` for 25fps or `fps=48` for 24fps)
