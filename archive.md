@@ -13,7 +13,7 @@ This page is currently under construction — when finished, it will serve as an
 
 - (coming soon)
 
----
+
 
 ## Projects ##
 
