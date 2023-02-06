@@ -29,7 +29,7 @@ layout: page
 
 ----
 
-### python-pip ###
+## python-pip ##
 
 **Issue:**
 
@@ -61,7 +61,7 @@ layout: page
 
 ----
 
-### git ###
+## git ##
 
 **Issue:**
 
@@ -91,7 +91,7 @@ layout: page
 
 ----  
   
-### git ###
+## git ##
   
  **Issue:**
   
@@ -105,7 +105,7 @@ layout: page
  
  ---- 
 
-### clamav ###
+## clamav ##
 
 **Issue:**
 
@@ -131,7 +131,7 @@ layout: page
 
 ----
 
-### gimp ###
+## gimp ##
 
 **Issue:**
 
@@ -149,7 +149,7 @@ layout: page
 
 ----
 
-### fiejail ###
+## fiejail ##
 
 **Issue:**
 
@@ -187,7 +187,7 @@ layout: page
 
 ----
 
-### FFmpeg ###
+## FFmpeg ##
 
 **Issue:**
 
