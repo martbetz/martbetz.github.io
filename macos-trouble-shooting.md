@@ -11,9 +11,9 @@ layout: page
 
 ---
 
-## **macOS** ##
+## macOS ##
 
-**Issue:**
+### Issue: ###
 
 - the keyboard shortcut <kbd>CONTROL</kbd> + <kbd>SHIFT</kbd> + <kbd>EJECT</kbd> (put displays to sleep) is no longer available as the keyboard has no <kbd>EJECT</kbd> key
 
