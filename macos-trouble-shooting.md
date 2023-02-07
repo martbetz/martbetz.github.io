@@ -37,7 +37,7 @@ layout: page
 
 ## diskutil ##
 
-### Issue ###
+### Issue: ###
 
 - the free space on a hard-drive needs to be securely erased
 
