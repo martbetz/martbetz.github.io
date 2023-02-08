@@ -21,7 +21,7 @@ actions:
 
 <br>
 
-<font size="4">The objective of The Promura Project is to collate as much information as possible about two very obscure and rare camera lenses: the Auto-Promura 28mm C.P. Hi-Lux MC and the Auto-Promura 20mm C.P. Hi-Lux MC.</font>¹
+<font size="4">The objective of The Promura Project is to collate as much information as possible about two very obscure and rare camera lenses: the Auto-Promura 28mm C.P. Hi-Lux MC and the Auto-Promura 20mm C.P. Hi-Lux MC.¹ </font>
 
 ---
 
