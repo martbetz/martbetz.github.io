@@ -4,7 +4,7 @@ format: post
 categories: photography
 ---
 
-I bought some plastic tubs from Hobbycraft last week, but they weren't quite right for what I had in mind; be that as it may — _instead of nailing them to a Frizbee and flinging them over a rainbow!_ — I’ve decided to turn them into dry-boxes.
+I bought some plastic tubs from Hobbycraft last week, but they didn't suit the task I had in mind; be that as it may — _instead of nailing them to a Frizbee and flinging them over a rainbow!_ — I’ve decided to turn them into dry-boxes.
 
 ### Sounds good. What's the plan? ###
 
