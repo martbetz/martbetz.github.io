@@ -12,6 +12,6 @@ That's not what I said,<br>
 So put it to bed;<br>
 Your bode of contention's cross-wired!<br>
 
-center>
+<center>
 <b>*** THIS POST IS A WORK IN PROGRESS ***</b>
 </center>
