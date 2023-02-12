@@ -5,13 +5,13 @@ layout: page
 
 <font size="4">
 
-I was going to create a 'name and shame' page, here, but I'd still be hard and fast at it when the stars burned out; this being the case, I've decided to do the opposite. Enjoy!
+I was going to create a  ‘name and shame’ page, here, but I’d still be hard and fast at it when the stars burned out; this being the case, I’ve decided to do the opposite. Enjoy!
 
 <hr> 
 
 <span style="display:block; margin-left:2em; margin-right:2em">
 
-<b>Please keep in mind that I'm neither affiliated with any of these products or services, nor providing any guarantees; all of my thoughts and opinions are purely based on personal experience — <i>so I won't be held to account for your batteries exploding, Bob!</i></b> 
+<b>Please keep in mind that I’m neither affiliated with any of these products or services, nor providing any guarantees; all of my thoughts and opinions are purely based on personal experience — <i>so I won’t be held responsible for your batteries exploding, Bob!</i></b> 
 
 </span> 
 
