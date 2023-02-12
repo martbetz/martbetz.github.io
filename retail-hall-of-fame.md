@@ -5,7 +5,7 @@ layout: page
 
 <font size="4">
 
-I was going to create a  ‘name and shame’ page, here, but I’d still be hard and fast at it when the stars burned out; this being the case, I’ve decided to do the opposite. Enjoy!
+I was going to create a  ‘name and shame’ page, here, but I’d still be hard at it when the stars burned out; this being the case, I’ve decided to do the opposite. Enjoy!
 
 <hr> 
 
