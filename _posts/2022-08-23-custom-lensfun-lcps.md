@@ -20,7 +20,7 @@ All lenses — <i>even the really expensive ones</i> — have their flaws; Lensf
 
 Due to their general obscurity, most of my older lenses aren’t included in the [Lensfun](https://github.com/lensfun/lensfun) database (at least, not at the time of writing). Some of these lenses get used _a lot_, so creating LCPs for them was obviously a good investment. 
 
-While most of my modern lenses _are_ included in the database, I've found the 'accuracy' of the stock LCPs to be a little hit and miss (in particular, results from the included XC 35mm F2 LCP just don't look quite right to me 🤔).
+As for the more popular lenses I own, most of them are catered for; however, I’ve found the ‘accuracy’ of the stock LCPs to be a little hit and miss (in particular, results from the XC 35mm F2 LCP just don’t look quite right to me 🤔).
 
 ### Why not submit them directly to Lensfun? ###
 
