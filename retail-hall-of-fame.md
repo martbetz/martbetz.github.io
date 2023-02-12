@@ -23,7 +23,7 @@ I was going to create a  ‘name and shame’ page, here, but I’d still be har
 
 [Hobbycraft](https://hobbycraft.co.uk) have never let me down, here; ordering is hastle free, delivery has always been well priced and lightning fast, and their packaging is second to none.
 
-In general, the best storage containers I've found are made by [Really Useful Products](https://reallyusefulproducts.co.uk) — they’re molded from polypropylene, they’re translucent (but semi-translusent versions are also available), they’re roomy (without being excessively bulky), they’re very sturdy and well made, they have a nice rectangular interior, they're relatively inexpensive, and they're available in a huge range of sizes.
+In general, the best storage containers I've found are made by [Really Useful Products](https://reallyusefulproducts.co.uk) — they’re moulded from polypropylene, they’re translucent (but semi-translusent versions are also available), they’re roomy (without being excessively bulky), they’re very sturdy and well made, they have a nice rectangular interior, they're relatively inexpensive, and they're available in a huge range of sizes.
 
 <h2>Computer Cables</h2>
 
