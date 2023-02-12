@@ -1,5 +1,5 @@
 ---
-title: Retail Hall-of-Fame
+title: The Retail Hall of Fame
 layout: page
 ---
 
