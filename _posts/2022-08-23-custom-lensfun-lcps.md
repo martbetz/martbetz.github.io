@@ -20,13 +20,13 @@ All lenses — <i>even the really expensive ones</i> — have their flaws; Lensf
 
 Due to their general obscurity, most of my older lenses aren’t included in the [Lensfun](https://github.com/lensfun/lensfun) database (at least, not at the time of writing). Some of these lenses get used _a lot_, so creating LCPs for them was obviously a good investment. 
 
-While many of my newer and more popular lenses _are_ included in the database, I've found the 'accuracy' of the stock LCPs to be a little hit and miss (in particular, resulting Fujinon XC 35mm F2 images just don't seem quite right to me 🤔).
+While most of my modern lenses _are_ included in the database, I've found the 'accuracy' of the stock LCPs to be a little hit and miss (in particular, results from the included XC 35mm F2 LCP just don't look quite right to me 🤔).
 
 ### Why not submit them directly to Lensfun? ###
 
 Most of my custom LCPs either contain geometric distortion data only, or the remaining data has been copied from existing samples (I tend to lean on the built-in tools of [RawTherapee](https://github.com/Beep6581/RawTherapee) and [GIMP](https://github.com/GNOME/gimp) to correct for other abberations). Submitting incomplete LCPs, though acceptable, would be somewhat less than ideal.¹
 
-Furthermore, it's never been my intention to submit _replacement_ LCPs — 'beauty is in the eye of the beholder,' and to promote my humble efforts as being 'better' in any way would be very naive and extremely rude (and while it's often nice to have a choice, submitting them as _alternatives_ would only lead to confusion).²
+Furthermore, it's never been my intention to submit _replacement_ LCPs — 'beauty is in the eye of the beholder,' and promoting such humble efforts as being 'better' in any way would be very naive and extremely rude (and while it's often nice to have a choice, submitting them as _alternatives_ would only lead to confusion).²
 
 ### What are the results like? ###
 
