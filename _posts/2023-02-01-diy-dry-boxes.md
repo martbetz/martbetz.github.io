@@ -10,6 +10,6 @@ I’ve been mulling on a project like this for some time, and (thanks to the afo
 
 I'll be sharing my progress periodically, and I'll escalate this post to the [projects](https://martbetz.github.io/archive.html#diy) list when I'm done (maybe it'll turn out as a shining demonstration of sucess, or maybe it'll end up as a dismal example of failure; we'll have to wait and see 😬). Now... where did I put that blowtorch?
 
-<!-- <center>
+<center>
 <b>*** THIS POST IS A WORK IN PROGRESS ***</b>
 </center> -->
