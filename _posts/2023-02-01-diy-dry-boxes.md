@@ -10,7 +10,7 @@ I bought some plastic tubs from Hobbycraft last week, but they didn't suit the t
 
 I’ve been mulling on a project like this for some time, and (thanks to the aforementioned mishap 😠) I'm finally going to tackle it. The plan is to make two different types of dry-box: a standard one for general storage, and a portable one for use with my rucksack.
 
-I'll be sharing my progress periodically, and I'll escslate this post to a  once I've finished (maybe it'll turn out as a shining demonstration of sucess, or maybe it'll end up as a dismal example of failure; we'll have to wait and see 😬). Now... where did I put that blowtorch?
+I'll be sharing my progress periodically, and I'll escslate this post to a [project](https://martbetz.github.io/#diy) once I've finished (maybe it'll turn out as a shining demonstration of sucess, or maybe it'll end up as a dismal example of failure; we'll have to wait and see 😬). Now... where did I put that blowtorch?
 
 <!-- <center>
 <b>*** THIS POST IS A WORK IN PROGRESS ***</b>
