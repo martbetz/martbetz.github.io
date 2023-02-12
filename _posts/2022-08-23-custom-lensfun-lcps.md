@@ -42,7 +42,7 @@ I've also uploaded a short [LCP test video](https://youtu.be/r3FstrYvvno) to You
 
 ### Great! Where are they? ###
 
-I'm slowly but surely uploading them to the GitHub repo; you can check them out there or download them directly from this page.
+I'm slowly but surely uploading them to the GitHub repo; you can either check them out there, or you can download them directly from this page.
 
 ---
 
