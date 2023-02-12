@@ -40,7 +40,7 @@ I'm very pleased with them, personally, but why not judge for yourself?
 
 I've also uploaded a short [LCP test video](https://youtu.be/r3FstrYvvno) to YouTube (I've no idea why, but it's there if you want to see it).³ 
 
-### Great! But where are they? ###
+### Great! Where are they? ###
 
 I'm slowly but surely uploading them to the GitHub repo; you can check them out there or download them directly from this page.
 
