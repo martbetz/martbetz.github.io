@@ -5,11 +5,11 @@ categories: photography computing
 tags: apng apngasm
 ---
 
-There's little doubt that when it comes to basic image animation, GIF is is still a solid choice — for the most part, it's easily capable of getting the job done  — but for anything more demanding, APNG (at least for now) is likely the better choice.
+There's little doubt that when it comes to basic image animation, GIF is is still a solid choice&nbsp;— for the most part, it's easily capable of getting the job done&nbsp;— but for anything more demanding, APNG (at least for now) is likely the better choice.
 
 ### Why not use GIFs?
 
-The **G**raphics **I**nterchange **F**ormat has been around forever; it was origionally realeased in 1987 — _that's 35 years ago, at the time of writing!_ — and has remained a de facto standard ever since. One major drawback of GIFs, however, is that they can only reference a maximum of 256 colours.
+The **G**raphics **I**nterchange **F**ormat has been around forever; it was origionally realeased in 1987&nbsp;— _that's 35 years ago, at the time of writing!_&nbsp;— and has remained a de facto standard ever since. One major drawback of GIFs, however, is that they can only reference a maximum of 256 colours.
 
 ###  Why use APNGs?
 
