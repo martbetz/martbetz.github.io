@@ -4,7 +4,7 @@ layout: post
 categories: photography computing
 ---
 
-For as long as there's been digital photography, there's been JPEG — _it's been the standard digital photo format for over 30 years!_ — but its direct sucessor, JPEG XL, is finally here (and it could even replace PNG and GIF, too).
+For as long as there's been digital photography, there's been JPEG&nbsp;— _it's been the standard digital photo format for over 30 years!_&nbsp;— but its direct sucessor, JPEG XL, is finally here (and it could even replace PNG and GIF, too).
 
 ### Why replace JPEG? ###
 
@@ -25,9 +25,9 @@ The following chart shows the comparative file sizes when following my typical w
 </p>
 </div>
 
-For my typical use case (blue), the difference in file size was 1.42 MB — _that's a reduction of over 60%!_ Likewise, when compared to PNG (red), the difference in file size was 1.68 MB — _an equally  impressive reduction of 43%!_ 
+For my typical use case (blue), the difference in file size was 1.42 MB—&nbsp; _that's a reduction of over 60%!_ Likewise, when compared to PNG (red), the difference in file size was 1.68 MB&nbsp;— _an equally  impressive reduction of 43%!_ 
 
-It's also worth noting the comparison between the JPG and the _lossless_ JXL, the later being 0.16MB smaller than the former — _in other words, the lossless JPEG XL is almost 7% lighter than the lossy JPEG!_ 
+It's also worth noting the comparison between the JPG and the _lossless_ JXL, the later being 0.16MB smaller than the former&nbsp;— _in other words, the lossless JPEG XL is almost 7% lighter than the lossy JPEG!_ 
 
 As far as image quality goes, I could see no discernible difference right accross the board (no surprises here, though, given that the highest quality settings were used for both the JPEG and the lossy JPEG XL).
 
