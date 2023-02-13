@@ -51,7 +51,7 @@ By interacting with this website, you (the visitor) hereby subsequently acknowle
 </ul>
 <ul>
 <li>
-(as per the <a href="#disclaimer">General Disclaimer</a>) opinions expressed by the author are solely representational of independent observation and experience — the author does not promote such opinions as absolute; however, the author does reserve the right to present such opinions without prejudice
+(as per the <a href="#disclaimer">General Disclaimer</a>) opinions expressed by the author are solely representational of independent observation and experience&nbsp;— the author does not promote such opinions as absolute; however, the author does reserve the right to present such opinions without prejudice
 </li>
 </ul>
 <ul>
