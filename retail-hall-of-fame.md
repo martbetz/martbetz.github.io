@@ -14,8 +14,7 @@ I was going to create a  ‘name and shame’ page, here, but I’d still be har
     <font size="4"><b><i>Linux on smartphones and tablets and desktops,<br>
 Bright shiny lenses with really low f-stops,<br>
 Custom-made keyboards with smooth thocky springs;<br>
-These are a few of my fave geeky things! </i>😉</font></b>
-  </p>
+These are a few of my fave geeky things! </i></b>
 </span>
 
 
