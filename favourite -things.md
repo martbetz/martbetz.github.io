@@ -1,5 +1,5 @@
 ---
-title: The Retail Hall of Fame
+title: Favourite Things
 layout: page
 ---
 
