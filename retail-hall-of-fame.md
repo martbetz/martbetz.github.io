@@ -7,16 +7,9 @@ layout: page
 
 I was going to create a  ‘name and shame’ page, here, but I’d still be hard at it when the stars burned out; this being the case, I’ve decided to do the opposite. Enjoy!
 
-<hr>
 
-<span style="display:block; margin-left:2em; margin-right:2em">
-  <p style="color: grey">
-    <font size="4"><b><i>Linux on smartphones and tablets and desktops,<br>
-Bright shiny lenses with really low f-stops,<br>
-Custom-made keyboards with smooth thocky springs;<br>
-These are a few of my fave geeky things! </i></b>
-</p>
-</span>
+
+
 
 
 <hr> 
@@ -41,3 +34,12 @@ In general, the best storage containers I've found are made by [Really Useful Pr
 
 For price and speed of delivery, I haven't found a more reliable supplier than [Kenable](https://www.kenable.co.uk/en/); from experience, I honestly can't recommend them enough.
 
+<span style="display:block; margin-left:2em; margin-right:2em">
+  <p style="color: grey">
+    <font size="4"><b><i>Linux on smartphones and tablets and desktops,<br>
+Bright shiny lenses with really low f-stops,<br>
+Custom-made keyboards with smooth thocky springs;<br>
+These are a few of my fave geeky things! </i></b>
+    </font>
+  </p>
+</span>
