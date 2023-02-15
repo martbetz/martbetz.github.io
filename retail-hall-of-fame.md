@@ -7,6 +7,18 @@ layout: page
 
 I was going to create a  ‘name and shame’ page, here, but I’d still be hard at it when the stars burned out; this being the case, I’ve decided to do the opposite. Enjoy!
 
+<hr>
+
+<span style="display:block; margin-left:2em; margin-right:2em">
+  <p style="color: grey">
+    <font size="4"><b><i>Linux on smartphones and tablets and desktops,<br>
+Bright shiny lenses with really low f-stops,<br>
+Custom-made keyboards with smooth thocky springs;<br>
+These are a few of my fave geeky things! </i>😉</font></b>
+  </p>
+</span>
+
+
 <hr> 
 
 <span style="display:block; margin-left:2em; margin-right:2em">
