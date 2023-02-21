@@ -79,6 +79,6 @@ layout: page
    
 ### Comments: ###
 
-- alternatively, `approvedBinaries.plist`can be edited/deleted manually
+- alternatively, `approvedBinaries.plist` can be edited/deleted manually
    
    
