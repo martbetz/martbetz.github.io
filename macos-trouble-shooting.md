@@ -69,10 +69,10 @@ layout: page
 
 ### Issue: ###
 
-- binaries have been added to the whitelist by default or in error
+- entries have been listed as trusted by default or in error
 
 ### Solution: ###
 
 - `sudo /Library/Objective-See/RansomWhere/RansomWhere -reset`
 
-   clear the whitelist and restart the launch daemon
+   clear all libraries and restart the launch daemon
