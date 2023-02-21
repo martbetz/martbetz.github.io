@@ -69,10 +69,16 @@ layout: page
 
 ### Issue: ###
 
-- entries have been listed as trusted by default or in error
+- entries have been added as trusted in error
 
 ### Solution: ###
 
 - `sudo /Library/Objective-See/RansomWhere/RansomWhere -reset`
 
-   clear all libraries and restart the launch daemon
+   (clear asuser-approved entrirs and restart the launch daemon)
+   
+### Comments: ###
+
+- alternatively, `approvedBinaries.plist`can be edited/deleted manually
+   
+   
