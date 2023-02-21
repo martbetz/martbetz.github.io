@@ -77,8 +77,6 @@ layout: page
 
    (clear user-approved entries and restart the launch daemon)
    
-### Comments: ###
 
-- alternatively, `approvedBinaries.plist` can be edited/deleted manually (also requires a manual restart of the launch daemon)
    
    
