@@ -62,3 +62,17 @@ layout: page
 <ul>    
 <li>if the name of the drive contains a space, precede it with <code>\</code>; for example, <code>diskutil secureErase freespace 4 /Volumes/Macintosh\ HD</code></li>
 </ul>
+
+---
+
+## RansomWhere ##
+
+### Issue: ###
+
+- binaries have been added to the whitelist by default or in error
+
+### Solution: ###
+
+- `sudo /Library/Objective-See/RansomWhere/RansomWhere -reset`
+
+   clear the whitelist and resrt the launch daemon
