@@ -75,4 +75,4 @@ layout: page
 
 - `sudo /Library/Objective-See/RansomWhere/RansomWhere -reset`
 
-   clear the whitelist and resrt the launch daemon
+   clear the whitelist and restart the launch daemon
