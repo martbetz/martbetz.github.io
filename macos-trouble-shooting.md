@@ -75,10 +75,10 @@ layout: page
 
 - `sudo /Library/Objective-See/RansomWhere/RansomWhere -reset`
 
-   (clear asuser-approved entrirs and restart the launch daemon)
+   (clear user-approved entries and restart the launch daemon)
    
 ### Comments: ###
 
-- alternatively, `approvedBinaries.plist` can be edited/deleted manually
+- alternatively, `approvedBinaries.plist` can be edited/deleted manually (requires manual resart)
    
    
