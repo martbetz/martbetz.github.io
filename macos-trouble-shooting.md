@@ -79,6 +79,6 @@ layout: page
    
 ### Comments: ###
 
-- alternatively, `approvedBinaries.plist` can be edited/deleted manually (requires manual resart)
+- alternatively, `approvedBinaries.plist` can be edited/deleted manually (also requires a manual restart of the launch daemon)
    
    
