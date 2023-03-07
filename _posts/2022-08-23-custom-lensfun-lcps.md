@@ -18,13 +18,13 @@ All lenses&nbsp;— <i>even the really expensive ones</i>&nbsp;— have their fl
 
 ### Why create custom LCPs? ###
 
-Due to their general obscurity, many of my older lenses are missing from the [Lensfun](https://github.com/lensfun/lensfun) database (at least, not at the time of writing). Some of these lenses get used _a lot_, so creating LCPs for them was obviously a good investment. 
+Due to their general obscurity, most of my my older legacy lenses are missing from the [Lensfun](https://github.com/lensfun/lensfun) database (at the time of writing, at least). Some of these lenses get used _a lot_, so creating LCPs for them was certainly a worthwhile investment.  
 
-As for the more popular lenses I own, most of them are duely included; however, the ‘accuracy’ of the stock LCPs are a little hit and miss (in particular, results from the XC 35mm F2 LCP just don’t look quite right to me 🤔).
+As for the more popular lenses I own, all of them are duely included; however, my experience of using the stock LCPs has been somewhat hit and miss (in particular, results from the XC 35mm F2 LCP just don’t look quite right to me 🤔).
 
 ### Why not submit them directly to Lensfun? ###
 
-Most of my custom LCPs either contain geometric distortion data only, or the remaining data has been copied from existing samples (I tend to lean on the built-in tools of [RawTherapee](https://github.com/Beep6581/RawTherapee) and [GIMP](https://github.com/GNOME/gimp) to correct for other abberations). Submitting incomplete LCPs, though acceptable, would be somewhat less than ideal.¹
+Most of my custom LCPs either contain geometric distortion data only, or the remaining data has been copied from existing samples (I tend to lean on the built-in tools of [RawTherapee](https://github.com/Beep6581/RawTherapee) and [GIMP](https://github.com/GNOME/gimp) to correct for other abberations). Submitting incomplete LCPs, though acceptable, would be somewhat less than ideal.¹ 
 
 Furthermore, it's never been my intention to submit _replacement_ LCPs&nbsp;— 'beauty is in the eye of the beholder,' and to consider my humble efforts as being 'better' in any way would be very naive and extremely rude (and while it's often nice to have a choice, submitting them as _alternatives_ would only lead to confusion).²
 
