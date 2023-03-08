@@ -18,9 +18,9 @@ All lenses&nbsp;— <i>even the really expensive ones</i>&nbsp;— have their fl
 
 ### Why create custom LCPs? ###
 
-Due to their general obscurity, most of my my older legacy lenses are missing from the [Lensfun](https://github.com/lensfun/lensfun) database (at the current time of writing, at least). Some of these lenses get used _a lot_, so creating LCPs for them was certainly a worthwhile investment.  
+Most of my older legacy lenses, due to their general obscurity, are missing from the [Lensfun](https://github.com/lensfun/lensfun) database (at the current time of writing, at least). Some of these lenses get used _a lot_, so creating LCPs for them was certainly a worthwhile investment. 
 
-As for the more popular lenses I own, all of them are duely included; however, my experience of using the stock LCPs has been a little hit and miss (in particular, results from the XC 35mm F2 LCP just don’t look quite right to me 🤔).
+As for my newer and more popular lenses, all of them are duely included; however, my experience of using the stock LCPs has been a little hit and miss (in particular, results from the XC 35mm F2 LCP just don’t look quite right to me 🤔).
 
 ### Why not submit them directly to Lensfun? ###
 
