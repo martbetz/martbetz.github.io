@@ -24,7 +24,7 @@ As for my newer and more popular lenses, all of them are duely included; however
 
 ### Why not submit them directly to Lensfun? ###
 
-The majority of my LCPs contain geometric distortion data only (or the remaining data has been copied from existing samples) as I tend to lean on the built-in tools of [RawTherapee](https://github.com/Beep6581/RawTherapee) and [GIMP](https://github.com/GNOME/gimp) to correct for other abberations. Submitting incomplete LCPs, though acceptable, would be somewhat less than ideal.¹ 
+The majority of my LCPs correct for geometric distortion only; where possible, the remaining data has been copied from existing samples (I tend to lean on the built-in tools of [RawTherapee](https://github.com/Beep6581/RawTherapee) and [GIMP](https://github.com/GNOME/gimp) to correct for other abberations). Submitting incomplete LCPs, though acceptable, would be somewhat less than ideal.¹ 
 
 Furthermore, it's never been my intention to submit _replacement_ LCPs&nbsp;— 'beauty is in the eye of the beholder,' and to consider my humble efforts as being 'better' in any way would be very naive and extremely rude (and while it's often nice to have a choice, submitting them as _alternatives_ would only lead to confusion).²
 
