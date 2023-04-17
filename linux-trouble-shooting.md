@@ -106,6 +106,19 @@ layout: page
    (delete the latest commit and revert to the previous state)
  
  ---- 
+ 
+## makepkg ##
+
+### Issue: ###
+
+  - `fatal: unable to connect to github.com:`
+ <br>   `github.com[0: 140.82.121.4]: errno=Connection timed out`
+
+  ### Solution: ###
+
+ - `git config --global url.https://github.com/.insteadOf git://github.com/`
+ 
+ ----
 
 ## clamav ##
 
