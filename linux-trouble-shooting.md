@@ -112,7 +112,7 @@ layout: page
 ### Issue: ###
 
   - `fatal: unable to connect to github.com:`
- <br>
+ 
     `github.com[0: 140.82.121.4]: errno=Connection timed out`
 
   ### Solution: ###
