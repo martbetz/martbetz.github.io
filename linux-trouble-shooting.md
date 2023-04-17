@@ -99,7 +99,7 @@ layout: page
   
  - the latest commit is incorrect and needs to be removed
   
-  ### Solution: ###
+### Solution: ###
   
  - `git reset --hard HEAD^`
   
@@ -115,7 +115,7 @@ layout: page
  
     `github.com[0: 140.82.121.4]: errno=Connection timed out`
 
-  ### Solution: ###
+### Solution: ###
 
  - `git config --global url.https://github.com/.insteadOf git://github.com/`
  
