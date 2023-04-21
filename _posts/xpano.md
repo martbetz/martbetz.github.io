@@ -1,0 +1,14 @@
+---
+title: xpano
+layout: post
+categories: photography
+---
+
+Need an alternative to Hugin? xpano is a free and open-source photo sticher that's been causing quite a stir  — _and for very good reason; with a focus on simplicity and ease-of-use, it could fill a very important niche!_
+
+If you've never heard of [xpano](https://github.com/krupkat/xpano) before, you're completely excused; it hasn't been around for very long at all; in fact, it was only a few weeks ago that it was introduced on the pixls.us forum. 
+
+I've not used xpano much myself (panoramic images aren't too common in my particular genre), but the numerous examples I've seen so far look very good indeed.
+
+Here's to wishing [Tomáš Krupka](https://krupkat.cz) all the best in his venture, and I sincerely hope the project goes from strength to strength. If you'd like to show some love, be sure to stop by the [xpano thread](https://discuss.pixls.us/c/software/xpano/42) on pixls.us.
+
