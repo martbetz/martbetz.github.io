@@ -5,7 +5,7 @@ categories: photography computing
 tags: apng apngasm
 ---
 
-There's little doubt that when it comes to basic image animation, GIF is is still a solid choice&nbsp;— for the most part, it's easily capable of getting the job done&nbsp;— but for anything more demanding, APNG (at least for now) is likely the better choice.
+When it comes to basic image animation, GIF has always been a solid choice; for the most part, it's easily capable of getting the job done. For anything more demanding, though, APNG (at least for now) is likely the better alternative.
 
 ### Why not use GIFs?
 
