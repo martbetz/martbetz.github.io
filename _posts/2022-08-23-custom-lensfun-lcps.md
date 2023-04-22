@@ -14,7 +14,7 @@ actions:
 
 ---
 
-All lenses&nbsp;— <i>even the really expensive ones!</i>&nbsp;— have their flaws; Lensfun helps compensate for these flaws using a generous and ever-growing collection of project-approved LCPs (lens-correction profiles).
+All lenses&nbsp;— <i>even the really expensive ones</i>&nbsp;— have their flaws; Lensfun helps compensate for these flaws using a generous and ever-growing collection of project-approved LCPs (lens-correction profiles).
 
 ### Why create custom LCPs? ###
 
