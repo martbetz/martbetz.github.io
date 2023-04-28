@@ -1,0 +1,54 @@
+ ---
+ title: Archive
+ layout: page
+ ---
+ 
+<font size="4">
+This webpage is currently under construction (and until I get out of my rocking chair and do something useful, it’s likely to remain so 😴). When it’s finished (in other words, when I’ve added enough rubbish to justify it’s existence), you’ll at least have some hope of finding your way around (well, fancy that).
+</font>
+
+<hr> 
+
+<h2> Obsessive Observation </h2>
+
+<hr> 
+<div id="articles">
+<h3> Not a Digest </h3> 
+<p> 
+<i>This is NOT a digest because I’m NEITHER a writer NOR a journalist; think of it more as an index for my literary-related posts.</i> 
+</p>
+<ul>
+<li><a href="https://martbetz.github.io/photography/computing/2022/10/27/exploring-jpegxl.html">Exploring the Potential of JXL</a></li> <li><a href="https://martbetz.github.io/photography/computing/2022/10/02/03-08-exploring-apng.html">Exploring the Potential of APNG</a></li> 
+</ul>
+</div>
+
+<hr> 
+
+<div id="diy">
+<h3> Practical Projects</h3>
+<ul>
+<li><a href="https://martbetz.github.io/photography/computing/2022/08/23/custom-lensfun-lcps.html">Custom Lensfun LCPs</a></li><li><a href="https://martbetz.github.io/2023/02/01/diy-dry-boxes.html">Dry-Boxes</a> (coming soon)</li> <li>Photography EDC Tin (coming soon)</li> <li>Viewfinder Diopter (coming soon)</li> <li>Actioncam Lens Cap (coming soon)</li> <li>Secure Cyberdeck (coming soon)</li> </ul>
+</div>
+
+<hr>
+
+<h2> Prevailing Preservation </h2>
+ 
+<div id="portfolio">
+<h3> Not a Gallery </h3>
+<p> 
+<i>This is NOT a gallery because I’m NEITHER a photographer NOR an artist; think of it more as an index for my image-related posts.</i> 
+</p>   
+<ul> 
+<li>(coming soon)</li> 
+</ul>
+</div>
+
+<hr>
+
+<div id="research">
+<h3> Research Projects</h3>
+<ul>
+<li><a href="https://martbetz.github.io/photography/2022/08/21/the-promura-project.html">The Promura Project</a></li> <li><a href="https://github.com/martbetz/The-Presgrip-Project">The Presgrip Project</a> (coming soon)</li>
+</ul>
+</div>
