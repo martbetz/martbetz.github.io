@@ -12,7 +12,7 @@ The **J**oint **P**hotographic-**E**xperts **G**roup format has been a mainstay 
 
 ### How does JPEG XL address this? ###
 
-The **J**oint **P**hotographic-**E**xperts **G**roup **X** **L**ong-Term format (?!) brings _a lot_ of new features to the table: support for wide colour gamuts and high bit-depths, alpha channel and multi-layer image support, lossless compression and significantly-improved lossy compression, and advanced progressive decoding.¹
+The **J**oint **P**hotographic-**E**xperts **G**roup **X** **L**ong-Term format 😳 brings _a lot_ of new features to the table: support for wide colour gamuts and high bit-depths, alpha channel and multi-layer image support, lossless compression and significantly-improved lossy compression, and advanced progressive decoding.¹
 
 ### How do the results compare? ###
 
