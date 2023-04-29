@@ -46,4 +46,4 @@ JPEG XL has already been finalised, but it could take a while before it gains tr
 
 ⁴ caniuse.com provides up-to-date statistics on [JPEG XL browser support](https://caniuse.com/?search=jxl). 
 
-⁵ And yet, just as I finished writing this post, _[Google dropped support for JPEG XL in Chromium](https://cloudinary.com/blog/the-case-for-jpeg-xl)!_&nbsp;😠
+⁵ And yet, just as I finished writing this post, [Google dropped support for JPEG XL in Chromium](https://cloudinary.com/blog/the-case-for-jpeg-xl)!&nbsp;😠
