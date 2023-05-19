@@ -11,9 +11,9 @@ When it comes to basic animation, GIF has always been a solid choice; for the mo
 
 The **G**raphics **I**nterchange **F**ormat has been around forever; it was origionally realeased in 1987&nbsp;— _that's 35 years ago, at the time of writing!_&nbsp;— and has remained a de facto standard ever since. A significant limitation of GIFs, however, is that they can only reference a maximum of 256 colours.
 
-### Why use APNGs?
+### Why use APNGs?¹
 
-The **A**nimated **P**ortable **N**etwork **G**raphics format was created in 2004 and is the second-most popular format for animated images to date; unlike GIFs, APNGs can reference up to 16,777,216 colours.¹ Most — _but not all!_ — web browsers are capable of displaying APNG animations.² 
+The **A**nimated **P**ortable **N**etwork **G**raphics format was created in 2004 and, to date, is the second-most popular format for animated images. APNGs can reference up to 16,777,216 colours, and most modern web browsers are capable of displaying APNG animations.² 
 
 ### How are they made? 
 
