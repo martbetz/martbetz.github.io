@@ -5,7 +5,7 @@ categories: photography computing
 tags: apng apngasm
 ---
 
-When it comes to basic animation, GIF has always been a solid choice; for the most part, it's easily capable of getting the job done. For anything more demanding, though, APNG (at least for now¹) is likely the best option.
+When it comes to basic animation, GIF has always been a solid choice; for the most part, it's easily capable of getting the job done. For anything more demanding, though, APNG (at least for now) is likely the best option.
 
 ### Why not use GIFs?
 
@@ -13,14 +13,14 @@ The **G**raphics **I**nterchange **F**ormat has been around forever; it was orig
 
 ### Why use APNGs?
 
-The **A**nimated **P**ortable **N**etwork **G**raphics format was created in 2004 and is the second-most popular format for animated images to date; unlike GIFs, APNGs can reference up to 16,777,216 colours. Most — _but not all!_ — web browsers are capable of displaying APNG animations.² 
+The **A**nimated **P**ortable **N**etwork **G**raphics format was created in 2004 and is the second-most popular format for animated images to date; unlike GIFs, APNGs can reference up to 16,777,216 colours.¹ Most — _but not all!_ — web browsers are capable of displaying APNG animations.² 
 
 ### How are they made? 
 
 Creating APNGs is a fairly straight forward process (a quick web search will bring up numerous solutions), but unoptimised APNGs can often prove impractical due to their large file size; personally, I use [Max Stepin](https://sourceforge.net/u/maxst/profile)'s  [APNG Assemebler](https://apngasm.sourceforge.net) as it's both easy to install and optimises the files as part of the assembly process.³
 
 ---
-¹ While there's little doubt that [JPEG XL could easily blow APNG into the weeds](https://martbetz.github.io/photography/computing/2022/10/27/exploring-jpegxl.html), it's practically unintegrated at the time of writing. caniuse.com provides up-to-date statistics on [JPEG XL browser support](https://caniuse.com/?search=jxl).
+¹ Technically, [JPEG XL would blow APNG into the weeds](https://martbetz.github.io/photography/computing/2022/10/27/exploring-jpegxl.html); unfortunately, though, it's practically unintegrated at the time of writing. caniuse.com provides up-to-date statistics on [JPEG XL browser support](https://caniuse.com/?search=jxl).
 
 ² caniuse.com provides up-to-date statistics on [APNG web-browser support](https://caniuse.com/?search=apng).
 
