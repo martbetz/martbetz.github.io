@@ -38,7 +38,7 @@ I'm very pleased with them, personally, but why not judge for yourself?
 </p>
 </div>
 
-I've also uploaded a short [LCP test video](https://youtu.be/r3FstrYvvno) to YouTube (I've no idea why, but it's there if you want to see it).³ 
+<s>I've also uploaded a short [LCP test video](https://youtu.be/r3FstrYvvno) to YouTube (I've no idea why, but it's there if you want to see it).</s>³ 
 
 ### Great! Where are they? ###
 
