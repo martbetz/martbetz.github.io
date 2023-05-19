@@ -9,7 +9,7 @@ When it comes to basic animation, GIF has always been a solid choice; for the mo
 
 ### Why not use GIFs?
 
-The **G**raphics **I**nterchange **F**ormat has been around forever; it was origionally realeased in 1987&nbsp;— _that's 35 years ago, at the time of writing!_&nbsp;— and has remained a de facto standard ever since. The flexibility of GIFs are significantly limited, though; they can only reference a maximum of 256 colours.
+The **G**raphics **I**nterchange **F**ormat has been around forever; it was origionally realeased in 1987&nbsp;— _that's 35 years ago, at the time of writing!_&nbsp;— and has remained a de facto standard ever since. GIFs, however, are significantly limited in flexibility; they can only reference a maximum of 256 colours.
 
 ### Why use APNGs?¹
 
