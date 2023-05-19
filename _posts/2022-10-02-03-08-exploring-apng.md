@@ -7,7 +7,7 @@ tags: apng apngasm
 
 When it comes to basic web animation, GIF has always been a solid choice; for the most part, it's easily capable of getting the job done. For anything more demanding, though, APNG (at least for now) is likely the best option.
 
-### Why not use GIFs?
+### Why _not_ use GIFs?
 
 The **G**raphics **I**nterchange **F**ormat has been around forever; it was origionally realeased in 1987&nbsp;— _that's 35 years ago, at the time of writing!_&nbsp;— and has remained a de facto standard ever since. GIFs, however, are significantly limited in flexibility; they can only reference a maximum of 256 colours.
 
