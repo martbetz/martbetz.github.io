@@ -33,7 +33,7 @@ As far as image quality goes, I could see no discernible difference right accros
 
 ### When will adoption role out? ###
 
-JPEG XL has already been finalised, but it could take a while before it gains traction; none of the popular web browsers support it just yet (at least, not by default), but here's to hoping that changes very soon.⁴ ⁵
+JPEG XL has already been finalised, but it will likely take some time to gain significant traction; none of the popular web browsers support it just yet (at least, not by default), but here's to hoping that changes very soon.⁴ ⁵
 
 
 
