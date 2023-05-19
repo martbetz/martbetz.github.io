@@ -20,7 +20,7 @@ The **A**nimated **P**ortable **N**etwork **G**raphics format was created in 200
 Creating APNGs is a fairly straight forward process (a quick web search will bring up numerous solutions), but unoptimised APNGs can often prove impractical due to their large file size; personally, I use [Max Stepin](https://sourceforge.net/u/maxst/profile)'s  [APNG Assemebler](https://apngasm.sourceforge.net) as it's both easy to install and optimises the files as part of the assembly process.³
 
 ---
-¹ While [the potential of JPEG XL](https://martbetz.github.io/photography/computing/2022/10/27/exploring-jpegxl.html) most certainly blows APNG into the weeds,  it's practically unsuppoted at present (caniuse.com provides up-to-date statistics on [JPEG XL browser support](https://caniuse.com/?search=jxl)).
+¹ While [the potential of JPEG XL](https://martbetz.github.io/photography/computing/2022/10/27/exploring-jpegxl.html) blows APNG into the weeds (along with everything else for that matter), it hasn't been widely adopted just yet. (caniuse.com provides up-to-date statistics on [JPEG XL browser support](https://caniuse.com/?search=jxl)).
 
 ² caniuse.com provides up-to-date statistics on [APNG browser support](https://caniuse.com/?search=apng).
 
