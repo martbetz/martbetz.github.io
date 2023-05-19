@@ -13,7 +13,7 @@ The **G**raphics **I**nterchange **F**ormat has been around forever; it was orig
 
 ### Why use APNGs?
 
-The **A**nimated **P**ortable **N**etwork **G**raphics format was created in 2004 and is the second-most popular format for animated images to date; unlike GIFs, APNGs can reference up to 16,777,216 colours.¹ Most — _but not all!_ — web browsers are capable of displaying APNG animations.¹² 
+The **A**nimated **P**ortable **N**etwork **G**raphics format was created in 2004 and is the second-most popular format for animated images to date; unlike GIFs, APNGs can reference up to 16,777,216 colours. Most — _but not all!_ — web browsers are capable of displaying APNG animations.¹ ² 
 
 ### How are they made? 
 
