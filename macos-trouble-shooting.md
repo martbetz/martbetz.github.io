@@ -39,7 +39,7 @@ layout: page
 
 ### Issue: ###
 
-- the free space on a hard-drive needs to be securely erased
+- the free space on a mechanical hard-drive needs to be securely erased
 
 ### Solution: ###
 
@@ -61,6 +61,11 @@ layout: page
     
 <ul>    
 <li>if the name of the drive contains a space, precede it with <code>\</code>; for example, <code>diskutil secureErase freespace 4 /Volumes/Macintosh\ HD</code></li>
+</ul>
+
+<ul>
+<li>further info is available via the <a href="https://ss64.com/osx/diskutil.html">macOS diskutil reference guide</a> at <a href="s64.com">s64.com</a>
+</li>
 </ul>
 
 ---
