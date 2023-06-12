@@ -13,7 +13,7 @@ Installing [Python packages](https://packaging.python.org/en/latest/) with [pip]
 
 <h2>Why use pipx?</h2>
 
-[pipx](https://pypa.github.io/pipx/) installs each and every Python package within its own virtual environment; in turn, this completely removes the potential for such longer-term issues. 
+[pipx](https://pypa.github.io/pipx/) installs each and every Python package within its own virtual environment; in turn, this completely removes the potential for any long-term issues. 
 
 <h2>Great! Where can I find it?</h2>
 
