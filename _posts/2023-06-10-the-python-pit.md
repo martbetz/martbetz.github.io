@@ -7,7 +7,7 @@ layout: post
 
 Need a better installer for Python packages? pipx is a free and open-source application manager that's easy to set up, easy to use, and runs directly from the CLI — _no more ugly version clashes for YOU, my young Bob!_
 
-Installing [Python packages](https://packaging.python.org/en/latest/) with [pip](https://pip.pypa.io/en/stable/) is all well and good; until, that is, it isn't (for reasons that'll be discussed another day, this approach could potentially lead to system issues further down the line).¹
+Installing [Python packages](https://packaging.python.org/en/latest/) with [pip](https://pip.pypa.io/en/stable/) is all well and good; until, that is, it isn't (for reasons we'll discuss another day, installing via pip can potentially lead to system issues further down the line).¹
 
 Using [pipx](https://pypa.github.io/pipx/), packages are conveniently installed in a virtual (sandboxed) environment (think of it as a version of Flatpack that works for Python packages) where all of the hard work (creating the virtual environment, integrating the app within that environment, and adding the app's executable to the user's PATH) is done for you.
 
