@@ -13,7 +13,7 @@ Installing [Python packages](https://packaging.python.org/en/latest/) with [pip]
 
 <h2>Why use pipx?</h2>
 
-[pipx](https://pypa.github.io/pipx/) resolves these issues by installing each package within its own virtual (sandboxed) environment (think of it like a version of Flatpack that specifically works for Python packages). All of the hard work (creating the virtual environment, integrating the app within that environment, and adding the app's executable to the use automatically taken care of.
+[pipx](https://pypa.github.io/pipx/) installs each and every Python package within its own virtual environment; in turn, this completely removes the potential for such longer-term issues. 
 
 <h2>Great! Where can I find it?</h2>
 
