@@ -13,5 +13,9 @@ Using [pipx](https://pypa.github.io/pipx/), packages are conveniently installed 
 
 If you're running Linux (and why wouldn't you be? 😉), you'll likely find pipx in your distro's repo(s); if not (or if the repo version's outdated), you can find [pipx on pypi](https://pypi.org/project/pipx/). For macOS and Windows users, installation guides are available in the [pipx Github repo](https://github.com/pypa/pipx).
 
+---
+
+Welcome to 'the Python pit' (a term affectionately contrived by yours truely). I'll be covering these drawbacks further in a related future post.
+
 
 
