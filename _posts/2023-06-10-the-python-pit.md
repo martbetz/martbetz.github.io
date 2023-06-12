@@ -9,7 +9,7 @@ Need a better installer for Python packages? pipx is a free and open-source appl
 
 <h2>Why not use pip?</h2>
 
-[pip](https://pip.pypa.io/en/stable/) installs each [Python package](https://packaging.python.org/en/latest/) directly to the Python environment; while this works fine for the short term, problems can arise over time¹ 
+[pip](https://pip.pypa.io/en/stable/) installs each Python package directly to the Python environment; while this works fine for the short term, problems can arise over time¹ 
 
 <h2>Why use pipx?</h2>
 
