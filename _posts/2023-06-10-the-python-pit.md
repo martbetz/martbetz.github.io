@@ -21,7 +21,7 @@ Au contraire, my dear Bob; all of the hard work (the creation of environments, t
 
 ### Great! Where can I find it? ### 
 
-If you're running Linux (and why wouldn't you be? 😉), you'll likely find pipx in at least one of your distro's repos; if not (or if the lastest version isn't available), you can find [pipx on pypi](https://pypi.org/project/pipx/). For macOS and Windows users, installation guides are available in the [pipx Github repo](https://github.com/pypa/pipx).
+If you're running Linux (and why wouldn't you be? 😉), you'll likely find a package in the repos; if not (or if the lastest version isn't available), you can also find [pipx on pypi](https://pypi.org/project/pipx/). For macOS and Windows users, installation guides are available in the [pipx Github repo](https://github.com/pypa/pipx).
 
 ---
 
