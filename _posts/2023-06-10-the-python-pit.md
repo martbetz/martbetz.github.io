@@ -17,7 +17,7 @@ When it comes to Python, installing packages with pip is very common practice; d
 
 ### Is it harder to use? ###
 
-Au contraire, my dear Bob; all of the hard work (the creation of environments, the installation of apps, and the setup of executables) is automatically done in the background. pipx is as easy to use as pip.
+Au contraire, my dear Bob; all of the hard work (the creation of environments, the installation of apps, and the setup of executables) is automatically done in the background. pipx is just as easy to use as pip.
 
 ### Great! Where can I find it? ### 
 
