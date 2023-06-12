@@ -13,7 +13,7 @@ Need a better installer for Python packages? pipx is a free and open-source appl
 
 <h2>Why use pipx?</h2>
 
-[pipx](https://pypa.github.io/pipx/) installs each Python package to its own virtual environment; in turn, this completely removes the potential for any long-term issues. 
+[pipx](https://pypa.github.io/pipx/) installs each Python package to a seperate virtual environment; in turn, this completely removes the potential for any long-term issues. 
 
 <h2>Great! Where can I find it?</h2>
 
