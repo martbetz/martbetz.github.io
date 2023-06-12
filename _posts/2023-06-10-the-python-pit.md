@@ -11,11 +11,11 @@ Installing [Python packages](https://packaging.python.org/en/latest/) with [pip]
 
 Using [pipx](https://pypa.github.io/pipx/), packages are conveniently installed in a virtual (sandboxed) environment (think of it as a version of Flatpack that works for Python packages) where all of the hard work (creating the virtual environment, integrating the app within that environment, and adding the app's executable to the user's PATH) is done for you.
 
-If you're running Linux (and why wouldn't you be? 😉), you'll likely find pipx in your distro's repo(s); if not (or if the repo version's outdated), you can find [pipx on pypi](https://pypi.org/project/pipx/). For macOS and Windows users, installation guides are available in the [pipx Github repo](https://github.com/pypa/pipx).
+If you're running Linux (and why wouldn't you be? 😉), you'll likely find pipx in at least one of your distro's repos; if not (or if the lastest version isn't available), you can find [pipx on pypi](https://pypi.org/project/pipx/). For macOS and Windows users, installation guides are available in the [pipx Github repo](https://github.com/pypa/pipx).
 
 ---
 
-¹ Welcome to 'the Python pit' (a term affectionately contrived by yours truely). I'll be covering these drawbacks further in a related future post.
+¹ Welcome to 'the Python pit,' as I affectionately like to call it. I'll be covering these drawbacks further in a related future post.
 
 
 
