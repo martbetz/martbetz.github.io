@@ -1,5 +1,5 @@
 ---
-title: The Python Pit
+title: pipx
 categories: computing
 tags: python
 layout: post
