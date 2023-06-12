@@ -19,7 +19,7 @@ When it comes to Python, installing packages with pip is very common practice; d
 
 Au contraire, my dear Bob; all of the hard work (the creation of environments, the installation of apps, and the setup of executables) is automatically done in the background.
 
-### Great! Where can I find it? ###
+### Great! Where can I find it? ### 
 
 If you're running Linux (and why wouldn't you be? 😉), you'll likely find pipx in at least one of your distro's repos; if not (or if the lastest version isn't available), you can find [pipx on pypi](https://pypi.org/project/pipx/). For macOS and Windows users, installation guides are available in the [pipx Github repo](https://github.com/pypa/pipx).
 
