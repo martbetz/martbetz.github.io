@@ -9,11 +9,11 @@ Need a better installer for Python packages? pipx is a free and open-source appl
 
 <h2>Why not install using pip?</h2>
 
-Installing [Python packages](https://packaging.python.org/en/latest/) with [pip](https://pip.pypa.io/en/stable/) is all very well and good; until, that is, it isn't — _while everything works fine in the short term, problems can arise over time._ ¹ 
+[pip](https://pip.pypa.io/en/stable/) installs each [Python package](https://packaging.python.org/en/latest/) directly to the Python environment; while this works fine for the short term, problems can arise over time¹ 
 
 <h2>Why use pipx?</h2>
 
-[pipx](https://pypa.github.io/pipx/) installs each and every Python package within its own virtual environment; in turn, this completely removes the potential for any long-term issues. 
+[pipx](https://pypa.github.io/pipx/) installs each Python package to its own virtual environment; in turn, this completely removes the potential for any long-term issues. 
 
 <h2>Great! Where can I find it?</h2>
 
