@@ -5,7 +5,7 @@ tags: python
 layout: post
 ---
 
-When it comes to Python, installing packages with pip is very common practice; doing so, however, can come at a price. pipx is a free and open-source application manager that's easy to set up, easy to use, and runs directly from the CLI.
+When it comes to Python, installing packages with pip is very common practice; doing so, however, can come at a price. Alternatively, there's pipx: a free and open-source package manager that's purposely designed for the task at hand.
 
 ### Why not use pip? ###
 
