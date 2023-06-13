@@ -21,7 +21,7 @@ Au contraire, my dear Bob; all of the hard work (the creation of environments, t
 
 ### Great! Where can I find it? ### 
 
-If you're running Linux (and why wouldn't you be? 😉), you'll likely find a package in your local distro's software repo; if not (or if you prefer), you can either install it from the [pipx pypi repo](https://pypi.org/project/pipx/) or grab the source code directly via the [pipx Github repo](https://github.com/pypa/pipx). pipx is also available for macOS and Windows.
+If you're running Linux (and why wouldn't you be? 😉), you'll likely find a package in your distro's local software repo; if not (or if you prefer), you can either install it from the [pipx pypi repo](https://pypi.org/project/pipx/) or grab the source code directly via the [pipx Github repo](https://github.com/pypa/pipx). pipx is also available for macOS and Windows.
 
 ---
 
