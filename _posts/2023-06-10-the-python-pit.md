@@ -13,7 +13,7 @@ When it comes to Python, installing packages with pip is very common practice; d
 
 ### Why use pipx? ###
 
-[pipx](https://pypa.github.io/pipx/) installs each Python package to a _seperate virtual_ Python environment; in turn, this completely removes the potential for any long-term issues. 
+[pipx](https://pypa.github.io/pipx/) installs each Python package to a _seperate virtual_ Python environment; as such, this completely removes the potential for any long-term issues. 
 
 ### Is it harder to use? ###
 
