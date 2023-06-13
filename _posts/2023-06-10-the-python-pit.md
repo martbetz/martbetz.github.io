@@ -15,9 +15,9 @@ When it comes to Python, installing packages with pip is very common practice; d
 
 [pipx](https://pypa.github.io/pipx/) installs each Python package to a _seperate virtual_ Python environment; as such, this completely removes the potential for any long-term issues. 
 
-### Is it harder to use? ###
+### Does this make pipx harder to use? ###
 
-Au contraire, my dear Bob; all of the hard work (the creation of environments, the installation of apps, and the setup of executables) is automatically done in the background. pipx is just as easy to use as pip.
+Not at all; pipx is as easy to use as pip. All of the tricky stuff (the creation of environments, the installation of apps, and the setup of executables) is automatically done in the background. 
 
 ### Great! Where can I find it? ### 
 
