@@ -6,4 +6,6 @@ _I built a website, in a bar, with a Kindle! — WITH A FRICKING KINDLE! — Who
 
 ---
 
-Unless otherwise stated, all content is the copyright (©) of the author and may neither be redistributed nor reproduced (in full or in part) without the author's explicit prior consent; the title ("JPEG Junkie"), slogan ("An Affliction of Addiction to Obsessive Observation and the Prevailing Preservation Thereof!") and logo (<img src="/favicon.ico" alt="logo">) are the trademark (™) of the author.
+Unless otherwise stated, all content is the copyright (©) of the author and may neither be redistributed nor reproduced (in full or in part) without the author's explicit prior consent.
+
+The title ("JPEG Junkie"), slogan ("An Affliction of Addiction to Obsessive Observation and the Prevailing Preservation Thereof!") and logo (<img src="/favicon.ico" alt="logo">) are the trademark (™) of the author.
