@@ -5,7 +5,7 @@ categories: photography videography
 tags: diy akaso gopro lenses
 ---
 
-Why don't action cameras come with lens caps? It's absolutely crazy! I <i>would</i> say it's like buying a pair of shoes without laces, but even <i>that</i> would be an unfair analogy — <i>at least laces cheap, easy to find, and easy to get hold of!</i>¹
+Why don't action cameras come with lens caps? It's absolutely crazy! I <i>would</i> say it's like buying a pair of shoes without laces, but even <i>that</i> would be an unfair analogy — <i>at least they're cheap, easy to find, and easy to get hold of!</i>¹
 
 If you're lucky enough to own a 3D printer, you could always print your own;² I'm not, so I made one out of a bottle top — it didn't cost me a penny, _and_ I saved the life of a seagull. 😇
 
