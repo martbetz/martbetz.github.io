@@ -42,6 +42,6 @@ While I'm on the subject, it's great to see that Simon Forster's added some nice
 
 <p>UPDATE (08.07.2023): I've also made some button protectors from the feet of an old <a href="https://www.amazon.de/-/en/Logitech-Optical-Mouse-B100-810-003656/dp/B07KY3KJKH">Logitech mouse</a> — <i>they happened to fit perfectly, and now I can use the waterproof housing without getting the device all scratched up!</i> 🏆</p>
 <hr>
-¹ Not <i>all</i> shoes <i>need</i> laces, of course, but those aren't the kind I'm refering to here — so stop trying to ruin my day. 😉
+¹ Not <i>all</i> shoes <i>need</i> laces, of course, but those aren't the kind I'm refering to here — <i></i>so stop trying to ruin my day.</i> 😉
 <br>
 ² I found several <a href="https://www.thingiverse.com">solutions on Thingiverse</a> that may save you some time.
