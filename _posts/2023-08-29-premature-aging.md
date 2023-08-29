@@ -5,7 +5,7 @@ categories: photography
 tags: X-T10, Fujifilm, repair
 ---
 
-Notice the use of air quotes, here: the fact that my camera is 'getting up in years' is something I struggle to accept; I've had my X-T10 since 2015, and now the corollary of 'old age' has inevitability crept in.
+Notice the use of air quotes, here: the fact that my camera is 'getting up in years' is something I struggle to accept; I've had my X-T10 since 2015, and so the inevitable corollary of 'old age' has finally crept in.
 
 Everything I buy these days is cursed with  premature aging...
 
