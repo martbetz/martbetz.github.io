@@ -9,7 +9,7 @@ Notice the use of air quotes, here: the fact that my camera is 'getting up in ye
 
 Everything I buy these days is cursed with  premature aging...
 
-<center><b> This post is a work in progress and will be available very soon.</b></center>
+<center><b> This post is a work in progress<br>and will be available very soon.</b></center>
 
 <!-- Some of the lenses I use were made in the early 60s, well before we landed on the moon!
 
