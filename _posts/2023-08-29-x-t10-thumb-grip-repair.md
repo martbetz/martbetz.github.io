@@ -2,7 +2,7 @@
 title: XT-10 Thumb-Grip Repair
 layout: post
 categories: photography, repair
-tags: X-T10
+tags: X-T10, thumb grip
 ---
 
 Notice the use of air quotes, here: the fact that my camera is 'getting up in years' is something I struggle to accept; I've had my X-T10 since 2015, and — _much to my protest!_ — the inevitable corollary of 'old age' has started creeping in.
@@ -13,26 +13,16 @@ I was changing over the lens last week when I noticed the thumb grip had shifted
 
 ### How did you fix it? ###
 
-Re-attatching the thumb grip was a relatively simple repair, but using the right materials was fundamentally important; it was formally secured with bonding tape, but I couldn't tell for certain which type of tape was used ([replacement grips from Fujifilm](https://m.youtube.com/watch?v=cjHktODe0qU&pp=ygUQeC10MTAgdGh1bWIgZ3JpcA%3D%3D) have a generic transparent baking, and I couldn't find the info anywhere on the web). 
+Re-attatching the thumb grip was a relatively simple repair, but using the right materials was fundamentally important; it was formally secured with transfer tape, but I couldn't tell for certain which type of tape was used ([replacement grips from Fujifilm](https://m.youtube.com/watch?v=cjHktODe0qU&pp=ygUQeC10MTAgdGh1bWIgZ3JpcA%3D%3D) have a generic transparent baking, and I couldn't find the info anywhere on the web). 
 
 ### What did you use? ###
 
-After careful consideration, I found an ideal fit: [300LSE bonding tape](https://technicaldatasheets.3m.com/en_US?pif=000044?locale=en-US) by a company called 3M; it was hard to find and expensive, but ticked all the important boxes — _while a steadfast bond was critical, it had to be semi-permanent; fasteners that secure the housing are located directly beneath!_
+After careful consideration, I found an ideal fit: [300LSE transfer tape](https://technicaldatasheets.3m.com/en_US?pif=000044?locale=en-US) by a company called 3M; it was hard to find and expensive (here in the UK, at least), but ticked all the important boxes — _while a steadfast bond was critical, it had to be semi-permanent; fasteners that secure the thump-grip mount are located directly beneath!_
 
 ### How did you go about it? ###
 
-Of equal importance was the method...
+I removed the loose thumb grip and cleaned off all the all the residue; I used some soapy water on the thumb grip itself, and a cotton bud and cloth on the mount. Once clean and dry, everything was reassembled using the tape I'd cut to size.
 
-<center><b>*** This post is a work in progress<br>and will be available very soon. ***</b></center>
+### How is it holding up? ###
 
-<!-- Some of the lenses I use were made in the early 60s, well before we landed on the moon!
-
-... to 'geriatric jelly disorder' 
-
-
-
-I decided to tackle the most serious ailment first. Around a month ago, things took a turn for the worse, and the condition had progressed to full blown 'geriatric jelly disorder.' 
-
-The next thing to tackle is the loose thumb grip. 
-
-The original grip was fixed with double-sided transfer tape, so I decided to reattach it with some [3M 300SLE](https://technicaldatasheets.3m.com/en_US?pif=000044?locale=en-US) — _this stuff is both difficult to find and expensive, but (as is the case with most camera repairs) any attempt at a compromise will likely result in failure._ -->
+The adhesive strengthens with time, so I'll post an update soon; as a precaution, though, I'll try to get hold of some spares.
