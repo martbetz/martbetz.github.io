@@ -13,7 +13,7 @@ I was changing over the lens last week when I noticed the thumb grip had shifted
 
 ### How did you fix it? ###
 
-Re-attatching the thumb grip was a relatively easy to do, but using the right materials was fundamentally important; it was formally secured with transfer tape, but I couldn't tell for certain which type of tape was used ([replacement grips from Fujifilm](https://m.youtube.com/watch?v=cjHktODe0qU&pp=ygUQeC10MTAgdGh1bWIgZ3JpcA%3D%3D) have a generic transparent baking, and I couldn't find the info anywhere on the web). 
+Re-attatching the thumb grip was relatively easy to do, but using the right materials was fundamentally important; it was formally secured with transfer tape, but I couldn't tell for certain which type of tape was used ([replacement grips from Fujifilm](https://m.youtube.com/watch?v=cjHktODe0qU&pp=ygUQeC10MTAgdGh1bWIgZ3JpcA%3D%3D) have a generic transparent baking, and I couldn't find the info anywhere on the web). 
 
 ### What did you use? ###
 
