@@ -9,7 +9,7 @@ Notice the use of air quotes, here: the fact that my camera is 'getting up in ye
 
 ### What's happened? ###
 
-I was changing over the lens last week when I noticed the thumb grip had shifted; the fixing had failed over time, so an an urgent repair was in order — _[lost Fuji tumb grips](https://www.dpreview.com/forums/thread/4343992) are an anoyingly common problem!_
+I was changing over the lens last week when I noticed the thumb grip had shifted; the fixing had failed over time, so an urgent repair was in order — _[lost Fuji tumb grips](https://www.dpreview.com/forums/thread/4343992) are an anoyingly common problem!_
 
 ### How did you fix it? ###
 
