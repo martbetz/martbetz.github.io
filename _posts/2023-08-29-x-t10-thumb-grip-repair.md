@@ -13,7 +13,7 @@ I was changing over the lens last week when I noticed the thumb grip had shifted
 
 ### How did you fix it? ###
 
-Re-attatching the thumb grip was relatively easy to do, but choosing the right adhesive was very important; it was formally secured with transfer tape, but I couldn't tell for certain which type of tape was used ([replacement grips from Fujifilm](https://m.youtube.com/watch?v=cjHktODe0qU&pp=ygUQeC10MTAgdGh1bWIgZ3JpcA%3D%3D) have a generic transparent baking, and I couldn't find the info anywhere on the web). 
+Re-attatching the thumb grip was relatively easy to do, but choosing the right adhesive required some careful thought; it was formally secured with transfer tape, but I couldn't tell for certain exactly which tape was used ([replacement grips from Fujifilm](https://m.youtube.com/watch?v=cjHktODe0qU&pp=ygUQeC10MTAgdGh1bWIgZ3JpcA%3D%3D) have a generic transparent baking, and I couldn't find the info anywhere on the web). 
 
 ### What did you use? ###
 
@@ -25,4 +25,4 @@ I removed the loose thumb grip and cleaned off all the all the residue; I used s
 
 ### How's it holding up? ###
 
-The adhesive strengthens with time, so I'll post an update soon; as a precaution, though, I'll try to get hold of some spares.
+The adhesive strengthens with time, so I'll post an update soon; as a precaution, though, I'll try to get hold of some [replacement X-T10/XT-20 thumb grips](https://www.ebay.co.uk/sch/i.html?_from=R40&_trksid=p2047675.m570.l1313&_nkw=fuji+x-t10+thumb+grip&_sacat=0) from ebay — _the last time I contacted Fujifilm, they told me they didn't sell spares; instead, they offered to fit one... for £160!_ 😲
