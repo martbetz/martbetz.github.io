@@ -9,11 +9,11 @@ Notice the use of air quotes, here: the fact that my camera is 'getting up in ye
 
 ### What's happened? ###
 
-I was changing over the lens last week when I noticed the thumb grip had shifted; the fixing had failed over time, so an obvious fix was in order — _[lost Fuji tumb grips](https://www.dpreview.com/forums/thread/4343992) are an anoyingly common problem!_
+I was changing over the lens last week when I noticed the thumb grip had shifted; the fixing had failed over time, so an an urgent repair was in order — _[lost Fuji tumb grips](https://www.dpreview.com/forums/thread/4343992) are an anoyingly common problem!_
 
 ### How did you fix it? ###
 
-Re-attatching the thumb grip was a relatively simple repair, but using the right materials was fundamentally important; it was formally secured with transfer tape, but I couldn't tell for certain which type of tape was used ([replacement grips from Fujifilm](https://m.youtube.com/watch?v=cjHktODe0qU&pp=ygUQeC10MTAgdGh1bWIgZ3JpcA%3D%3D) have a generic transparent baking, and I couldn't find the info anywhere on the web). 
+Re-attatching the thumb grip was a relatively easy to do, but using the right materials was fundamentally important; it was formally secured with transfer tape, but I couldn't tell for certain which type of tape was used ([replacement grips from Fujifilm](https://m.youtube.com/watch?v=cjHktODe0qU&pp=ygUQeC10MTAgdGh1bWIgZ3JpcA%3D%3D) have a generic transparent baking, and I couldn't find the info anywhere on the web). 
 
 ### What did you use? ###
 
