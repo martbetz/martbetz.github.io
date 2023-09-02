@@ -11,7 +11,7 @@ Notice the use of air quotes, here: the fact that my camera is 'getting up in ye
 
 I was changing over the lens last week when I noticed the thumb grip had shifted; it had worked it's way loose from the body, so a fix was obviously in order ([lost Fuji tumb grips](https://www.dpreview.com/forums/thread/4343992) are apparently a common problem).
 
-### How did you fix it? ###
+### How'd you fix it? ###
 
 Re-attatching the thumb grip was a relatively simple repair, but using the right materials was fundamentally important; it was formally secured with transfer tape, but I couldn't tell for certain which type of tape was used ([replacement grips from Fujifilm](https://m.youtube.com/watch?v=cjHktODe0qU&pp=ygUQeC10MTAgdGh1bWIgZ3JpcA%3D%3D) have a generic transparent baking, and I couldn't find the info anywhere on the web). 
 
@@ -19,10 +19,10 @@ Re-attatching the thumb grip was a relatively simple repair, but using the right
 
 After careful consideration, I found an ideal fit: [300LSE transfer tape](https://technicaldatasheets.3m.com/en_US?pif=000044?locale=en-US) by a company called 3M; it was hard to find and expensive (here in the UK, at least), but ticked all the important boxes — _while a steadfast bond was critical, it had to be semi-permanent; fasteners that secure the thump-grip mount are located directly beneath!_
 
-### How did you go about it? ###
+### How'd you go about it? ###
 
 I removed the loose thumb grip and cleaned off all the all the residue; I used some soapy water on the thumb grip itself, and a cotton bud and cloth on the mount. Once clean and dry, everything was reassembled using the tape I'd cut to size.
 
-### How is it holding up? ###
+### How's it holding up? ###
 
 The adhesive strengthens with time, so I'll post an update soon; as a precaution, though, I'll try to get hold of some spares.
