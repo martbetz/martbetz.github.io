@@ -21,7 +21,7 @@ After careful consideration, I found an ideal fit: [300LSE transfer tape](https:
 
 ### How did you go about it? ###
 
-I removed the loose thumb grip and cleaned off all the residue; I used some soapy water on the thumb grip itself, and a cotton bud and cloth on the mount. Once clean and dry, everything was re-secured using the tape I'd cut to size.
+I removed the loose thumb grip and cleaned off all the residue; I used some soapy water on the thumb grip itself, and a cotton bud and cloth on the mount. Once clean and dry, it was all put back together with the tape I'd cut to size.
 
 ### How's it holding up? ###
 
