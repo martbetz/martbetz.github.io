@@ -11,7 +11,7 @@ Notice the use of air quotes, here: the fact that my camera is 'getting up in ye
 
 I was changing over the lens last week when I noticed the thumb grip had shifted; the fixing had failed over time, so an urgent repair was in order — _[lost Fuji thumb grips](https://www.dpreview.com/forums/thread/4343992) are an anoyingly common problem!_
 
-### How did you fix it? ###
+### Could you fix it? ###
 
 Re-attatching the thumb grip was relatively easy to do, but choosing the right adhesive required some careful thought; it was formally secured with transfer tape, but I couldn't tell for certain exactly which tape was used ([replacement grips from Fujifilm](https://m.youtube.com/watch?v=cjHktODe0qU&pp=ygUQeC10MTAgdGh1bWIgZ3JpcA%3D%3D) have a generic transparent baking, and I couldn't find the info anywhere on the web). 
 
