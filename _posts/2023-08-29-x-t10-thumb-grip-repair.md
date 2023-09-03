@@ -29,4 +29,4 @@ The adhesive strengthens with time, so I'll post an update soon. In the meantime
 
 ---
 
-¹ £156, to be exact; at least this was still an option, though. 😊
+¹ £156, to be exacat, but at least this is still an option (the price includes all taxes, all parts and labour, full postage and packing, and a twelve-month warranty). 😊
