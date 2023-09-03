@@ -29,4 +29,4 @@ The adhesive strengthens with time, so I'll post an update soon. In the meantime
 
 ---
 
-¹ Tankfully, though, at least this was still an option. 😊
+¹ At least this is still an option, though. 😊
