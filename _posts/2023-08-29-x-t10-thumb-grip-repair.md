@@ -21,7 +21,7 @@ After a bit of research, I found an ideal fit: [300LSE transfer tape](https://te
 
 ### How did you go about it? ###
 
-I disassembled the parts and cleaned off all the residue (using soapy water on the thumb grip, and a cotton bud and cloth on the mount). Once clean and dry, it was all put back together with the tape I'd cut to size.
+I disassembled the parts and cleaned off all the residue (using soapy water on the thumb grip, and a cotton bud and cloth on the mount). Once clean and dry, it was all put back together with the tape I'd cut to size.¹
 
 ### How's it holding up? ###
 
@@ -29,4 +29,6 @@ The adhesive strengthens with time, so I'll post an update soon. In the meantime
 
 ---
 
-¹ £156, to be exact, but at least it's still an option (the price includes all taxes, all parts and labour, full postage and packing, and a twelve-month warranty). 😊
+¹ Once I've refined the process, I'll put together a guide.
+
+² £156, to be exact, but at least it's still an option (the price includes all taxes, all parts and labour, full postage and packing, and a twelve-month warranty). 😊
