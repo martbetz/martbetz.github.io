@@ -29,4 +29,4 @@ The adhesive strengthens with time, so I'll post an update soon. In the meantime
 
 ---
 
-¹ At least this is still an option, though. 😊
+¹ £156, to be exact; at least this was still an option, though. 😊
