@@ -25,7 +25,7 @@ I removed the loose thumb grip and cleaned off all the all the residue; I used s
 
 ### How's it holding up? ###
 
-The adhesive strengthens with time, so I'll post an update soon. As precaution, I've also ordered some [replacement X-T10/XT-20 thumb grips](https://www.ebay.co.uk/sch/i.html?_from=R40&_trksid=p2047675.m570.l1313&_nkw=fuji+x-t10+thumb+grip&_sacat=0) from ebay; [I tried reaching out to Fujifilm, but they told me they didn't sell spares](https://discuss.pixls.us/t/stupid-is-as-stupid-does/35594/49?u=martbetz) (I could still get fix and full service, but this would have cost £156).¹
+The adhesive strengthens with time, so I'll post an update soon. As a precaution, I've also ordered some [replacement X-T10/XT-20 thumb grips](https://www.ebay.co.uk/sch/i.html?_from=R40&_trksid=p2047675.m570.l1313&_nkw=fuji+x-t10+thumb+grip&_sacat=0) from ebay; [I tried reaching out to Fujifilm, but they told me they didn't sell spares](https://discuss.pixls.us/t/stupid-is-as-stupid-does/35594/49?u=martbetz) (I could still get fix and full service, but this would have cost £156).¹
 
 ---
 
