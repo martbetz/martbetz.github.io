@@ -17,7 +17,7 @@ Re-attatching the thumb grip was relatively easy to do, but choosing the right a
 
 ### What did you use? ###
 
-After a bit of research, I found an ideal fit: [300LSE transfer tape](https://technicaldatasheets.3m.com/en_US?pif=000044?locale=en-US) by a company called 3M; it was hard to find and expensive (here in the UK, at least), but ticked all the important boxes — _while a steadfast bond was critical, it had to be semi-permanent; fasteners fixed to the body are located directly beneath!_
+After a bit of research, I found an ideal fit: [300LSE transfer tape](https://technicaldatasheets.3m.com/en_US?pif=000044?locale=en-US) by a company called 3M; it was hard to find and somewhat expensive (here in the UK, at least), but it certainly ticked all the boxes — _while a steadfast bond was critical, it had to be semi-permanent; fasteners fixed to the body are located directly beneath!_
 
 ### How did you go about it? ###
 
