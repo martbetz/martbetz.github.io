@@ -25,7 +25,7 @@ I disassembled the parts and cleaned off all the residue (using soapy water on t
 
 ### How's it holding up? ###
 
-The adhesive strengthens with time, so I'll post an update soon. In the meantime, I've ordered extra [X-T10/XT-20 thumb grips](https://www.ebay.co.uk/sch/i.html?_from=R40&_trksid=p2047675.m570.l1313&_nkw=fuji+x-t10+thumb+grip&_sacat=0) from ebay (just in case); I tried [reaching out to Fujifilm](https://discuss.pixls.us/t/stupid-is-as-stupid-does/35594/49?u=martbetz), but they told me they didn't sell spares (I was offered a [fix and full service](https://repairs.fujifilm.eu/en/pricing/?prodgroup=3), but it obviously cost a lot more).¹
+The adhesive strengthens with time, so I'll post an update soon. In the meantime, I've ordered extra [X-T10/XT-20 thumb grips](https://www.ebay.co.uk/sch/i.html?_from=R40&_trksid=p2047675.m570.l1313&_nkw=fuji+x-t10+thumb+grip&_sacat=0) from ebay (just in case).²
 
 Upadate (20.10.2023): The fix is ok but not perfect; the adhesive still tends to loosen. I may try adding more tape, or I may try using some [Pliobond®](https://ruscoe.com/products/adhesives/).
 
@@ -33,4 +33,4 @@ Upadate (20.10.2023): The fix is ok but not perfect; the adhesive still tends to
 
 ¹ Once I've refined the process, I'll put together a guide.
 
-² £156, to be exact, but at least it's still an option (the price includes all taxes, all parts and labour, full postage and packing, and a twelve-month warranty). 😊
+² I tried [reaching out to Fujifilm](https://discuss.pixls.us/t/stupid-is-as-stupid-does/35594/49?u=martbetz), but they told me they didn't sell spares; I was offered a [fix and full service](https://repairs.fujifilm.eu/en/pricing/?prodgroup=3), but it obviously cost a lot more (£156, to be exact, but at least it's still an option; the price includes all taxes, all parts and labour, full postage and packing, and a twelve-month warranty). 😊
