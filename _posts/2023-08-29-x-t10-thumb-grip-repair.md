@@ -33,4 +33,4 @@ Upadate (20.10.2023): The fix is ok but not perfect; the adhesive still tends to
 
 ¹ Once I've refined the process, I'll put together a guide.
 
-² I tried [reaching out to Fujifilm](https://discuss.pixls.us/t/stupid-is-as-stupid-does/35594/49?u=martbetz), but they told me they didn't sell spares. I was offered a [fix and full service](https://repairs.fujifilm.eu/en/pricing/?prodgroup=3), but it obviously cost a lot more; £156, to be exact, but at least it's still an option.
+² I tried [reaching out to Fujifilm](https://discuss.pixls.us/t/stupid-is-as-stupid-does/35594/49?u=martbetz), but they told me they didn't sell spares (instead, I was offered a  [fix and full service](https://repairs.fujifilm.eu/en/pricing/?prodgroup=3), for £156; at least it's still an option, though, and the price includes a warranty).
