@@ -1,5 +1,5 @@
 ---
-title: Custom Parts
+title: Home Made
 layout: post
 categories: repair diy phototography
 tags: repair diy photography
