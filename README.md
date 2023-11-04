@@ -2,7 +2,7 @@ This is the [Jekyll](https://jekyllrb.com) source code for my personal website w
 
 ---
 
-_I built a website, in a bar, with a Kindle! — WITH A FRICKING KINDLE! — Who the hell can DO that?!_ 😉
+_I built a website, in a bar, with a Kindle! — WITH A FRICKING KINDLE! — Who the hell can DO that?!_ 😎
 
 ---
 
