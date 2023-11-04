@@ -10,6 +10,4 @@ Unless otherwise stated, all content is the copyright (©) of the author and may
 
 The title ("JPEG Junkie"), slogan ("An Affliction of Addiction to Obsessive Observation and the Prevailing Preservation Thereof!") and logo (<img src="/favicon.ico" alt="logo">) are the trademark (™) of the author.
 
-Opinions expressed by the author are solely representational of independent observation and experience — *the author does not promote such opinions as absolute; however, the author does reserve the right to present such opinions without prejudice.*
-
-All content is reflective of style; for example, humorous and/or hyperbolic statements are exclusively intended as such — *the author does not promote such statements as literal and accepts no responsibility should any misinterpretation arise.*
+[martbetz.github.io - Legalities](https://martbetz.github.io/terms-and-conditions.html#terms)
