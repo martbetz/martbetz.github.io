@@ -1,4 +1,4 @@
-This is the [Jekyll](https://jekyllrb.com) source code for my personal website which was built using a fork of the [minima](https://github.com/jekyll/minima) Jekyll theme; it's hosted by GitHub Pages as [martbetz.github.io](martbetz.github.io).
+This is the [Jekyll](https://jekyllrb.com) source code for my personal website; it was built using a fork of the [minima](https://github.com/jekyll/minima) Jekyll theme and is hosted by GitHub Pages as [martbetz.github.io](martbetz.github.io).
 
 Unless otherwise stated, all content is the copyright (©) of the author and may neither be redistributed nor reproduced (in full or in part) without the author's explicit prior consent.
 
