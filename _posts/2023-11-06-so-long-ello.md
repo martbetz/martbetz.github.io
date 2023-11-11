@@ -11,7 +11,7 @@ Well, paint me orange and call me Donald! I went to sign in around lunch time, b
 
 As I understand it, here's the order of chaos:
 
-- 22 June – service goes offline without notice
+- 18 June – service goes offline without notice
 - 04 July – service is resumed without comment
 - 27 July – service goes offline without notice
 
