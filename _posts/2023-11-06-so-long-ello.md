@@ -21,6 +21,8 @@ Ah, well...
 
 So long, [Ello](https://en.m.wikipedia.org/wiki/Ello_(social_network)), and thanks for all the fish.
 
+[To the Fediverse!](https://www.fediverse.to)
+
 <hr>
 
 ¹ Courtesy of a Cloudflare 1016 error, at the current time of writing.
