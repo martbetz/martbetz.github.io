@@ -29,5 +29,5 @@ So long, [Ello](https://en.m.wikipedia.org/wiki/Ello_(social_network)), and than
 
 <hr>
 
-¹ Courtesy of a Cloudflare 1016 error, at the current time of writing.
+¹ Courtesy of a Cloudflare 1016 error (at the current time of writing).
 
