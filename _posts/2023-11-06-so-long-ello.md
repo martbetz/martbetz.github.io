@@ -12,7 +12,7 @@ Well, paint me orange and call me Donald! I went to sign in around lunch time, b
 As I understand it, here's the order of chaos:
 
 - 22 June – service goes offline without notice
-- 04 July – service is resumed with no explanation of downtime
+- 04 July – service is resumed without comment
 - 27 July – service goes offline without notice
 
 So that's most definately that, then, or so it apparently seems: [try to access the website](https://www.ello.co); be dealt the digit of doom!¹
