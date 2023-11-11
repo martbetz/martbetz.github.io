@@ -7,7 +7,7 @@ tags: ello website hosting
 
 Well, paint me orange and call me Donald! I went to sign in around lunch time, but the website's just no longer there! So what gives? Will it be back? Where's all my suff? Ello has left the building — _and without so much as a dicky bird!_ 😲 
 
-### Who's doing what, now? ###
+<h3>Who's doing what, now?</h3>
 
 As I understand it, here's the order of chaos:
 
@@ -17,7 +17,7 @@ As I understand it, here's the order of chaos:
 
 So that's most definately that, then, or so it apparently seems: [try to access the website](https://www.ello.co); be dealt the digit of doom!¹
 
-### What Next? ###
+<h3>What Next?</h3>
 
 For a great many users of Ello, here was [a lesson hard learned](https://danthornton.net/2023/06/is-it-goodbye-to-ello-another-niche-network-gone/#comment-34580). I planned to host all of my shots there, along with a few other things (having not used it for ages, it sort of made practical sense). Speaking with blessings of hindsight, I was saved by my bone-idle butt; had I been otherwise minded...
 
