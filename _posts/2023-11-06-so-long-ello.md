@@ -23,7 +23,7 @@ For a great many users of Ello, here was [a lesson hard learned](https://danthor
 
 Ah, well... 
 
-So long, [Ello](https://en.m.wikipedia.org/wiki/Ello_(social_network)), and thanks for all the fish (among other things).
+So long, [Ello](https://en.m.wikipedia.org/wiki/Ello_(social_network)), and thanks for all the fish (and a great many other such weird and wonderful things).
 
 [To the Fediverse!](https://www.fediverse.to)
 
