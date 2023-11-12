@@ -5,7 +5,7 @@ categories: photography
 tags: ello website hosting
 ---
 
-Well, paint me orange and call me Donald! I went to sign in around lunch time, but the website's just no longer there! What gives? Will it be back? Where's all my suff? Ello has left the building, folks — _and without so much as a dicky!_ 😲 
+Well, paint me orange and call me Donald! I went to sign in around lunch time, but the website's no longer there! What gives? Will it be back? Where's all my suff? Ello has left the building, folks — _and without so much as a dicky!_ 😲 
 
 <h3>Who's doing what, now?</h3>
 
@@ -19,7 +19,7 @@ So that's most definately that, then, or so it apparently seems&nbsp;— _[try t
 
 <h3>What Next?</h3>
 
-For a great many users of Ello, here was [a lesson hard learned](https://danthornton.net/2023/06/is-it-goodbye-to-ello-another-niche-network-gone/#comment-34580). I&nbsp;planned to host all of my shots there, along side my digital art (having never been put to good use, it sort of made practical sense). Speaking with blessings of hindsight, I was saved by my bone-idle butt; had I been otherwise inclined...
+For a great many users of Ello, here was [a lesson hard learned](https://danthornton.net/2023/06/is-it-goodbye-to-ello-another-niche-network-gone/#comment-34580). I&nbsp;planned to host all of my shots there, along side my digital art (having never been put to good use, it sort of made practical sense). Speaking with blessings of hindsight, I was saved by my bone-idle butt; had I been otherwise inclined... 😬
 
 Ah, well... 
 
