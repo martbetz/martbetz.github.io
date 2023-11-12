@@ -23,7 +23,7 @@ Sadly, for a great many users of Ello, here lies [a lesson hard learned](https:/
 
 Ah, well... 
 
-So long, [Ello](https://en.m.wikipedia.org/wiki/Ello_(social_network)), and thanks for all the fish (as well as all your other outlandish and crazy crap). I'm off [to the Fediverse](https://www.fediverse.to)!
+So long, [Ello](https://en.m.wikipedia.org/wiki/Ello_(social_network)), and thanks for all the fish (as well as all your other outlandish and crazy crap). I'm blogging off [to the Fediverse](https://www.fediverse.to)!
 
 <hr>
 
