@@ -15,15 +15,15 @@ As I understand it, here's the order of chaos:
 - 04 July – service is resumed without comment
 - 27 July – service goes offline without notice
 
-So that's most certainly that, then, or so it apparently seems&nbsp;— _if&nbsp;you [try to access the website](https://www.ello.co), you'll be served the middle digit!_ ¹
+<!--So that's most certainly that, then, or so it apparently seems&nbsp;— _if&nbsp;you [try to access the website](https://www.ello.co), you'll be served the middle digit!_ ¹-->
+
+So that’s that, then, or so it apparently seems; if you [try to access the website](https://www.ello.co), you’ll be served the middle digit!¹ With the cruel gift of hindsight, here lies a lesson hard learned (I only escaped all the carnage by the skin of my bone-idle butt). 😬
 
 <h3>What Next?</h3>
 
 <!--Sadly, for a great many users of Ello, here lies [a lesson hard learned](https://danthornton.net/2023/06/is-it-goodbye-to-ello-another-niche-network-gone/#comment-34580). I&nbsp;was going to host all my shots there, along side my digital art (I already had an account, so it somewhat made practical sense). Preaching with blessings of hindsight, I was saved by my bone-idle butt; had I been otherwise inclined... 😬-->
 
-Preaching with the gift of hindsight, here lies [a lesson hard learned](https://danthornton.net/2023/06/is-it-goodbye-to-ello-another-niche-network-gone/#comment-34580) (I only escaped all the carnage by the skin of my bone-idle butt). 😬 I planned to use Ello to host all my photos and  some of my digital art (I already had an account that I never really used, so I thought it made practical sense). 
-
-Anyway, I'm counting up my blessings and I'm busy looking elsewhere.
+I planned to use Ello to host all my photos and some of my digital art (I already had an account that I never really used, so I thought it made practical sense). Anyway, I'm counting up my blessings and I'm busy looking elsewhere.
 
 So long, [Ello](https://en.m.wikipedia.org/wiki/Ello_(social_network)), and thanks for all the fish (as well as all your other outlandish and crazy crap). 😉 I'm blogging off [to the Fediverse](https://www.fediverse.to)!
 
