@@ -29,5 +29,5 @@ Not to worry; I’m counting up all of my blessings and I’m blogging off [to t
 
 <hr>
 
-¹ Courtesy of a Cloudflare 1016 error (at the current time of writing).
+¹ All courtesy of a charming Cloudflare 1016 error, at the current time of writing.
 
