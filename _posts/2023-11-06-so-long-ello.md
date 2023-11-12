@@ -25,7 +25,7 @@ So that’s that, then, or so it seems; if you [try to access the website](htt
 
 I planned on using Ello to host my photos and artwork (or anthing else of appeciative size I could then embed on this site); I already had an account that I never really used, so I thought it made practical sense. I also enjoyed the company.
 
-Anyway, I’m counting up all my blessings and I’m blogging off [to the Fediverse](https://www.fediverse.to)! So long, [Ello](https://en.m.wikipedia.org/wiki/Ello_(social_network)), and thanks for all the fish (as well as all the other outlandish and crazy crap). 😉 
+Not to worry; I’m counting up my blessings and I’m blogging off [to the Fediverse](https://www.fediverse.to)! So long, [Ello](https://en.m.wikipedia.org/wiki/Ello_(social_network)), and thanks for all the fish (as well as all the other outlandish and crazy crap). 😉 
 
 <hr>
 
