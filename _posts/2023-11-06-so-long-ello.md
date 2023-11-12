@@ -19,11 +19,11 @@ So that's most certainly that, then, or so it apparently seems&nbsp;— _if&nbsp
 
 <h3>What Next?</h3>
 
-Sadly, for a great many users of Ello, here lies [a lesson hard learned](https://danthornton.net/2023/06/is-it-goodbye-to-ello-another-niche-network-gone/#comment-34580). I&nbsp;was going to host all my shots there, along with my digital art (I already had an account, so it somewhat made practical sense). Speaking with blessings of hindsight, I was saved by my bone-idle butt; had I been otherwise inclined... 😬
+Sadly, for a great many users of Ello, here lies [a lesson hard learned](https://danthornton.net/2023/06/is-it-goodbye-to-ello-another-niche-network-gone/#comment-34580). I&nbsp;was going to host all my shots there, along side my digital art (I already had an account, so it somewhat made practical sense). Speaking with blessings of hindsight, I was saved by my bone-idle butt; had I been otherwise inclined... 😬
 
 Ah, well... 
 
-So long, [Ello](https://en.m.wikipedia.org/wiki/Ello_(social_network)), and thanks for all the fish (as well as all your other outlandish and crazy crap). I'm blogging off [to the Fediverse](https://www.fediverse.to)!
+So long, [Ello](https://en.m.wikipedia.org/wiki/Ello_(social_network)), and thanks for all the fish (as well as all your other outlandish and crazy crap). 😉 I'm blogging off [to the Fediverse](https://www.fediverse.to)!
 
 <hr>
 
