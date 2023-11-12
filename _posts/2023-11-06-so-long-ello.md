@@ -19,7 +19,7 @@ So that's most definately that, then, or so it apparently seems&nbsp;— _[try t
 
 <h3>What Next?</h3>
 
-Sadly, for a great many users of Ello, here lies [a lesson hard learned](https://danthornton.net/2023/06/is-it-goodbye-to-ello-another-niche-network-gone/#comment-34580). I&nbsp;planned to host all of my shots there, along side my digital art (I already had an account, so to me it made practical sense). Speaking with blessings of hindsight, I was saved (yet again) by my bone-idle butt; had I been otherwise inclined... 😬
+Sadly, for a great many users of Ello, here lies [a lesson hard learned](https://danthornton.net/2023/06/is-it-goodbye-to-ello-another-niche-network-gone/#comment-34580). I&nbsp;was going to host all my shots there, along with my digital art (I already had an account, so to me it made practical sense). Speaking with blessings of hindsight, I was saved (yet again) by my bone-idle butt; had I been otherwise inclined... 😬
 
 Ah, well... 
 
