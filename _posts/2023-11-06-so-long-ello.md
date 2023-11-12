@@ -15,7 +15,7 @@ As I understand it, here's the order of chaos:
 - 04 July – service is resumed without comment
 - 27 July – service goes offline without notice
 
-So that's most definately that, then, or so it apparently seems&nbsp;— _[try to access the website](https://www.ello.co), and be dealt the mid-digit of doom!_ ¹
+So that's most definately that, then, or so it apparently seems&nbsp;— _[try to access the website](https://www.ello.co), and be dealt a mid-digit of doom!_ ¹
 
 <h3>What Next?</h3>
 
