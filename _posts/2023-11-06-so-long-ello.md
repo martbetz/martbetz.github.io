@@ -5,7 +5,7 @@ categories: photography
 tags: ello website hosting
 ---
 
-Well, paint me orange and call me Donald! I went to sign in around lunch time, but the website is no longer there! What gives? Will it be back? Where's all my suff? Ello has left the building — _and without so much as a dicky!_&nbsp;😲 
+Well, paint me orange and call me Donald! I went to sign in around lunch time, but the website's no longer there! What gives? Will it be back? Where's all my suff? Ello has left the building — _and without so much as a dicky!_&nbsp;😲 
 
 <h3>Who's doing what, now?</h3>
 
