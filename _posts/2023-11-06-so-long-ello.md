@@ -9,7 +9,7 @@ Well, paint me orange and call me Donald; I went to sign in around lunch time, b
 
 <div>
 <center>
-<img src="https://raw.githubusercontent.com/martbetz/martbetz.github.io/main/_includes/custom/ello-sad.png" style="padding-top: 15px;" class="align-center" alt="So long, Ello!" width="360"></a>
+<img src="https://raw.githubusercontent.com/martbetz/martbetz.github.io/main/_includes/custom/ello-sad.png" style="padding-top: 15px;" class="align-center" alt="So long, Ello!" width="320">
 </center>
 </div>
 
