@@ -7,6 +7,12 @@ tags: ello website hosting
 
 Well, paint me orange and call me Donald; I went to sign in around lunch time, but the website's just no longer there! What gives? Will it be back? Where's all me suff? Ello has left the building — _and without so much as a dicky!_&nbsp;😲 
 
+<div>
+<center>
+<img src="https://raw.githubusercontent.com/martbetz/martbetz.github.io/main/_includes/custom/ello-sad.png" style="padding-top: 15px;" class="align-center" alt="So long, Ello!" width="360"></a>
+</center>
+</div>
+
 <h3>Who's doing what, now?</h3>
 
 As I understand it, here's the order of chaos:
