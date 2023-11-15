@@ -23,7 +23,7 @@ So that’s that, then, I suppose; if you [try to access the website](https://
 
 <!--Sadly, for a great many users of Ello, here lies [a lesson hard learned](https://danthornton.net/2023/06/is-it-goodbye-to-ello-another-niche-network-gone/#comment-34580). I&nbsp;was going to host all my shots there, along side my digital art (I already had an account, so it somewhat made practical sense). Preaching with blessings of hindsight, I was saved by my bone-idle butt; had I been otherwise inclined... 😬-->
 
-I planned on using Ello to host my photos and artwork (or anthing else of appeciative size I could then embed on this site); I already had an account that I never really used, so I thought it made practical sense (I also liked its simplicity).
+I planned on using Ello to host my photos and artwork (or anthing else of appeciative size I could then embed on this site); I already had an account that I never really used, so I thought it made practical sense. I also liked its simplicity.
 
 Not to worry; I’m counting up all of my blessings and I’m blogging off [to the Fediverse](https://www.fediverse.to)! So long, [Ello](https://en.m.wikipedia.org/wiki/Ello_(social_network)), and thanks for all the fish (as well as all the other eccentric and crazy crap 😉).&nbsp;
 
