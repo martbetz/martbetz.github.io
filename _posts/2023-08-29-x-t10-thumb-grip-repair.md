@@ -27,12 +27,10 @@ I disassembled the parts and cleaned off all the residue (using soapy water on t
 
 The adhesive strengthens with time, so I'll post an update soon. In the meantime, I've ordered extra [X-T10/XT-20 thumb grips](https://www.ebay.co.uk/sch/i.html?_from=R40&_trksid=p2047675.m570.l1313&_nkw=fuji+x-t10+thumb+grip&_sacat=0) from ebay (just in case).²
 
-Update (20.10.2023): The fix is ok but not perfect; the adhesive will sometimes still losen during general general everyday use. I may try adding more tape, or I may try using some [Pliobond®](https://ruscoe.com/products/adhesives/).
+Update (20.10.2023): The fix is ok but not perfect; the adhesive will sometimes still losen during general everyday use. I may try adding more tape, or I may try using some [Pliobond®](https://ruscoe.com/products/adhesives/).
 
 ---
 
 ¹ Once I've refined the process, I'll put together a guide.
 
-² I contacted the [Fujifilm Repair Centre](https://repairs.fujifilm.eu/en/fujifilm-repair-centre/?zr=uk), but they told me they didn't sell spares.
-
-If you have access to a 3D printer, you can find an [X-T10 thumb-grip print file](https://www.printables.com/en/model/181809-fujifilm-x-t20-x-t10-thumb-grip-rubber) on printables.com (courtesy of [wwolf90_219180](https://www.printables.com/@wwolf90_219180)).
+² I contacted the [Fujifilm Repair Centre](https://repairs.fujifilm.eu/en/fujifilm-repair-centre/?zr=uk), but they told me they didn't sell spares. If you have access to a 3D printer, you can find an [X-T10 thumb-grip print file](https://www.printables.com/en/model/181809-fujifilm-x-t20-x-t10-thumb-grip-rubber) on printables.com (courtesy of [wwolf90_219180](https://www.printables.com/@wwolf90_219180)).
