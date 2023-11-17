@@ -23,7 +23,7 @@ As I understand it, here's the order of chaos:
 
 <!--So that's most certainly that, then, or so it apparently seems&nbsp;— _if&nbsp;you [try to access the website](https://www.ello.co), you'll be served the middle digit!_ ¹-->
 
-So that’s that, then, I suppose; if you [try to access the website](https://www.ello.co) right now, you’ll be served the middle digit¹ (and with the cruel gift of hindsight, here lies [a lesson hard learned](https://danthornton.net/2023/06/is-it-goodbye-to-ello-another-niche-network-gone/#comment-34580) — _thanks to my bone-idle butt, I was luckily spared all the mayhem_&nbsp;😬).
+So that’s that, then, I suppose; if you [try to access the website](https://www.ello.co) just now, you’ll be served the middle digit¹ (and with the cruel gift of hindsight, here lies [a lesson hard learned](https://danthornton.net/2023/06/is-it-goodbye-to-ello-another-niche-network-gone/#comment-34580) — _thanks to my bone-idle butt, I was luckily spared all the mayhem_&nbsp;😬).
 
 <h3>What Next?</h3>
 
