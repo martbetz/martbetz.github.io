@@ -1,5 +1,5 @@
 ---
-title: So long, Ello?!
+title: So Long, Ello?!
 layout: post
 categories: photography
 tags: ello website hosting
