@@ -35,5 +35,5 @@ Not to worry; I’m counting up my blessings and I’m blogging off [to the Fedi
 
 <hr>
 
-¹ Courtesy of a Cloudflare 1016 error, at the current time of writing.
+¹ Courtesy of a Cloudflare 1016 error (at the current time of writing).
 
