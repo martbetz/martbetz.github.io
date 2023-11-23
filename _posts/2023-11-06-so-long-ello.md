@@ -5,7 +5,7 @@ categories: photography
 tags: ello website hosting
 ---
 
-Well, paint me orange and call me Donald; I went to sign in around lunch time, but the website's just no longer there! What gives? Will it be back? Where's all me suff? Ello has left the building — _and without so much as a dicky!_&nbsp;😲 
+Well, paint me orange and call me Donald; I went to sign in around lunch time, but the website's just no longer there! What gives? Will it be back? Where's all me pics? Ello has left the building — _and without so much as a dicky!_&nbsp;😲 
 
 <div>
 <center>
@@ -31,7 +31,7 @@ So that’s that, then, I suppose; if you [try to access the website](https://
 
 I planned on using Ello to host my photos and artwork (or anything else of appeciative size I could then embed on this site); I already had an account that I hardly ever used, so I thought it made practical sense. I also loved its simplicity.
 
-Not to worry; I’m counting my blessings and I’m blogging off [to the Fediverse](https://www.fediverse.to) (most likely). So long, [Ello](https://en.m.wikipedia.org/wiki/Ello_(social_network)), and thanks for all the fish (as well as all the other outlandishly random tat; your tolence of creative lunacy will certainly be missed&nbsp;😞).
+Not to worry; I’m counting my blessings and I’m blogging off [to the Fediverse](https://www.fediverse.to) (most likely). So long, [Ello](https://en.m.wikipedia.org/wiki/Ello_(social_network)), and thanks for all the fish (as well as all the other outlandishly random stuff; your tolence of creative lunacy will certainly be missed&nbsp;😞).
 
 <hr>
 
