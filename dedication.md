@@ -6,9 +6,9 @@ format: default
 <br>
 <center>
 <p>
-<h1><b>To a father who died<br>of a broken mind<br>and a mother who died<br>of a broken heart:</b></h1>
+<h2><b>To a father who died<br>of a broken mind<br>and a mother who died<br>of a broken heart:</b></h2>
 </p>
 <p>
-<h1><b>Thank you for the world<br>and everything that’s in it.</b></h1>
+<h2><b>Thank you for the world<br>and everything that’s in it.</b></h2>
 </p>
 </center>
