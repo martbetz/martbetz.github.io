@@ -78,7 +78,7 @@ By interacting with this website, you (the visitor) hereby subsequently acknowle
 </ul>
 <ul>
 <li>
-(as per the <a href="#privacy">Privacy Policy</a>) this website does not make use of cookies, and neither does any of its content; however, the author does reserve the right to use hyperlinks that refer to external sources
+(as per the <a href="#privacy">Privacy Policy</a>) this website does not make use of cookies, and neither does any of its content; however, the author does reserve the right to use hyperlinks that direct to external sources (privacy policies of external sites should always be reveiwed independently)
 </li>
 </ul>
     </p>
@@ -134,6 +134,6 @@ This website does not collect data of any kind or in any form; however, this web
 <q>When a GitHub Pages site is visited, the visitor’s IP address is logged and stored for security purposes, regardless of whether the visitor has signed into GitHub or not. For more information about GitHub’s security practices, see <a href="https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement">GitHub Privacy Statement</a>.</q>
 <br>
 <br>
-This website does not make use of cookies, and neither does any of its content; however, the author does reserve the right to use hyperlinks that refer to external sources.
+This website does not make use of cookies, and neither does any of its content; however, the author does reserve the right to use hyperlinks that direct to external sources (privacy policies of external sites should always be reveiwed independently).
    </p> 
 </div>
