@@ -82,6 +82,8 @@ By interacting with this website, you (the visitor) hereby subsequently acknowle
 </li>
 </ul>
     </p>
+    <p>External references (including those represented by hyperlinks) may be subject to seperate terms; it is your responsibility to observe such terms independently.
+    </p>
  </div> 
 <hr>
 <div id="disclaimer">
