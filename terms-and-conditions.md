@@ -36,7 +36,7 @@ This website is hosted by <a href="https://pages.github.com">GitHub Pages</a>; i
 By interacting with this website, you (the visitor) hereby subsequently acknowledge both your understanding and your acceptance of each of the following terms:
 <ul>
 <li>
-(as per the <a href="#disclaimer">General Disclaimer</a>) this website is an independent and personal project on the part of the author and (while publicly accessable) is indended for the author's refetence only; as such, the author provides no guarantees regarding the accuracy or relevancy of the website’s content
+(as per the <a href="#disclaimer">General Disclaimer</a>) this website is an independent and personal project on the part of the author and (while publicly accessable) is indended for the author's reference only; as such, the author provides no guarantees regarding the accuracy or relevancy of the website’s content
 </li>
 </ul>
 <!-- <ul>
