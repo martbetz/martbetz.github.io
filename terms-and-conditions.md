@@ -51,7 +51,7 @@ By interacting with this website, you (the visitor) hereby subsequently acknowle
 </ul>
 <ul>
 <li>
-(as per the <a href="#disclaimer">General Disclaimer</a>) all content is reflective of style; for example, humorous and/or hyperbolic statements are exclusively intended as such (the author does not promote such statements as literal and accepts no responsibility should any misinterpretation arise)
+(as per the <a href="#disclaimer">General Disclaimer</a>) all content is reflective of style (for example, humorous and/or hyperbolic statements are exclusively intended as such; the author does not promote such statements as literal and accepts no responsibility should any misinterpretation arise)
 </li>
 </ul>
 <ul>
@@ -109,7 +109,7 @@ The author provides no guarantees regarding the accuracy of the website’s cont
 This website neither promotes nor accepts any financial contribution of any kind (neither commercially nor voluntarily), and is neither sponsored by nor affiliated with any such party. 
 <br>
 <br>
-All content is reflective of style; for example, humorous and/or hyperbolic statements are exclusively intended as such (the author does not promote such statements as literal and accepts no responsibility should any misinterpretation arise).
+All content is reflective of style (for example, humorous and/or hyperbolic statements are exclusively intended as such; the author does not promote such statements as literal and accepts no responsibility should any misinterpretation arise).
 <br>
 <br>
 Opinions expressed by the author are solely representational of independent observation and experience (the author does not promote such opinions as absolute; however, the author does reserve the right to present such opinions without prejudice).
