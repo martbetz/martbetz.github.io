@@ -82,7 +82,7 @@ By interacting with this website, you (the visitor) hereby subsequently acknowle
 </li>
 </ul>
     <div id="terms-external"> 
-    <p>External sources (including those represented by hyperlinks) are subject to independent terms; you (the vistor) are responsibile for reviewing such terms separately.
+    <p>External sources (including those represented by hyperlinks) are subject to seperate terms; you (the vistor) are responsibile for reviewing such terms independently.
     </p>
  </div> 
 <hr>
