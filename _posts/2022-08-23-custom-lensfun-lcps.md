@@ -32,13 +32,13 @@ Furthermore, it's never been my intention to submit _replacement_ LCPs&nbsp;— 
 
 I'm very pleased with them, personally, but why not judge for yourself?
 
-<div align="center">
+<!-- <div align="center">
 <p>
  <img style="padding-top: 15px; padding-bottom: 15px;" src="https://assets0.ello.co/uploads/asset/attachment/15653744/ello-optimized-1a1cdaab.gif" alt="LCP Test">
 </p>
 </div>
 
-<s>I've also uploaded a short [LCP test video](https://youtu.be/r3FstrYvvno) to YouTube (I've no idea why, but it's there if you want to see it).³</s> 
+<s>I've also uploaded a short [LCP test video](https://youtu.be/r3FstrYvvno) to YouTube (I've no idea why, but it's there if you want to see it).³</s> -->
 
 ### Great! Where are they? ###
 
@@ -49,7 +49,7 @@ I'm slowly but surely uploading them to the GitHub repo; you can either check th
 ¹ ² Having said this, my custom LCPs are completely free and open-source; if you're a Lensfun maintainer and you'd like to include anything, please feel free&nbsp;— <i>just be sure to leave me out of the politics!</i> 😉
 <br>
 
-<s>³ Please try to ignore the fact that I don't have any subscribers.&nbsp;😆</s>
+<!-- <s>³ Please try to ignore the fact that I don't have any subscribers.&nbsp;😆</s> -->
 
 <!-- Place this tag where you want the button to render. -->
 
