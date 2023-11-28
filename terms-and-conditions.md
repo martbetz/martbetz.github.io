@@ -46,7 +46,7 @@ By interacting with this website, you (the visitor) hereby subsequently acknowle
 </ul> -->
 <ul>
 <li>
-(as per the <a href="#disclaimer">General Disclaimer</a>) this website neither promotes nor accepts any financial contribution of any kind (neither commercially nor voluntarily), and is neither sponsored by nor affiliated with any such party.  
+(as per the <a href="#disclaimer">General Disclaimer</a>) this website neither promotes nor accepts any financial contribution of any kind (neither commercially nor voluntarily), and is neither sponsored by nor affiliated with any such party
 </li>
 </ul>
 <ul>
