@@ -46,6 +46,11 @@ By interacting with this website, you (the visitor) hereby subsequently acknowle
 </ul> -->
 <ul>
 <li>
+(as per the <a href="#disclaimer">General Disclaimer</a>) this website neither promotes nor accepts any financial contribution of any kind (whether commercially or voluntarily), and is neither sponsored by nor affiliated with any such party.  
+</ul>
+</li>
+<ul>
+<li>
 (as per the <a href="#disclaimer">General Disclaimer</a>) all content is reflective of style; for example, humorous and/or hyperbolic statements are exclusively intended as such (the author does not promote such statements as literal and accepts no responsibility should any misinterpretation arise)
 </li>
 </ul>
@@ -78,7 +83,7 @@ By interacting with this website, you (the visitor) hereby subsequently acknowle
 </ul>
 <ul>
 <li>
-(as per the <a href="#privacy">Privacy Policy</a>) this website does not make use of cookies, and neither does any of its content; however, the author does reserve the right to use hyperlinks that direct to external sources
+(as per the <a href="#privacy">Privacy Policy</a>) this website does not make use of cookies, and neither does any of its content; however, the author does reserve the right to use hyperlinks that direct to external sources (all hyperlinks are non-affiliated)
 </li>
 </ul>
     <div id="terms-external"> 
@@ -101,6 +106,9 @@ Opinions expressed by the author are solely representational of independent obse
 <br>
 <br>
 The author provides no guarantees regarding the accuracy of the website’s content; nor does the author  accept responsibility should any misinterpretation of its content arise. -->
+This website neither promotes nor accepts any financial contribution of any kind (whether commercially or voluntarily), and is neither sponsored by nor affiliated with any such party. 
+<br>
+<br>
 All content is reflective of style; for example, humorous and/or hyperbolic statements are exclusively intended as such (the author does not promote such statements as literal and accepts no responsibility should any misinterpretation arise).
 <br>
 <br>
@@ -136,6 +144,6 @@ This website does not collect data (of any kind or in any form) directly; howeve
 <q>When a GitHub Pages site is visited, the visitor’s IP address is logged and stored for security purposes, regardless of whether the visitor has signed into GitHub or not. For more information about GitHub’s security practices, see <a href="https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement">GitHub Privacy Statement</a>.</q>
 <br>
 <br>
-This website does not make use of cookies, and neither does any of its content; however, the author does reserve the right to use hyperlinks that direct to <a href="#terms-external">external sources</a>.
+This website does not make use of cookies, and neither does any of its content; however, the author does reserve the right to use hyperlinks that direct to <a href="#terms-external">external sources</a>  (all hyperlinks are non-affiliated).
    </p> 
 </div>
