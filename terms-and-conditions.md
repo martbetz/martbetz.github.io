@@ -37,8 +37,8 @@ By interacting with this website, you (the visitor) hereby subsequently acknowle
 <ul>
 <li>
 (as per the <a href="#disclaimer">General Disclaimer</a>) this website is an independent and personal project on the part of the author; as such, the author provides no guarantees regarding the accuracy or relevancy of the website’s content
-</ul>
 </li>
+</ul>
 <!-- <ul>
 <li>
 (as per the <a href="#disclaimer">General Disclaimer</a>) the author provides no guarantees regarding the accuracy of the website’s content; nor does the author accept responsibility should any misinterpretation of its content arise
@@ -47,8 +47,8 @@ By interacting with this website, you (the visitor) hereby subsequently acknowle
 <ul>
 <li>
 (as per the <a href="#disclaimer">General Disclaimer</a>) this website neither promotes nor accepts any financial contribution of any kind (neither commercially nor voluntarily), and is neither sponsored by nor affiliated with any such party.  
-</ul>
 </li>
+</ul>
 <ul>
 <li>
 (as per the <a href="#disclaimer">General Disclaimer</a>) all content is reflective of style; for example, humorous and/or hyperbolic statements are exclusively intended as such (the author does not promote such statements as literal and accepts no responsibility should any misinterpretation arise)
