@@ -91,7 +91,7 @@ By interacting with this website, you (the visitor) hereby subsequently acknowle
     </p>
  </div> 
      <div id="terms-host">
-     <p>This website is contractually bound by the terms of it’s host (GitHub Pages); you (the vistor) are additionally responsibile for reviewing these terms.</p>
+     <p>This website is contractually bound by the terms of it’s host (GitHub Pages); you (the vistor) are conjunctively responsibile for reviewing these terms.</p>
 <hr>
 <div id="disclaimer">
    <h2>
