@@ -91,7 +91,7 @@ By interacting with this website, you (the visitor) hereby subsequently acknowle
     </p>
  </div> 
      <div id="terms-host">
-     <p>This website is contractually bound by the <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages">terms of GitHub Pages</a> (the website host); you (the vistor) are conjunctively responsibile for reviewing these terms.</p>
+     <p>This website is contractually bound by the <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages">terms of GitHub Pages</a> (the website host); you (the vistor) are responsibile for reviewing these terms conjunctively.</p>
 <hr>
 <div id="disclaimer">
    <h2>
