@@ -32,12 +32,13 @@ Furthermore, it’s never been my intention to submit _replacement_ LCPs; ‘bea
 
 I’m very pleased with them, personally, but why not judge for yourself?
 
-<!-- <div align="center">
+<div align="center">
 <p>
- <img style="padding-top: 15px; padding-bottom: 15px;" src="https://assets0.ello.co/uploads/asset/attachment/15653744/ello-optimized-1a1cdaab.gif" alt="LCP Test">
+ <img style="padding-top: 15px; padding-bottom: 15px;" src="https://raw.githubusercontent.com/martbetz/martbetz.github.io/main/_includes/custom/lcp-demo.gif" alt="LCP Test">
 </p>
 </div>
 
+<!--
 <s>I've also uploaded a short [LCP test video](https://youtu.be/r3FstrYvvno) to YouTube (I've no idea why, but it's there if you want to see it).³</s> -->
 
 ### Great! Where are they? ###
