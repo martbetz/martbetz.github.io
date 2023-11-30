@@ -77,7 +77,7 @@ By interacting with this website, you (the visitor) hereby subsequently acknowle
 <ul>
 <li>
 
-(as per the <a href="#privacy">Privacy Policy</a>) this website does not collect data directly (of any kind or in any form); however, please observe the following notice as issued by <a href="https://docs.github.com/en/">GitHub Docs</a> (the website host): <q>When a GitHub Pages site is visited, the visitor’s IP address is logged and stored for security purposes, regardless of whether the visitor has signed into GitHub or not. For more information about GitHub’s security practices, see <a href="https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement">GitHub Privacy Statement</a>.</q>
+(as per the <a href="#privacy">Privacy Policy</a>) this website does not collect data directly (of any kind or in any form); however, please observe the following notice as issued by <a href="https://docs.github.com/en/">GitHub Docs</a>: <q>When a GitHub Pages site is visited, the visitor’s IP address is logged and stored for security purposes, regardless of whether the visitor has signed into GitHub or not. For more information about GitHub’s security practices, see <a href="https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement">GitHub Privacy Statement</a>.</q>
 
 </li>
 </ul>
@@ -87,7 +87,7 @@ By interacting with this website, you (the visitor) hereby subsequently acknowle
 </li>
 </ul>
      <div id="terms-host">
-     <p>This website is contractually bound by the <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages">terms of GitHub Pages</a>; you (the vistor) are responsibile for reviewing these terms conjunctively.</p>
+     <p>This website is contractually bound by the <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages">terms of GitHub Pages (the website host)</a>; you (the vistor) are responsibile for reviewing these terms conjunctively.</p>
   </div>
     <div id="terms-external"> 
     <p>External sources (including those represented by hyperlinks) are subject to seperate terms; you (the vistor) are responsibile for reviewing such terms independently.
