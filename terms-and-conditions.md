@@ -90,6 +90,8 @@ By interacting with this website, you (the visitor) hereby subsequently acknowle
     <p>External sources (including those represented by hyperlinks) are subject to seperate terms; you (the vistor) are responsibile for reviewing such terms independently.
     </p>
  </div> 
+     <div id="terms-host">
+     <p>This website is contractually bound by the terms of it’s host (GitHub Pages); you (the vistor) are additionally responsibile for reviewing these terms.</p>
 <hr>
 <div id="disclaimer">
    <h2>
