@@ -20,7 +20,7 @@ All lenses&nbsp;— <i>even the really expensive ones</i>&nbsp;— have their fl
 
 Due to their general obscurity, most of my older legacy lenses are missing from the [Lensfun](https://github.com/lensfun/lensfun) database (at the current time of writing, at least); some of these lenses get used _a lot_, so creating LCPs for them was certainly a worthwhile investment. 
 
-As for my newer and more popular lenses, all of them are duely included; however, my experience of using the stock LCPs has been a little hit and miss (in particular, results from the XC 35mm F2 LCP just don’t look quite right to me 🤔).
+As for my newer and more popular lenses, all of them are duely included; however, my experience of using the stock LCPs has been a little hit and miss (in particular, results from the XC 35mm *ƒ*/2 LCP just don’t look quite right to me 🤔).
 
 ### Why not submit them directly to Lensfun? ###
 
@@ -35,6 +35,10 @@ I’m very pleased with them, personally, but why not judge for yourself?
 <div align="center">
 <p>
  <img style="padding-top: 15px; padding-bottom: 10px;" src="https://raw.githubusercontent.com/martbetz/martbetz.github.io/main/_includes/custom/lcp-demo.gif" alt="LCP Test">
+  <style="text-align:center; padding-top: 5px;">
+  <font size="2";>
+  Fujifilm XC 35mm <i>ƒ</i>/2 custom LCP
+  </font>
 </p>
 </div>
 
