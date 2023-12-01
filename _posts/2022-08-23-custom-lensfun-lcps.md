@@ -33,14 +33,15 @@ Furthermore, it’s never been my intention to submit _replacement_ LCPs; ‘bea
 I’m very pleased with them, personally, but why not judge for yourself?
 
 <div align="center">
-<p style="text-align:center; padding-top: 5px;">
- <img style="padding-top: 15px; padding-bottom: 10px; width="500" src="https://raw.githubusercontent.com/martbetz/martbetz.github.io/main/_includes/custom/lcp-demo.gif" alt="LCP Test">
-</p>
 <p>
-  <font size=" 2">
-Fujifilm XC 35mm <i>ƒ</i>/2 custom LCP
-  </font>
+ <img style="padding-top: 15px; padding-bottom: 10px;" width="500px" src="https://raw.githubusercontent.com/martbetz/martbetz.github.io/main/_includes/custom/lcp-demo.gif" alt="LCP Test">
 </p>
+ <p>
+  <style="text-align:center; padding-top: 5px;">
+  <font size="2";>
+  Fujifilm XC 35mm <i>ƒ</i>/2 custom LCP
+  </font>
+  </p>
 </div>
 
 <!--
