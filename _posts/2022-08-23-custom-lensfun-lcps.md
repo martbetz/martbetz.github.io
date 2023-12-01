@@ -34,7 +34,7 @@ I’m very pleased with them, personally, but why not judge for yourself?
 
 <div align="center">
 <p>
- <img style="padding-top: 15px; padding-bottom: 15px;" src="https://raw.githubusercontent.com/martbetz/martbetz.github.io/main/_includes/custom/lcp-demo.gif" alt="LCP Test">
+ <img style="padding-top: 15px; padding-bottom: 10px;" src="https://raw.githubusercontent.com/martbetz/martbetz.github.io/main/_includes/custom/lcp-demo.gif" alt="LCP Test">
 </p>
 </div>
 
