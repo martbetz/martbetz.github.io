@@ -1,0 +1,18 @@
+---
+title: Silent Shutters
+layout: Page
+---
+
+This webpage is currently under construction (and until I get out of my rocking chair and decide to do something useful, it’s likely to remain so 😴).
+
+<hr>
+
+<center>
+
+<h3>Elliot Erwitt<br>(July 26, 1928 – November 29, 2023)</h3>
+
+<font size="4">
+<a href="https://www.magnumphotos.com/arts-culture/remembering-elliott-erwitt-1928-2023/">Remembering Elliott Erwitt (1928–2023)</a> – <a href="https://www.magnumphotos.com">Magnum Photos</a>
+</font>
+
+</center>
