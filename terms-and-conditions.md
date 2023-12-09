@@ -93,6 +93,13 @@ By interacting with this website, you (the visitor) hereby subsequently acknowle
     <p>External sources (including those represented by hyperlinks) are subject to seperate terms; you (the vistor) are responsibile for reviewing such terms independently.
     </p>
  </div> 
+
+<div> 
+    <p>
+       The author reserves the right to change (which includes the right to remove) any part or all of these terms at any time and without prior notice.
+    </p>
+ </div> 
+ 
 <hr>
 <div id="disclaimer">
    <h2>
