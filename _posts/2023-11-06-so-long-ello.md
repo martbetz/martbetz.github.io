@@ -7,6 +7,10 @@ tags: ello
 
 Well, paint me orange and call me Donald; I went to sign in around lunch time, but the website's just no longer there! What gives? Will it be back? Where's all me stuff? Ello has left the building — _and without so much as a dicky!_&nbsp;😲 
 
+<head>
+<meta name="robots" content="noindex,nofollow">
+</head>
+
 <div>
 <center>
 <img src="https://raw.githubusercontent.com/martbetz/martbetz.github.io/main/_includes/custom/ello-sad-cap.png" style="padding-top: 15px;" class="align-center" alt="So long, Ello!" width="240">
