@@ -94,13 +94,15 @@ this website does make use of Javascript; however, it is not a core component of
 </li>
 </ul>
 
-     <div id="terms-host">
+
+<div id="terms-host">
      <p>This website is contractually bound by the <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages">terms of GitHub Pages</a> (the website host); you (the vistor) are responsibile for reviewing these terms conjunctively.</p>
-  </div>
-    <div id="terms-external"> 
+</div>
+
+<div id="terms-external"> 
     <p>External sources (including those represented by hyperlinks) are subject to seperate terms; you (the vistor) are responsibile for reviewing such terms independently.
     </p>
- </div> 
+</div> 
 
 <div> 
     <p>
