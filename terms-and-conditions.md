@@ -86,6 +86,13 @@ By interacting with this website, you (the visitor) hereby subsequently acknowle
 (as per the <a href="#privacy">Privacy Policy</a>) this website does not make use of cookies, and neither does any of its content; however, the author does reserve the right to use non-affiliated hyperlinks that direct to external sources
 </li>
 </ul>
+
+<ul>
+<li>
+(as per the <a href="#privacy">Privacy Policy</a>) this website uses Javascript to provide an enhanced visitor experience; however, such functionality is not a mandatory requirement
+</li>
+</ul>
+
      <div id="terms-host">
      <p>This website is contractually bound by the <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages">terms of GitHub Pages</a> (the website host); you (the vistor) are responsibile for reviewing these terms conjunctively.</p>
   </div>
@@ -155,5 +162,8 @@ This website does not collect data directly (of any kind or in any form); howeve
 <br>
 <br>
 This website does not make use of cookies, and neither does any of its content; however, the author does reserve the right to use non-affiliated hyperlinks that direct to <a href="#terms-external">external sources</a>.
+<br>
+<br>
+This website uses Javascript to provide an enhanced visitor experience; however, such functionality is not a mandatory requirement.
    </p> 
 </div>
