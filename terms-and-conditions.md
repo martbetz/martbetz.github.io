@@ -89,7 +89,8 @@ By interacting with this website, you (the visitor) hereby subsequently acknowle
 
 <ul>
 <li>
-(as per the <a href="#privacy">Privacy Policy</a>) this website uses Javascript to provide an enhanced visitor experience; however, such functionality is not a mandatory requirement
+(as per the <a href="#privacy">Privacy Policy</a>) 
+this website does make use of Javascript; however, it is not a core component of the website’s functionality (browser settings permitting, Javascript may be disabled at the visitor's sole discretion)
 </li>
 </ul>
 
@@ -164,6 +165,6 @@ This website does not collect data directly (of any kind or in any form); howeve
 This website does not make use of cookies, and neither does any of its content; however, the author does reserve the right to use non-affiliated hyperlinks that direct to <a href="#terms-external">external sources</a>.
 <br>
 <br>
-This website uses Javascript to provide an enhanced visitor experience; however, such functionality is not a mandatory requirement.
+This website does make use of Javascript; however, it is not a core component of the website’s functionality (browser settings permitting, Javascript may be disabled at the visitor's sole discretion). 
    </p> 
 </div>
