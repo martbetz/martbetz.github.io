@@ -90,7 +90,7 @@ By interacting with this website, you (the visitor) hereby subsequently acknowle
 <ul>
 <li>
 (as per the <a href="#privacy">Privacy Policy</a>) 
-this website does make use of <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">JavaScript</a> to serve an enhanced experience; however, it is not a critical component of the website’s core operation (browser settings permitting, Javascript may be disabled at the visitor's sole discretion)
+this website does make use of <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">JavaScript</a> to serve an enhanced experience; however, it is not a critical component of the website’s core operation and may subsequently be disabled (browser settings permitting) at the visitor’s sole discretion 
 </li>
 </ul>
 
@@ -167,6 +167,6 @@ This website does not collect data directly (of any kind or in any form); howeve
 This website does not make use of cookies, and neither does any of its content; however, the author does reserve the right to use non-affiliated hyperlinks that direct to <a href="#terms-external">external sources</a>.
 <br>
 <br>
-This website does make use of <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">JavaScript</a> to serve an enhanced experience; however, it is not a critical component of the website’s core operation (browser settings permitting, Javascript may be disabled at the visitor's sole discretion). 
+This website does make use of <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">JavaScript</a> to serve an enhanced experience; however, it is not a critical component of the website’s core operation and may subsequently be disabled (browser settings permitting) at the visitor’s sole discretion.  
    </p> 
 </div>
