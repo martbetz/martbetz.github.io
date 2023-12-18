@@ -71,7 +71,7 @@ By interacting with this website, you (the visitor) hereby subsequently acknowle
 </ul>
 <ul>
 <li>
-(as per the <a href="#copyright">Intellectual Property Notice</a>) the title (“JPEG Junkie”), slogan (“An Affliction of Addiction to Obsessive Observation and the Prevailing Preservation Thereof!”) and logo (<img src="/favicon-3d.ico" alt="logo" width="16px">) are the trademark (™) of the author
+(as per the <a href="#copyright">Intellectual Property Notice</a>) the title (“JPEG Junkie”), slogan (“An Affliction of Addiction to Obsessive Observation and the Prevailing Preservation Thereof!”) and logo (<img src="/favicon.ico" alt="logo" width="16px">) are the trademark (™) of the author
 </li>
 </ul>
 <ul>
@@ -151,7 +151,7 @@ Unless otherwise stated, all content is the copyright (©) of the author and may
 Unless otherwise stated, all content is the copyright (©) of the author and may neither be redistributed nor reproduced (in full or in part) without the author’s explicit prior consent.
 <br> 
 <br>
-The title (“JPEG Junkie”), slogan (“An Affliction of Addiction to Obsessive Observation and the Prevailing Preservation Thereof!”) and logo (<img src="/favicon-3d.ico" alt="logo" width="16px">) are the trademark (™) of the author.
+The title (“JPEG Junkie”), slogan (“An Affliction of Addiction to Obsessive Observation and the Prevailing Preservation Thereof!”) and logo (<img src="/favicon.ico" alt="logo" width="16px">) are the trademark (™) of the author.
      </p> 
  </div>
 <hr>
