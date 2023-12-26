@@ -4,7 +4,7 @@ format: post
 categories: photography
 ---
 
-I bought some plastic containers last week, but I slightly misjudged my requirements. Not to worry; instead of <s><i><b>nailing them to a Frizbee and flinging them over a rainbow!</b></i></s> 😠 returning them, I’ve decided to make some dry-boxes.
+I bought some plastic containers last week, but I slightly misjudged my requirements. Not to worry; instead of <s><i>nailing them to a Frizbee and flinging them over a rainbow!</i></s> 😠 returning them, I’ve decided to make some dry-boxes.
 
 I’ve been mulling on this project for a while, and (thanks to the aforementioned mishap!) I'm finally going to tackle it. The plan is to make two different types of dry-box: a standard one for general storage, and a portable one for use with my rucksack.
 
