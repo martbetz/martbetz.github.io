@@ -1,0 +1,16 @@
+---
+title: Contact
+layout: page
+---
+
+<font size="4"> 
+
+<p>
+If you’d like to get in touch with me, please message me on either <a href="https://github.com/martbetz/">GitHub</a> or <a hfpref="">PIXLS.US</a>. 
+</p>
+
+<p>
+If you’re <i>really</i> desperate, you can try emailing me at <a href="mailto:alt.gq-fohkjjgv@yopmail.com">alt.gq-fohkjjgv@yopmail.com</a> — <i><b>please note, however, that this is a disposable public inbox (please visit <a href="https://www.yopmail.com">yopmail.com</a> for more info)</i></b>.
+</p>
+
+</font>
