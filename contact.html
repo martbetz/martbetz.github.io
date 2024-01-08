@@ -5,17 +5,21 @@ layout: page
 
 <font size="4"> 
 
-<p>
-If you’d like to get in touch with me, please reach out on either <a href="https://github.com/martbetz/">GitHub</a> or the <a href="https://discuss.pixls.us/u/martbetz">PIXLS.US forum</a>. 
-</p>
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
 
-<p>
-If you’re <i>really</i> desperate, you can try sending an email using the link below — <i><b>please note, however, that this is a disposable public inbox (please visit <a href="https://www.yopmail.com">yopmail.com</a> for more info)</i></b>.
-</p>
+  <div class="wrapper">
 
-</font>
-
-{%- if site.author %}
+    <div class="footer-col-wrapper">
+      <div class="footer-col">
+        <!-- <p class="feed-subscribe">
+          <a href="{{ 'feed.xml' | relative_url }}">
+            <svg class="svg-icon orange">
+              <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
+            </svg><span>Subscribe</span>
+          </a>
+        </p> -->
+      {%- if site.author %}
         <ul class="contact-list">
           {% if site.author.name -%}
             <li class="p-name">{{ site.author.name | escape }}</li>
@@ -31,3 +35,22 @@ If you’re <i>really</i> desperate, you can try sending an email using the link
         <p>{{ site.description | escape }}</p>
       </div>
     </div>
+
+    <div class="social-links">
+      {%- include social.html -%}
+    </div>
+
+  </div>
+
+</footer>
+        
+<p>
+If you’d like to get in touch with me, please reach out on either <a href="https://github.com/martbetz/">GitHub</a> or the <a href="https://discuss.pixls.us/u/martbetz">PIXLS.US forum</a>. 
+</p>
+
+<p>
+If you’re <i>really</i> desperate, you can try sending an email using the link below — <i><b>please note, however, that this is a disposable public inbox (please visit <a href="https://www.yopmail.com">yopmail.com</a> for more info)</i></b>.
+</p>
+
+</font>
+
