@@ -15,12 +15,12 @@
      {%- if site.author %}
         <ul class="contact-list">
           {% if site.author.name -%}
-            <li class="p-name"><font size="3">©</font> {{ site.author.name | escape }} <font size="2">(2022)</font></li>
+            <li class="p-name"> {{ site.author.name | escape }} <font</li>
             <li class="p-name">All rights Reserved</li>
           {% endif -%}
           {% if site.author.email -%}
             <!-- <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li> -->
-            <!-- <li><font size="4"><a href="https://github.com/martbetz/{{ site.title }}/blob/main/README.md">{{ site.title }}</a></font></li> -->
+            <li><font size="4"><a href="https://github.com/martbetz/{{ site.title }}/blob/main/README.md">{{ site.title }}</a></font></li>
           {%- endif %}    
           
         </ul>
@@ -37,8 +37,10 @@
     
   </div>
 
-          <!-- {% if site.author.name -%}
-            <li>© {{ site.author.name | escape }} (2022). All rights reserved.</li>
-          {% endif -%} -->
+          {% if site.author.name -%}
+            <style="margin-top: -10px>
+            <li>© {{ site.author.name | escape }} (2022) – all rights reserved.</li>
+            </style>
+              {% endif -%}
 
 </footer>
