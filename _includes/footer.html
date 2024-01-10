@@ -15,7 +15,7 @@
      {%- if site.author %}
         <ul class="contact-list">
           {% if site.author.name -%}
-            <li class="p-name">© {{ site.author.name | escape }} (2022)</li>
+            <li class="p-name">{{ site.author.name | escape }}</li>
           {% endif -%}
           {% if site.author.email -%}
             <!-- <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li> -->
@@ -25,14 +25,7 @@
       {%- endif %}
       </div>
       <div class="footer-col">
-        <p>{{ site.description | escape }}</p>
-
-         <!-- <p>     
-         {% if site.author.name -%}
-           <center>© {{ site.author.name | escape }} (2022). All rights reserved.</center>
-          {% endif -%} 
-         </p> -->
-        
+        <p>{{ site.description | escape }}</p>       
       </div>
     </div>
 
@@ -40,6 +33,12 @@
       {%- include social.html -%}
     </div>
 
+       <p>     
+         {% if site.author.name -%}
+           <center>© {{ site.author.name | escape }} (2022). All rights reserved.</center>
+          {% endif -%} 
+       </p>
+    
   </div>
 
 </footer>
