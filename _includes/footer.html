@@ -20,16 +20,18 @@
           {% if site.author.email -%}
             <!-- <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li> -->
             <li><a href="https://github.com/martbetz/{{ site.title }}/blob/main/README.md">{{ site.title }}</a></li>
-          {%- endif %}
-          {% if site.author.name -%}
-            <li class="p-name">© 2022 {{ site.author.name | escape }}. All rights Reserved.</li>
-          {% endif -%}          
+          {%- endif %}         
         </ul>
       {%- endif %}
       </div>
       <div class="footer-col">
         <p>{{ site.description | escape }}</p>
       </div>
+        <p>     
+         {% if site.author.name -%}
+            <li class="p-name">© 2022 {{ site.author.name | escape }}. All rights Reserved.</li>
+          {% endif -%} 
+        </p>
     </div>
 
     <div class="social-links">
