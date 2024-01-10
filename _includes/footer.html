@@ -12,17 +12,17 @@
             </svg><span>Subscribe</span>
           </a>
         </p> -->
-      {%- if site.author %}
+     <!-- {%- if site.author %}
         <ul class="contact-list">
           {% if site.author.name -%}
             <li class="p-name">{{ site.author.name | escape }}</li>
           {% endif -%}
           {% if site.author.email -%}
             <!-- <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li> -->
-            <li><a href="https://github.com/martbetz/{{ site.title }}/blob/main/README.md">{{ site.title }}</a></li>
+            <!-- <li><a href="https://github.com/martbetz/{{ site.title }}/blob/main/README.md">{{ site.title }}</a></li>
           {%- endif %}         
         </ul>
-      {%- endif %}
+      {%- endif %} -->
       </div>
       <div class="footer-col">
         <p>{{ site.description | escape }}</p>
@@ -31,6 +31,8 @@
          {% if site.author.name -%}
             © {{ site.author.name | escape }} (2022). All rights reserved.
           {% endif -%} 
+          <br>
+          <a href="https://github.com/martbetz/{{ site.title }}/blob/main/README.md">{{ site.title }}</a>
         </p>
         
       </div>
