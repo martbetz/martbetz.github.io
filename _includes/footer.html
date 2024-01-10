@@ -14,13 +14,16 @@
         </p> -->
      {%- if site.author %}
         <ul class="contact-list">
-          {% if site.author.name -%}
+          <!-- {% if site.author.name -%}
             <li class="p-name">{{ site.author.name | escape }}</li>
-          {% endif -%}
+          {% endif -%} -->
           {% if site.author.email -%}
             <!-- <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li> -->
             <li><a href="https://github.com/martbetz/{{ site.title }}/blob/main/README.md">{{ site.title }}</a></li>
-          {%- endif %}         
+          {%- endif %}    
+          {% if site.author.name -%}
+            <li>© {{ site.author.name | escape }} (2022). All rights reserved.</li>
+          {% endif -%} 
         </ul>
       {%- endif %}
       </div>
@@ -32,10 +35,6 @@
     <div class="social-links">
       {%- include social.html -%}
     </div>
-
-         {% if site.author.name -%}
-           <center>© {{ site.author.name | escape }} (2022). All rights reserved.</center>
-          {% endif -%} 
     
   </div>
 
