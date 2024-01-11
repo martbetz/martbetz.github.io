@@ -15,19 +15,19 @@
      {%- if site.author %}
         <ul class="contact-list">
           {% if site.author.name -%}
-            <li class="p-name"> {{ site.author.name | escape }} <font</li>
+            <li class="p-name"> {{ site.author.name | escape }}</li>
           {% endif -%}
           {% if site.author.email -%}
             <!-- <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li> -->
             <!-- <li><a href="https://github.com/martbetz/{{ site.title }}/blob/main/README.md">{{ site.title }}</a></li> -->
-            <li><a href=" {{ site.title }} ">{{ site.title }}<font size="2">™</font></a></li>
+            <li><a href=" {{ site.title }} ">{{ site.title }}</a></li>
           {%- endif %}    
           
         </ul>
       {%- endif %}
       </div>
       <div class="footer-col">
-        <p>{{ site.description | escape }}</p>       
+        <p>{{ site.description | escape }}<font size="2">™</font></p>       
       </div>
     </div>
 
