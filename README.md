@@ -2,6 +2,6 @@ This is the [Jekyll](https://jekyllrb.com) source code for my personal website; 
 
 Unless otherwise stated, all content is the copyright (©) of the author and may neither be redistributed nor reproduced (in full or in part) without the author’s explicit prior consent.
 
-The title (“JPEG Junkie”), slogan (“An Affliction of Addiction to Obsessive Observation and the Prevailing Preservation Thereof!”) and logo (<img src="/favicon.ico" alt="logo" width="16px">) are the trademark (™) of the author.
+The title (“JPEG Junkie”), subtitle (“An Affliction of Addiction to Obsessive Observation and the Prevailing Preservation Thereof!”) and logo (<img src="/favicon.ico" alt="logo" width="16px">) are the trademark (™) of the author.
 
 [martbetz.github.io - Legalities](https://martbetz.github.io/terms-and-conditions.html)
