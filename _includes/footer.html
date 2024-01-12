@@ -1,0 +1,22 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+          {% if site.title -%}
+            <p>
+            <center><a href=" {{ site.title }} ">{{ site.title | escape }}</a>               
+            </p>
+           {% endif -%}
+
+          {% if site.description -%}
+            <p>
+            <center>© {{ site.description | escape }} </center>
+            </p>
+           {% endif -%}
+
+          {% if site.author.name -%}
+            <p p>
+            <center>© {{ site.author.name | escape }} (2024) – all rights reserved.</center>
+            </p>
+           {% endif -%}
+           
+</footer>
