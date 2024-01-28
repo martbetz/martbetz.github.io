@@ -2,9 +2,8 @@
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
 
           {% if site.title -%}
-            <p style="padding-top:-0px">
+            <p>
             <center><span style="font-size: 30px;"><a href="https://github.com/martbetz/martbetz.github.io/blob/main/README.md">{{ site.title | escape }}</a></span></center>              
-            </p>
            {% endif -%}
 
           {% if site.description -%}
@@ -12,10 +11,11 @@
             <center><span style="padding-top:-5px">JPEG Junkie: An Affliction of Addiction<br>to Obsessive Observation and<br>the Prevailing Preservation Thereof!™</span></center>
             </p>
            {% endif -%}
-
+          <br>
           {% if site.author.name -%}
-            <p style="padding-top:0px">
+            <style="margin-top:-5px">
             <center><span style="font-size:13px; font-weight:520;"><!--<a href="https://github.com/martbetz/martbetz.github.io/blob/main/README.md">-->© {{ site.author.name | escape }} (<script>document.write( new Date().getFullYear() );</script>) – all rights reserved</a>.</center></span>
+            </style>
             </p>
            {% endif -%}
   
