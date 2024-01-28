@@ -10,15 +10,29 @@
   
           {% if site.description -%}
             <p>
-            <center><span style="margin-top:-10px">JPEG Junkie: An Affliction of Addiction<br>to Obsessive Observation and<br>the Prevailing Preservation Thereof!™</span></center>
+            <center><span style="margin-top:-0px">JPEG Junkie: An Affliction of Addiction<br>to Obsessive Observation and<br>the Prevailing Preservation Thereof!™</span></center>
             </p>
            {% endif -%}
           
           {% if site.author.name -%}
             <p>
-            <center><span style="padding-top:8px; font-size:13px; font-weight:520;"><!--<a href="https://github.com/martbetz/martbetz.github.io/blob/main/README.md">-->© {{ site.author.name | escape }} (<script>document.write( new Date().getFullYear() );</script>) – all rights reserved</a>.</center></span>
+            <center><span style="font-size:13px; font-weight:520;"><!--<a href="https://github.com/martbetz/martbetz.github.io/blob/main/README.md">-->© {{ site.author.name | escape }} (<script>document.write( new Date().getFullYear() );</script>) – all rights reserved</a>.</center></span>
             </p>
            {% endif -%}
+
+  <p>
+  {% if site.title -%}            
+            <center><span style="font-size: 30px;"><a href="https://github.com/martbetz/martbetz.github.io/blob/main/README.md">{{ site.title | escape }}</a></span></center>                          
+           {% endif -%}
+          <br>
+          {% if site.description -%}            
+            <center><span style="padding-top:-10px">JPEG Junkie: An Affliction of Addiction<br>to Obsessive Observation and<br>the Prevailing Preservation Thereof!™</span></center>
+           {% endif -%}
+          <br>
+          {% if site.author.name -%}            
+            <center><span style="font-size:13px; font-weight:520;"><!--<a href="https://github.com/martbetz/martbetz.github.io/blob/main/README.md">-->© {{ site.author.name | escape }} (<script>document.write( new Date().getFullYear() );</script>) – all rights reserved</a>.</center></span>            
+           {% endif -%}
+</p>
   
    <p style="margin-top:-20px">
      &nbsp;
