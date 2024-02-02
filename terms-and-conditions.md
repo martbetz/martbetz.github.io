@@ -36,7 +36,7 @@ This website is hosted by <a href="https://pages.github.com">GitHub Pages</a>; i
 By interacting with this website, you (the visitor) hereby subsequently acknowledge both your understanding and your acceptance of each of the following terms:
 <ul>
 <li>
-(as per the <a href="#disclaimer">General Disclaimer</a>) this website is an independent and personal project on the part of the author and, while publicly accessible, is soley intended for the author’s reference only; as such, the author provides no guarantees in relation to the accuracy or relevancy regarding any of the website’s content and accepts no liability thereof
+(as per the <a href="#disclaimer">General Disclaimer</a>) this website is an independent and personal project on the part of the website author and, while publicly accessible, is soley and entirely intended for the author’s reference only; as such, in relation to the accuracy of content, there are no guarantees provided and no liabilities accepted 
    
 </li>
 </ul>
@@ -117,7 +117,7 @@ while <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">JavaScri
       General Disclaimer
    </h2>
    <p>
-This website is an independent and personal project on the part of the author and, while publicly accessible, is soley intended for the author’s reference only; as such, the author provides no guarantees in relation to the accuracy or relevancy regarding any of the website’s content and accepts no liability thereof.
+This website is an independent and personal project on the part of the website author and, while publicly accessible, is soley and entirely intended for the author’s reference only; as such, in relation to the accuracy of content, there are no guarantees provided and no liabilities accepted.
       
 <br>
 <br>
