@@ -137,7 +137,7 @@ All content is reflective of style (for example, humorous and/or hyperbolic stat
 Opinions expressed by the author are solely representational of independent observation and experience (the author does not promote such opinions as absolute; however, the author does reserve the right to present such opinions without prejudice).
 <br>
 <br>   
-This website is a continual work in progress; the author reserves the right to change (which inludes the right to remove) any part or all of this website at any time and without prior notice.
+This website is a continual work in progress; the author reserves the right to change, which inludes the right to remove, any part or all of this website at any time and without prior notice.
     </p>
  </div> 
 <hr>
