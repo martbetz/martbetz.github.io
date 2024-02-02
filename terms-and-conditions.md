@@ -62,7 +62,7 @@ By interacting with this website, you (the visitor) hereby subsequently acknowle
 </ul>
 <ul>
 <li>
-(as per the <a href="#disclaimer">General Disclaimer</a>) this website is a continual work in progress; the author reserves the right to change (which includes the right to remove) any part or all of this website at any time and without prior notice
+(as per the <a href="#disclaimer">General Disclaimer</a>) this website is a continual work in progress; the author reserves the right to change, which includes the right to remove, any part or all of this website at any time and without prior notice
 </li>
 </ul>
 <ul>
