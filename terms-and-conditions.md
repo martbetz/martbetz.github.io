@@ -107,7 +107,7 @@ while <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">JavaScri
 
 <div> 
     <p>
-       The author reserves the right to change (which includes the right to remove) any part or all of these terms at any time and without prior notice.
+       The author reserves the right to change, which includes the right to remove, any part or all of these terms at any time and without prior notice.
     </p>
  </div> 
  
