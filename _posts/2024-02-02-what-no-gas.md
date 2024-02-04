@@ -1,0 +1,13 @@
+---
+title: What?! No GAS?!
+layout: post
+caterories: article photography gear
+author: Mart Betz
+---
+
+I often get envious comments from my peers, and not because my photos are anything special (they aren't) or because I’ve a pair of tightly toned buttocks (I don’t); it's because (in the traditional sense, at least) I'm curiously resilient to GAS.
+
+GAS, for all those living under a flash curtain, is an acronym for [gear acquisition syndrome](https://de.m.wikipedia.org/wiki/Gear_Acquisition_Syndrome)...
+
+<br><center><b> This post is a work in progress and will be finished very soon. </b></center>
+
