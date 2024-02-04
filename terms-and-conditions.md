@@ -37,7 +37,6 @@ By interacting with this website, you (the visitor) hereby subsequently acknowle
 <ul>
 <li>
 (as per the <a href="#disclaimer">General Disclaimer</a>) <!-- this website is an independent and personal project on the part of the website author and, while publicly accessible, is soley and entirely intended for the author’s reference only; as such, in relation to the accuracy of content, there are no guarantees provided and no liabilities accepted -->this website is an independent and personal project on the part of the website author and, while publically accessable for reference, is not in any way intended as a definative factual resource; as such, in relation the accuracy of content, no guarantees are provided and no liabilities are accepted
-   
 </li>
 </ul>
 <!-- <ul>
@@ -45,7 +44,6 @@ By interacting with this website, you (the visitor) hereby subsequently acknowle
 (as per the <a href="#disclaimer">General Disclaimer</a>) the author provides no guarantees regarding the accuracy of the website’s content; nor does the author accept responsibility should any misinterpretation of its content arise
 </li>
 </ul> -->
-
 <ul>
 <li>
 (as per the <a href="#disclaimer">General Disclaimer</a>) all content is reflective of style (for example, humorous and/or hyperbolic statements are exclusively intended as such; the author does not promote such statements as literal and accepts no responsibility should any misinterpretation arise)
@@ -56,7 +54,6 @@ By interacting with this website, you (the visitor) hereby subsequently acknowle
 (as per the <a href="#disclaimer">General Disclaimer</a>) opinions expressed by the author are solely representational of independent observation and experience (the author does not promote such opinions as absolute; however, the author does reserve the right to present such opinions without prejudice)
 </li>
 </ul>
-
 <ul>
 <li>
 (as per the <a href="#disclaimer">General Disclaimer</a>) this website is a continual work in progress; the author reserves the right to change (which includes the right to remove) any part or all of this website at any time and without prior notice
@@ -79,9 +76,7 @@ By interacting with this website, you (the visitor) hereby subsequently acknowle
 </ul>
 <ul>
 <li>
-
 (as per the <a href="#privacy">Privacy Policy</a>) this website does not collect data directly (of any kind or in any form); however, please observe the following notice as issued by <a href="https://docs.github.com/en/">GitHub Docs</a>: <q>When a GitHub Pages site is visited, the visitor’s IP address is logged and stored for security purposes, regardless of whether the visitor has signed into GitHub or not. For more information about GitHub’s security practices, see <a href="https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement">GitHub Privacy Statement</a>.</q>
-
 </li>
 </ul>
 <ul>
@@ -89,30 +84,24 @@ By interacting with this website, you (the visitor) hereby subsequently acknowle
 (as per the <a href="#privacy">Privacy Policy</a>) this website does not make use of cookies, and neither does any of its content; however, the author does reserve the right to use non-affiliated hyperlinks that direct to external sources
 </li>
 </ul>
-
 <ul>
 <li>
 (as per the <a href="#privacy">Privacy Policy</a>) 
 while <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">JavaScript</a> is used by this website to serve an enhanced experience, it is not a critical component of the website’s core operation; it may, therefore, be disabled (browser options permitting) at the visitor’s sole discretion
 </li>
 </ul>
-
-
 <div id="terms-host">
      <p>This website is contractually bound by the <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages">terms of GitHub Pages</a> (the website host); you (the vistor) are responsibile for reviewing these terms conjunctively.</p>
 </div>
-
 <div id="terms-external"> 
     <p>External sources (including those represented by hyperlinks) are subject to seperate terms; you (the vistor) are responsibile for reviewing such terms independently.
     </p>
 </div> 
-
 <div> 
     <p>
        The author reserves the right to change (which includes the right to remove) any part or all of these terms at any time and without prior notice.
     </p>
  </div> 
- 
 <hr>
 <div id="disclaimer">
    <h2>
@@ -120,7 +109,6 @@ while <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">JavaScri
    </h2>
    <p>
 <!--This website is an independent and personal project on the part of the website author and, while publicly accessible, is soley and entirely intended for the author’s reference only; as such, in relation to the accuracy of content, there are no guarantees provided and no liabilities accepted.-->This website is an independent and personal project on the part of the website author and, while publically accessable for reference, is not in any way intended as a definative factual resource; as such, in relation the accuracy of content, no guarantees are provided and no liabilities are accepted.
-      
 <br>
 <br>
 <!-- All content is reflective of style (for example, humorous and/or hyperbolic statements are exclusively intended as such; the author does not promote such statments as literal). 
@@ -130,14 +118,12 @@ Opinions expressed by the author are solely representational of independent obse
 <br>
 <br>
 The author provides no guarantees regarding the accuracy of the website’s content; nor does the author  accept responsibility should any misinterpretation of its content arise. -->
-
 All content is reflective of style (for example, humorous and/or hyperbolic statements are exclusively intended as such; the author does not promote such statements as literal and accepts no responsibility should any misinterpretation arise).
 <br>
 <br>
 Opinions expressed by the author are solely representational of independent observation and experience (the author does not promote such opinions as absolute; however, the author does reserve the right to present such opinions without prejudice).
 <br>
 <br>   
-
 This website is a continual work in progress; the author reserves the right to change (which inludes the right to remove) any part or all of this website at any time and without prior notice.
 <br>
 <br>
