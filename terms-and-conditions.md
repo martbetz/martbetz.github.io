@@ -56,14 +56,15 @@ By interacting with this website, you (the visitor) hereby subsequently acknowle
 (as per the <a href="#disclaimer">General Disclaimer</a>) opinions expressed by the author are solely representational of independent observation and experience (the author does not promote such opinions as absolute; however, the author does reserve the right to present such opinions without prejudice)
 </li>
 </ul>
+
 <ul>
 <li>
-(as per the <a href="#disclaimer">General Disclaimer</a>) this website neither promotes nor accepts any financial contribution of any kind (neither commercially nor voluntarily), and is neither sponsored by nor affiliated with any such party
+(as per the <a href="#disclaimer">General Disclaimer</a>) this website is a continual work in progress; the author reserves the right to change (which includes the right to remove) any part or all of this website at any time and without prior notice
 </li>
 </ul>
 <ul>
 <li>
-(as per the <a href="#disclaimer">General Disclaimer</a>) this website is a continual work in progress; the author reserves the right to change (which includes the right to remove) any part or all of this website at any time and without prior notice
+(as per the <a href="#disclaimer">General Disclaimer</a>) this website neither promotes nor accepts any financial contribution of any kind (neither commercially nor voluntarily), and is neither sponsored by nor affiliated with any such party
 </li>
 </ul>
 <ul>
@@ -136,10 +137,11 @@ All content is reflective of style (for example, humorous and/or hyperbolic stat
 Opinions expressed by the author are solely representational of independent observation and experience (the author does not promote such opinions as absolute; however, the author does reserve the right to present such opinions without prejudice).
 <br>
 <br>   
-This website neither promotes nor accepts any financial contribution of any kind (neither commercially nor voluntarily), and is neither sponsored by nor affiliated with any such party. 
-<br>
-<br>
+
 This website is a continual work in progress; the author reserves the right to change (which inludes the right to remove) any part or all of this website at any time and without prior notice.
+<br>
+<br>
+This website neither promotes nor accepts any financial contribution of any kind (neither commercially nor voluntarily), and is neither sponsored by nor affiliated with any such party. 
     </p>
  </div> 
 <hr>
