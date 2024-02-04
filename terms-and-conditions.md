@@ -3,12 +3,14 @@ title: Legalities
 layout: page
 ---
 
+<p>
 Website: <a href="https://github.com/martbetz/martbetz.github.io">martbetz.github.io</a>
 <br>
 Author: <a href="https://github.com/martbetz">Mart Betz</a>
-<br>
-<br>
+</p>
+<p>
 This website is hosted by <a href="https://pages.github.com">GitHub Pages</a>; it was built using <a href="https://jekyllrb.com">Jekyll</a> and incorporates a fork of the <a href="https://jekyll.github.io/minima/about/">Minima</a> theme. Images attributed to the author may alternatively be hosted by <s><a href="https://martbetz.github.io/social404.html">Ello</a></s>; images not attributed to the author may be hosted by other sites. The source code for this website is hosted by <a href="github.com">GitHub</a>.
+</p>
 <hr>
 <!--
 <ol>
@@ -109,8 +111,8 @@ while <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">JavaScri
    </h2>
    <p>
 <!--This website is an independent and personal project on the part of the website author and, while publicly accessible, is soley and entirely intended for the author’s reference only; as such, in relation to the accuracy of content, there are no guarantees provided and no liabilities accepted.-->This website is an independent and personal project on the part of the website author and, while publically accessable for reference, is not in any way intended as a definative factual resource; as such, in relation the accuracy of content, no guarantees are provided and no liabilities are accepted.
-<br>
-<br>
+</p>
+<p>
 <!-- All content is reflective of style (for example, humorous and/or hyperbolic statements are exclusively intended as such; the author does not promote such statments as literal). 
 <br>
 <br>
@@ -118,17 +120,19 @@ Opinions expressed by the author are solely representational of independent obse
 <br>
 <br>
 The author provides no guarantees regarding the accuracy of the website’s content; nor does the author  accept responsibility should any misinterpretation of its content arise. -->
+</p>
+<p>
 All content is reflective of style (for example, humorous and/or hyperbolic statements are exclusively intended as such; the author does not promote such statements as literal and accepts no responsibility should any misinterpretation arise).
-<br>
-<br>
+</p>
+<p>
 Opinions expressed by the author are solely representational of independent observation and experience (the author does not promote such opinions as absolute; however, the author does reserve the right to present such opinions without prejudice).
-<br>
-<br>   
+</p>
+<p>
 This website is a continual work in progress; the author reserves the right to change (which inludes the right to remove) any part or all of this website at any time and without prior notice.
-<br>
-<br>
+</p>
+<p>
 This website neither promotes nor accepts any financial contribution of any kind (neither commercially nor voluntarily), and is neither sponsored by nor affiliated with any such party. 
-    </p>
+</p>
  </div> 
 <hr>
 <div id="copyright"> 
@@ -141,8 +145,8 @@ This website neither promotes nor accepts any financial contribution of any kind
 <br>
 Unless otherwise stated, all content is the copyright (©) of the author and may neither be redistributed nor reproduced (in full or in part) without the author’s consent. -->
 Unless otherwise stated, all content is the copyright (©) of the author and may neither be redistributed nor reproduced (in full or in part) without the author’s explicit prior consent.
-<br> 
-<br>
+</p> 
+<p>
 The title (“JPEG Junkie”), subtitle (“An Affliction of Addiction to Obsessive Observation and the Prevailing Preservation Thereof!”) and logo (<img src="/favicon.ico" alt="logo" width="16px">) are the trademark (™) of the author.
      </p> 
  </div>
@@ -154,11 +158,11 @@ The title (“JPEG Junkie”), subtitle (“An Affliction of Addiction to Obsess
    <p>
 This website does not collect data directly (of any kind or in any form); however, please observe the following notice as issued by <a href="https://docs.github.com/en/">GitHub Docs</a>: 
 <q>When a GitHub Pages site is visited, the visitor’s IP address is logged and stored for security purposes, regardless of whether the visitor has signed into GitHub or not. For more information about GitHub’s security practices, see <a href="https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement">GitHub Privacy Statement</a>.</q>
-<br>
-<br>
+</p>
+<p>
 This website does not make use of cookies, and neither does any of its content; however, the author does reserve the right to use non-affiliated hyperlinks that direct to <a href="#terms-external">external sources</a>.
-<br>
-<br>
+</p>
+<p>
 While <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">JavaScript</a> is used by this website to serve an enhanced experience, it is not a critical component of the website’s core operation; it may, therefore, be disabled (browser options permitting) at the visitor’s sole discretion.
    </p> 
 </div>
