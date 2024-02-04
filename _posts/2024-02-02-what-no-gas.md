@@ -4,7 +4,7 @@ layout: post
 caterories: article photography gear
 ---
 
-It's not that I take the best photos (because I don't) or that I'm famously famous (because I'm not) or that my hair's made of chocolate (because it isn't), so why are my peers so jealous? Here's why: I've a natural immunity to GAS! 😎
+It's not that I take the best photos (because I don't) nor that I'm famously famous (because I'm not) nor that my hair's made of chocolate (because it isn't), so why are my peers so jealous? Here's why: I've a natural immunity to GAS! 😎
 
 <hr><p><span style="display:block; margin-left:2em; margin-right:2em">
 <b>This post is a work in progress and will be finished very soon — <i>so just hold on to your rug, there, Bob!</i></b><hr>
