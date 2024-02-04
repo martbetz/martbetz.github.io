@@ -3,11 +3,11 @@ title: Legalities
 layout: page
 ---
 
-<p>
+<h4>
 Website: <a href="https://github.com/martbetz/martbetz.github.io">martbetz.github.io</a>
 <br>
 Author: <a href="https://github.com/martbetz">Mart Betz</a>
-</p>
+</h4>
 <p>
 This website is hosted by <a href="https://pages.github.com">GitHub Pages</a>; it was built using <a href="https://jekyllrb.com">Jekyll</a> and incorporates a fork of the <a href="https://jekyll.github.io/minima/about/">Minima</a> theme. Images attributed to the author may alternatively be hosted by <s><a href="https://martbetz.github.io/social404.html">Ello</a></s>; images not attributed to the author may be hosted by other sites. The source code for this website is hosted by <a href="github.com">GitHub</a>.
 </p>
