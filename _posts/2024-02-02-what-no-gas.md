@@ -4,7 +4,7 @@ layout: post
 caterories: article photography gear
 ---
 
-It’s not that I take the best photos (I don’t) nor that I have the best website (I haven’t) nor that my hair’s made of chocolate (it isn’t), so why are my peers in envy? They covet my freakish commitment: my steadfast resistance to GAS! 😎
+It’s not that I take the best photos (I don’t) nor that I have the best website (I haven’t) nor that my hair’s made of chocolate (it isn’t), so why are my peers in envy? They covet my steadfast resistance: my freakish intolerance to GAS! 😎
 
 <hr><p><span style="display:block; margin-left:2em; margin-right:2em">
 <b>This post is a work in progress, but I’ll finish it  as soon as I can — <i>so just hold on to your rug, there, Bob!</i></b><hr>
