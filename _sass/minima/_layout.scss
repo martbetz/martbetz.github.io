@@ -2,6 +2,8 @@
  * Site header
  */
 .site-header {
+  margin-left: 10px;
+  margin-right: 10px;
   border-top: 5px solid $border-color-03;
   border-bottom: 1px solid $border-color-01;
   min-height: $spacing-unit * 1.865;
@@ -204,8 +206,8 @@
 .page-content {
   padding: $spacing-unit 0;
   flex: 1 0 auto;
-  margin-left: 5px;
-  margin-right: 5px;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
 .page-heading {
