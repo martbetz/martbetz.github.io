@@ -25,7 +25,7 @@ Creating APNGs is a fairly straight forward process (a quick web search will bri
 </font>
 </p>
 
-<p style="padding-top: -5px; line-height: 2.0">
+<p style="padding-top: -5px; line-height: 1.0">
 <font size="2">
 ² caniuse.com provides up-to-date statistics on <a href="https://caniuse.com/?search=apng">APNG browser support</a>.
 </font>
