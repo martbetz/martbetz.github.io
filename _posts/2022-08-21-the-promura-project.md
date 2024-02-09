@@ -31,6 +31,7 @@ actions:
 
 <p style="margin-top:-5px">
 <font size="2">
+  
 <li>further information about Nissin Koki Co. Ltd.</li>
 <li>full-frame revews of the Auto-Promura 28mm C.P. Hi-Lux MC</li>
 <li>full-frame and crop-sensor revews of the Auto-Promura 20mm C.P. Hi-Lux MC</li>
