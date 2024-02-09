@@ -29,8 +29,11 @@ The adhesive strengthens with time, so I'll post an update soon. In the meantime
 
 Update (20.10.2023): The fix is ok but not perfect; the adhesive will sometimes still losen during general everyday use. I may try adding more tape, or I may try using some [Pliobond®](https://ruscoe.com/products/adhesives/).
 
----
+<p style="padding-top: 10px">
+<font size="2">
 
 ¹ Once I've refined the process, I'll put together a guide.
 
 ² I contacted the [Fujifilm Repair Centre](https://repairs.fujifilm.eu/en/fujifilm-repair-centre/?zr=uk), but they told me they didn't sell spares. If you have access to a 3D printer, you can find an [X-T10 thumb-grip print file](https://www.printables.com/en/model/181809-fujifilm-x-t20-x-t10-thumb-grip-rubber) on printables.com (courtesy of [wwolf90_219180](https://www.printables.com/@wwolf90_219180)).
+</font>
+</p>
