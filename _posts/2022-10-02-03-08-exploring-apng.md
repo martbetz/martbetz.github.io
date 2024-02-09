@@ -31,9 +31,11 @@ Creating APNGs is a fairly straight forward process (a quick web search will bri
 </font>
 </p>
 
-<p style="padding-top: -5px; line-height:2.0">
+<p style="padding-top: -5px; line-height:1.0">
 <font size="2">
 ³ Here's an example of a typical APNG-assembly workflow using APNG Assembler:
+</font>
+</p>
 
 <ol>
 <li>create PNG files with (or rename existing PNG files as) <code>frame0001.PNG</code>, <code>frame0002.PNG</code>, etc.</li>
