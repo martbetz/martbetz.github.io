@@ -19,14 +19,25 @@ The **A**nimated **P**ortable **N**etwork **G**raphics format was created in 200
 
 Creating APNGs is a fairly straight forward process (a quick web search will bring up numerous solutions), but unoptimised APNGs can often prove impractical due to their large file size; personally, I use [Max Stepin](https://sourceforge.net/u/maxst/profile)'s  [APNG Assemebler](https://apngasm.sourceforge.net) as it's both easy to install and optimises the files as part of the assembly process.³
 
----
-¹ While [the potential of JPEG XL](https://martbetz.github.io/photography/computing/2022/10/27/exploring-jpegxl.html) blows APNG into the weeds (along with everything else for that matter), it has yet to be widely adopted. (caniuse.com provides up-to-date sdtatistics on [JPEG XL browser support](https://caniuse.com/?search=jxl)).
+p style="padding-top: 15px">
+<font size="2">
+¹ While <a href="https://martbetz.github.io/photography/computing/2022/10/27/exploring-jpegxl.html">the potential of JPEG XL</a> blows APNG into the weeds (along with everything else for that matter), it’s yet to be widely adopted. (caniuse.com provides up-to-date sdtatistics on <a href="https://caniuse.com/?search=jxl">JPEG XL browser support</a>).
+</font>
+</p>
 
-² caniuse.com provides up-to-date statistics on [APNG browser support](https://caniuse.com/?search=apng).
+p style="padding-top: -5px">
+<font size="2">
+² caniuse.com provides up-to-date statistics on <a href="https://caniuse.com/?search=apng">APNG browser support</a>.
+</font>
+</p>
 
+p style="padding-top: -5px">
+<font size="2">
 ³ Here's an example of a typical APNG-assembly workflow using APNG Assembler:
 
-  1. create PNG files with (or rename existing PNG files as) `frame0001.PNG`, `frame0002.PNG`, etc.
-  2. `CD` into folder containing the files to be assembled
-  3. open the command terminal
-  4. run command `apngasm -o output-file.apng frame0001.png 5000 frame0002.png 5000`
+<li>create PNG files with (or rename existing PNG files as) `frame0001.PNG`, `frame0002.PNG`, etc.</li>
+<li>`CD` into folder containing the files to be assembled</li>
+<li>open the command terminal</li>
+<li>run command `apngasm -o output-file.apng frame0001.png 5000 frame0002.png 5000`</li>
+</font>
+</p>
