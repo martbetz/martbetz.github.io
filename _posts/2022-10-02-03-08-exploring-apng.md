@@ -31,13 +31,15 @@ Creating APNGs is a fairly straight forward process (a quick web search will bri
 </font>
 </p>
 
-<p style="padding-top: -5px">
+<p style="padding-top: -5px; line-height: 1.0">
 <font size="2">
 ³ Here's an example of a typical APNG-assembly workflow using APNG Assembler:
 
+<ol>
 <li>create PNG files with (or rename existing PNG files as) <code>frame0001.PNG</code>, <code>frame0002.PNG</code>, etc.</li>
 <li><code>CD</code> into folder containing the files to be assembled</li>
 <li>open the command terminal</li>
 <li>run command <code>apngasm -o output-file.apng frame0001.png 5000 frame0002.png 5000</code></li>
+</ol>
 </font>
 </p>
