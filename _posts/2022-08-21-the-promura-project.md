@@ -25,15 +25,20 @@ actions:
 
 <p style="margin-top:15px">
 <font size="2">
-
 ¹ If you'd like to contribute to this project, please get in touch; in particular, I'd greatly appreciate some help with the following:
 
 <li>further information about Nissin Koki Co. Ltd.</li>
 <li>full-frame revews of the Auto-Promura 28mm C.P. Hi-Lux MC</li>
-
 <li>full-frame and crop-sensor revews of the Auto-Promura 20mm C.P. Hi-Lux MC</li>
+</font>
+</p>
 
+<p style="margin-top:-5px">
+<font size="2">
 Please provide links to references that support any contributed information. If you'd like to submit details of identified lenses, please include links to photos that clearly show the mount type and serial number.
+</font>
+</p>
+
 
 <!-- Place this tag where you want the button to render. -->
 <p style="padding-top: 10px;">
