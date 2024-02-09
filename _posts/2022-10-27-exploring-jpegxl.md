@@ -37,13 +37,32 @@ JPEG XL has already been finalised, but it will likely take some time to gain tr
 
 
 
----
-¹ wikipedia.com provides a comprehensive list of [JPEG XL features](https://en.m.wikipedia.org/wiki/JPEG_XL#Features).
+<p style="padding-top: 15px">
+<font size="2">
+¹ wikipedia.com provides a comprehensive list of <a href="https://en.m.wikipedia.org/wiki/JPEG_XL#Features">JPEG XL features</a>.
+</font>
+</p>
 
-² My weapon of choice is KDE Manaro, so this was a no-brainer — _support was added to all my KDE apps, as well as [GIMP](https://www.gimp.org/) and [feh](https://feh.finalrewind.org), in less than two minutes!_&nbsp;😍️ 
+<p style="padding-top: 15px">
+<font size="2">
+² My weapon of choice is KDE Manaro, so this was a no-brainer — _support was added to all my KDE apps, as well as <a href="https://www.gimp.org">GIMP</a> and <a href="https://feh.finalrewind.org">feh</a>, in less than two minutes!_&nbsp;😍️ 
+</font>
+</p>
 
+<p style="padding-top: 15px">
+<font size="2">
 ³ I could have just used the PNG, of course, but then my chart wouldn't have looked _anywhere near_ as pretty.&nbsp;😉
+</font>
+</p>
 
-⁴ caniuse.com provides up-to-date statistics on [JPEG XL browser support](https://caniuse.com/?search=jxl). 
+<p style="padding-top: 15px">
+<font size="2">
+⁴ caniuse.com provides up-to-date statistics on <a href="https://caniuse.com/?search=jxl">JPEG XL browser support. 
+</font>
+</p>
 
-⁵ And yet, just as I finished writing this post, [Google dropped support for JPEG XL in Chromium](https://cloudinary.com/blog/the-case-for-jpeg-xl)!&nbsp;😠
+<p style="padding-top: 15px">
+<font size="2">
+⁵ And yet, just as I finished writing this post, <a href="https://cloudinary.com/blog/the-case-for-jpeg-xl">Google dropped support for JPEG XL in Chromium</a>!&nbsp;😠
+</font>
+</p>
