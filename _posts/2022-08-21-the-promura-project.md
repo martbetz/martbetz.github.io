@@ -33,7 +33,7 @@ actions:
 </font>
 </p>
 
-<p style="margin-top:-5px">
+<p style="margin-top:15px">
 <font size="2">
 Please provide links to references that support any contributed information. If you'd like to submit details of identified lenses, please include links to photos that clearly show the mount type and serial number.
 </font>
