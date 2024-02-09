@@ -37,7 +37,8 @@ Having joined some time ago, I planned to use Ello for hosting my photos and art
 
 Not to worry; I’m counting my blessings and I’m blogging off [to the Fediverse](https://www.fediverse.to). So long, [Ello](https://en.m.wikipedia.org/wiki/Ello_(social_network)), and thanks for all the fish (as well as all the other outlandishly random things&nbsp;— <i>your support of creative freedom will sorely be missed&nbsp;</i>😞).
 
-<hr>
-
+<p style="padding-top: 20px">
+<font size="2">
 ¹ Courtesy of a Cloudflare 1016 error (at the current time of writing).
-
+</font>
+</p>
