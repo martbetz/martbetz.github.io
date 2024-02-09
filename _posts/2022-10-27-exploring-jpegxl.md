@@ -43,25 +43,25 @@ JPEG XL has already been finalised, but it will likely take some time to gain tr
 </font>
 </p>
 
-<p style="padding-top: 15px">
+<p style="padding-top: -5px">
 <font size="2">
 ² My weapon of choice is KDE Manaro, so this was a no-brainer — _support was added to all my KDE apps, as well as <a href="https://www.gimp.org">GIMP</a> and <a href="https://feh.finalrewind.org">feh</a>, in less than two minutes!_&nbsp;😍️ 
 </font>
 </p>
 
-<p style="padding-top: 15px">
+<p style="padding-top: -5px">
 <font size="2">
 ³ I could have just used the PNG, of course, but then my chart wouldn't have looked _anywhere near_ as pretty.&nbsp;😉
 </font>
 </p>
 
-<p style="padding-top: 15px">
+<p style="padding-top: -5px">
 <font size="2">
 ⁴ caniuse.com provides up-to-date statistics on <a href="https://caniuse.com/?search=jxl">JPEG XL browser support. 
 </font>
 </p>
 
-<p style="padding-top: 15px">
+<p style="padding-top: -5px">
 <font size="2">
 ⁵ And yet, just as I finished writing this post, <a href="https://cloudinary.com/blog/the-case-for-jpeg-xl">Google dropped support for JPEG XL in Chromium</a>!&nbsp;😠
 </font>
