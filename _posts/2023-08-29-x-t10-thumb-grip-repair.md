@@ -35,7 +35,7 @@ Update (20.10.2023): The fix is ok but not perfect; the adhesive will sometimes 
 </font>
 </p>
 
-<p style="margin-top:-10px;">
+<p style="margin-top:-5px;">
 <font size="2">
 ² I contacted the <a href="https://repairs.fujifilm.eu/en/fujifilm-repair-centre/?zr=uk">Fujifilm Repair Centre</a>, but they told me they didn't sell spares. If you have access to a 3D printer, you can find an <a hef="https://www.printables.com/en/model/181809-fujifilm-x-t20-x-t10-thumb-grip-rubber">X-T10 thumb-grip print file</a> on printables.com (courtesy of <a href="https://www.printables.com/@wwolf90_219180"> wwolf90_219180</a>).
 </font>
