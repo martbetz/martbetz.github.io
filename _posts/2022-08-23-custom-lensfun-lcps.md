@@ -52,7 +52,7 @@ I’m very pleased with them, personally, but why not judge for yourself?
 
 I’m slowly but surely uploading them to the GitHub repo; you can either check them out there, or you can download them directly from this page.
 
-<p style="margin-top:15px;>
+<p style="margin-top:15px;">
 <font size="2">
 ¹ ² Having said this, my custom LCPs are completely free and open-source; if you’re a Lensfun maintainer and you’d like to include anything, please feel free&nbsp;— <i>just be sure to leave me out of the politics!</i> 😉
 </font>
