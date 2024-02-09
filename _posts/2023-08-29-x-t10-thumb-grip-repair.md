@@ -29,7 +29,7 @@ The adhesive strengthens with time, so I'll post an update soon. In the meantime
 
 Update (20.10.2023): The fix is ok but not perfect; the adhesive will sometimes still losen during general everyday use. I may try adding more tape, or I may try using some [Pliobond®](https://ruscoe.com/products/adhesives/).
 
-<p style="padding-top: 10px">
+<p style="padding-top: 15px">
 <font size="2">
 ¹ Once I've refined the process, I'll put together a guide.
 </font>
