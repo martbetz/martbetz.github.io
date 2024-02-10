@@ -29,7 +29,7 @@ actions:
 </font>
 </p>
 
-<p style="margin-top:-5px; line-height: 1.1">
+<p style="margin-top:-5px; line-height: 1.25">
 <font size="2">
 <ol> 
 <li>further information about Nissin Koki Co. Ltd.</li>
