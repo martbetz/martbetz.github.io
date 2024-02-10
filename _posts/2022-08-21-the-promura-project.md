@@ -23,13 +23,13 @@ actions:
 
 <font size="4">The objective of The Promura Project is to collate as much information as possible about two very obscure and rare camera lenses: the Auto-Promura 28mm C.P. Hi-Lux MC and the Auto-Promura 20mm C.P. Hi-Lux MC.¹ </font>
 
-<p style="margin-top:15px; line-height: 1.2">
+<p style="margin-top:15px; line-height: 1.1">
 <font size="2">
 ¹ If you'd like to contribute to this project, please get in touch; in particular, I'd greatly appreciate some help with the following:
 </font>
 </p>
 
-<p style="margin-top:-5px; line-height: 1.2">
+<p style="margin-top:-5px; line-height: 1.1">
 <font size="2">
 <ol> 
 <li>further information about Nissin Koki Co. Ltd.</li>
@@ -39,7 +39,7 @@ actions:
 </font>
 </p>
 
-<p style="margin-top:-5px; line-height: 1.2">
+<p style="margin-top:-5px; line-height: 1.1">
 <font size="2">
 Please provide links to references that support any contributed information. If you'd like to submit details of identified lenses, please include links to photos that clearly show the mount type and serial number.
 </font>
