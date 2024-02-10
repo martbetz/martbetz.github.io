@@ -14,33 +14,23 @@ actions:
 
 ---
 
-<p>
 All lenses&nbsp;— <i>even the really expensive ones</i>&nbsp;— have their flaws; Lensfun helps compensate for these flaws using a generous and ever-growing collection of project-approved LCPs (lens-correction profiles).
-</p>
 
-<p>
-<h3>Why create custom LCPs?</h3>
+### Why create custom LCPs?
 
 Due to their general obscurity, most of my older legacy lenses are missing from the [Lensfun](https://github.com/lensfun/lensfun) database (at the current time of writing, at least); some of these lenses get used _a lot_, so creating LCPs for them was certainly a worthwhile investment.
-</p>
-<p>
-As for my newer and more popular lenses, all of them are duely included; however, my experience of using the stock LCPs has been a little hit and miss (in particular, results from the XC 35mm *ƒ*/2 LCP just don’t look quite right to me 🤔).
-</p>
 
-<p>
-<h3>Why not submit them directly to Lensfun?</h3>
+As for my newer and more popular lenses, all of them are duely included; however, my experience of using the stock LCPs has been a little hit and miss (in particular, results from the XC 35mm *ƒ*/2 LCP just don’t look quite right to me 🤔).
+
+### Why not submit them directly to Lensfun?
 
 The majority of my LCPs correct for geometric distortion only; where possible, the remaining data has been copied from existing samples (I tend to lean on the built-in tools of [RawTherapee](https://github.com/Beep6581/RawTherapee) and [GIMP](https://github.com/GNOME/gimp) to correct for other abberations). Submitting incomplete LCPs, though acceptable, would be somewhat less than ideal.¹ 
-</p>
-<p>
-Furthermore, it’s never been my intention to submit _replacement_ LCPs; ‘beauty is in the eye of the beholder,’ and to consider my humble efforts as being ‘better’ in any way would be very naive and extremely rude (and while it’s often nice to have a choice, submitting them as _alternatives_ would only lead to confusion).²
-</p>
 
-<p>
-<h3>What are the results like?</h3>
+Furthermore, it’s never been my intention to submit _replacement_ LCPs; ‘beauty is in the eye of the beholder,’ and to consider my humble efforts as being ‘better’ in any way would be very naive and extremely rude (and while it’s often nice to have a choice, submitting them as _alternatives_ would only lead to confusion).²
+
+### What are the results like?
 
 I’m very pleased with them, personally, but why not judge for yourself?
-</p>
 
   <div>
   <center>
@@ -57,13 +47,11 @@ I’m very pleased with them, personally, but why not judge for yourself?
 <!--
 <s>I've also uploaded a short [LCP test video](https://youtu.be/r3FstrYvvno) to YouTube (I've no idea why, but it's there if you want to see it).³</s> -->
 
-<p>
-<h3>Great! Where are they?</h3>
+### Great! Where are they?
 
 I’m slowly but surely uploading them to the GitHub repo; you can either check them out there, or you can download them directly from this page.
-</p>
 
-<p style="margin-top:25px; line-height: 1.1">
+<p style="margin-top:30px; line-height: 1.1">
 <font size="2">
 ¹ ² Having said this, my custom LCPs are completely free and open-source; if you’re a Lensfun maintainer and you’d like to include anything, please feel free&nbsp;— <i>just be sure to leave me out of the politics!</i> 😉
 </font>
