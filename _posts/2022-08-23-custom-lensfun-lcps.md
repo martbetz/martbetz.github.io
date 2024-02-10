@@ -48,9 +48,11 @@ I’m very pleased with them, personally, but why not judge for yourself?
 <!--
 <s>I've also uploaded a short [LCP test video](https://youtu.be/r3FstrYvvno) to YouTube (I've no idea why, but it's there if you want to see it).³</s> -->
 
-### Great! Where are they? ###
+<p>
+<h3>Great! Where are they?</h3>
 
 I’m slowly but surely uploading them to the GitHub repo; you can either check them out there, or you can download them directly from this page.
+</p>
 
 <p style="margin-top:15px; line-height: 1.1">
 <font size="2">
