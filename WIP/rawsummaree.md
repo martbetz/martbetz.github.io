@@ -36,8 +36,7 @@ layout: blank
 <p style="background: none; padding-top: 5px; padding-bottom: 5px;">
    <span style="display:block; margin-left: 50px; margin-right:50px;">
       <font size="2">
-         <center>
-            
+         <center>          
             <a style="text-decoration:none" href="http://rawtherapee.com/" target="_blank">Rherapee</a>
             &nbsp;&nbsp;&nbsp;&nbsp;<a style="text-decoration:none" href="https://rawpedia.rawtherapee.com/Main_Page" target="_blank">RawPedia</a>
             &nbsp;&nbsp;&nbsp;&nbsp;<a style="text-decoration:none" href="https://github.com/Beep6581/RawTherapee" target="_blank">GitHub</a>
@@ -47,4 +46,40 @@ layout: blank
    </span>
 </p>
 
-Text
+<!-- Body -->      
+
+<p style="margin-top:50px;">
+   <hr>
+</p>
+
+<p style="margin-top: 50px;">
+  <font size="4">
+    <div align="center">
+      <b>Heading</b>
+      <br>
+  </font>
+  </font>
+    </div>
+  </font>
+</p>
+
+<p style="padding-top: 10px" >
+   <img src="https://raw.githubusercontent.com/Beep6581/RawTherapee/7945f93e8fef91a473d9a8a7a9078884649c6158/rtdata/images/svg/splash.svg" alt="RawTherapee_screen splash" alt="RawTherapee_screen splash">
+</p>
+
+<div align="left">
+   <p style="margin-top: 50px;">
+     <center><h2>Link Category 1</h2></center>
+      A list of links along with a summary of each will go here.
+  </p>
+   
+<p style= "margin-top: 40px;">
+      <center><h2>Link Category 2</h2><center>
+      A list of links along with a summary of each will go here.
+   </p>
+   
+</div>
+
+<p style= "margin-top: -10px;">
+   &nbsp;
+<p>
