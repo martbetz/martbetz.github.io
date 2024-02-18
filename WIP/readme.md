@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About RawFocus
+title: RawFocus
 ---
 
 <font size="4">
