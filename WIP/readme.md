@@ -12,11 +12,11 @@ title: RawFocus
 </span><hr></p>
 
 <p>
-Over on the forum, there's been a bit of chatter: how could updates and project news be better served to users? So I typed away on the clacker last night, and this is what I came up with.
+Over on the forum, there's been <a href="https://discuss.pixls.us/t/news-about-rawtherapee-development/41749?u=martbetz">a bit of chatter</a>: how could updates and project news be better served to users? So I typed away on the clacker last night, and this is what I came up with.
 </p>
 
 <p>
-Updating the main project news feed has proven a bit of a faff, so I'm going to host it instead as a page on my personal site (where billions of daily vistors are sure to find it and read it 😉😆).
+Updating the main project news feed has proven <a href="https://discuss.pixls.us/t/news-about-rawtherapee-development/41749/93?u=martbetz">a bit of a faff</a>, so I'm going to host it instead as a page on my personal site (where billions of daily vistors are sure to find it and read it 😉😆).
 </p>
 
 <hr><p><span style="display:block; margin-left:2em; margin-right:2em">
