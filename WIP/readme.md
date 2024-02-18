@@ -1,6 +1,9 @@
 ---
 layout: page
+title: About RawFocus
 ---
+
+<font size="4">
 
 [RawFocus](https:://martbetz.github.io/WIP/rawfocus.html) is an independent and modest attempt at a resource page for [RawTherapee](https://rawtherapee.com).
 
@@ -10,7 +13,7 @@ layout: page
 
 Over on the forum, there's been a bit of chatter: how could updates and project news be better served to users? I typed away on the clacker last night, and this is what I came up with.
 
-
+</font>
 
 
 <!--
