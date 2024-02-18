@@ -23,7 +23,7 @@ There's been a bit of intetest, but getting the content added to the main RawThe
 <b>This page is a work in progress, but I’ll finish it  as soon as I can — <i>so just hold on to your rug, there, Bob!</i></b>
 </span><hr></p>
 
-The aim of RawFocus, then, is to compliment the 'news' section of the main RawTherapee website, and to provide a greater insight into what's being talked about and what's being worked on. 
+The aim of RawFocus, then, is to compliment the 'news' section of the main RawTherapee website, and to provide a greater insight into what's being talked about and what's going on with the project. 
 
 </font>
 
