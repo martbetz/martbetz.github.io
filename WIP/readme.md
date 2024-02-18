@@ -16,7 +16,7 @@ Over on the forum, there's been a bit of chatter: how could updates and project 
 </p>
 
 <p>
-Getting the content added to the main RawTherapee homepage has proven a difficult task; as such, I've instead decided to give it it's own little home on my site (where billions of daily vistors are sure to find and read it 😉😆).
+Getting the content added to the main RawTherapee homepage has proven a difficult task; as such, I've instead decided to give it it's own little place on my site (where billions of daily vistors are sure to find it and read it 😉😆).
 </p>
 
 <hr><p><span style="display:block; margin-left:2em; margin-right:2em">
