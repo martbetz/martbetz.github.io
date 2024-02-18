@@ -16,7 +16,7 @@ Over on the forum, there's been <a href="https://discuss.pixls.us/t/news-about-r
 </p>
 
 <p>
-Updating the main project news feed has proven <a href="https://discuss.pixls.us/t/news-about-rawtherapee-development/41749/93?u=martbetz">a bit of a faff</a>, so I'm going to host it instead as a page on <a href="martbetz.github.io">my personal website</a> (where billions of daily vistors are sure to find it and read it 😉😆).
+Updating the main project news feed has proven <a href="https://discuss.pixls.us/t/news-about-rawtherapee-development/41749/93?u=martbetz">a bit of a faff</a>, so I'm going to host it instead as a page on <a href="https://martbetz.github.io">my personal website</a> (where billions of daily vistors are sure to find it and read it 😉😆).
 </p>
 
 <hr><p><span style="display:block; margin-left:2em; margin-right:2em">
