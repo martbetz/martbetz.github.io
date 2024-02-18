@@ -5,7 +5,7 @@ title: RawFocus
 
 <font size="4">
 
-<a href="https://martbetz.github.io/WIP/rawfocus.html">RawFocus</a> is an unofficial and independent attempt at a resource page for <a href="https://rawtherapee.com">RawTherapee</a> (in other words, a good old-fashioned newsletter for anyone who cares to read it). 
+<a href="https://martbetz.github.io/WIP/rawfocus.html">RawFocus</a> is an independent and unofficial attempt at a resource page for <a href="https://rawtherapee.com">RawTherapee</a> (in other words, a good old-fashioned newsletter for anyone who cares to read it). 
 
 <p><hr><span style="display:block; margin-left:2em; margin-right:2em">
 <b>Please keep in mind that this is both a personal and an experimental project on the part of the website author — <i>by choosing to vist this website, you’re declaring your acceptance of its <a href="https://martbetz.github.io/terms-and-conditions.html#terms">terms</a>.</i></b>
