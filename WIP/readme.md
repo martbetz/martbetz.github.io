@@ -1,5 +1,5 @@
 ---
-layout: blank
+layout: page
 ---
 
 [RawFocus](https:://martbetz.github.io/WIP/rawfocus.html) is an independent and modest attempt at a resource page for [RawTherapee](https://rawtherapee.com).
