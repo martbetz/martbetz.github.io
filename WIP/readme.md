@@ -16,7 +16,7 @@ Over on the forum, there's been a bit of chatter: how could updates and project 
 </p>
 
 <p>
-Updating the main project homepage has proven a difficult task; as such, I've instead decided to host it in a space on my personal site (where billions of daily vistors are sure to find it and read it 😉😆).
+Updating the main project homepage has proven a bit of a faff, so I'm going to host it instead in a space on my personal site (where billions of daily vistors are sure to find it and read it 😉😆).
 </p>
 
 <hr><p><span style="display:block; margin-left:2em; margin-right:2em">
