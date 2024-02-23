@@ -7,7 +7,7 @@ tags: rawtherapee
 
 How could Rawtherapee be better promoted? How could related developments be better communicated? How could related content be better collated and served?  Here's my modest attempt at a quick and simple solution. 😊
 
-[RawTherapist](https://martbetz.github.io/WIP/homepage.html) is an experimental resource hub for [RawTherapee](https://rawtherapee.com), and it's goal (as the playfull name would suggest) is to save the sanity of users by making things easy to find.
+[RawTherapist](https://martbetz.github.io/WIP/homepage.html) is an experimental resource hub for [RawTherapee](https://rawtherapee.com), and it's goal (as the satirical name would suggest) is to save the sanity of users by making things easy to find.
 
 The project consists of two parts (or sub-projects, if you prefer): a news page called [RawFocus](https://martbetz.github.io/WIP/rawfocus.html) (yet another feeble effort at a witty play on words) and a page of organised links called [RawIndex](https://martbetz.github.io/WIP/rawfocus.html) (as I've finally run out of ideas for further smart-arsed puns).
 
