@@ -9,7 +9,7 @@ How could Rawtherapee be better promoted? How could related developments be bett
 
 [RawTherapist](https://martbetz.github.io/WIP/homepage.html) is an experimental resource hub for [RawTherapee](https://rawtherapee.com), and it's goal (as the satirical name would suggest) is to save the sanity of users by making things easy to find.
 
-The project consists of two parts (or sub-projects, if you prefer): a news page called [RawFocus](https://martbetz.github.io/WIP/rawfocus.html) (yet another feeble effort at a witty play on words) and a page of organised links called [RawIndex](https://martbetz.github.io/WIP/rawfocus.html) (I finally ran short of ideas for further smart-arsed puns).
+Currently, the project consists of two parts (or sub-projects, if you prefer): a news page called [RawFocus](https://martbetz.github.io/WIP/rawfocus.html) (another feeble effort at a witty play on words) and a page of organised links called [RawIndex](https://martbetz.github.io/WIP/rawfocus.html) (the smart-arsed pun well had finally dried up).
 
 To break with my usual format, the pages are clean and basic (no fancy headers or footers, and no multi-pages or scripts); while the project forms part of my website for now, it may get a home of it's own some day (or it may just die a quiet and lonely death; only time will tell).
 
