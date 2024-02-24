@@ -11,6 +11,8 @@ How could Rawtherapee be better promoted? How could related developments be bett
 
 Currently, the project consists of two parts (or sub-projects, if you prefer): a news page called [RawFocus](https://martbetz.github.io/WIP/rawfocus.html) (another feeble effort at a witty play on words) and a page of organised links called [RawIndex](https://martbetz.github.io/WIP/rawfocus.html) (the well of awful puns had by now run dry).
 
-To break with my usual format, the pages are clean and basic; there aren't any headers or footers, and there aren't any menus or scripts (for several good reasons, but I won't bore you with the details just yet). I can't provide a feed just yet (not a direct one, at least), but I'll work something out on that front very soon.  
+To break with my usual format, the pages are clean and basic; there aren't any headers or footers, and there aren't any menus or scripts (for several good reasons, but I won't bother to bore you with the details). 
 
-Anyway, I hope you find this stuff useful (if you don't, then please be kind; I'm just a huble hippie with a Kindle and a camera 😉). From now on (or at least until further notice), all related content will be posted straight to the project (instead of being posted directly to my 'blog'). 
+From now on (or at least until further notice), all related content will be posted straight to the project (instead of being posted directly to my 'blog'). I can't provide a feed just yet (not a direct one, at least), but I'll work something out on that front very soon.  
+
+Anyway, I hope you find this stuff useful (if you don't, then at least be kind; I'm just a humble hippie with a Kindle and a camera 😉). 
