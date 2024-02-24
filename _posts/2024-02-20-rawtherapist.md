@@ -5,7 +5,7 @@ categories: photography
 tags: rawtherapee
 ---
 
-How could Rawtherapee be better promoted? How could related developments be better communicated? How could related content be better collated and served?  Here's my modest attempt at a quick and simple solution. 😊
+How could Rawtherapee be better promoted? How could related developments be better communicated? How could related content be better collated and served?  Here's my modest attempt at a quick and simple solution.
 
 [RawTherapist](https://martbetz.github.io/WIP/homepage.html) is an experimental resource hub for [RawTherapee](https://rawtherapee.com), and it's goal (as the smart-arsed name would suggest) is to save the sanity of users by making things easy to find.
 
@@ -15,4 +15,4 @@ To break with my usual format, the pages are clean and basic; there aren't any h
 
 From now on (or at least until further notice), all related content will be posted straight to the project (instead of being posted directly to my 'blog'). I can't provide a feed just yet (not a direct one, at least), but I'll work something out very soon.  
 
-Anyway, maybe you'll find this stuff useful (if you don't, then try to be kind; I'm just a humble hippie with a hope, a dream, and a camera 😉). 
+Anyway, maybe you'll find this stuff useful (if you don't, then try to be kind; I'm just a humble hippie with a hope, a dream, and a camera 💙). 
