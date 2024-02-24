@@ -15,4 +15,4 @@ To break with my usual format, the pages are clean and basic; there aren't any h
 
 From now on (or at least until further notice), all related content will be posted straight to the project (instead of being posted directly to my 'blog'). I can't provide a feed just yet (not a direct one, at least), but I'll work something out very soon.  
 
-Anyway, I hope you find this stuff useful (if you don't, then try to be kind; for I'm just a humble hippie with a hope and a dream and a camera 😉). 
+Anyway, maybe you'll find this stuff useful (if you don't, then try to be kind; for I'm just a humble hippie with a hope and a dream and a camera 😉). 
