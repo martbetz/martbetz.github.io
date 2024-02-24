@@ -5,7 +5,7 @@ categories: photography
 tags: rawtherapee
 ---
 
-How could Rawtherapee be better promoted? How could related developments be better communicated? How could related content be better collated and served?  Here's my modest attempt at a quick and simple solution.
+How could Rawtherapee be better promoted? How could related developments be better communicated? How could related content be better collated and served? 🤔 Here's my modest attempt at a quick and simple solution.
 
 [RawTherapist](https://martbetz.github.io/WIP/homepage.html) is an experimental resource hub for [RawTherapee](https://rawtherapee.com), and it's goal (as the smart-arsed name would suggest) is to save the sanity of users by making things easy to find.
 
