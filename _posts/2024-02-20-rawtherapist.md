@@ -13,6 +13,6 @@ Currently, the project consists of two parts (or sub-projects, if you prefer): a
 
 To break with my usual format, the pages are clean and basic; there aren't any headers or footers, and there aren't any menus or scripts (for several good reasons, but I won't bother to bore you with the details). 
 
-From now on (or at least until further notice), all related content will be posted straight to the project (instead of being posted directly to my 'blog'). I can't provide a feed just yet (not a direct one, at least), but I'll work something out on very soon.  
+From now on (or at least until further notice), all related content will be posted straight to the project (instead of being posted directly to my 'blog'). I can't provide a feed just yet (not a direct one, at least), but I'll work something out very soon.  
 
 Anyway, I hope you find this stuff useful (if you don't, then try to be kind; I'm just a humble hippie with a Kindle and a camera 😉). 
