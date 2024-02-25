@@ -8,7 +8,6 @@ body{
 
 .site-header {
 /*  border-top: 5px solid $border-color-03; */
-  margin-left: 20px;
   border-top: 1px solid $background-color; 
   border-bottom: 1px solid $border-color-01;
   min-height: $spacing-unit * 1.865;
@@ -220,6 +219,7 @@ body{
 }
 
 .page-heading {
+    margin-left: 20px;
   @include relative-font-size(2);
 }
 
