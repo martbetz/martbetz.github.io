@@ -219,7 +219,6 @@ body{
 }
 
 .page-heading {
-    margin-left: 20px;
   @include relative-font-size(2);
 }
 
@@ -253,6 +252,7 @@ body{
  */
 .post-header {
   margin-bottom: $spacing-unit;
+    margin-left: 20px;
 }
 
 .post-title,
