@@ -6,7 +6,8 @@
 hr {
     margin-top: $spacing-unit;
     margin-bottom: $spacing-unit;
-    border: 0;
+    border: none;
+    padding: none;
     height: 1px;
     background: #ccc;
   //background-image: linear-gradient(to right, #ccc, #333, #ccc);
