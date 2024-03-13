@@ -26,6 +26,7 @@ body{
 }
 
 .site-title {
+  margin-left: 5px;
   @include relative-font-size(1.625);
   font-weight: 300;
   letter-spacing: -1px;
@@ -43,6 +44,7 @@ body{
 }
 
 .site-nav {
+  margin-right: 5px;
   position: absolute;
   top: 9px;
   right: $spacing-unit / 2;
