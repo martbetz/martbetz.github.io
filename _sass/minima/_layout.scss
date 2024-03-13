@@ -136,6 +136,7 @@ body{
  * Site footer
  */
 .site-footer {
+  margin-left: -5px; margin-right: -5px;
   border-top: 1px solid $border-color-01;
   padding: $spacing-unit 0;
 }
