@@ -1,6 +1,6 @@
 ---
-layout: post
 title: What the xz?!
+layout: post
 categories: computing
 tags: security linux xz exploit
 ---
