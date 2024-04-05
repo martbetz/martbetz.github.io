@@ -15,6 +15,11 @@ The following list contains advice and  recomendations for various popular opera
 - [Debian](https://lists.debian.org/debian-security-announce/2024/msg00057.html)
 - [Fedora](https://www.redhat.com/en/blog/urgent-security-alert-fedora-41-and-rawhide-users)
 - [Kali Linux](https://www.kali.org/blog/about-the-xz-backdoor/)
+
+[]()
+
 - [macOS](https://www.carlcassar.com/articles/how-to-check-and-upgrade-xz-on-mac-os)
-- [openSUSE](https://news.opensuse.org/2024/03/29/xz-backdoor/)
+
+[]()
+
 - [Windows](https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/microsoft-faq-and-guidance-for-xz-utils-backdoor/ba-p/4101961)
