@@ -9,7 +9,7 @@ tags: security linux xz exploit
 
 Read all about it, and keep up with the latest, via the [xz-utils backdoor situation (CVE-2024-3094)](https://gist.github.com/thesamesam/223949d5a074ebc3dce9ee78baad9e27) Github gist. Further information an be referenced from the official [NIST NVD notice update](https://nvd.nist.gov/vuln/detail/CVE-2024-3094).
 
-The following list contains advice and  recomendations for various popular operating systems and distributions:
+The following list contains advice and recomendations for several popular setups:
 
 - [Arch Linux](https://archlinux.org/news/the-xz-package-has-been-backdoored/)
 - [Debian](https://lists.debian.org/debian-security-announce/2024/msg00057.html)
