@@ -22,4 +22,6 @@ Advice and recomendations are also available for [macOS](https://www.carlcassar.
 - [Seytonic](https://m.youtube.com/watch?v=MllrK4XSJxc&pp=ygUCeHo%3D)
 - [Theo - t3.gg](https://m.youtube.com/watch?v=0pT-dWpmwhA&pp=ygUCeHo%3D)
 
+A [Wikipedia entry for the xz backdoor exploit](https://en.m.wikipedia.org/wiki/XZ_Utils_backdoor) is also available for reference.
+
 
