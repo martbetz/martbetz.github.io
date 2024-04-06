@@ -9,19 +9,13 @@ tags: security linux xz exploit
 
 Read all about it, and keep up with the latest, via the [xz-utils backdoor situation (CVE-2024-3094)](https://gist.github.com/thesamesam/223949d5a074ebc3dce9ee78baad9e27) Github gist; [updates from the maintainer](https://tukaani.org/xz-backdoor/) are available from the Tukaani website, and further information can be referenced from the official [NIST NVD notice update](https://nvd.nist.gov/vuln/detail/CVE-2024-3094).
 
-The following list contains advice and recomendations for several popular setups:
+The following list contains advice and recomendations for several popular distros:
 
 - [Arch Linux](https://archlinux.org/news/the-xz-package-has-been-backdoored/)
 - [Debian](https://lists.debian.org/debian-security-announce/2024/msg00057.html)
 - [Fedora](https://www.redhat.com/en/blog/urgent-security-alert-fedora-41-and-rawhide-users)
 - [Kali Linux](https://www.kali.org/blog/about-the-xz-backdoor/)
 
-[]()
-
-- [macOS](https://www.carlcassar.com/articles/how-to-check-and-upgrade-xz-on-mac-os)
-
-[]()
-
-- [Windows](https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/microsoft-faq-and-guidance-for-xz-utils-backdoor/ba-p/4101961)
+General advice and recomendations are also available for [macOS](https://www.carlcassar.com/articles/how-to-check-and-upgrade-xz-on-mac-os) and [Windows](https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/microsoft-faq-and-guidance-for-xz-utils-backdoor/ba-p/4101961).
 
 
