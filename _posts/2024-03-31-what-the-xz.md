@@ -16,6 +16,10 @@ The following list contains advice and recomendations for several popular Linux 
 - [Fedora](https://www.redhat.com/en/blog/urgent-security-alert-fedora-41-and-rawhide-users)
 - [Kali Linux](https://www.kali.org/blog/about-the-xz-backdoor/)
 
-General advice and recomendations are also available for [macOS](https://www.carlcassar.com/articles/how-to-check-and-upgrade-xz-on-mac-os) and [Windows](https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/microsoft-faq-and-guidance-for-xz-utils-backdoor/ba-p/4101961).
+General advice and recomendations are also available for [macOS](https://www.carlcassar.com/articles/how-to-check-and-upgrade-xz-on-mac-os) and [Windows](https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/microsoft-faq-and-guidance-for-xz-utils-backdoor/ba-p/4101961), and the following list contains some useful video comments regarding the exploit:
+
+- []()
+- [Brodie Robertson]()
+- 
 
 
