@@ -18,8 +18,8 @@ The following list contains advice and recomendations for several popular Linux 
 
 General advice and recomendations are also available for [macOS](https://www.carlcassar.com/articles/how-to-check-and-upgrade-xz-on-mac-os) and [Windows](https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/microsoft-faq-and-guidance-for-xz-utils-backdoor/ba-p/4101961), and the following list contains some useful video comments regarding the exploit:
 
-- []()
-- [Brodie Robertson]()
-- 
+- [Theo - t3.gg](https://m.youtube.com/watch?v=0pT-dWpmwhA&pp=ygUCeHo%3D)
+- [Brodie Robertson](https://m.youtube.com/watch?v=OHAyf0qwdCs&pp=ygUCeHo%3D)
+
 
 
