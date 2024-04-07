@@ -1,5 +1,5 @@
 ---
-title: What the xz?!
+title: Backdoor xz-utils Exploit!
 layout: post
 categories: computing
 tags: security linux xz exploit
