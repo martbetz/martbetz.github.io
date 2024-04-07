@@ -24,7 +24,7 @@ Advice and recomendations are also available for [macOS](https://www.carlcassar.
 
 A few podcasts have also covered the topic:
 
-- [risky.biz (episode 743)](https://risky.biz/RB743/)
+- [Risky.Businesses (episode 743)](https://risky.biz/RB743/)
 - [Linux Unplugged (episode 556)](https://linuxunplugged.com/556)
 - [This Week in Linux (episode 258)](https://tuxdigital.com/podcasts/this-week-in-linux/twil-258/)
 
