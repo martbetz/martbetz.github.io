@@ -4,7 +4,7 @@ layout: post
 categories: photography lenses repair maintenance diy
 ---
 
-For quite some time, now, there's been an ever-growing trend of 'de-clicking' vintage photography lenses for use in cinematography. Restoring them can be tricky; parts are often discarded, and here's where I need your help.
+For quite some time, now, there's been an ever-growing trend of 'de-clicking' vintage photography lenses for use in cinematography. Restoring them can be tricky; parts are often lost or discarded, and here's where I need your help.
 
 Lenses are 'de-clicked' by removing the bearing ball from the aperture mechanism. In order to restore the origional function, a replacement needs to be sought; sizes, however, can significantly vary. 
 
