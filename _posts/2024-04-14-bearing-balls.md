@@ -10,7 +10,7 @@ Lenses are 'de-clicked' by removing the bearing ball from the aperture mechanism
 
 While it's possible to source 'bearing ball kits' of varying sizes, quality is often an issue; as such, establishing the correct size for each lens is most important.
 
-I'm attempting to make a reference table with the aim of recording the correct bearing ball sizes for the most common legacy lenses:
+I'm attempting to make a reference list with the aim of recording the correct bearing ball sizes for the most common legacy lenses:
 
 - SMC Pentax-M 50mm 1.7
    - 2.0mm ([pentaxforums.com](https://www.pentaxforums.com/forums/10-pentax-slr-lens-discussion/226394-aperture-ring-ball-bearing-size-availability-m50-1-7-a.html))
