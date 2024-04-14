@@ -22,4 +22,4 @@ I'm attempting to make a reference list with the aim of recording the correct be
 
 So far, as you can see, it's a very small list indeed! If you can help in any way, I'd be very happy to hear from you. For now, you can shoot me an [email](https://martbetz.github.io/contact.html); if I can get this thing off the ground, I'll create a seperate project on GitHub.
 
-To measure the balls accurately, you’ll need to use a <a href="https://en.m.wikipedia.org/wiki/Calipers">caliper</a>. Please don’t provide estimated measurements — <i>we’re talking small tolerances, here, so estimates are about as useful as an ashtray on a motorbike!</i>
+To measure the balls accurately, you’ll need to use a <a href="https://en.m.wikipedia.org/wiki/Calipers#Vernier_caliper)">vernier caliper</a>. Please don’t provide estimated measurements&nbsp;— <i>we’re talking small tolerances, here, so estimates are about as useful as an ashtray on a motorbike!</i>
