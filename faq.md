@@ -33,7 +33,7 @@ No. I don't have the resourses to offer such a service.
 
 ### Can I hire you? ###
 
-No. I'm not a professional photographer; I just like taking pictures and enjoy messing around with stuff.
+No. I'm not a professional photographer; I just like taking pictures and messing about with stuff.
 
 ### Can I Contribute? ###
 
