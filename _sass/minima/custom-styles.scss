@@ -9,7 +9,8 @@ hr {
     border: none;
     padding: none;
     width: auto;
-    margin: auto;
+    margin-left: $spacing-unit;
+    margin-right: $spacing-unit;
     height: 1px;
     // background: #ccc;
     background: #bbb;
