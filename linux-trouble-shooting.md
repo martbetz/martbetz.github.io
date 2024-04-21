@@ -11,7 +11,7 @@ layout: page
 </span>
 </font>
 
----
+<hr style="height:0.75px">
 
 ## pacman/pamac ##
 
@@ -201,7 +201,7 @@ layout: page
 
 - `sudo firecfg --clean` will delete all created symbolic links
 
-----
+<hr style="height:0.75px">
 
 ## FFmpeg ##
 
