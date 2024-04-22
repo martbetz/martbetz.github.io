@@ -66,7 +66,7 @@ body{
     text-align: center;
 
     > svg path {
-      fill: white /* $border-color-03; */
+      fill: white $border-color-03;
     }
   }
 
@@ -77,6 +77,7 @@ body{
     height: 36px;
     z-index: 2;
     cursor: pointer;
+    
   }
 
   input ~ .trigger {
@@ -106,7 +107,7 @@ body{
     position: static;
     float: right;
     border: none;
-    background-color: inherit;
+background-color: white;
 
     label[for="nav-trigger"] {
       display: none;
