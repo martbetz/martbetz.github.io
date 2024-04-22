@@ -3,8 +3,6 @@ title: Linux (Arch) Troubleshooting
 layout: page
 ---
 
----
-
 <font size="4">
 <span style="display:block; margin-left:2em; margin-right:2em">
 <b>These solutions have worked for me and are listed here for my personal reference only&nbsp;— <i>if you decide to give any of them a go and they solve all of life’s problems, then great; if they don’t, and something catastrophic happens, then you’ve nobody to blame but yourself.</i></b>
