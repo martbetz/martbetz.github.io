@@ -64,10 +64,10 @@ body{
     line-height: 0;
     padding-top: 10px;
     text-align: center;
+    background-color: white;
 
     > svg path {
       fill: $border-color-03;
-      background-color: white;
     }
   }
 
@@ -93,7 +93,6 @@ body{
 
   .page-link {
     color: $text-color;
-    background-color: white;
     line-height: $base-line-height;
     display: block;
     padding: 5px 10px;
