@@ -88,7 +88,7 @@ body{
   input:checked ~ .trigger {
     display: block;
     padding-bottom: 5px;
-    background-color: $lm-background-color;
+    background-color: white; /*$lm-background-color;*/
   }
 
   .page-link {
