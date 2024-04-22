@@ -64,7 +64,6 @@ body{
     line-height: 0;
     padding-top: 10px;
     text-align: center;
-    background-color: white;
 
     > svg path {
       fill: $border-color-03;
@@ -89,6 +88,7 @@ body{
   input:checked ~ .trigger {
     display: block;
     padding-bottom: 5px;
+    background-color: white;
   }
 
   .page-link {
