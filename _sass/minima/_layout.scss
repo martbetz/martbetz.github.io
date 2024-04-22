@@ -107,7 +107,7 @@ body{
     position: static;
     float: right;
     border: none;
-background-color: white;
+    background-color: inherit;
 
     label[for="nav-trigger"] {
       display: none;
