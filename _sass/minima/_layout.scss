@@ -66,7 +66,7 @@ body{
     text-align: center;
 
     > svg path {
-      fill: $border-color-03;
+      fill: white /* $border-color-03; */
     }
   }
 
