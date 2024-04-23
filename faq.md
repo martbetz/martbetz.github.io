@@ -5,11 +5,11 @@ layout: post
 
 ### Why is the code so messy? ###
 
-It’s allowed to be; this website is my playground.
+It’s allowed to be; my website's but a playground.
 
 ### Why can’t I leave a comment? ###
 
-I don't accept comments on the site.
+I don't accept comments on any part of the site.
 
 ### How can I reach you? ###
 
