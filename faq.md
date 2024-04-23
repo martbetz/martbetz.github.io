@@ -21,7 +21,7 @@ No. I've no reason to be. I may pop up in the odd forum, but that's about it.
 
 ### What are your chosen pronouns? ###
 
-I've no such terms of preference. Call me whatever you want. 
+I've no such terms of preference; you can call me whatever you want. 
 
 ### Can I meet you in person? ###
 
