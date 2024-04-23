@@ -7,10 +7,6 @@ layout: post
 
 It’s allowed to be; my website's but a playground.
 
-### Why can’t I leave a comment? ###
-
-I don't accept comments on any part of the site.
-
 ### How can I reach you? ###
 
 You can [contact me](https://martbetz.github.io/contact.html) directly by email or by chat. 
