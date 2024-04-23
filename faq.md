@@ -5,7 +5,7 @@ layout: post
 
 ### Why is the code such a mess? ###
 
-The website was written on my Kindle. It's also my playground, and I’m also lazy. 
+The website was written on a Kindle. It's also my playground, and I’m also very lazy. 
 
 ### Can I leave a comment? ###
 
@@ -21,7 +21,7 @@ No. I've no reason to be. I may pop up in the odd forum, but that's about it.
 
 ### What are your chosen pronouns? ###
 
-I've no such terms of preference; call me whatever you want. 
+I've no such terms of preference. Call me whatever you want. 
 
 ### Can I meet you in person? ###
 
@@ -29,7 +29,7 @@ No. Stop being weird.
 
 ### Where are you from? ###
 
-The same place as you, most likely: Planet Earth.
+The same place as you (most likely): Planet Earth.
 
 ### Will you repair my camera/lens? ###
 
@@ -37,10 +37,10 @@ No. I don't have the resourses to offer such a service.
 
 ### Can I hire you? ###
 
-No. I'm not a professional photographer; I just like taking pictures and messing about with computers.
+No. I'm not a professional; I’m just a hippie with a hobby.
 
 ### Can I Contribute? ###
 
-No. You'd do better posting elsewhere and sending a link to your work.
+No. You'd do better posting stuff elsewhere and sending a link to your work.
 
 
