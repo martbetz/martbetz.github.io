@@ -3,6 +3,10 @@ title: Frequently Asked Questions
 layout: post
 ---
 
+### Why is the code such a mess? ###
+
+The website was written on my Kindle. It's also my playground, and I’m also lazy. 
+
 ### Can I leave a comment? ###
 
 No. I don't accept comments on the website.
@@ -33,7 +37,7 @@ No. I don't have the resourses to offer such a service.
 
 ### Can I hire you? ###
 
-No. I'm not a professional photographer; I just like taking pictures and messing about with stuff.
+No. I'm not a professional photographer; I just like taking pictures and messing about with computers.
 
 ### Can I Contribute? ###
 
