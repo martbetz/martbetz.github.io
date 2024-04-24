@@ -29,11 +29,11 @@ The land of dragons.
 
 ### Will you repair my camera/lens? ###
 
-I don't have the time or resourses.
+I lack the time and resources.
 
 ### Can I hire you? ###
 
-I'm not a professional; I’m a hippie with a hobby.
+I'm not a professional; I’m a hippie of hobbies.
 
 ### Can I Contribute? ###
 
