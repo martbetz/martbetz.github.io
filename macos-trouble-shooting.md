@@ -9,7 +9,7 @@ layout: page
 </span>
 </font>
 
----
+<hr style="background-color: #ccc">
 
 ## macOS ##
 
