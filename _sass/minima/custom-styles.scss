@@ -4,14 +4,15 @@
 /* Gradient color1 - color2 - color1 */
 
 hr {
-   //margin-top: spacing-unit;
+   margin-top: spacing-unit;
    margin-bottom: $spacing-unit;
    border: none;
    padding: none;
    height: 3px;
-   //background: #E4E4E4;
-   //background: #ddd;
-   background: none;
+   // background: #E4E4E4;
+   background: #ddd;
+   width: 60%;
+   // background: none;
    // background-image: linear-gradient(to right, #ccc, #333, #ccc);
  } 
 
