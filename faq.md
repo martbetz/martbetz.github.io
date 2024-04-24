@@ -25,18 +25,12 @@ Don't be weird.
 
 ### Where are you from? ###
 
-The land of dragons.
+The land of sheep and dragons.
 
 ### Will you repair my camera/lens? ###
 
-I lack the time and resources.
+I don't have the time and I don't have the patience.
 
 ### Can I hire you? ###
 
-I'm not a professional; I’m a hippie of hobbies.
-
-### Can I Contribute? ###
-
-You'd do better posting elsewhere and sending me a link.
-
-
+I'm not a professional; I’m a hippie with a hobby.
