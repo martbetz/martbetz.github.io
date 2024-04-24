@@ -19,14 +19,6 @@ I've no reason to be.
 
 I've no such terms of preference; call me whatever you want. 
 
-### Can I meet you in person? ###
-
-Don't be weird.
-
-### Where are you from? ###
-
-The land of sheep and dragons.
-
 ### Will you repair my camera/lens? ###
 
 I don't have the time and I don't have the patience.
@@ -34,3 +26,15 @@ I don't have the time and I don't have the patience.
 ### Can I hire you? ###
 
 I'm not a professional; I’m a hippie with a hobby.
+
+### Where are you from? ###
+
+The land of sheep and dragons.
+
+### Can I meet you in person? ###
+
+Don't be weird.
+
+
+
+
