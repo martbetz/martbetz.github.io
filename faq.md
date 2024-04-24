@@ -25,7 +25,7 @@ I don't have the time and I don't have the patience.
 
 ### Can I hire you? ###
 
-I'm not a professional; I’m a happy hobby-hippie.
+I'm not a professional; I’m a hobby-happy hippie.
 
 ### Where are you from? ###
 
