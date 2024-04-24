@@ -5,7 +5,7 @@ layout: post
 
 ### Why is the code so messy? ###
 
-It’s allowed to be; my website's my playground.
+It’s allowed to be; this is my playground.
 
 ### How can I reach you? ###
 
