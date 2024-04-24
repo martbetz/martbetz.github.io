@@ -29,7 +29,7 @@ The land of dragons.
 
 ### Will you repair my camera/lens? ###
 
-I don't have the resourses to offer such a service.
+I don't have the time or resourses.
 
 ### Can I hire you? ###
 
