@@ -13,7 +13,7 @@ You can [contact me](https://martbetz.github.io/contact.html) directly by email 
 
 ### Are you on social media? ###
 
-I've no reason to be. I may pop up in the odd forum, but that's about it.
+I've no reason to be.
 
 ### What are your chosen pronouns? ###
 
