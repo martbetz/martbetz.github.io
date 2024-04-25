@@ -68,7 +68,7 @@ By interacting with this website, you (the visitor) hereby subsequently acknowle
 </ul>
 <ul>
 <li>
-(as per the Intellectual Property Notice) unless otherwise stated, all content is the copyright (©) of the author and may neither be redistributed (which includes by way of hotlinking) nor reproduced (which includes by way of archiving) without the author’s explicit prior consent
+(as per the <a href="#copyright">Intellectual Property Notice</a>) unless otherwise stated, all content is the copyright (©) of the author and may neither be redistributed (which includes by way of hotlinking) nor reproduced (which includes by way of archiving) without the author’s explicit prior consent
 </li>
 </ul>
 <ul>
