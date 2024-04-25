@@ -68,7 +68,7 @@ By interacting with this website, you (the visitor) hereby subsequently acknowle
 </ul>
 <ul>
 <li>
-(as per the <a href="#copyright">Intellectual Property Notice</a>) unless otherwise stated, all content is the copyright (©) of the author and may neither be redistributed (which includes by way of hotlinking) nor reproduced (which includes by way of archiving) without the author’s explicit prior consent
+(as per the <a href="#copyright">Intellectual Property Notice</a>) unless otherwise stated, all content is the copyright (©) of the author and may neither be redistributed (which includes by way of hotlinking) nor reproduced (which includes by way of archiving) without the author’s consent (both explicit and prior)
 </li>
 </ul>
 <ul>
@@ -144,7 +144,7 @@ This website neither promotes nor accepts any financial contribution of any kind
 <br>
 <br>
 Unless otherwise stated, all content is the copyright (©) of the author and may neither be redistributed nor reproduced (in full or in part) without the author’s consent. -->
-Unless otherwise stated, all content is the copyright (©) of the author and may neither be redistributed (which includes by way of hotlinking) nor reproduced (which includes by way of archiving) without the author’s explicit prior consent.
+Unless otherwise stated, all content is the copyright (©) of the author and may neither be redistributed (which includes by way of hotlinking) nor reproduced (which includes by way of archiving) without the author’s consent (both explicit and prior).
 </p> 
 <p>
 The title (“JPEG Junkie”), subtitle (“An Affliction of Addiction to Obsessive Observation and the Prevailing Preservation Thereof!”) and logo (<img src="/favicon.ico" alt="logo" width="16px">) are the trademark (™) of the author.
