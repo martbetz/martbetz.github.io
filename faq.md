@@ -1,6 +1,6 @@
 ---
 title: Frequently Asked Questions
-layout: post
+layout: page
 ---
 
 ### Why is the code so messy? ###
