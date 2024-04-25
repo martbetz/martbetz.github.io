@@ -21,7 +21,7 @@ I've no such terms of preference; call me whatever you want.
 
 ### Will you repair my camera/lens? ###
 
-I don't have the time and I don't have the patience.
+I've neither the time nor the patience.
 
 ### Can I hire you? ###
 
