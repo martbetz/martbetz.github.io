@@ -1,5 +1,5 @@
 ---
-title: A Call for Balls
+title: How Big are your Balls?
 layout: post
 categories: photography lenses repair maintenance diy
 ---
