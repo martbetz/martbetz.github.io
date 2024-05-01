@@ -1,5 +1,5 @@
 ---
-title: How Big are your Balls?
+title: How Big Are Your Balls?
 layout: post
 categories: photography lenses repair maintenance diy
 ---
