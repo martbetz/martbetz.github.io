@@ -20,12 +20,11 @@ I’m attempting to make a reference list with the aim of recording the correct 
 - Minolta Rokkor 58mm 1.2
    - 2.0mm ([fredmiranda.com](https://www.fredmiranda.com/forum/topic/749370))
 
+So far, as you can see, it’s a very small list indeed! If you can help in any way, I’d be very happy to hear from you. For now, you can shoot me an [email](https://martbetz.github.io/contact.html) (if I can get this thing off the ground, I’ll create a seperate project on GitHub).
+
 Also, as a bonus:
      
 - Olympus LH-76D Lens Hood
    - 2.5mm ([mu-43.com](https://www.mu-43.com/threads/help-with-repairing-a-lh-76-lens-hood-specifically-with-the-size-of-the-ball-bearings.121427/  ))
-
-
-So far, as you can see, it’s a very small list indeed! If you can help in any way, I’d be very happy to hear from you. For now, you can shoot me an [email](https://martbetz.github.io/contact.html) (if I can get this thing off the ground, I’ll create a seperate project on GitHub).
 
 To measure the balls correctly, you’ll need to use a <a href="https://en.m.wikipedia.org/wiki/Calipers#Vernier_caliper">calliper</a>; please provide a photo where possible. Please don’t send me estimates (while I appreciate your intentions, they’re as useless as a wooden sock&nbsp;😄).
