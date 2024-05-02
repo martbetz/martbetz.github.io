@@ -27,4 +27,4 @@ Also, as a bonus:
 - Olympus LH-76D Lens Hood
    - 2.5mm ([mu-43.com](https://www.mu-43.com/threads/help-with-repairing-a-lh-76-lens-hood-specifically-with-the-size-of-the-ball-bearings.121427/  ))
 
-So, how big are your balls? 😁 You’ll need to use a <a href="https://en.m.wikipedia.org/wiki/Calipers#Vernier_caliper">calliper</a> to measure them, and please provide a photo where possible. Please don’t send me estimates; while I appreciate your intentions, they’re as useless as a wooden sock.&nbsp;😄
+So, how big are your balls? 😁 You’ll need to use a <a href="https://en.m.wikipedia.org/wiki/Calipers#Vernier_caliper">calliper</a> to measure them, and please provide a photo where possible. Please don’t send me estimates; while I appreciate your good intentions, they’re as useless as a wooden sock.&nbsp;😄
