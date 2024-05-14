@@ -27,6 +27,14 @@ $on-medium:        $on-palm !default;
 $on-large:         $on-laptop !default;
 
 // Use media queries like this:
+@include media-query($on-laptop) {
+    .wrapper {
+    zoom: 125%;
+
+  }
+}
+
+// Use media queries like this:
 // @include media-query($on-palm) {
 //   .wrapper {
 //     padding-right: $spacing-unit / 2;
