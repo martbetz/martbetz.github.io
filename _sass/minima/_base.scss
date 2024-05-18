@@ -33,14 +33,14 @@ body {
   overflow-wrap: break-word; 
   
   @media screen and (max-width:2000px){
-    line-height: 24px;  
+    line-height: 24px; font-size: $base-font-size * 1.5;
   }
 
-    @media screen and (max-width:1000px){
-    line-height: 25px;  
+    @media screen and (max-width:840px){
+    line-height: 25px; 
   }
 
-  @media screen and (max-width:500px){
+  @media screen and (max-width:480px){
     line-height: 23px;  
   }
 }
