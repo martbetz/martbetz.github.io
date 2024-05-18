@@ -3,6 +3,11 @@
 
 /* Gradient color1 - color2 - color1 */
 
+iframe {
+    overflow: hidden !important;
+    pointer-events: none !important;
+}
+
 hr {
    margin-top: spacing-unit;
    margin-bottom: $spacing-unit;
@@ -14,7 +19,6 @@ hr {
    // background: none;
    // background-image: linear-gradient(to right, #ccc, #333, #ccc);
  } 
-
 
 /* hr {
   margin-top: $spacing-unit;
