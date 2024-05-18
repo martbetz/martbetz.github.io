@@ -43,15 +43,15 @@ $on-large:         $on-laptop !default;
 
 
 @media (max-width:640px){
-    line-height: 27px;  
+    line-height: 30px;  
 }
 
 @media (max-width:640px){
-    line-height: 17px;  
+    line-height: 30px;  
 }
 
 @media (max-width:840px){
-    line-height: 30px;  
+    line-height: 35px;  
 }
 
 @mixin relative-font-size($ratio) {
