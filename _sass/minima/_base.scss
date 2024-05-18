@@ -32,7 +32,11 @@ body {
   flex-direction: column;
   overflow-wrap: break-word; 
   
-  @media screen and (max-width:5000px){
+  @media screen and (max-width:2000px){
+    line-height: 24px;  
+  }
+
+    @media screen and (max-width:1000px){
     line-height: 25px;  
   }
 
