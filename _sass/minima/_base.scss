@@ -32,16 +32,16 @@ body {
   flex-direction: column;
   overflow-wrap: break-word; 
 
-  @media screen and (max-width:1920px){
-    line-height: 22px;  
+  @media screen and (max-width:1400px){
+    line-height: 20px;  
   }
   
-  @media screen and (max-width:1040px){
+  @media screen and (max-width:900px){
     line-height: 25px;  
   }
 
-  @media screen and (max-width:540px){
-    line-height: 23px;  
+  @media screen and (max-width:500px){
+    line-height: 22px;  
   }
 }
 
