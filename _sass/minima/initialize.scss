@@ -41,15 +41,16 @@ $on-large:         $on-laptop !default;
   }
 }
 
-
+@mixin media-query($device) {
 @media (max-width:640px){
     line-height: 50px;  
 }
+}
 
-
-
+@mixin media-query($device) {
 @media (max-width:840px){
-    line-height: 35px;  
+    line-height: 100px;  
+}
 }
 
 @mixin relative-font-size($ratio) {
