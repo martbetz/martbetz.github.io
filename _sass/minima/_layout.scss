@@ -39,8 +39,7 @@ body{
 
   &,
   &:visited {
-    //color: $site-title-color;//
-    color: $link-visted-color;
+    color: $site-title-color;
   }
 }
 
@@ -92,8 +91,7 @@ body{
   }
 
   .page-link {
-    //color: $text-color;//
-    color: $l7nk-base-color;
+    color: $text-color;
     line-height: $base-line-height;
     display: block;
     padding: 5px 10px;
