@@ -33,15 +33,15 @@ body {
   overflow-wrap: break-word; 
 
   @media screen and (max-width:1920px){
-    line-height: 100px;  
-}
-  
-  @media screen and (max-width:840px){
     line-height: 30px;  
 }
-
-  @media screen and (max-width:640px){
+  
+  @media screen and (max-width:1040px){
     line-height: 25px;  
+}
+
+  @media screen and (max-width:580px){
+    line-height: 15px;  
 }
 
   
