@@ -31,7 +31,10 @@ body {
   //min-height: 100vh;//
   flex-direction: column;
   overflow-wrap: break-word; 
-  
+
+  @media screen and (max-width:480px){
+    line-height: 1.45em;
+  }
  
 } 
 
