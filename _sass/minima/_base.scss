@@ -31,6 +31,9 @@ body {
   //min-height: 100vh;//
   flex-direction: column;
   overflow-wrap: break-word; 
+  @media screen and (max-width:1920px){
+    line-height: 100px;  
+}
 }
 
 
