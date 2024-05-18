@@ -28,7 +28,7 @@ When a website like this one goes bye-bye, it's never good news; mountains of ir
 </center>
 
 <p style="text-align:center; padding-top: 5px;">
-  <font size=" 2">
+  <font size="2">
 © KironKlub@groups.io (screenshot 27.01.2023)
   </font>
 </p>
