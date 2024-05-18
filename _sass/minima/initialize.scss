@@ -8,7 +8,7 @@ $base-font-size:   16px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
 /* $base-line-height: 1.5 !default; */
-$base-line-height: 1.5rem !default;
+$base-line-height: normal !default;
 
 $spacing-unit:     30px !default;
 
@@ -39,6 +39,15 @@ $on-large:         $on-laptop !default;
   @media screen and (max-width: $device) {
     @content;
   }
+}
+
+
+@media (max-width:640px){
+    line-height: 25px;  
+}
+
+@media (max-width:640px){
+    line-height: 15px;  
 }
 
 @mixin relative-font-size($ratio) {
