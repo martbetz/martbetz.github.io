@@ -10,9 +10,7 @@ It’s a pretty straightforward work trip (bus, train, taxi, work, taxi, hotel, 
 
 The less I have to worry about, then, the better; I’ll travel like one should invest, and I’ll risk the dispensables only (I couldn’t give a fig if my work phone got nicked or my laptop got crushed, but I’d constantly be nervous of my camera). I’ll also be traveling lighter, which means a smaller backpack (so I’ve something I can keep right beside me without it being impractical). 
 
-There is one major downside, though (again, apart from the obvious): without my camera bag, I've nowhere to keep my wallet, passport, personal phone, tickets, or other such critical items (I’ve got a few pockets, but they’re none of them convenient or secure); then there’s my puffer, and I’ve no idea where to put that. I don’t want to put everything in my backpack as I can't keep an eye on it, and... 
-
-You know what? To hell with it; I'm taking the flaming camera!
+There is one major downside, though (again, apart from the obvious): without my camera bag, I've nowhere to keep my wallet, passport, personal phone, tickets, or other such critical items (I’ve got a few pockets, but they’re none of them convenient or secure); then there’s my puffer, and I’ve no idea where to put that. Actually... You know what? To hell with it! I'm taking the flaming camera!
 
 
 
