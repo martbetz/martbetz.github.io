@@ -12,7 +12,7 @@ The less I have to worry about, then, the better; I’ll travel like one should 
 
 There is one major downside, though (again, apart from the obvious): without my camera bag, I've nowhere to keep my wallet, passport, personal phone, tickets, or other such critical items (I’ve got a few pockets, but they’re none of them convenient or secure); then there’s my puffer, and I’ve no idea where to put that... 
 
-Dagnabbit, and to heck with it! You know what? I'm taking the darn camera! 😣
+Dagnabbit and to heck with it! You know what? I'm taking the doggone camera! 😣
 
 
 
