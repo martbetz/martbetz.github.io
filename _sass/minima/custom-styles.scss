@@ -7,9 +7,9 @@
   hyphens: auto;
 } */
 
-/*body{
-   line-height: 120%;
-}*/
+body{
+   line-height: 1.5 * $base-font-size * 2.25;
+}
 
 iframe {
     overflow: hidden !important;
