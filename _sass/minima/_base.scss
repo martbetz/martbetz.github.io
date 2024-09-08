@@ -33,7 +33,8 @@ body {
   overflow-wrap: break-word; 
 
   @media screen and (max-width:420px){
-    line-height: 1.40em;
+    /* line-height: 1.40em; */
+    line-height 25px;
   }
  
 } 
