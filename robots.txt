@@ -1,4 +1,11 @@
 User-agent: *
+Disallow: /
+
+User-agent: ia_archiver
+Disallow: /
+
 User-agent: AdsBot-Google
+Disallow: /
+
 User-agent: AdsBot-Google-Mobile
 Disallow: /
