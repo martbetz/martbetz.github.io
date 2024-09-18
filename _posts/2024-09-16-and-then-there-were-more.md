@@ -14,9 +14,9 @@ I've decided to give The Promura Project a facelift. It's been eight months sinc
   </center>
 </div>
 
-
-
+<p>
 <font size="4">The objective of The Promura Project is to collate as much information as possible about two very obscure and rare camera lenses: the Auto-Promura 28mm C.P. Hi-Lux MC and the Auto-Promura 20mm C.P. Hi-Lux MC.¹ </font>
+</p>
 
 <p style="margin-top: 30px; line-height:1.1">
 <font size="2">
@@ -46,15 +46,3 @@ Please provide links to references that support any contributed information. If 
 <a class="github-button" href="https://github.com/martbetz/The-Promura-Project   " data-size="large" aria-label="View Repo">View Repo</a>
 
 </p>
-
-<!--
-
-<p>
-  <center>
-    <h3>Identified <b>Auto-Promura 28mm C.P. Hi-Lux MC</b> Lenses</h3>
-  </center>
-</p>
-
-|SERIAL|MOUNT|COMMENTS|LOCALE |
-|------------|-------------|---------------------|----|
-|292593|Minolta (MD)¹|Details retrieved from [sale listing](https://www.gumtree.com.au/s-ad/albion/non-digital-cameras/auto-promura-c-p-hi-lux-1-2-8-f-28mm-wide-angle-camera-lens-80/1300197619)|🇦🇺 AUS|
