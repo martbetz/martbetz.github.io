@@ -6,14 +6,16 @@ categories: photography
 tags: The-Promura-Project
 ---
 
-<p style="margin-top: 20px;">
+<p>
 I've decided to give The Promura Project a facelift. It's been eight months since I last posted an update, and the list of 28mm lenses has grown from 10 to 18!&nbsp;🍻 To celebrate, I've now included seperate info pages for each example.
 </p>
 
 <div>
+  <p style="margin-top: 20px;">
   <center>
     <img src="https://user-images.githubusercontent.com/110672536/183131595-afeb1dec-1c84-436c-9a50-90468f9ec3ec.png" alt="ProjectLogo">
   </center>
+  </p>
 </div>
 
 <br>
