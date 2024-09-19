@@ -11,16 +11,16 @@ I've decided to give The Promura Project a facelift. It's been eight months sinc
 </p>
 
 <div>
-  <p style="margin-top: 20px;">
+  <p style="margin-top: 40px;">
   <center>
     <img src="https://user-images.githubusercontent.com/110672536/183131595-afeb1dec-1c84-436c-9a50-90468f9ec3ec.png" alt="ProjectLogo">
   </center>
   </p>
 </div>
 
-<br>
-
+<p style="margin-top: 40px;">
 <font size="4">The objective of The Promura Project is to collate as much information as possible about two very obscure and rare camera lenses: the Auto-Promura 28mm C.P. Hi-Lux MC and the Auto-Promura 20mm C.P. Hi-Lux MC.¹ </font>
+</p>
 
 <p style="margin-top: 30px; line-height:1.1">
 <font size="2">
