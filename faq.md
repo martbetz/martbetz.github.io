@@ -33,7 +33,7 @@ The Land of Sheep & Dragons.
 
 ### What is your favorite colour? ###
 
-Blue. No! AAARRRGGGHHH!
+Blue. No! _AAARRRGGGHHH..._
 
 ### Can I meet you in person? ###
 
