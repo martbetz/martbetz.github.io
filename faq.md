@@ -19,6 +19,11 @@ I've no reason to be.
 
 I've no such terms of preference; call me whatever you want. 
 
+### What is your favorite colour? ###
+
+Blue. No! _AAARRRGGGHHH..._
+
+
 ### Will you repair my camera/lens? ###
 
 I've neither the time nor the resources.
@@ -26,14 +31,6 @@ I've neither the time nor the resources.
 ### Can I hire you? ###
 
 I'm not a professional; I’m a hobby-happy hippy.
-
-### Where are you from? ###
-
-The Land of Sheep & Dragons.
-
-### What is your favorite colour? ###
-
-Blue. No! _AAARRRGGGHHH..._
 
 ### Can I meet you in person? ###
 
