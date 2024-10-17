@@ -31,6 +31,10 @@ I'm not a professional; I’m a hobby-happy hippy.
 
 The Land of Sheep & Dragons.
 
+### What is your favorite colour? ###
+
+Blue. No! AAARRRGGGHHH!
+
 ### Can I meet you in person? ###
 
 Don't be weird.
