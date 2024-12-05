@@ -6,7 +6,7 @@ categories: diy repair service
 
 It’s not very often that I buy stuff on a whim, but even frugally-yours falls victim to a deal just once in a while. I’ve just got back from a local store with my latest toy in tow: a 50W, 500ml ultrasonic cleaner — <i>and, so far, I’m pretty impressed!</i>
 
-I’ve wanted an ultrasonic cleaner for quite some time, but I’ve always been somewhat skeptical; are they <i>really</i> any good? It wasn’t until I discovered Marshall’s <a href="https://m.youtube.com/c/WristwatchRevival ">Wristwatch Revival</a> channel on YouTube that I thought I’d give one a try, and a store not far away from me had some for twenty quid (I also needed some excersise, so my stars had truely aligned&nbsp;😉).
+I’ve wanted an ultrasonic cleaner for quite some time, but I’ve always been somewhat skeptical; are they <i>really</i> any good? It wasn’t until I discovered Marshall Sutclffe’s <a href="https://m.youtube.com/c/WristwatchRevival ">Wristwatch Revival</a> channel on YouTube that I thought I’d give one a try, and a store not far away from me had some for twenty quid (I also needed some excersise, so my stars had truely aligned&nbsp;😉).
 
 I very nearly missed out as all bar one had gone, and the only one remaining was looking a little abused (the box had been carelessly opened, everything taken out, then hastenly shoved back in again). Against my better judgement, though, I took it down to the till.
 
