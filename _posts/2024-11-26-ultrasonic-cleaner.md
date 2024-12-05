@@ -8,7 +8,7 @@ It’s not very often that I buy stuff on a whim, but even frugally-yours falls 
 
 I’ve wanted an ultrasonic cleaner for quite some time, but I’ve always been somewhat skeptical; are they <i>really</i> any good? It wasn’t until I discovered Marshall’s <a href="https://m.youtube.com/c/WristwatchRevival ">Wristwatch Revival</a> channel on YouTube that I thought I’d give one a try, and a store not far away from me had some for twenty quid (I also needed some excersise, so my stars had truely aligned&nbsp;😉).
 
-I very nearly missed out as all bar one had gone, and the only one remaining was looking a little abused (the box had been carelessly opened, everything taken out, then hastenly shoved back in). Against my better judgement, though, I took it down to the till.
+I very nearly missed out as all bar one had gone, and the only one remaining was looking a little abused (the box had been carelessly opened, everything taken out, then hastenly shoved back in again). Against my better judgement, though, I took it down to the till.
 
 <img src="https://raw.githubusercontent.com/martbetz/martbetz.github.io/refs/heads/main/_includes/custom/uscleaner.jpg">
 
