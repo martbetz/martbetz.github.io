@@ -12,4 +12,6 @@ I very nearly missed out as all bar one had gone, and the only one remaining was
 
 I got it back home and checked it, and everything seemed to be fine; none of the parts were missing, and nothing too battered or bruised. I filled it up, popped in some bits, and switched it on; everything worked like a charm. 😊 
 
+<img src="https://raw.githubusercontent.com/martbetz/martbetz.github.io/refs/heads/main/_includes/custom/uscleaner.jpg">
+
 I wasn’t expecting miracles from a basic unit like this, but it left me most pleasantly surprised — <i>it really did get stuff clean!</i> Maybe I'll upgrade in the future, but this new little gadget is most definately a welcome addition to my workbench.
