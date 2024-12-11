@@ -3,7 +3,7 @@ title: Screw That!
 layout: post
 ---
 
-Buying cheap tools is rarely a good idea, but several hundred quid for drivers? 😲 Surely there must be a mid-ground? Well, as it turns out, there is — <i>but you really need to know what to look for and where you need to look to find it.</i> 
+Buying cheap tools is rarely a good idea, but several hundred quid for drivers? 😲 Surely there must be a middle ground? Well, as it turns out, there is — <i>but you really need to know what to look for and where you need to look to find it.</i> 
 
 When choosing a watchmaker’s screwdriver set, quality is king; the only problem is, quality comes at a price — <i>and the price of a quality set these days can just be plain darn crazy!</i>
 
