@@ -20,6 +20,7 @@ They’re winging it in from Germany as we speak, and all for the price of £35 
 <u>
 <!-- Display the countdown timer in an element -->
 <p id="demo"></p>
+  
 <script>
 
 // Set the date we're counting down to
@@ -51,6 +52,8 @@ var x = setInterval(function() {
   }
 }, 1000);
 </script>
+
+</u>
 </b>
 </center>
 
