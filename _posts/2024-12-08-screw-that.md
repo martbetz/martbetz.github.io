@@ -52,7 +52,6 @@ var x = setInterval(function() {
 }, 1000);
 </script>
 </b>
-</u>
 </center>
 
 <!-- <center>UPDATE: An update will follow shortly! </center> -->
