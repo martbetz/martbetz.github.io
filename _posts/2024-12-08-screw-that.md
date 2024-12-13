@@ -53,7 +53,7 @@ var x = setInterval(function() {
 </b>
 </center>
 
-<center>UPDATE: An update will follow shortly!</center>
+<!-- <center>UPDATE: An update will follow shortly! </center> -->
 
 
 <!--
