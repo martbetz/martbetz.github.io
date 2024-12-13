@@ -18,11 +18,10 @@ They’re winging it in from Germany as we speak, and all for the price of £35 
 <center>
 <b>
 <br>
-
 <!-- Display the countdown timer in an element -->
 <p id="demo"></p>
-
 <script>
+
 // Set the date we're counting down to
 var countDownDate = new Date("Dec 18, 2024 13:00:00").getTime();
 
@@ -48,11 +47,11 @@ var x = setInterval(function() {
   // If the count down is finished, write some text 
   if (distance < 0) {
     clearInterval(x);
-    document.getElementById("demo").innerHTML = "EXPIRED";
+    document.getElementById("demo").innerHTML = "They’re here! 🎉";
   }
 }, 1000);
 </script>
-
+<br>
 </b>
 </center>
 
