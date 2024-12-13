@@ -40,7 +40,7 @@ var x = setInterval(function() {
   var seconds = Math.floor((distance % (1000 * 60)) / 1000);
 
   // Display the result in the element with id="demo"
-  document.getElementById("demo").innerHTML = "🚚 " + days + "d " + hours + "h "
+  document.getElementById("demo").innerHTML = "🏠 " + days + "d " + hours + "h "
   + minutes + "m " + seconds + "s " + " until delivery! 🚚";
 
   // If the count down is finished, write some text 
