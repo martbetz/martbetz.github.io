@@ -41,8 +41,8 @@ var x = setInterval(function() {
   var seconds = Math.floor((distance % (1000 * 60)) / 1000);
 
  // Display the result in the element with id="demo"
-  document.getElementById("demo").innerHTML = "<u><b>🏠&nbsp;←&nbsp;" + days + "d&nbsp;" + hours + "h&nbsp;"
-  + minutes + "m&nbsp;" + seconds + "s&nbsp;" + "←&nbsp;🚚</u></b>" + "<br />" + "(due Dec 16, 2024)";
+  document.getElementById("demo").innerHTML = "<br />" + "<u><b>🏠&nbsp;←&nbsp;" + days + "d&nbsp;" + hours + "h&nbsp;"
+  + minutes + "m&nbsp;" + seconds + "s&nbsp;" + "←&nbsp;🚚</u></b>" + "<br />" + "(due Dec 16, 2024)" + "<br />;
   
   // If the count down is finished, write some text 
   if (distance < 0) {
