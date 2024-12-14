@@ -43,7 +43,7 @@ var x = setInterval(function() {
 
  // Display the result in the element with id="demo"
   document.getElementById("demo").innerHTML = " 🏠&nbsp;<--&nbsp;" + days + "d " + hours + "h "
-  + minutes + "m " + seconds + "s " + "&nbsp;<--&nbsp;🚚";
+  + minutes + "m " + seconds + "s " + "<--&nbsp;🚚";
   
   // If the count down is finished, write some text 
   if (distance < 0) {
