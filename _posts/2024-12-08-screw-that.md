@@ -15,6 +15,7 @@ Thank’s to Melvin’s advice, I was able to narrow things down. Two close cont
 
 They’re winging it in from Germany as we speak, and all for the price of £35 (including postage and packing)&nbsp;— <i>so be sure to check back for an update, now, Bob!</i>
 
+<font style="color:darkgrey;">
 <center>
 <b>
 <u>
@@ -56,6 +57,7 @@ var x = setInterval(function() {
 </u>
 </b>
 </center>
+</font>
 
 <!-- <center>UPDATE: An update will follow shortly! </center> -->
 
