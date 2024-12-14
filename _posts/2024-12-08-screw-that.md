@@ -63,11 +63,9 @@ All of the drivers, although in sealed wrapping, weren’t sitting right in the 
 
 These were purchased from Amazon, and I wonder if they’re even genuine. The tips look good and the case is definately branded, but I’m not so sure of the handles. I just can’t trust these; I’ve decided to return them.
 
-Would a brand this highly regarded <i>really</i> fail to notice that a case doesn’t close, or have the handles been swapped for fakes that the case just wasn't designed for? I just can’t take the risk.
+Would a brand this highly regarded <i>really</i> fail to notice that a case doesn’t close, or have the handles been swapped for fakes that the case just wasn't designed for? [I just can’t take the risk](https://www.nytimes.com/wirecutter/blog/amazon-counterfeit-fake-products/).
 
-Such a disapointment. 
-
-Back to square one. 😩
+Whichever’s the case, this is such a disapointment. Oh, well; back to the drawing board. 😩
 
 
 
