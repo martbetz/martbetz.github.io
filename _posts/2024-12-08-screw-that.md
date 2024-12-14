@@ -59,7 +59,7 @@ var x = setInterval(function() {
 
 All of the drivers, although in sealed wrapping, weren’t sitting right in the box. When I took off the seal, the plastic case sprang open and everthing jumped on the floor. 
 
-These were purchased from Amazon, and I wonder if they’re even genuine. The tips look good and the case in definately branded, but I’m not so sure of the handles. I just can’t trust these; back to square one.
+These were purchased from Amazon, and I wonder if they’re even genuine. The tips look good and the case is definately branded, but I’m not so sure of the handles. I just can’t trust these; back to square one.
 
 <!-- <center>UPDATE: An update will follow shortly! </center> -->
 
