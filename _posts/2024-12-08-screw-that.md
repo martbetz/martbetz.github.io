@@ -17,7 +17,6 @@ They’re winging it in from Germany as we speak, and all for the price of £35 
 
 <font style="color:#7B7D7D;">
 <center>
-<b>
 <!-- Display the countdown timer in an element -->
 <p id="demo"></p>
   
@@ -42,8 +41,8 @@ var x = setInterval(function() {
   var seconds = Math.floor((distance % (1000 * 60)) / 1000);
 
  // Display the result in the element with id="demo"
-  document.getElementById("demo").innerHTML = "<u>🏠&nbsp;←&nbsp;" + days + "d&nbsp;" + hours + "h&nbsp;"
-  + minutes + "m&nbsp;" + seconds + "s&nbsp;" + "←&nbsp;🚚</u>" + "<br />" + "Dec 16, 2024";
+  document.getElementById("demo").innerHTML = "<u><b>🏠&nbsp;←&nbsp;" + days + "d&nbsp;" + hours + "h&nbsp;"
+  + minutes + "m&nbsp;" + seconds + "s&nbsp;" + "←&nbsp;🚚</u></b>" + "<br />" + "due Dec 16, 2024";
   
   // If the count down is finished, write some text 
   if (distance < 0) {
@@ -53,7 +52,6 @@ var x = setInterval(function() {
 }, 1000);
 </script>
 
-</b>
 </center>
 </font>
 
