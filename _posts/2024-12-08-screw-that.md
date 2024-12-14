@@ -65,7 +65,7 @@ These were purchased from Amazon, and I wonder if they’re even genuine. The ti
 
 Would a brand this highly regarded <i>really</i> fail to notice that a case doesn’t close, or have the handles been swapped for fakes that the case just wasn't designed for? I just can’t take the risk.
 
-Back to square one.
+Such a disapointment. Back to square one. 😩
 
 
 
