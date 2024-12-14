@@ -15,10 +15,10 @@ Thank’s to Melvin’s advice, I was able to narrow things down. Two close cont
 
 They’re winging it in from Germany as we speak, and all for the price of £35 (including postage and packing)&nbsp;— <i>so be sure to check back for an update, now, Bob!</i>
 
-<font style="color:#555555;">
+<!-- <font style="color:#555555;">
 <center>
 <!-- Display the countdown timer in an element -->
-<p id="demo"></p>
+<!--<p id="demo"></p>
   
 <script>
 
@@ -53,7 +53,11 @@ var x = setInterval(function() {
 </script>
 
 </center>
-</font>
+</font> -->
+
+<b>UPDATE (Dec 13, 2024): HOLD THE FORT!</b> The drivers turned up today, and I’m really not impressed. As soon as I opened the packaging, I could something was up; all of the drivers, although in sealed wrapping, weren’t sitting right in the box. When I took off the seal, the plastic case sprang open and everthing jumped on the floor. 
+
+These were purchased from Amazon, and I wonder if they’re even genuine. The tips look good and the case in definately branded, but I’m not so sure of the handles. I just can’t trust these; back to square one.
 
 <!-- <center>UPDATE: An update will follow shortly! </center> -->
 
