@@ -42,7 +42,7 @@ var x = setInterval(function() {
 
  // Display the result in the element with id="demo"
   document.getElementById("demo").innerHTML = "<br />" + "<u><b>🏠&nbsp;←&nbsp;" + days + "d&nbsp;" + hours + "h&nbsp;"
-  + minutes + "m&nbsp;" + seconds + "s&nbsp;" + "←&nbsp;🚚</u></b>" + "<br />" + "(due Dec 16, 2024)" + "<br />;
+  + minutes + "m&nbsp;" + seconds + "s&nbsp;" + "←&nbsp;🚚</u></b>" + "<br />" + "(due Dec 16, 2024)" + "<br />";
   
   // If the count down is finished, write some text 
   if (distance < 0) {
