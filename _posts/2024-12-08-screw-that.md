@@ -55,6 +55,8 @@ var x = setInterval(function() {
 </center>
 </font> -->
 
+<hr>
+
 <b>UPDATE (Dec 13, 2024): HOLD THE FORT!</b> The drivers turned up today, and I’m really not impressed. As soon as I opened the packaging, I could something was up.
 
 All of the drivers, although in sealed wrapping, weren’t sitting right in the box. When I took off the seal, the plastic case sprang open and everthing jumped on the floor. 
