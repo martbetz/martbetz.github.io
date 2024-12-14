@@ -63,6 +63,8 @@ All of the drivers, although in sealed wrapping, weren’t sitting right in the 
 
 These were purchased from Amazon, and I wonder if they’re even genuine. The tips look good and the case is definately branded, but I’m not so sure of the handles. I just can’t trust these; [back to square one?](https://discuss.pixls.us/t/precision-screwdrivers/47032)
 
+After some reflection, I've decided to teturn them. Would a company that's highly regarded for their quality tools, <i>really</i> fail to notice that the case won't close and the inserts aren't straight? Or is it more likely that the handles have been swapped out for fakes that the case wasn't designed to hold? 
+
 <!-- <center>UPDATE: An update will follow shortly! </center> -->
 
 
