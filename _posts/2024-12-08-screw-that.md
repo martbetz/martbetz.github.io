@@ -61,7 +61,7 @@ var x = setInterval(function() {
 
 All of the drivers, although in sealed wrapping, weren’t sitting right in the box. When I took off the seal, the plastic case sprang open and everthing jumped on the floor. 
 
-These were purchased from Amazon, but [I wonder if they’re even genuine(https://www.nytimes.com/wirecutter/blog/amazon-counterfeit-fake-products/). The tips look good and the case is definately branded, but I’m not so sure of the handles. I just can’t trust these; I’ve decided to return them.
+These were purchased from Amazon, but [I wonder if they’re even genuine](https://www.nytimes.com/wirecutter/blog/amazon-counterfeit-fake-products/). The tips look good and the case is definately branded, but I’m not so sure of the handles. I just can’t trust these; I’ve decided to return them.
 
 Would a brand this highly regarded <i>really</i> fail to notice that a case doesn’t close, or have the handles been swapped for fakes that the case just wasn't designed for? I just can’t take the risk.
 
