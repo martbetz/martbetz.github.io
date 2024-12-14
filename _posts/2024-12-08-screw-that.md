@@ -15,7 +15,7 @@ Thank’s to Melvin’s advice, I was able to narrow things down. Two close cont
 
 They’re winging it in from Germany as we speak, and all for the price of £35 (including postage and packing)&nbsp;— <i>so be sure to check back for an update, now, Bob!</i>
 
-<font style="color:#222222;">
+<font style="color:#555555;">
 <center>
 <!-- Display the countdown timer in an element -->
 <p id="demo"></p>
