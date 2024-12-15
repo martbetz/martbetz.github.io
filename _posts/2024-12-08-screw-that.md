@@ -69,14 +69,31 @@ Whichever’s the case, this is such a disapointment. Oh, well; back to the draw
 
 To be continued.
 
-<!-- <center>UPDATE: An update will follow shortly! </center> -->
+<font style="color:#555555;">
+<center>
+<!-- Display the countdown timer in an element -->
+<p id="demo"></p>
+  
+<script>
 
+// Set the date we're counting up from 
+var countDownDate = new Date("Dec 13, 2024 15:00:00").getTime();
 
-<!--
+// Update the count down every 1 second
+var x = setInterval(function() {
 
-> “If you want to experience Horotec quality without the Horotec price, check out the sets from Beco’s own brand.”
+  // Get today's date and time
+  var now = new Date().getTime();
 
-I’m not a professional watchmaker (I’m hardly a professional <i>anything</i>). -->
+  // Find the distance between now and the count from date
+  var distance = now - countDownDate;
 
+  // Time calculations for days, hours, minutes and seconds
+  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
 
-
+ // Display the result in the element with id="demo"
+  document.getElementById("demo").innerHTML = "<br />" + "<b>😲&nbsp;" + days + "d&nbsp;" + hours + "h&nbsp;"
+  + minutes + "m&nbsp;" + seconds + "s&nbsp;" + "😩</b>" + "<br />" + "(time since disapointment!)" + "<br />";
