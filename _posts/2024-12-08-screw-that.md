@@ -92,7 +92,7 @@ var x = setInterval(function() {
 
 // Display the result in the element with id="demo"
   document.getElementById("demo").innerHTML = "<br />" + "<b>" + days + "d&nbsp;" + hours + "h&nbsp;"
-  + minutes + "m&nbsp;" + "and&nbsp;" + seconds + "s&nbsp;" + "<br />" + "since disaster struck!" + "<br />" + "😊😐🤨😲😣😩😟" + "<br />" + "To be continued." + "</b>";
+  + minutes + "m&nbsp;" + "and&nbsp;" + seconds + "s&nbsp;" + "<br />" + "since disaster struck!" + "<br /><br />" + "😊😐🤨😲😣😩😟😞" + "<br /><br />" + "To be continued." + "</b>";
   
   // If the count down is finished, write some text 
   if (distance < 0) {
