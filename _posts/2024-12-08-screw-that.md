@@ -67,7 +67,7 @@ I don’t have a whole lot of faith in these, so I’ll simply have to return th
 
 <p style="padding-top: 15px; line-height: 1.1;">
 <font size="2">
-  ¹ Is the case too small for the contents or the contents not what they should be?
+  ¹ In other words, is the case too small for the contents or the contents not what they should be?
 </font>
 </p>
 
