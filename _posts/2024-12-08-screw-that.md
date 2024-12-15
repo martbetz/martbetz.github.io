@@ -91,7 +91,7 @@ var x = setInterval(function() {
   var seconds = Math.floor((distance % (1000 * 60)) / 1000);
 
 // Display the result in the element with id="demo"
-  document.getElementById("demo").innerHTML = "<br />" + "To be continued." + "<br />" + "<b>😣&nbsp;" + days + "d&nbsp;" + hours + "h&nbsp;"
+  document.getElementById("demo").innerHTML = "<br />" + "<b>To be continued." + "<br /><br />" + "😣&nbsp;" + days + "d&nbsp;" + hours + "h&nbsp;"
   + minutes + "m&nbsp;" + "and&nbsp;" + seconds + "s&nbsp;" + "😩" + "<br />" + "since utter dispair!</b>" + "<br />";
   
   // If the count down is finished, write some text 
