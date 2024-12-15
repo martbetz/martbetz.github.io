@@ -61,11 +61,9 @@ var x = setInterval(function() {
 
 Despite being ‘factory sealed,’ none of the divers were correctly seated in their mounting grooves. When I took the seal off, the plastic case sprang open and everthing spilled on the floor. 
 
-These were purchased from Amazon, but [I wonder if they’re even genuine](https://www.nytimes.com/wirecutter/blog/amazon-counterfeit-fake-products/). The tips look good and the case is definately branded, but I’m not so sure of the handles. 
+[I wonder if they’re even genuine](https://www.nytimes.com/wirecutter/blog/amazon-counterfeit-fake-products/). Would a brand this highly regarded <i>really</i> not care that a case is too small for it’s contents, or have the drivers been swapped for fakes that the case just wasn't designed for? 
 
-Would a brand this highly regarded <i>really</i> fail to notice that a case is too small for it’s contents, or have the handles been swapped for fakes that the case just wasn't designed for? 
-
-Whichever it is, this is so disappointing; I just can’t use these, so I’ll have to return them. Once I get my money back, I may try the set from Cousins&nbsp;— these ones come with a nice little stand.
+This is so disappointing; I’ve not an ounce of faith in these, so I’ll simply have to return them. Once I get my money back, I may try the set from Cousins&nbsp;— these ones come with a nice little stand.
 
 <!-- <font style="color:#555555;"> -->
 <center>
