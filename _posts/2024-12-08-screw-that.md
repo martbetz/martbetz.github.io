@@ -67,7 +67,7 @@ Would a brand this highly regarded <i>really</i> fail to notice that the case is
 
 Whichever’s the case, this is so frustrating. Oh, well; back to the drawing board. 😩 Once I get my money back, I may try the set from Cousins&nbsp;— and these ones come with a nice looking stand.
 
-<font style="color:#555555;">
+<!-- <font style="color:#555555;"> -->
 <center>
 <!-- Display the countdown timer in an element -->
 <p id="demo"></p>
@@ -105,4 +105,4 @@ var x = setInterval(function() {
 </script>
 
 </center>
-</font>
+<!-- </font> -->
