@@ -65,7 +65,7 @@ These were purchased from Amazon, but [I wonder if they’re even genuine](https
 
 Would a brand this highly regarded <i>really</i> fail to notice that the case is too small, or have the handles been swapped for fakes that the case just wasn't designed for? I just can’t take the risk.
 
-Whichever it is, this is so frustrating. Oh, well; back to the drawing board. Once I get my money back, I may try the set from Cousins&nbsp;— these ones come with a nice looking stand.
+Whichever it is, this is so frustrating. Oh, well; back to the drawing board. Once I get my money back, I may try the set from Cousins&nbsp;— these ones come with a nice little stand.
 
 <!-- <font style="color:#555555;"> -->
 <center>
@@ -93,8 +93,8 @@ var x = setInterval(function() {
   var seconds = Math.floor((distance % (1000 * 60)) / 1000);
 
  // Display the result in the element with id="demo"
-  document.getElementById("demo").innerHTML = "To be continued.<br /><br />" + "<b>😩&nbsp;" + days + "d&nbsp;" + hours + "h&nbsp;"
-  + minutes + "m&nbsp;" + seconds + "s&nbsp;" + "😡</b>" + "<br />" + "(time since disapointment!)" + "<br />";
+  document.getElementById("demo").innerHTML = "To be continued.<br /><br />" + "<b>😣&nbsp;" + days + "d&nbsp;" + hours + "h&nbsp;"
+  + minutes + "m&nbsp;" + seconds + "s&nbsp;" + "😩</b>" + "<br />" + "(time since disapointment!)" + "<br />";
   
   // If the count down is finished, write some text 
   if (distance < 0) {
