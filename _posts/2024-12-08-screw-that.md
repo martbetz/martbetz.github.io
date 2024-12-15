@@ -61,7 +61,7 @@ var x = setInterval(function() {
 
 Despite being ‘factory sealed,’ none of the divers were correctly seated in their mounting grooves. When I took the seal off, the plastic case sprang open and everthing spilled on the floor. 
 
-[I wonder if they’re even genuine](https://www.nytimes.com/wirecutter/blog/amazon-counterfeit-fake-products/). Would a brand this highly regarded <i>really</i> not care that a case is too small for it’s contents, or have the drivers been swapped for fakes that the case just wasn't designed for? 
+[I wonder if they’re even genuine](https://www.nytimes.com/wirecutter/blog/amazon-counterfeit-fake-products/); would a brand this highly regarded <i>really</i> not care that a case is too small for it’s contents, or have the drivers been swapped for fakes that the case just wasn't designed for? 
 
 This is so disappointing; I’ve not an ounce of faith in these, so I’ll simply have to return them. Once I get my money back, I may try the set from Cousins&nbsp;— these ones come with a nice little stand.
 
