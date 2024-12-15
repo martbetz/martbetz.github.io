@@ -65,7 +65,7 @@ These were purchased from Amazon, but [I wonder if they’re even genuine](https
 
 Would a brand this highly regarded <i>really</i> fail to notice that the case is too small, or have the handles been swapped for fakes that the case just wasn't designed for? I just can’t take the risk.
 
-Whichever’s the case, this is so frustrating. Oh, well; back to the drawing board. 😩 Once I get my money back, I may try the set from Cousins&nbsp;— and these ones come with a nice looking stand.
+Whichever’s the case, this is so frustrating. Oh, well; back to the drawing board. 😩 Once I get my money back, I may try the set from Cousins&nbsp;— these ones come with a nice looking stand.
 
 <!-- <font style="color:#555555;"> -->
 <center>
