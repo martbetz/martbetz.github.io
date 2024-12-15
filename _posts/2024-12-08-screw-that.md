@@ -63,7 +63,7 @@ Despite being ‘factory sealed,’ none of the divers were correctly seated in 
 
 These were purchased from Amazon, but [I wonder if they’re even genuine](https://www.nytimes.com/wirecutter/blog/amazon-counterfeit-fake-products/). The tips look good and the case is definately branded, but I’m not so sure of the handles. I just can’t trust these; I’ve decided to return them.
 
-Would a brand this highly regarded <i>really</i> fail to notice that the case is too small, or have the handles been swapped for fakes that the case just wasn't designed for? I just can’t take the risk.
+Would a brand this highly regarded <i>really</i> fail to notice that a case is too small for it’s content, or have the handles been swapped for fakes that the case just wasn't designed for? 
 
 Whichever it is, this is so disappointing. Oh, well; back to the drawing board. Once I get my money back, I may try the set from Cousins&nbsp;— these ones come with a nice little stand.
 
