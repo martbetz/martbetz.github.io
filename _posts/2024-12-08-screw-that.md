@@ -57,7 +57,7 @@ var x = setInterval(function() {
 
 <hr>
 
-<b>UPDATE (Dec 13, 2024): HOLD THE FORT!</b> The delivery turned up today, and I’m really not impressed. As soon as I opened the packaging, I could tell something was up.
+<b>UPDATE (Dec 13, 2024): HOLD THE FORT!</b> The delivery turned up today, and I’m really not impressed. As soon as I opened the packaging, I could tell that something was up.
 
 None of the drivers, although in sealed wrapping, were correctly seated in their mounting grooves. When I took off the seal, the plastic case sprang open and everthing spilled on the floor. 
 
