@@ -65,7 +65,11 @@ Despite being ‘factory sealed,’ none of the divers were correctly seated in 
 
 I don’t have a whole lot of faith in these, so I’ll simply have to return them. I may well try the Cousins set&nbsp;— these ones come with a nice little stand and work out slightly cheaper.
 
-¹ Is the case too small for the contents or the contents not what they should be?
+<p style="padding-top: 15px; line-height: 1.1;">
+<font size="2">
+  ¹ Is the case too small for the contents or the contents not what they should be?
+</font>
+</p>
 
 <!-- <font style="color:#555555;"> -->
 <center>
