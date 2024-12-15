@@ -57,9 +57,9 @@ var x = setInterval(function() {
 
 <hr>
 
-<b>UPDATE (Dec 13, 2024): HOLD THE FORT!</b> The drivers turned up today, and I’m really not impressed. As soon as I opened the packaging, I could tell something was up.
+<b>UPDATE (Dec 13, 2024): HOLD THE FORT!</b> The delivery turned up today, and I’m really not impressed. As soon as I opened the packaging, I could tell something was up.
 
-All of the drivers, although in sealed wrapping, weren’t sitting right in the box. When I took off the seal, the plastic case sprang open and everthing jumped on the floor. 
+None of the drivers, although in sealed wrapping, were correctly seated in their mounting pits. When I took off the seal, the plastic case sprang open and everthing spilled on the floor. 
 
 These were purchased from Amazon, but [I wonder if they’re even genuine](https://www.nytimes.com/wirecutter/blog/amazon-counterfeit-fake-products/). The tips look good and the case is definately branded, but I’m not so sure of the handles. I just can’t trust these; I’ve decided to return them.
 
