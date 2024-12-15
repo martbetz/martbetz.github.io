@@ -75,7 +75,7 @@ Whichever’s the case, this is so frustrating. Oh, well; back to the drawing bo
 <script>
 
 // Set the date we're counting up from 
-var countDownDate = new Date("Dec 13, 2024 15:00:00").getTime();
+var countDownDate = new Date("Dec 14, 2024 15:00:00").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
