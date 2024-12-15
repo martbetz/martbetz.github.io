@@ -57,13 +57,13 @@ var x = setInterval(function() {
 
 <hr>
 
-<b>UPDATE (Dec 13, 2024): HOLD THE FORT!</b> The delivery turned up today, and I’m really not impressed&nbsp;— as soon as I opened the packaging, I could tell that something was up.&nbsp;🤨
+<b>UPDATE (Dec 13, 2024): HOLD THE FORT!</b> The delivery turned up today, and I’m really disappointed&nbsp;— as soon as I opened the packaging, I could tell that something was up.&nbsp;🤨
 
 Despite being ‘factory sealed,’ none of the divers were correctly seated in their mounting grooves. When I took the seal off, the plastic case sprang open and everything fell to the floor.&nbsp;😣
 
 [I wonder if they’re even genuine](https://www.nytimes.com/wirecutter/blog/amazon-counterfeit-fake-products/); would a brand like Beco Technics <i>really</i> overlook such an obvious flaw, or have the drivers been swapped for different ones? I really don’t know.
 
-This is so disappointing; I’ve not an ounce of faith in these, so I’ll simply have to return them. Once I get my money back, I may well try the Cousins set&nbsp;— these ones come with a nice little stand and work out slightly cheaper.
+I really don’t have faith in these, so I’ll simply have to return them. I may well try the Cousins set&nbsp;— these ones come with a nice little stand and work out slightly cheaper.
 
 <!-- <font style="color:#555555;"> -->
 <center>
