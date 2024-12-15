@@ -63,7 +63,7 @@ Despite being ‘factory sealed,’ none of the divers were correctly seated in 
 
 [I wonder if they’re even genuine](https://www.nytimes.com/wirecutter/blog/amazon-counterfeit-fake-products/); would a brand like Beco Technics <i>really</i> not care that a case is too small for it’s contents, or have the drivers been swapped for fakes that the case just wasn't designed for? 
 
-This is so disappointing; I’ve not an ounce of faith in these, so I’ll simply have to return them. Once I get my money back, I may try the set from Cousins Uk&nbsp;— these ones come with a nice little stand and work out slightly cheaper.
+This is so disappointing; I’ve not an ounce of faith in these, so I’ll simply have to return them. Once I get my money back, I may try the set from Cousins UK&nbsp;— these ones come with a nice little stand and work out slightly cheaper.
 
 <!-- <font style="color:#555555;"> -->
 <center>
