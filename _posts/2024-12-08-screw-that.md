@@ -67,8 +67,6 @@ Would a brand this highly regarded <i>really</i> fail to notice that the case is
 
 Whichever’s the case, this is so frustrating. Oh, well; back to the drawing board. 😩 Once I get my money back, I may try the set from Cousins&nbsp;— and these ones come with a nice looking stand.
 
-To be continued.
-
 <font style="color:#555555;">
 <center>
 <!-- Display the countdown timer in an element -->
@@ -95,7 +93,7 @@ var x = setInterval(function() {
   var seconds = Math.floor((distance % (1000 * 60)) / 1000);
 
  // Display the result in the element with id="demo"
-  document.getElementById("demo").innerHTML = "<br />" + "<b>😲&nbsp;" + days + "d&nbsp;" + hours + "h&nbsp;"
+  document.getElementById("demo").innerHTML = "<br />" + "To be continued<br>." + "<b>😲&nbsp;" + days + "d&nbsp;" + hours + "h&nbsp;"
   + minutes + "m&nbsp;" + seconds + "s&nbsp;" + "😩</b>" + "<br />" + "(time since disapointment!)" + "<br />";
   
   // If the count down is finished, write some text 
