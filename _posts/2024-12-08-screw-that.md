@@ -1,4 +1,4 @@
-¡---
+---
 title: Screw That!
 layout: post
 ---
