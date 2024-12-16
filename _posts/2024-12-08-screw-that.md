@@ -59,9 +59,9 @@ var x = setInterval(function() {
 
 Update (Dec 13, 2024): Hold the fort! The delivery turned up today, and I’m really disappointed&nbsp;— as soon as I opened the packaging, I could tell that something was up.&nbsp;🤨
 
-Despite being sealed up and labeled, the drivers were awkwardly placed; as soon as I took the seal off, the plastic box sprang open and everything fell to the floor!&nbsp;😣
+Despite being sealed up and labeled, the drivers were awkwardly placed; as soon as I took the seal off, everything fell to the floor&nbsp;—<i>the lid of the case sprag open!</i>&nbsp;😣
 
-The drivers don’t fit in the case; it’s as simple as that&nbsp;— would a brand like Beco Technics <i>really</i> overlook such an obvious flaw, or has this lot been swapped out for [knock-offs](https://www.nytimes.com/wirecutter/blog/amazon-counterfeit-fake-products/)?&nbsp;🤔
+The drivers don’t fit in the case; it’s plainly as simple as that&nbsp;— would a brand like Beco Technics <i>really</i> overlook such an obvious flaw, or has this lot been swapped out for [knock-offs](https://www.nytimes.com/wirecutter/blog/amazon-counterfeit-fake-products/)?&nbsp;🤔
 
 I don’t have a whole lot of faith in these, so I’ll simply have to return them. I may well try the Cousins set&nbsp;— these ones come with a nice little stand and work out slightly cheaper.
 
