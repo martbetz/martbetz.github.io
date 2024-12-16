@@ -61,7 +61,7 @@ Update (Dec 13, 2024): Hold the fort! The delivery turned up today, and I’m re
 
 Despite being ‘factory sealed,’ none of the divers were correctly seated in their mounting grooves. When I took the seal off, the plastic case sprang open and everything fell to the floor.&nbsp;😣
 
-[I wonder if they’re even genuine](https://www.nytimes.com/wirecutter/blog/amazon-counterfeit-fake-products/)&nbsp;— would a brand like Beco Technics <i>really</i> overlook such an obvious flaw, or have the original contents been swapped out for knock-offs?¹&nbsp;🤔
+[I wonder if they’re even genuine](https://www.nytimes.com/wirecutter/blog/amazon-counterfeit-fake-products/)&nbsp;— would a brand like Beco Technics <i>really</i> overlook such an obvious flaw, or have the contents been swapped out for knock-offs?¹&nbsp;🤔
 
 I don’t have a whole lot of faith in these, so I’ll simply have to return them. I may well try the Cousins set&nbsp;— these ones come with a nice little stand and work out slightly cheaper.
 
