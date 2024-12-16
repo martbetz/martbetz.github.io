@@ -1,4 +1,4 @@
----
+¡---
 title: Screw That!
 layout: post
 ---
@@ -98,7 +98,7 @@ var x = setInterval(function() {
 
 // Display the result in the element with id="demo"
   document.getElementById("demo").innerHTML = "<br />" + "<b>" + days + "&nbsp;days,&nbsp;" + hours + "&nbsp;hours, <br>"
-  + minutes + "&nbsp;minutes,&nbsp;" + "and&nbsp;" + seconds + "&nbsp;seconds" + "<br />" + "since disaster struck!" + "<br /><br />" + "😊😐🤨😲😣😩😟😞" + "<br /><br />" + "To be continued." + "</b>";
+  + minutes + "&nbsp;minutes&nbsp;" + "and&nbsp;" + seconds + "&nbsp;seconds" + "<br />" + "since disaster struck!" + "<br /><br />" + "😊😐🤨😲😣😩😟😞" + "<br /><br />" + "To be continued." + "</b>";
   
   // If the count down is finished, write some text 
   if (distance < 0) {
