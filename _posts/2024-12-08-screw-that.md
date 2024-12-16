@@ -101,7 +101,7 @@ var x = setInterval(function() {
   + minutes + "&nbsp;minutes&nbsp;" + "and&nbsp;" + seconds + "&nbsp;seconds" + "<br />" + "since utter disaster!" + "<br /><br />" + "😊😐🤨😲😣😩😟😞" + "<br /><br />" + "To be continued." + "</b>";
   
   // If the count down is finished, write some text 
-  if (distance < 0) {
+  if (distance > 365) {
     clearInterval(x);
     document.getElementById("demo").innerHTML = "";
   }
