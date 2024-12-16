@@ -57,7 +57,7 @@ var x = setInterval(function() {
 
 <hr>
 
-<b>UPDATE (Dec 13, 2024): HOLD THE FORT!</b> The delivery turned up today, and I’m really disappointed&nbsp;— as soon as I opened the packaging, I could tell that something was up.&nbsp;🤨
+UPDATE (Dec 13, 2024): <i>HOLD THE FORT!</i> The delivery turned up today, and I’m really disappointed&nbsp;— as soon as I opened the packaging, I could tell that something was up.&nbsp;🤨
 
 Despite being ‘factory sealed,’ none of the divers were correctly seated in their mounting grooves. When I took the seal off, the plastic case sprang open and everything fell to the floor.&nbsp;😣
 
