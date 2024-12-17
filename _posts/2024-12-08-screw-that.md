@@ -67,7 +67,7 @@ I don’t have a whole lot of faith in these, so I’ll simply have to return th
 
 <p style="padding-top: 15px; line-height: 1.1;">
 <font size="2">
-  ¹ On review, I suspect these drivers <i>are not</i> actually Hortec — as far as I’m aware, Horotec drivers are made in Switzerland; <i>they’re not</i> made in France. These still apeal as an option, but be mindful of the deseptive description.
+  ¹ On review, I suspect these drivers <i>are not</i> actually Horotec (as far as I’m aware, Horotec drivers are made in Switzerland; <i>they’re not</i> made in France). These still apeal as an option as they look like the other two brands — but be mindful of the deseptive description.
 </font>
 </p>
 
