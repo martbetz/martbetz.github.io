@@ -7,6 +7,10 @@ layout: page
 
 It’s allowed to be; this is my playground.
 
+### Do you have a guestbook? ###
+
+Can you see one?! 
+
 ### How can I reach you? ###
 
 You can [contact me](https://martbetz.github.io/contact.html) directly by email or by chat. 
