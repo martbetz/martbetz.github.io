@@ -55,6 +55,12 @@ var x = setInterval(function() {
 </center>
 </font> -->
 
+<p style="padding-top: 15px; line-height: 1.1;">
+<font size="2">
+  ¹ On review, I suspect these drivers <i>are not</i> actually Horotec (as far as I’m aware, Horotec drivers are made in Switzerland; <i>they’re not</i> made in France). These still apeal as an option as they look like the other two brands — but be mindful of the deseptive description.
+</font>
+</p>
+
 <hr>
 
 Update (Dec 13, 2024): Hold the fort! The delivery turned up today, and I’m really disappointed&nbsp;— as soon as I opened the packaging, I could tell that something was up.&nbsp;🤨
@@ -65,11 +71,7 @@ The drivers don’t fit in the box; it’s plainly as simple as that&nbsp;— wo
 
 I don’t have a whole lot of faith in these, so I’ll simply have to return them. I may well try the Cousins set&nbsp;— these ones come with a nice little stand and work out slightly cheaper.
 
-<p style="padding-top: 15px; line-height: 1.1;">
-<font size="2">
-  ¹ On review, I suspect these drivers <i>are not</i> actually Horotec (as far as I’m aware, Horotec drivers are made in Switzerland; <i>they’re not</i> made in France). These still apeal as an option as they look like the other two brands — but be mindful of the deseptive description.
-</font>
-</p>
+
 
 <!-- <font style="color:#555555;"> -->
 <center>
