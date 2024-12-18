@@ -5,7 +5,11 @@ layout: page
 
 ### Why is the code so messy? ###
 
-It’s allowed to be; this is my playground.
+Welcome to my playground!
+
+### Why can't I leave a comment? ###
+
+I really don’t care much for trolling.
 
 ### Do you have a guestbook? ###
 
