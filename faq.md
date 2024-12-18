@@ -27,9 +27,9 @@ I've no reason to be.
 
 Call me whatever you want. 
 
-### _What..._ is your favorite colour? ###
+### WHAT... is your favorite colour? ###
 
-Blue. _No! AAARRRGGGHHH!_
+Blue. NO! _AAARRRGGGHHH!_
 
 ### Will you repair my camera/lens? ###
 
