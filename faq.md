@@ -31,7 +31,7 @@ Call me whatever you like.
 
 Blue. NO! — _AAARRRGGGHHH!!!_
 
-### Will you repair my camera/lens? ###
+### Will you repair my lens? ###
 
 I’ve neither time nor patience.
 
