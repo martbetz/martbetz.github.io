@@ -29,7 +29,7 @@ Call me whatever you want.
 
 ### WHAT... is your favorite colour? ###
 
-Blue. NO! _AAARRRGGGHHH!_
+Blue. NO! — _AAARRRGGGHHH!!!_
 
 ### Will you repair my camera/lens? ###
 
