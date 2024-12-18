@@ -5,7 +5,7 @@ layout: post
 
 
 
-I’m in no way a blind believer, I’m more a remourceful skeptic, but I’ve always had an interest in all things strange and curious.&nbsp;👽 I&nbsp;often check in on a few favourate shows, but sadly that soon could be changing.
+Although I’m not a ‘believer’ (I’m more a remourceful skeptic), I’ve always had an interest in all things strange and mysterious; paranormal podcasts are always on my watchlist. 👽 2024, though, just hasn’t been a good year.
 
 Of all the podcasts I’ve listened to over the years, there were two in particular that I thoroughly enjoyed: [The Unexplained](https://theunexplained.tv/) with Howard Hughes, and [Mysterious Universe](https://mysteriousuniverse.org/) with Benjamin Grundy and Aaran Wright.
 
