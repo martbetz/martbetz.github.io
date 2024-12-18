@@ -43,7 +43,7 @@ I’m not a professional.
 
 The Land of Sheep & Dragons.
 
-### Who the hell’s Bob? ###
+### Who’s Bob? ###
 
 Bob’s just ‘Bob’ spelled backwards.
 
