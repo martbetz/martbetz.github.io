@@ -5,7 +5,7 @@ layout: post
 
 
 
-Although I’m not a ‘believer’ (I’m more a remourceful skeptic), I’ve always had an interest in all things strange and unknown. 👽 Paranormal podcasts have always been on my watchlist, but this year just hasn’t been gteat. 
+Although I’m not a ‘believer’ (I’m more a remourceful skeptic), I’ve always had an interest in all things strange and unknown. 👽 Paranormal podcasts have always been on my watchlist, but this year just hasn’t been good. 😞
 
 Of all the podcasts I’ve listened to over the years, there were two in particular that I thoroughly enjoyed: [The Unexplained](https://theunexplained.tv/) with Howard Hughes, and [Mysterious Universe](https://mysteriousuniverse.org/) with Benjamin Grundy and Aaran Wright.
 
