@@ -25,7 +25,7 @@ I've no reason to be.
 
 ### What are your chosen pronouns? ###
 
-Call me whatever you want. 
+Call me whatever you like. 
 
 ### What... is your favorite colour? ###
 
