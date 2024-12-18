@@ -40,6 +40,10 @@ I've neither the time nor the resources.
 
 I'm not a professional; I’m a hobby-happy hippy.
 
+### Where are you from? ###
+
+The land of sheep and dragons!
+
 ### Can I meet you in person? ###
 
 Don't be weird.
