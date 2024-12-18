@@ -9,7 +9,7 @@ Welcome to my playground!
 
 ### Why can't I leave a comment? ###
 
-I really don’t care much for trolling.
+I don’t really care much for trolling.
 
 ### Do you have a guestbook? ###
 
@@ -25,7 +25,7 @@ I've no reason to be.
 
 ### What are your chosen pronouns? ###
 
-I've no such terms of preference; call me whatever you want. 
+Call me whatever you want. 
 
 ### What is your favorite colour? ###
 
@@ -37,7 +37,7 @@ I've neither the time nor the resources.
 
 ### Can I hire you? ###
 
-I'm not a professional; I’m a hobby-happy hippy.
+I'm not a professional.
 
 ### Where are you from? ###
 
