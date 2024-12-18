@@ -33,7 +33,7 @@ Blue. _No! AAARRRGGGHHH..._
 
 ### Will you repair my camera/lens? ###
 
-I've neither the time nor the resources.
+I've neither time nor patience.
 
 ### Can I hire you? ###
 
