@@ -42,7 +42,7 @@ I'm not a professional; I’m a hobby-happy hippy.
 
 ### Where are you from? ###
 
-The land of sheep and dragons!
+The Land of Sheep & Dragons!
 
 ### Can I meet you in person? ###
 
