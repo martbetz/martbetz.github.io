@@ -7,7 +7,7 @@ layout: post
 
 Although I’m not a ‘believer’ (I’m more a remourceful skeptic), I’ve always had an interest in all things strange and unknown.&nbsp;👽 Paranormal podcasts have always been on my watchlist, but this year’s been rather forlorn.&nbsp;😞
 
-Of all the podcasts I’ve listened to, there were two in particular that I thoroughly enjoyed: [The Unexplained](https://theunexplained.tv/) with Howard Hughes, and [Mysterious Universe](https://mysteriousuniverse.org/) with Benjamin Grundy and Aaran Wright.
+Of all of the shows I’ve listened to, there were two I intensely enjoyed: [The Unexplained](https://theunexplained.tv/) with Howard Hughes, and [Mysterious Universe](https://mysteriousuniverse.org/) with Benjamin Grundy and Aaran Wright.
 
 Earlier last month, I was both shocked and saddened to hear of [Howard’s sudden passing](https://theunexplained.tv/episodes/an-important-update-about-howard-november-2024). The absence of his podcast, radio show, and TV show leaves a horribly deafening silence. 
 
