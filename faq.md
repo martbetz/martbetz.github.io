@@ -27,7 +27,7 @@ I've no reason to be.
 
 Call me whatever you want. 
 
-### WHAT... is your favorite colour? ###
+### What... is your favorite colour? ###
 
 Blue. NO! — _AAARRRGGGHHH!!!_
 
