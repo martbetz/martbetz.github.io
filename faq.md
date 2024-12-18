@@ -7,7 +7,7 @@ layout: page
 
 Welcome to my playground!
 
-### Why can't I leave a comment? ###
+### Why can’t I leave a comment? ###
 
 I’m not a huge fan of trolling.
 
@@ -21,7 +21,7 @@ Try the [contact](https://martbetz.github.io/contact.html) page.
 
 ### Are you on social media? ###
 
-I've no reason to be.
+I’ve no reason to be.
 
 ### What are your chosen pronouns? ###
 
@@ -33,11 +33,11 @@ Blue. NO! — _AAARRRGGGHHH!!!_
 
 ### Will you repair my camera/lens? ###
 
-I've neither time nor patience.
+I’ve neither time nor patience.
 
 ### Can I hire you? ###
 
-I'm not a professional.
+I’m not a professional.
 
 ### Where do you come from? ###
 
