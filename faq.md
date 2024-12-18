@@ -31,7 +31,6 @@ I've no such terms of preference; call me whatever you want.
 
 Blue. _No! AAARRRGGGHHH..._
 
-
 ### Will you repair my camera/lens? ###
 
 I've neither the time nor the resources.
@@ -42,7 +41,7 @@ I'm not a professional; I’m a hobby-happy hippy.
 
 ### Where are you from? ###
 
-The Land of Sheeps & Dragons.
+The Land of Sheep & Dragons.
 
 ### Can I meet you in person? ###
 
