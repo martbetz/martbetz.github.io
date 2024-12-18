@@ -3,7 +3,7 @@ title: Frequently Asked Questions
 layout: page
 ---
 
-### Why is the code such a mess?! ###
+### Why’s the code such a mess?! ###
 
 Welcome to my playground!
 
@@ -27,9 +27,9 @@ I've no reason to be.
 
 Call me whatever you want. 
 
-### What is your favorite colour? ###
+### _WHAT..._ is your favorite colour? ###
 
-Blue. _No! AAARRRGGGHHH..._
+Blue. _No! AAARRRGGGHHH!_
 
 ### Will you repair my camera/lens? ###
 
@@ -43,7 +43,7 @@ I'm not a professional.
 
 The Land of Sheep & Dragons.
 
-### Who the hell is Bob? ###
+### Who the hell’s Bob? ###
 
 ‘Bob’ is ‘Bob’ spelled backward.
 
