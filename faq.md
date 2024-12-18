@@ -3,7 +3,7 @@ title: Frequently Asked Questions
 layout: page
 ---
 
-### Why’s the code such a mess?! ###
+### Why’s the code so messy?! ###
 
 Welcome to my playground!
 
