@@ -13,7 +13,7 @@ I really don’t care much for trolling.
 
 ### Do you have a guestbook? ###
 
-Can you see one?! 
+Can you see one?
 
 ### How can I reach you? ###
 
