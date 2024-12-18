@@ -7,9 +7,9 @@ layout: page
 
 Welcome to my playground!
 
-### Why can’t I leave a comment? ###
+### Why can’t I comment? ###
 
-I’m not a huge fan of trolling.
+I’m not a fan of trolling.
 
 ### Do you have a guestbook? ###
 
