@@ -5,7 +5,7 @@ layout: post
 
 
 
-I’m not a blind believer, I’m very much the skeptic, but I’ve always had an interest in all things strange and curious.&nbsp;👽 I&nbsp;often check in on a few favourate shows, but sadly that soon could be changing — and much to my dismay.
+I’m in no way a blind believer, I’m more a remourceful skeptic, but I’ve always had an interest in all things strange and curious.&nbsp;👽 I&nbsp;often check in on a few favourate shows, but sadly that soon could be changing.
 
 Of all the podcasts I’ve listened to over the years, there were two in particular that I thoroughly enjoyed: [The Unexplained](https://theunexplained.tv/) with Howard Hughes, and [Mysterious Universe](https://mysteriousuniverse.org/) with Benjamin Grundy and Aaran Wright.
 
