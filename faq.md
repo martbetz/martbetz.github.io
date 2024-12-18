@@ -9,7 +9,7 @@ Welcome to my playground!
 
 ### Why can't I leave a comment? ###
 
-I don’t really care for trolling.
+I’m not a huge fan of trolling.
 
 ### Do you have a guestbook? ###
 
