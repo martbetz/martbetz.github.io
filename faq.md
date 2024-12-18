@@ -45,7 +45,7 @@ The Land of Sheep & Dragons.
 
 ### Who the hell’s Bob? ###
 
-Bob is ‘Bob’ spelled backward.
+Bob’s just ‘Bob’ spelled backwards.
 
 ### Can I meet you in person? ###
 
