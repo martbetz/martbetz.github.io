@@ -17,7 +17,7 @@ Can you see one?
 
 ### How can I reach you? ###
 
-You can [contact me](https://martbetz.github.io/contact.html) directly by email or by chat. 
+You can [contact me](https://martbetz.github.io/contact.html) directly. 
 
 ### Are you on social media? ###
 
