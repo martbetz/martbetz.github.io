@@ -39,7 +39,7 @@ I've neither time nor patience.
 
 I'm not a professional.
 
-### Where are you from? ###
+### Where do you come from? ###
 
 The Land of Sheep & Dragons.
 
