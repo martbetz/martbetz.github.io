@@ -3,10 +3,6 @@ title: Frequently Asked Questions
 layout: page
 ---
 
-### Why’s the code so messy?! ###
-
-Welcome to my playground!
-
 ### Why can’t I comment? ###
 
 I’m not a fan of trolling.
@@ -42,6 +38,10 @@ I’m not a professional.
 ### Where do you come from? ###
 
 The Land of Sheep & Dragons.
+
+### Why’s the code all messy?! ###
+
+Welcome to my playground!
 
 ### Who’s Bob? ###
 
