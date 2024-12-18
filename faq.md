@@ -29,7 +29,7 @@ I've no such terms of preference; call me whatever you want.
 
 ### What is your favorite colour? ###
 
-Blue. No! _AAARRRGGGHHH..._
+Blue. _No! AAARRRGGGHHH..._
 
 
 ### Will you repair my camera/lens? ###
