@@ -3,6 +3,10 @@ title: Frequently Asked Questions
 layout: page
 ---
 
+### Why is the code all messy?! ###
+
+Welcome to my playground!
+
 ### Can I buy your photos? ###
 
 Nothing found here is for sale.
@@ -38,10 +42,6 @@ What I’d want in return, you don’t have.-->
 ### Where do you come from? ###
 
 The Land of Sheep & Dragons.
-
-### Why’s the code all messy?! ###
-
-Welcome to my playground!
 
 ### Who’s Bob? ###
 
