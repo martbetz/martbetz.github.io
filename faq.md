@@ -17,7 +17,7 @@ Try the [contact](https://martbetz.github.io/contact.html) page.
 
 ### Are you on social media? ###
 
-I’ve no desire to be.
+I’ve no wish to be.
 
 ### What are your chosen pronouns? ###
 
