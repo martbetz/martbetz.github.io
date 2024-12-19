@@ -7,9 +7,9 @@ layout: page
 
 I’m not a fan of trolling.
 
-### Do you have a guestbook? ###
+### Why not have a guestbook? ###
 
-Can you see one?
+No one would read it.
 
 ### How can I reach you? ###
 
@@ -17,7 +17,7 @@ Try the [contact](https://martbetz.github.io/contact.html) page.
 
 ### Are you on social media? ###
 
-I’ve neither want nor reason.
+Perish the hideous thought.
 
 ### What are your chosen pronouns? ###
 
@@ -29,7 +29,7 @@ Blue. NO! — _AAARRRGGGHHH!!!_
 
 ### Will you repair my lens? ###
 
-I lack both time and desire.
+I lack both time and reason.
 
 ### Can I hire you? ###
 
