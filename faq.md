@@ -37,7 +37,7 @@ Use whatever you like.
 
 ### What... is your favorite colour? ###
 
-Blue. No! _AAARRRGGGHHH!!!_
+Blue. No! 😁<!-- _AAARRRGGGHHH!!!_ -->
 
 ### Where do you come from? ###
 
