@@ -11,7 +11,7 @@ Welcome to my playground!
 
 Nothing found here is for sale.
 
-### Would you like to do a swap? ###
+### Can I do a swap? ###
 
 What I’d want in return, you don’t have.
 
