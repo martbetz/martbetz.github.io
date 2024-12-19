@@ -45,7 +45,7 @@ Welcome to my playground!
 
 ### Who’s Bob? ###
 
-Bob is ‘Bob’ spelled backwards.
+Bob’s just Bob (spelled backwards).
 
 ### Can I meet you in person? ###
 
