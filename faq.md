@@ -29,10 +29,6 @@ Blue. NO! — _AAARRRGGGHHH!!!_
 
 ### Will you fix my lens? ###
 
-I lack both time and charity.
-
-### Will you write for me? ###
-
 What I’d want in return, you don’t have.
 
 ### Where do you come from? ###
