@@ -21,7 +21,7 @@ I’m not a fan of trolling.
 
 ### Why not have a guestbook? ###
 
-No one would read it.
+No one would ever read it.
 
 ### How can I reach you? ###
 
