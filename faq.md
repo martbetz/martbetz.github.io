@@ -11,6 +11,10 @@ Welcome to my playground!
 
 Nothing found here is for sale.
 
+### Would you like to do a swap? ###
+
+What I’d want in return, you don’t have.
+
 ### Why can’t I leave comment? ###
 
 I’m not a fan of trolling.
@@ -35,17 +39,13 @@ Call me whatever you like.
 
 Blue. NO! — _AAARRRGGGHHH!!!_
 
-<!--### Will you fix my lens? ###
-
-What I’d want in return, you don’t have.-->
-
 ### Where do you come from? ###
 
 The Land of Sheep & Dragons.
 
 ### Who’s Bob? ###
 
-Bob’s just Bob (spelled backwards).
+Bob’s just ‘Bob’ spelled backwards.
 
 ### Can I meet you in person? ###
 
