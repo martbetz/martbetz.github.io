@@ -27,13 +27,13 @@ Call me whatever you like.
 
 Blue. NO! — _AAARRRGGGHHH!!!_
 
-### Will you fix my lens? ###
+<!--### Will you fix my lens? ###
 
-What I’d want in return, you don’t have.
+What I’d want in return, you don’t have.-->
 
 ### Can I buy your photos? ###
 
-Nothing of mine is for sale.
+Nothing found here is for sale.
 
 ### Where do you come from? ###
 
