@@ -15,7 +15,7 @@ Nothing found here is for sale.
 
 What I’d want in return, you don’t have.
 
-### How can I leave a comment? ###
+### Why can’t I leave a comment? ###
 
 I’m not a fan of trolling.
 
