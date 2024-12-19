@@ -27,13 +27,13 @@ Call me whatever you like.
 
 Blue. NO! — _AAARRRGGGHHH!!!_
 
-### Will you repair my lens? ###
+### Will you fix my lens? ###
 
-I lack both time and reason.
+I lack the time and charity.
 
-### Can I hire you? ###
+### Will you write for me? ###
 
-I’m not a professional.
+What I’d want in return, you don’t have.
 
 ### Where do you come from? ###
 
