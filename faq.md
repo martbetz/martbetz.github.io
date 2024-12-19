@@ -31,6 +31,10 @@ Blue. NO! — _AAARRRGGGHHH!!!_
 
 What I’d want in return, you don’t have.
 
+### Can I buy your photos? ###
+
+Nothing of mine is for sale.
+
 ### Where do you come from? ###
 
 The Land of Sheep & Dragons.
