@@ -29,7 +29,7 @@ Blue. NO! — _AAARRRGGGHHH!!!_
 
 ### Will you repair my lens? ###
 
-I’ve neither time nor the patience.
+I’ve neither the time nor the patience.
 
 ### Can I hire you? ###
 
