@@ -3,7 +3,11 @@ title: Frequently Asked Questions
 layout: page
 ---
 
-### Why can’t I comment? ###
+### Can I buy your photos? ###
+
+Nothing found here is for sale.
+
+### Why can’t I leave comment? ###
 
 I’m not a fan of trolling.
 
@@ -17,7 +21,7 @@ Try the [contact](https://martbetz.github.io/contact.html) page.
 
 ### Are you on social media? ###
 
-Perish the hideous thought.
+Perish the thought.
 
 ### What are your chosen pronouns? ###
 
@@ -30,10 +34,6 @@ Blue. NO! — _AAARRRGGGHHH!!!_
 <!--### Will you fix my lens? ###
 
 What I’d want in return, you don’t have.-->
-
-### Can I buy your photos? ###
-
-Nothing found here is for sale.
 
 ### Where do you come from? ###
 
