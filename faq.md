@@ -33,7 +33,7 @@ Perish the thought.
 
 ### What are your chosen pronouns? ###
 
-Call me whatever you like. 
+Use whatever you like. 
 
 ### What... is your favorite colour? ###
 
