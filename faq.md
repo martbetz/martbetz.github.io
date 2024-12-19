@@ -13,7 +13,7 @@ Nothing found here is for sale.
 
 ### Can I do a swap? ###
 
-What I’d want in return, you don’t have.
+What I’d want in return you don’t have.
 
 ### Why can’t I leave comment? ###
 
