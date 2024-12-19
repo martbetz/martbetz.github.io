@@ -17,7 +17,7 @@ Try the [contact](https://martbetz.github.io/contact.html) page.
 
 ### Are you on social media? ###
 
-I’ve no reason to be.
+I’ve no desire to be.
 
 ### What are your chosen pronouns? ###
 
@@ -29,7 +29,7 @@ Blue. NO! — _AAARRRGGGHHH!!!_
 
 ### Will you repair my lens? ###
 
-I lack both time and desire.
+I lack both time and reason.
 
 ### Can I hire you? ###
 
