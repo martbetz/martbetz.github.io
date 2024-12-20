@@ -65,7 +65,7 @@ var x = setInterval(function() {
 
 Update (Dec 13, 2024): Hold the fort! The delivery turned up today, and I’m really disappointed&nbsp;— as soon as I opened the packaging, I could tell that something was up.&nbsp;🤨
 
-Despite being sealed up and labeled, the drivers were awkwardly placed; as soon as I took the seal off, everything fell to the floor&nbsp;— <i>the lid of the case just sprang open!</i>&nbsp;😣
+Despite being sealed up and labeled, the drivers looked awkwardly placed; as soon as I took the seal off, everything fell to the floor&nbsp;— <i>the lid of the case just sprang open!</i>&nbsp;😣
 
 The drivers don’t fit in the box; it’s plainly as simple as that&nbsp;— would a brand like Beco Technics <i>really</i> miss something so big, or have we a swap-out for [knock&#8209;offs](https://www.nytimes.com/wirecutter/blog/amazon-counterfeit-fake-products/)?&nbsp;🤔
 
