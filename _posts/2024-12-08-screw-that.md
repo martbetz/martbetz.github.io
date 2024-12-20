@@ -63,7 +63,7 @@ var x = setInterval(function() {
 
 <hr>
 
-Update (Dec 13, 2024): Hold the fort! The delivery turned up today, and I’m really disappointed&nbsp;— as soon as I opened the packaging, I could tell that something was up.&nbsp;🤨
+Update (Dec 13, 2024): Hold the fort! The delivery turned up today, and I’m really disappointed&nbsp;— as soon as I opened the packaging, I could tell that something was wrong.&nbsp;🤨
 
 Despite being sealed up and labeled, the drivers looked awkwardly placed; as soon as I took the seal off, everything fell to the floor&nbsp;— <i>the lid of the case just sprang open!</i>&nbsp;😣
 
