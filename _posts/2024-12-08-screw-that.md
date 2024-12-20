@@ -67,11 +67,13 @@ Update (Dec 13, 2024): Hold the fort! The delivery turned up today, and I’m re
 
 Although there were no signs of damage, the drivers looked awkwardly placed; then, when I peeled off the heat-wrap, <i>the lid of the box just sprang open!</i>&nbsp;😣
 
+
 <span style="display:block; margin-left:2em; margin-right:2em">
   <p style="color: grey">
     <font size="4"><b><i> Hello, <span style="font-weight:700; color: #6A6A6A">SOLID STONE FLOOR!</span> Please meet my <span style="font-weight:700; color: #6A6A6A">DELICATE FRIENDS!</span></i></font></b>
   </p>
 </span>
+
 
 The drivers don’t fit in their case; it’s plainly as simple as that&nbsp;— would a brand like Beco Technics <i>really</i> miss something like this, or have we a swap-out for [knock&#8209;offs](https://www.nytimes.com/wirecutter/blog/amazon-counterfeit-fake-products/)?&nbsp;🤔
 
