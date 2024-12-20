@@ -69,7 +69,7 @@ Although there were no signs of damage, the drivers looked awkwardly placed; the
 
 <span style="display:block; margin-left:2em; margin-right:2em">
   <p style="color: grey">
-    <font size="4"><b><i> Hello, <span style="font-weight:700; color: #6A6A6A">SOLID CONCRETE FLOOR!</span>. I’d like you to meet my new freinds, The <span style="font-weight:700; color: #6A6A6A">DELICATE PRICISION TOOLS!</span></i></font></b>
+    <font size="4"><b><i> Hello, <span style="font-weight:700; color: #6A6A6A">SOLID STONE FLOOR!</span>. Please meet my<span style="font-weight:700; color: #6A6A6A">DELICATE TOOLS!</span></i></font></b>
   </p>
 </span>
 
