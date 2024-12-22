@@ -1,5 +1,5 @@
 ---
-title: Posts by Shared Tag
+title: Posts Related by Tag
 layout: page
 tag: diy
 permalink: /tags/diy/ # This is only required for pretty links.
