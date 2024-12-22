@@ -2,7 +2,6 @@
 title: xz-utils Exploit!
 layout: post
 categories: computing
-tags: security linux xz exploit
 ---
 
 **There's an exploit in xz-utils! Versions 5.6.0 and 5.6.1 both contain malicious code!** If you're running Linux, refer to your distro and update now! If you're running macOS or Windows, check if you're affected! Crikey crumpets, Batman!
