@@ -5,6 +5,20 @@ tags: tools
 layout: post
 ---
 
+<div class="post-categories">
+  {% if post %}
+    {% assign categories = post.categories %}
+  {% else %}
+    {% assign categories = page.categories %}
+  {% endif %}
+  {% for category in categories %}
+  (posted in:
+  <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+  {% unless forloop.last %}&nbsp;{% endunless %}
+  {% endfor %}
+  )
+</div>
+
 <p>
 Buying cheap tools is rarely a good idea, but a few hundred quid for drivers? 😲 Surely there must be a middle ground? Well, as it turns out, there is&nbsp;— <i>but you need to know what to look for and where to look to find it.</i> 
 </p>
@@ -152,17 +166,6 @@ var x = setInterval(function() {
 </center>
 <!-- </font> -->
 
-<div class="post-categories">
-  {% if post %}
-    {% assign categories = post.categories %}
-  {% else %}
-    {% assign categories = page.categories %}
-  {% endif %}
-  {% for category in categories %}
-  category: 
-  <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
-  {% unless forloop.last %}&nbsp;{% endunless %}
-  {% endfor %}
-</div>
+
 
 
