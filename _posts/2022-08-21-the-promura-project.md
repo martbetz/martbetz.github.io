@@ -1,7 +1,7 @@
 ---
 title: The Promura Project
 layout: post
-category: photography projects
+categories: photography projects
 
 actions:
   - label: "VIEW REPO"
