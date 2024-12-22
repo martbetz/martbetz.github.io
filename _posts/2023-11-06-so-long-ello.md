@@ -1,7 +1,7 @@
 ---
 title: So Long, Ello?!
 layout: post
-categories: photography miscellaneous
+categories: photography computing
 tags: ello
 ---
 
