@@ -1,5 +1,5 @@
 ---
-title: Posts by Tag
+title: {{ page.tag }} Tagged Posts 
 layout: page
 tag: diy
 permalink: /tags/diy/ # This is only required for pretty links.
