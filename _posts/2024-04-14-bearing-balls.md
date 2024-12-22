@@ -1,7 +1,7 @@
 ---
 title: How Big Are Your Balls?
 layout: post
-categories: photography maintenance
+categories: photography projects maintenance
 ---
 
 For quite some time, now, there’s been an ever-growing trend of ‘de-clicking’ vintage photography lenses for use in cinematography. Restoring them can be tricky; parts are often lost or discarded, and here’s where I need your help.
