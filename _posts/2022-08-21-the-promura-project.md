@@ -2,7 +2,7 @@
 title: The Promura Project
 layout: post
 category: photography
-tags: The-Promura-Project
+tags: projects
 
 actions:
   - label: "VIEW REPO"
