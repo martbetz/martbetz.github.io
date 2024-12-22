@@ -62,6 +62,7 @@ The following part removes dulpicated tags and invalid tags like blank tag.
 			{% assign tags = tags | join:'|' | append:'|' | append:tag | split:'|' %}
 		{% endunless %}
 	{% endif %}
+  {% endfor %}
 
 	<p>
     {% for tag in site.tags %}
