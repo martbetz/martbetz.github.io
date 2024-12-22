@@ -25,11 +25,13 @@ title: Posts by Category
 
     <h2 class="category-head">{{ category_name }}</h2>
     <a name="{{ category_name | slugize }}"></a>
+    <ul>
     {% for post in site.categories[category_name] %}
     <article class="archive-item">
-      <ul><li><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></li></ul>
+      <li><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></li>
     </article>
     {% endfor %}
+    </ul>
     <hr>
   </div>
 {% endfor %}
