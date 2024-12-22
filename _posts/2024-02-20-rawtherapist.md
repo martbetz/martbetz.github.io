@@ -1,7 +1,7 @@
 ---
 title: RawTherapist
 layout: post
-categories: photography
+categories: photography computing
 tags: rawtherapee
 ---
 
