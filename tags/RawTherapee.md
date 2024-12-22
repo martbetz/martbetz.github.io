@@ -1,8 +1,8 @@
 ---
 title: Posts Related by Tag
 layout: page
-tag: diy
-permalink: /tags/diy/ # This is only required for pretty links.
+tag: RawTherapee
+permalink: /tags/RawTherapee/ # This is only required for pretty links.
 # Thus, this page's link is /tags/jekyll/ rather than /tags/jekyll.html
 ---
 
