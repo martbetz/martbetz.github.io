@@ -1,6 +1,7 @@
 ---
 title: How Big Are Your Balls?
 layout: post
+category: service & repair
 categories: photography projects maintenance
 ---
 
