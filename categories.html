@@ -19,11 +19,11 @@ title: Posts by Category
 <div id="archives">
 {% for category in site.categories %}
   <div class="archive-group">
-    {% capture category_name %}{{ category | first | capitalize }}{% endcapture %}
+    {% capture category_name %}{{ category | first }}{% endcapture %}
     <div id="#{{ category_name | slugize | }}"></div>
     <p></p>
 
-    <h2 class="category-head">{{ category_name }}</h2>
+    <h2 class="category-head">{{ category_name | capitalize }}</h2>
     <a name="{{ category_name | slugize }}"></a>
     <ul>
     {% for post in site.categories[category_name] %}
