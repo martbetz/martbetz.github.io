@@ -32,9 +32,10 @@ layout: default
   {% endif %}
   <!-- posted in&nbsp;&nbsp; -->
   {% for category in categories %}
-  ⚪&nbsp;<a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>&nbsp;⚪
+  ⚪&nbsp;&nbsp;<a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>&nbsp;
   {% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}
+  ⚪
   </span>
 <!-- Experimental -->
       
