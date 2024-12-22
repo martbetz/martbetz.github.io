@@ -2,7 +2,7 @@
 title: Custom Lensfun LCPs
 layout: post
 categories: photography computing
-tags: lensfun lenses
+tags: lensfun
 actions: 
 actions: 
   - label: "VIEW REPO"
