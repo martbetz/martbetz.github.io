@@ -19,8 +19,8 @@ title: Posts by Category
 <div id="archives">
 {% for category in site.categories %}
   <div class="archive-group">
-    {% capture category_name %}{{ category | first }}{% endcapture %}
-    <div id="#{{ category_name | slugize | captalize }}"></div>
+    {% capture category_name %}{{ category | first | capitalize }}{% endcapture %}
+    <div id="#{{ category_name | slugize | }}"></div>
     <p></p>
 
     <h2 class="category-head">{{ category_name }}</h2>
