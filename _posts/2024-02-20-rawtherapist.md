@@ -2,7 +2,7 @@
 title: RawTherapist
 layout: post
 categories: photography computing
-tags: rawtherapee
+tags: RawTherapee
 ---
 
 How could Rawtherapee be better promoted? How could related developments be better communicated? How could related content be better collated and served? 🤔 Here's my modest attempt at a quick and simple solution.
