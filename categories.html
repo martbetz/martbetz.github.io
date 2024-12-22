@@ -34,6 +34,7 @@ title: Posts by Category
   </div>
 {% endfor %}
 
+<!-- https://www.assertnotmagic.com/2017/04/25/jekyll-tags-the-easy-way/ -->
 {% comment %}
 =======================
 The following part extracts all the tags from your posts and sort tags,
@@ -65,15 +66,17 @@ The following part removes dulpicated tags and invalid tags like blank tag.
   {% endfor %}
 
 	<p>
+	<center>
     {% for tag in site.tags %}
     <!-- Here's a hack to generate a "tag cloud" where the size of
     the word is directly proportional to the number of posts with
     that tag. -->
     <a href="/tags/{{ tag[0] }}/"
     style="font-size: {{ tag[1] | size | times: 2 | plus: 10 }}px">
-        {{ tag[0] }} |
+        {{ tag[0] }} &nbsp;
     </a>
     {% endfor %}
+	</center>
 </p>
   
 <h1><center>End of List</center></h1>
