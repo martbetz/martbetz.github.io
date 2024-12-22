@@ -1,4 +1,4 @@
-)---
+---
 layout: page
 permalink: /categories/
 title: Posts by Category
@@ -20,7 +20,7 @@ title: Posts by Category
 <div id="archives">
 {% for category in site.categories %}
   <div class="archive-group">
-    {% capture category_name %}{{ category | first }}{% endcapture %}
+    {% capture category_name %}{{ category | sort }}{% endcapture %}
     <div id="#{{ category_name | slugize | }}"></div>
     <p></p>
 
