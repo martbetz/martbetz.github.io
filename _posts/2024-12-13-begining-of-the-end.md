@@ -1,6 +1,6 @@
 ---
 title: Begining of the End?
-categories: news
+categories: miscellaneous
 layout: post
 ---
 
