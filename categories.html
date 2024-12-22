@@ -30,7 +30,9 @@ title: Posts by Category
       <li><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></li>
     </article>
     {% endfor %}
+    {% if category_name %}
     <hr>
+    {% endif %}
   </div>
 {% endfor %}
 <h2>End of List</h2>
