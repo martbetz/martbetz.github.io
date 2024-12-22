@@ -24,7 +24,7 @@ layout: default
 
 <!-- Experimental -->    
 <!-- <div class="post-categories"> -->
-  <p style="padding-top:5px;">
+  <span style="padding-top:5px;">
   {% if post %}
     {% assign categories = post.categories %}
   {% else %}
@@ -35,7 +35,7 @@ layout: default
   <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
   {% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}
-  </p>
+  </span>
 <!-- </div> -->
 <!-- Experimental -->
       
