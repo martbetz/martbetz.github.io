@@ -1,7 +1,7 @@
 ---
 title: XT-10 Thumb-Grip Repair
 layout: post
-categories: photography repair
+categories: photography maintenance
 tags: X-T10 thumb grip
 ---
 
