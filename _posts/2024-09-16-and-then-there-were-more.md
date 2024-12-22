@@ -2,8 +2,7 @@
 title: And Then There Were More!
 subtitle: The Promura Project
 layout: post
-categories: photography
-tags: The-Promura-Project
+categories: photography projects
 ---
 
 <p>
