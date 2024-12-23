@@ -147,7 +147,7 @@ Unless otherwise stated, all content is the copyright (©) of the author and may
 Unless otherwise stated, all content is the copyright (©) of the author and may neither be redistributed (which includes by way of hotlinking) nor reproduced (which includes by way of archiving) without the author’s consent (both explicit and prior).
 </p> 
 <p>
-The title (“JPEG Junkie”), subtitle (“An Affliction of Addiction to Obsessive Observation and Perfected Preservation in Thereof!”) and logo (<img src="/favicon.ico" alt="logo" width="16px">) are the trademark (ᴛᴍ) of the author.
+The title (“JPEG Junkie”), subtitle (“An Affliction of Addiction to Obsessive Observation and Perfected Preservation Thereof!”) and logo (<img src="/favicon.ico" alt="logo" width="16px">) are the trademark (ᴛᴍ) of the author.
      </p> 
  </div>
 <hr>
