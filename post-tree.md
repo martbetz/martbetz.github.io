@@ -16,7 +16,7 @@ The following graph illustrates the category/tag relationship for website posts.
     
     B["Hiking"] --> 4["gear"]
     
-    C["miscellaneous"]
+    C["Miscellaneous"]
     
     D["Photography"] --> 1["cameras"]
     D["Photography"] --> 2["DIY"]
