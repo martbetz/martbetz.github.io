@@ -23,10 +23,6 @@ title: Posts by Category
     {% capture category_name %}{{ category | first }}{% endcapture %}
     <div id="#{{ category_name | slugize | }}"></div>
     <p></p>
-
-{% if category_name = "maintenance" %}
-   {% category_name = "service & repair" %}
-{% endif %}
 	  
     <h2 class="category-head">{{ category_name | capitalize }}</h2>
     <a name="{{ category_name | slugize }}"></a>
