@@ -2,7 +2,7 @@
 title: What?! No GAS?!
 layout: post
 caterories: photography
-tags:gear
+tags: gear
 ---
 
 It’s not that I take the best photos (I don’t) nor that I have the best website (I haven’t) nor that my hair’s made of chocolate (it isn’t), so why are my peers in envy? They covet my steadfast aversion: my freakish resistance to GAS! 😎
