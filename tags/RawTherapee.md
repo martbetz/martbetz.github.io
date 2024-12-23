@@ -15,7 +15,7 @@ permalink: /tags/RawTherapee/ # This is only required for pretty links.
 <!-- <hr style="height:0.75px"> -->
 <hr style="background-color: #ccc">
 
-<h3>{{ page.tag }}</h3>
+<h2>{{ page.tag }}</h2>
 
 <ul>
     {% for post in site.tags[page.tag] %}
