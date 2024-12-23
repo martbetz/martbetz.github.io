@@ -2,7 +2,6 @@
 title: DIY Dry-Boxes
 format: post
 categories: photography projects
-tags: DIY
 ---
 
 I ordered some plastic containers last week, but I slightly misjudged my requirements. 😠 Not to worry; instead of <s><i>nailing them to a Frizbee and flinging them over a rainbow!</i></s> sending them back, I’ve decided to try something else.
