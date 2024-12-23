@@ -1,7 +1,7 @@
 ---
 title: What?! No GAS?!
 layout: post
-caterories: photography
+categories: photography
 tags: gear
 ---
 
