@@ -73,7 +73,7 @@ By interacting with this website, you (the visitor) hereby subsequently acknowle
 </ul>
 <ul>
 <li>
-(as per the <a href="#copyright">Intellectual Property Notice</a>) the title (“JPEG Junkie”), subtitle (“An Affliction of Addiction to Obsessive Observation and Perfected Preservation Thereof”) and logo (<img src="/favicon.ico" alt="logo" width="16px">) are the trademark (ᴛᴍ) of the author
+(as per the <a href="#copyright">Intellectual Property Notice</a>) the title (“JPEG Junkie”), subtitle (“An Affliction of Addiction to Obsessive Observation and Perfected Preservation Thereof!”) and logo (<img src="/favicon.ico" alt="logo" width="16px">) are the trademark (ᴛᴍ) of the author
 </li>
 </ul>
 <ul>
