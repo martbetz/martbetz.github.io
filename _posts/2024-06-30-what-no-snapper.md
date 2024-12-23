@@ -2,7 +2,6 @@
 title: What?! No Snapper?!
 layout: post
 categories: photography
-tages:gear
 ---
 
 Traveling without my camera is hard to come to terms with. Apart from the obvious, I’ve several (for me) very good reasons for taking my snapper everywhere; this time, though, I’m leaving it at home — <i>much to my begrudged discomfort.</i>
