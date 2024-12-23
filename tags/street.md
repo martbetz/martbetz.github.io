@@ -1,8 +1,8 @@
 ---
 title: Posts Related by Tag
 layout: page
-tag: RawTherapee
-permalink: /tags/RawTherapee/ # This is only required for pretty links.
+tag: street
+permalink: /tags/street/ # This is only required for pretty links.
 ---
 
 <div align="left">
