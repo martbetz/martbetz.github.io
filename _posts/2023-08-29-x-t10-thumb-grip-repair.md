@@ -1,7 +1,7 @@
 ---
 title: XT-10 Thumb-Grip Repair
 layout: post
-categories: photography [Service & Repair]
+categories: photography maintenance
 ---
 
 Notice the use of air quotes, here: the fact that my snapper's 'getting up in years' is something I struggle to accept; I've only had it since 2015, yet — _much to my protest!_ — the inevitable corollary of 'old age' has already crept in.
