@@ -2,9 +2,11 @@
 <br><br>
 The following graph illustrates the category/tag relationship for website posts.
 
-<center>
+<span align="center">
 
 ```mermaid
+
+%%{init: {'theme':'dark'}}%%
 
     graph LR
    
@@ -14,8 +16,6 @@ The following graph illustrates the category/tag relationship for website posts.
     A["Computing"] --> 9["RawTherapee"]
     
     B["Hiking"] --> 4["gear"]
-    
-    C["Miscellaneous"]
     
     D["Photography"] --> 1["cameras"]
     D["Photography"] --> 2["DIY"]
@@ -33,12 +33,15 @@ The following graph illustrates the category/tag relationship for website posts.
     E["Projects"] --> 6["Linux"]
     E["Projects"] --> 9["RawTherapee"]
     
-    F["Service & Repair"] --> 1["cameras"]
-    F["Service & Repair"] --> 3["lenses"]
-    F["Service & Repair"] --> 4["gear"]
+    F["Maintenance"] --> 1["cameras"]
+    F["Maintenance"] --> 3["lenses"]
+    F["Maintenance"] --> 4["gear"]
     
     G["Videography"] --> 4["gear"]
     G["Videography"] --> 6["Linux"]
+    
+    H["Website"]
+    C["Miscellaneous"]
     
     linkStyle 0 stroke-width:2px,fill:none,stroke:violet;
     linkStyle 1 stroke-width:2px,fill:none,stroke:violet;
@@ -63,6 +66,18 @@ The following graph illustrates the category/tag relationship for website posts.
     linkStyle 20 stroke-width:2px,fill:none,stroke:orange;
     linkStyle 21 stroke-width:2px,fill:none,stroke:orange;
     linkStyle 22 stroke-width:2px,fill:none,stroke:red;
-    linkStyle 23 stroke-width:2px,fill:none,stroke:red; 
+    linkStyle 23 stroke-width:2px,fill:none,stroke:red;
+    
 ```
-</center>
+</span>
+
+
+```mermaid
+
+    graph LR
+    
+    
+    
+
+```
+</left>
