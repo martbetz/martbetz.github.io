@@ -1,5 +1,5 @@
 ---
-title: Exploring the Potential of APNG
+title: Exploring APNG
 layout: post
 categories: photography computing
 ---
