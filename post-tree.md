@@ -69,7 +69,7 @@ The following graph illustrates the category/tag relationship for website posts.
     linkStyle 21 stroke-width:2px,fill:none,stroke:orange;
     linkStyle 22 stroke-width:2px,fill:none,stroke:red;
     linkStyle 23 stroke-width:2px,fill:none,stroke:red;
-linkStyle 23 stroke-width:2px,fill:none,stroke:blue;
+linkStyle 24 stroke-width:2px,fill:none,stroke:blue;
     
 ```
 </span>
