@@ -70,14 +70,3 @@ The following graph illustrates the category/tag relationship for website posts.
     
 ```
 </span>
-
-
-```mermaid
-
-    graph LR
-    
-    
-    
-
-```
-</left>
