@@ -33,9 +33,9 @@ The following graph illustrates the category/tag relationship for website posts.
     E["Projects"] --> 6["Linux"]
     E["Projects"] --> 9["RawTherapee"]
     
-    F["Maintenance"] --> 1["cameras"]
-    F["Maintenance"] --> 3["lenses"]
-    F["Maintenance"] --> 4["gear"]
+    F["Service/Repair"] --> 1["cameras"]
+    F["Service/Repair"] --> 3["lenses"]
+    F["Service/Repair"] --> 4["gear"]
     
     G["Videography"] --> 4["gear"]
     G["Videography"] --> 6["Linux"]
