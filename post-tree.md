@@ -39,7 +39,9 @@ The following graph illustrates the category/tag relationship for website posts.
     
     G["Videography"] --> 4["gear"]
     G["Videography"] --> 6["Linux"]
-    
+
+    B["Hiking"] --> 1["cameras"]
+
     H["Website"]
     C["Miscellaneous"]
     
@@ -67,6 +69,7 @@ The following graph illustrates the category/tag relationship for website posts.
     linkStyle 21 stroke-width:2px,fill:none,stroke:orange;
     linkStyle 22 stroke-width:2px,fill:none,stroke:red;
     linkStyle 23 stroke-width:2px,fill:none,stroke:red;
+linkStyle 23 stroke-width:2px,fill:none,stroke:blue;
     
 ```
 </span>
