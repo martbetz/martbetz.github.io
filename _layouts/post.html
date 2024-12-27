@@ -23,7 +23,7 @@ layout: default
       {%- endif -%}   
 
 <!-- Experimental -->
-  <span style="font-size:12px;">
+  <p style="font-size:12px; margin-top:-10px; word-spacing:1em;">
   <br>
   {% if post %}
     {% assign categories = post.categories %}
@@ -35,7 +35,7 @@ layout: default
   <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category | capitalize}}</a>
   {%- unless forloop.last -%};{% endunless %}
   {% endfor %}
-  </span>
+  </p>
 <!-- Experimental -->
       
       {%- if page.author -%}
