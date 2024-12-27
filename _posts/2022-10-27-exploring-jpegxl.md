@@ -1,5 +1,5 @@
 ---
-title: Exploring the Potential of JXL
+title: Exploring JXL
 layout: post
 categories: photography computing
 ---
