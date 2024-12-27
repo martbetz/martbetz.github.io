@@ -24,7 +24,7 @@ layout: default
 
 <!-- Experimental -->
   <br>
-  <span style="font-size:12px; word-spacing:-0.3em;">
+  <p style="font-size:12px;">
   {% if post %}
     {% assign categories = post.categories %}
   {% else %}
@@ -33,9 +33,9 @@ layout: default
   <!-- posted in&nbsp;&nbsp; -->
   {% for category in categories %}
   <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category | capitalize}}</a>
-  {% unless forloop.last %};&nbsp;&nbsp;{% endunless %}
+  {% unless forloop.last %}<span style="word-spacing:-0.3em;">;</span>&nbsp;{% endunless %}
   {% endfor %}
-  </span>
+  </p>
 <!-- Experimental -->
       
       {%- if page.author -%}
