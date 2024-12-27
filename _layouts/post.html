@@ -32,7 +32,7 @@ layout: default
   {% endif %}
   <!-- posted in&nbsp;&nbsp; -->
   {% for category in categories %}
-  <span style="word-spacing:0px;"><a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category | capitalize}}</a></span>
+  <span style="word-spacing:-10px;"><a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category | capitalize}}</a></span>
   {% unless forloop.last %};{% endunless %}
   {% endfor %}
   </span>
