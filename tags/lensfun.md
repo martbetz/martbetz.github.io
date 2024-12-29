@@ -1,8 +1,8 @@
 ---
 title: Posts Related by Tag
 layout: page
-tag: lensfun
-permalink: /tags/lensfun/ # This is only required for pretty links.
+tag: Lensfun
+permalink: /tags/Lensfun/ # This is only required for pretty links.
 ---
 
 <div align="left">
