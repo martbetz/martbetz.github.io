@@ -23,7 +23,8 @@ layout: default
       {%- endif -%}   
 
 <!-- Experimental -->
-  <p style="font-size:12px; margin-top:-30px; word-spacing:0.5em; max-width: 200px;">
+  <!-- <p style="font-size:12px; margin-top:-30px; word-spacing:0.5em; max-width: 200px;">-->
+  <p style="font-size:12px; margin-top:-30px; word-spacing:0.0em; max-width: 200px;">
   <br>
   {% if post %}
     {% assign categories = post.categories %}
@@ -33,7 +34,7 @@ layout: default
   <!-- posted in&nbsp;&nbsp; -->
   {% for category in categories %}
   <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
-  {%- unless forloop.last -%}{% endunless %}
+  {%- unless forloop.last -%}/{% endunless %}
   {% endfor %}
   </p>
 <!-- Experimental -->
