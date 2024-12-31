@@ -60,9 +60,12 @@ layout: default
 </article>
 
 <!-- Experimental -->
-{% for tag in article.tags -%}
-  <span style="padding-right:15px;">
-  <a href="{{ blog.url }}/tagged/{{ tag | replace: ' ', '-' | url_encode }}">{{ tag }} ({{ tag.total_count }})</a>
-  </span>
-{%- endfor %}
+{% for tag in post.tags %}
+  {% assign tag_slug = tag | slugify: "raw" %}
+  <a class="tag-link"
+    href={{ site.baseurl | append: "/tags/" | append: tag_slug | append: "/" }}
+    rel="category tag">
+    #{{ tag }}
+  </a>
+{% endfor %}
 <!-- Experimental -->
