@@ -58,3 +58,52 @@ layout: default
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
+
+<!-- Experimental -->
+<!-- https://www.assertnotmagic.com/2017/04/25/jekyll-tags-the-easy-way/ -->
+{% comment %}
+=======================
+The following part extracts all the tags from your posts and sort tags,
+ so that you do not need to manually collect your tags to a place.
+=======================
+{% endcomment %}
+{% assign rawtags = "" %}
+{% for post in site.posts %}
+	{% assign ttags = post.tags | join:'|' | append:'|' %}
+	{% assign rawtags = rawtags | append:ttags %}
+{% endfor %}
+{% assign rawtags = rawtags | split:'|' | sort %}
+
+{% comment %}
+=======================
+The following part removes dulpicated tags and invalid tags like blank tag.
+=======================
+{% endcomment %}
+{% assign tags = "" %}
+{% for tag in rawtags %}
+	{% if tag != "" %}
+		{% if tags == "" %}
+			{% assign tags = tag | split:'|' %}
+		{% endif %}
+		{% unless tags contains tag %}
+			{% assign tags = tags | join:'|' | append:'|' | append:tag | split:'|' %}
+		{% endunless %}
+	{% endif %}
+  {% endfor %}
+
+	<p>
+	<center>
+	<span style="display:block; margin-left:4em; margin-right:4em">
+    {% for tag in site.tags %}
+    <!-- Here's a hack to generate a "tag cloud" where the size of
+    the word is directly proportional to the number of posts with
+    that tag. -->
+    <a href="/tags/{{ tag[0] }}/"
+    style="font-size: {{ tag[1] | size | times: 2 | plus: 10 }}px">
+        {{ tag[0] }} &nbsp;
+    </a>
+    {% endfor %}
+	</span>
+	</center>
+        </p>
+<!-- Experimental -->
