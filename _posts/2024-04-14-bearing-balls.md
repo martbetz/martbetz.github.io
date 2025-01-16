@@ -17,6 +17,11 @@ I’m attempting to make a reference list with the aim of recording the correct 
  
 []()
 
+- SMC Pentax-A 50 2.0
+   - 1.0mm ([pentaxforums.com](https://www.pentaxforums.com/forums/10-pentax-slr-lens-discussion/84495-missing-ball-bearing.html#post865024))
+
+[]()
+
 - Minolta Rokkor 58mm 1.2
    - 2.0mm ([fredmiranda.com](https://www.fredmiranda.com/forum/topic/749370))
 
