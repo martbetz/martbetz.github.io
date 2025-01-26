@@ -12,13 +12,14 @@ categories: photography computing
 <!-- <hr style="background-color: #ccc"> ,-->
 <hr>
 </span>
+
 <span style="display:block; margin-left:2em; margin-right:2em">
 <font size="4">
 <b>The following post is a product of personal research. I’m neither a professional nor an  expert&nbsp;— <i>so don’t scratch that head of yours too hard, young Bob; you know what happened the last time.</i></b>
 </span>
 </font>
-<hr style="background-color: #ccc">
-</div>
+  
+<hr>
 
 TIFF, GIF, AVIF... and, of course, JPEG. We’re all quite used to acronyms, those funny little nonsense names we like to give our file types. It seems a fair assumption, then, that RAW should be one too; after all, it certainly <i>looks</i> like it should. 
 
