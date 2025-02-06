@@ -26,7 +26,7 @@ Then there’s all the existing ones; they’ll be going as well. To make things
 3. prompt for optional archive exclusion of selected files
 4. archive all remaining files with extension RAF using the input data for folder structure and filename
 
-That's right; to save as much space as I can, I’ll be squashing the raws to an archive. Here are some stats for reference:
+That's right; to save as much space as I can, I’ll be squashing the raws to an archive. Here are some expected ball-park stats:
 
 - 32.2 MB for raw (RAF)
 - 20.1 MB for 7Zip (7ZP)
