@@ -6,12 +6,6 @@ categories: photography computing
 
 So here I am, over a decade later, pouting over wasted disk space and thinking “What?! JPEG <i>and</i> raw?! <i>Why the hell am I doing that?!</i>” At least I’ve found the solution: stop it —&nbsp;<i>right now!</i>&nbsp;— and bin those pesky JPEGs! 😶
 
-<br>
-  <center>
-<img src=" width="400" height="400">
-  </center>
-</br>
-
 <div>
   <center>
      <img style="padding-top: 15px; padding-bottom: 10px;" width="400px" src="https://raw.githubusercontent.com/martbetz/martbetz.github.io/refs/heads/main/_includes/custom/Imagepipe_3.jpg" alt="No JPEGs allowed!">
