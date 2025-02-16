@@ -8,7 +8,7 @@ So here I am, over a decade later, pouting over wasted disk space and thinking â
 
 <div>
   <center>
-     <img style="padding-top: 15px; padding-bottom: 10px;" width="400px" src="https://raw.githubusercontent.com/martbetz/martbetz.github.io/refs/heads/main/_includes/custom/Imagepipe_3.jpg" alt="No JPEGs allowed!">
+     <img style="padding-top: 15px; padding-bottom: 20px;" width="400px" src="https://raw.githubusercontent.com/martbetz/martbetz.github.io/refs/heads/main/_includes/custom/Imagepipe_3.jpg" alt="No JPEGs allowed!">
   </center>
 </div>
 
