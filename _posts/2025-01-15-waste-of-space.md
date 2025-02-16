@@ -6,7 +6,11 @@ categories: photography computing
 
 So here I am, over a decade later, pouting over wasted disk space and thinking “What?! JPEG <i>and</i> raw?! <i>Why the hell am I doing that?!</i>” At least I’ve found the solution: stop it —&nbsp;<i>right now!</i>&nbsp;— and bin those pesky JPEGs! 😶
 
-<img src="https://raw.githubusercontent.com/martbetz/martbetz.github.io/refs/heads/main/_includes/custom/Imagepipe_3.jpg" alt="No JPEGs allowed!" width="400" height="400" style="align:center">
+<p>
+  <center>
+<img src="https://raw.githubusercontent.com/martbetz/martbetz.github.io/refs/heads/main/_includes/custom/Imagepipe_3.jpg" alt="No JPEGs allowed!" width="400" height="400">
+  </center>
+</p>
 
 When I first got hold of my X-T10, I went with ‘[FINE + RAW](https://fujifilm-dsc.com/en/manual/x-t10/menu_shooting/image_quality/index.html)’ (I&nbsp;didn’t know a raw file from a soggy bag of nuts, so it seemed like the safest bet). All those squatting JPEGs, though, have hogged a lot of turf! 
 
