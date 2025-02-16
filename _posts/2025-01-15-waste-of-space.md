@@ -39,6 +39,19 @@ That's right; to save as much space as I can, I’ll be squashing the raws to an
 
 just to be cautious, though, I’m excluding any ‘keepers’ (or, at least, keeping external copies).
 
+<hr>
+
+Update (Feb 15, 2025): We’ll, I’m off to a flying start with 168 GB reclaimed on a 500 GB drive. All the surplus JPEGs have gone (and a sack load of other stuff, too), and I haven’t squashed anything to archive just yet! 
+
+I’ve also been pondering my folder tree. After much deliberation, I’ve decided on the following:
+
+- camera details (e.g. Fuji_XT10)
+- lens details (e.g. Fuji_XC_35mm)
+- event details (e.g. Street-London-2020)
+- capture date (e.g. 01-01-2020)
+
+The structure is simple and seems to work well (I wanted to keep nesting to a minimum and the folder names short yet descriptive). 
+
 <br><center><b> To be continued.</b></center><br>
 
 
