@@ -52,6 +52,10 @@ I’ve also been pondering my folder tree. After much deliberation, I’ve decid
 
 The structure is simple and seems to work well (I wanted to keep nesting to a minimum and the folder names short yet descriptive). 
 
+<hr>
+
+Update (Feb 18, 2025): Now that I’ve sorted the main drive, I’m doing the same for the spare; this one’s a bit of a junk draw, where all my old photos are dumped. I think I’ll be here for a while — <i>wish me luck!</i>
+
 <br><center><b> To be continued.</b></center><br>
 
 
