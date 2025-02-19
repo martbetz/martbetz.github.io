@@ -56,6 +56,10 @@ The structure is simple and seems to work well (I wanted to keep nesting to a mi
 
 Update (Feb 18, 2025): Now that I’ve sorted the main drive, I’m doing the same for the spare; this one’s a bit of a junk draw, where all my old photos are dumped. I think I’ll be here for a while — <i>wish me luck!</i>
 
+<hr>
+
+Update (Feb 19, 2025): I’m still hard at it; another five hours put in today, and I’m roughly half-way there. My only error so far was the way I named the files; had the dates been tagged in reverse (YYYY-MM-DD) they’d be really easy to sort — <i>dag nabbit!</i>
+
 <br><center><b> To be continued.</b></center><br>
 
 
