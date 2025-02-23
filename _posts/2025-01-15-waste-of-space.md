@@ -62,7 +62,9 @@ Update (Feb 19, 2025): I’m still hard at it; another five hours put in today, 
 
 <hr>
 
-Update (Feb 20, 2025): And... we’re done! Everthing’s been sorted and fully backed up to a second drive. Next, I’ll be using KPhotoAlbum to manage the archive.
+Update (Feb 20, 2025): And... we’re done! Everthing’s been sorted and fully backed up to a second drive. 
+
+As it turned out, I decided not to archive; it all came in at around 400 GB, which is easily managagable for now. What I’ve decided to do instead is manage it all with <a href="https://www.kphotoalbum.org/">KPhotoAlbum</a>; it’s all set up, and I have a plan. 😁
 
 <br><center><b> To be continued.</b></center><br>
 
