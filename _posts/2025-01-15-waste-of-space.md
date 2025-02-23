@@ -60,6 +60,10 @@ Update (Feb 18, 2025): Now that I’ve sorted the main drive, I’m doing the sa
 
 Update (Feb 19, 2025): I’m still hard at it; another five hours put in today, and I’m roughly half-way there. My only error so far was the way I named the files; had the dates been tagged in reverse (YYYY-MM-DD) they’d be far less taxing to sort — <i>Aaawww... I gone and done a stoopid, Bob! Why I do a stoopid?!</i>&nbsp;😣
 
+<hr>
+
+Update (Feb 20, 2025): And... we’re done! Everthing’s been sorted and fully backed up to a second drive. Next, I’ll be using KPhotoAlbum to manage the archive.
+
 <br><center><b> To be continued.</b></center><br>
 
 
