@@ -58,7 +58,7 @@ Update (Feb 18, 2025): Now that I’ve sorted the main drive, I’m doing the sa
 
 <hr>
 
-Update (Feb 19, 2025): I’m still hard at it; another five hours put in today, and I’m roughly half-way there. My only error so far was the way I named the files; had the dates been tagged in reverse (YYYY-MM-DD) they’d be far less taxing to sort — <i>Aaawww... I gone and done a stoopid, Bob! Why I do a stoopid?!</i>&nbsp;😣
+Update (Feb 19, 2025): I’m still hard at it; another five hours put in today, and I’m roughly half-way there. My only error so far was the way I named the subs; had the dates been tagged in reverse (YYYY-MM-DD) they’d be far less taxing to sort — <i>Aaawww... I gone and done a stoopid, Bob! Why I do a stoopid?!</i>&nbsp;😣
 
 <hr>
 
