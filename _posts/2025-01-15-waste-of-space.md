@@ -66,7 +66,7 @@ Update (Feb 20, 2025): And... we’re done! Everthing’s been sorted and fully 
 
 As it turned out, I decided not to compress any raw files; it all came in at around 400 GB, which is more than acceptable for now. What I’ve decided to do instead is manage it all with <a href="https://www.kphotoalbum.org/">KPhotoAlbum</a>; it’s all set up, and I have a plan. 😁
 
-As one of the archives will remain workable, I’ve tweeked RawTherapee settings to only store the sidecar files in the cache folder; this will help make sure that everything stays as clutter free as possible
+As one of the archives will remain workable, I’ve tweaked my RawTherapee settings to only store the sidecar files in the cache folder; this will help make sure that everything stays as clutter free as possible
 
 <br><center><b> To be continued.</b></center><br>
 
