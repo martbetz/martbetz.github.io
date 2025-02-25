@@ -41,7 +41,7 @@ just to be cautious, though, I’m excluding any ‘keepers’ (or, at least, ke
 
 <hr>
 
-Update (Feb 15, 2025): We’ll, I’m off to a flying start with 168 GB reclaimed on a 500 GB drive. All the surplus JPEGs have gone (and a sack load of other stuff, too), and I haven’t squashed anything to archive just yet! 
+Update (Feb 15, 2025): We’ll, I’m off to a flying start with 168 GB reclaimed on a 500 GB drive. All the surplus JPEGs have gone (and a sack load of other stuff, too), and I’ve not squashed anything down just yet! 
 
 I’ve also been pondering my folder tree. After much deliberation, I’ve decided on the following:
 
