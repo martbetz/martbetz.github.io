@@ -31,6 +31,10 @@ Pull up a chair. Let’s talk.
 
 Try the [contact](https://martbetz.github.io/contact.html) page. 
 
+### Do you have a YouTube channel? ###
+
+[Yes, but...](https://martbetz.github.io/social404.html)
+
 ### Are you on social media? ###
 
 Perish the thought.
