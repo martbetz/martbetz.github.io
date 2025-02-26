@@ -23,6 +23,10 @@ I’m not a fan of trolling.
 
 No one would read it.
 
+### Could I write a guest post? ###
+
+Pull up a chair. Let’s talk.
+
 ### How can I reach you? ###
 
 Try the [contact](https://martbetz.github.io/contact.html) page. 
