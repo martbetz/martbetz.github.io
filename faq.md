@@ -35,7 +35,7 @@ Try the [contact](https://martbetz.github.io/contact.html) page.
 
 [Yes, but...](https://martbetz.github.io/social404.html)
 
-### Are you on social media? ###
+### Are you on Facebook? ###
 
 Perish the thought.
 
