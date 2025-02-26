@@ -21,7 +21,7 @@ I’m not a fan of trolling.
 
 ### Why not have a guestbook? ###
 
-No one would ever read it.
+No one would read it.
 
 ### How can I reach you? ###
 
@@ -45,7 +45,7 @@ The Land of Sheep & Dragons.
 
 ### Who’s Bob? ###
 
-Bob’s just ‘Bob’ spelled backwards.
+[Bob](https://raw.githubusercontent.com/martbetz/martbetz.github.io/main/_includes/custom/avatar-round-animated.gif)’s just ‘Bob’ spelled backwards.
 
 ### Can I meet you in person? ###
 
