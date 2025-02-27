@@ -25,7 +25,7 @@ No one would read it.
 
 ### Could I write a guest post? ###
 
-Pull up a chair. Let’s talk.
+Pull up a chair.
 
 ### How can I reach you? ###
 
@@ -53,7 +53,7 @@ The Land of Sheep & Dragons.
 
 ### Who’s Bob? ###
 
-[Bob](https://raw.githubusercontent.com/martbetz/martbetz.github.io/main/_includes/custom/avatar-round-animated.gif)’s just ‘Bob’ spelled backwards.
+Bob’s just ‘Bob’ spelled backwards.
 
 ### Can I meet you in person? ###
 
