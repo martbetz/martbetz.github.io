@@ -25,7 +25,7 @@ No one would read it.
 
 ### Could I write a guest post? ###
 
-Pull up a chair.
+About..?
 
 ### How can I reach you? ###
 
@@ -33,7 +33,7 @@ Try the [contact](https://martbetz.github.io/contact.html) page.
 
 ### Do you have a YouTube channel? ###
 
-[Yes, but...](https://martbetz.github.io/social404.html)
+I do, [but...](https://martbetz.github.io/social404.html)
 
 ### Are you on Facebook, Instagram or X? ###
 
