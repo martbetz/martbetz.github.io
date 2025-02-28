@@ -33,11 +33,11 @@ Try the [contact](https://martbetz.github.io/contact.html) page.
 
 ### Do you have a YouTube channel? ###
 
-I do, [but...](https://martbetz.github.io/social404.html)
+[Yes, but no](https://martbetz.github.io/social404.html).
 
 ### Are you on Facebook, Instagram or X? ###
 
-Perish the thought.
+No, no, and perish the thought.
 
 ### What are your chosen pronouns? ###
 
