@@ -25,7 +25,7 @@ No one would read it.
 
 ### Could I write a guest post? ###
 
-About..?
+Pull up a chair.
 
 ### How can I reach you? ###
 
