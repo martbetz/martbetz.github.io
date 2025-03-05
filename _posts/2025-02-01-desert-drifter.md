@@ -12,4 +12,4 @@ For updates on Andrew’s journey, please visit [Andrew & Evelyn's CaringBridge]
 
 <hr>
 
-Update (Mar 4, 2025): Andrew passed away at 10:50 AM MST today. Such a tragic loss. Thank you, Andrew, for the absolute joy that was Desert Drifter.
+Update (Mar 4, 2025): It’s with great remorse that I share the sad news of Andrew’s passing. Such a tragic loss. Thank you, Andrew, for the absolute joy that was Desert Drifter.
