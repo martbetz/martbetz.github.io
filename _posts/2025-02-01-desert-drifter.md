@@ -12,7 +12,7 @@ For updates on Andrew’s journey, please visit [Andrew & Evelyn's CaringBridge 
 
 <hr>
 
-Update (Mar 4, 2025): It’s with great sadness that I share the tragic news of Andrew’s recent passing. 
+Update (Mar 4, 2025): It’s with great sadness that I share the tragic [news of Andrew’s recent passing](https://www.kkco11news.com/2025/03/05/victim-dies-hospital-after-north-ave-crash/). 
 
 Such a terrible, terrible loss.&nbsp;💔
 
