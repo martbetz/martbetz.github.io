@@ -14,4 +14,4 @@ For updates on Andrew’s journey, please visit [Andrew & Evelyn's CaringBridge 
 
 Update (Mar 4, 2025): It’s with great sadness that I share the tragic news of Andrew’s passing. Such a terrible loss. 
 
-Thank you, Andrew, for being our one-and-only Desert Drifter. 
+Thank you, Andrew; you’ll forever be our most cherished Desert Drifter. 
