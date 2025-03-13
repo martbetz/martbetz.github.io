@@ -19,7 +19,7 @@ In contrast to using Google Maps, <a href="https://organicmaps.app/ ">Organic Ma
 
 <hr>
 
-Update (Mar 12,2025): My first attempt with FitoTrack didn’t go so well; it tracked me for all of ten minutes, then it decided to stop. I think I may know what went wrong, though, so I’ll give it another try soon.
+Update (Mar 12,2025): My first attempt with FitoTrack didn’t go so well; it tracked me for all of ten minutes, but then it decided to stop. I think I may know what went wrong, though, so I’ll give it another try soon.
 
 <br><center><b>This post is a work in progress.</b></center><br>
 
