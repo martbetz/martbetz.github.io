@@ -21,6 +21,10 @@ The problem I find with hiking apps is they tend to be a bit snoopy, most requir
 
 Update (Mar 13, 2025): My first attempt with FitoTrack didn’t go so well; it tracked me for all of ten minutes, but then it decided to stop. I think I may know what went wrong, though, so I’ll give it another try soon.
 
+<hr>
+
+Update (Mar 16, 2025): Yey! I got it to work! I walked around six miles, today, at it all got recorded seamlessly! Right, then; it’s time for a proper test.
+
 <br><center><b>This post is a work in progress.</b></center><br>
 
 
