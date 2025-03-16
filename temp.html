@@ -1,0 +1,47 @@
+---
+title: Betz’s Supersonic Startpage!
+layout: blank
+---
+
+<title>Simple Dropdown Menu</title>
+
+    <script>
+
+        function toggleDropdown() {
+
+    var menu = document.getElementById("menuItems");
+
+    if (menu.style.display === "none") {
+
+        menu.style.display = "block";
+
+    } else {
+
+        menu.style.display = "none";
+
+    }
+
+}
+
+    </script>
+
+</head>
+
+<body>
+
+
+    <div id="dropdownMenu">
+
+        <button onclick="toggleDropdown()">Menu</button>
+
+        <div id="menuItems" style="display: none;">
+
+            <a href="#">Item 1</a><br>
+
+            <a href="#">Item 2</a><br>
+
+            <a href="#">Item 3</a>
+
+        </div>
+
+    </div>
