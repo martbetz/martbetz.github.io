@@ -9,7 +9,7 @@ The problem I find with hiking apps is they tend to be a bit snoopy, most requir
 
 <div>
   <center>
-     <img style="padding-top: 7px; padding-bottom: 25px;" width="400px"  height="400px" src="https://raw.githubusercontent.com/martbetz/martbetz.github.io/refs/heads/main/_includes/custom/phone-hiker.jpg" alt="Hiker">
+     <img style="padding-top: 7px; padding-bottom: 25px;" width="400px"  src="https://raw.githubusercontent.com/martbetz/martbetz.github.io/refs/heads/main/_includes/custom/phone-hiker.jpg" alt="Hiker">
   </center>
 </div>
 
