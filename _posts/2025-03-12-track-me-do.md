@@ -23,7 +23,7 @@ Update (Mar 13, 2025): My first attempt with FitoTrack didn’t go so well; it t
 
 <hr>
 
-Update (Mar 16, 2025): Yey! I got it to work! I walked around six miles, today, at it all got recorded seamlessly! Right, then; it’s time for a proper test.
+Update (Mar 16, 2025): Yey! I got it to work! I walked around six miles, today, and it all got recorded seamlessly in both FitoTrack <i>and</i> Organic Maps. I have an old Samsung phone at home, and I wonder...
 
 <br><center><b>This post is a work in progress.</b></center><br>
 
