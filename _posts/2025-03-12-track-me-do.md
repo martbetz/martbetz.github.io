@@ -9,9 +9,11 @@ The problem I find with hiking apps is they tend to be a bit snoopy, most requir
 
 <div>
   <center>
-     <img style="padding-top: 7px; padding-bottom: 25px;" width="500px"  src="https://raw.githubusercontent.com/martbetz/martbetz.github.io/refs/heads/main/_includes/custom/phone-hiker.jpg" alt="Hiker">
+     <img style="padding-top: 7px; padding-bottom: 25px;" padding-left: 10px; padding-right: 10px; width="600px"  src="https://raw.githubusercontent.com/martbetz/martbetz.github.io/refs/heads/main/_includes/custom/phone-hiker.jpg" alt="Hiker">
   </center>
 </div>
+
+
 
 <!-- A thirty-five-year-old barefoot woman with blue pig tails, metal ankle chains, tattoos on arms and legs, and a black backpack, wearing a pink top and yellow shorts, squatting on a small rock in a texas desert lookig at a phone. -->
 
