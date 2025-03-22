@@ -8,9 +8,7 @@ tags: gear
 The problem I find with hiking apps is they tend to be a bit snoopy, most require sign-up and like to chew on data, and a lots of them are pay-walled or ship with a cart load of ads. There are a few exceptions, though.
 
 <div>
-  <center>
-     <img style="padding-top: 7px; padding-bottom: 25px; margin-left: 20px; margin-right: 20px; max-width: 600px" src="https://raw.githubusercontent.com/martbetz/martbetz.github.io/refs/heads/main/_includes/custom/phone-hiker.jpg" alt="Hiker">
-  </center>
+     <img style="padding-top: 7px; padding-bottom: 25px; padding-left: 20px; padding-right:20px; margin-left: auto; margin-right: auto; max-width: 600px" src="https://raw.githubusercontent.com/martbetz/martbetz.github.io/refs/heads/main/_includes/custom/phone-hiker.jpg" alt="Hiker">
 </div>
 
 
