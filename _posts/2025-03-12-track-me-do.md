@@ -13,7 +13,7 @@ The problem I find with hiking apps is they tend to be a bit snoopy, most requir
   margin-left: auto;
   margin-right: auto;
   width: 90%;
-  max-width: 0px;
+  max-width: 600px;
 }
 </style>
 
