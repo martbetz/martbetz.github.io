@@ -13,14 +13,14 @@ html {
 /* If the screen size is 601px wide or more, set the base font-size of <div> to 20px */
 @media screen and (min-width: 601px) {
   div.example {
-    $base-font-size: 20px;
+    font-size: 20px;
   }
 }
 
 /* If the screen size is 600px wide or less, set the base font-size of <div> to 16px */
 @media screen and (max-width: 600px) {
   div.example {
-    $base-font-size: 16px;
+    font-size: 16px;
   }
 }
 
