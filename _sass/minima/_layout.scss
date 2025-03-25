@@ -281,29 +281,7 @@ body{
     @include relative-font-size(1.75);
 
     @media screen and (min-width: $on-large) {
-      @include relative-font-size(2);
-
-
-
-
-/* If the screen size is 601px wide or more, set the font-size of <div> to 24px */
-@media screen and (min-width: 601px) {
-  div.example {
-    font-size: 24px;
-  }
-}
-
-/* If the screen size is 600px wide or less, set the font-size of <div> to 16px */
-@media screen and (max-width: 600px) {
-  div.example {
-    font-size: 16px;
-  }
-}
-
-
-
-
-       
+      @include relative-font-size(2);       
     }
   }
 
