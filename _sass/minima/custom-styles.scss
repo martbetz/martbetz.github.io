@@ -45,9 +45,9 @@ hr {
 
     } */
 
-/* * {
+* {
 
 @media screen and (min-width:640px){
-      font-size: 20px; !important;
+      font-size: $base-font-size * 1.5; !important;
   }
-} */
+} 
