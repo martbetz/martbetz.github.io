@@ -16,7 +16,7 @@ iframe {
     pointer-events: none !important;
 }
 
-hr {{
+hr {
    margin-top: spacing-unit;
    margin-bottom: $spacing-unit;
    border: none;
@@ -48,6 +48,6 @@ hr {{
 * {
 
 @media screen and (min-width:640px){
-      font-size: 24px;
+      font-size: 24px; !important
   }
 }
