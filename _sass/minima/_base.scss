@@ -1,5 +1,8 @@
 html {
-  font-size: $base-font-size;
+  /*font-size: $base-font-size;*/
+    @media screen and (min-width:500px){
+      font-size: 30px;
+  }
 }
 
 /**
@@ -34,10 +37,6 @@ body {
 
   @media screen and (max-width:420px){
      line-height: 1.40em;
-  }
-
-  @media screen and (min-width:500px){
-      $base-font-size: 30px;
   }
  
 } 
