@@ -73,7 +73,7 @@ By interacting with this website, you (the visitor) hereby subsequently acknowle
 </ul>
 <ul>
 <li>
-(as per the <a href="#copyright">Intellectual Property Notice</a>) the title (“JPEG Junkie”), subtitle (“An Affliction of Addiction to Obsessive Observation and the Perfect Preservation Thereof!”), site logo/avatar (<img src="https://raw.githubusercontent.com/martbetz/martbetz.github.io/refs/heads/main/_includes/custom/bob_avatar_round.png" width="16px">), and favicon logo (<img src="/favicon.ico" alt="logo" width="16px">) are the trademark (ᴛᴍ) of the author
+(as per the <a href="#copyright">Intellectual Property Notice</a>) the title (“JPEG Junkie”), subtitle (“An Affliction of Addiction to Obsessive Observation and the Perfect Preservation Thereof!”), site logo/avatar (<img src="https://raw.githubusercontent.com/martbetz/martbetz.github.io/refs/heads/main/_includes/custom/bob_avatar_square.png" width="16px">), and favicon logo (<img src="/favicon.ico" alt="logo" width="16px">) are the trademark (ᴛᴍ) of the author
 </li>
 </ul>
 <ul>
@@ -147,7 +147,7 @@ Unless otherwise stated, all content is the copyright (©) of the author and may
 Unless otherwise stated, all content is the copyright (©) of the author and may neither be redistributed (which includes by way of hotlinking) nor reproduced (which includes by way of archiving) without the author’s consent (both explicit and prior).
 </p> 
 <p>
-The title (“JPEG Junkie”), subtitle (“An Affliction of Addiction to Obsessive Observation and the Perfect Preservation Thereof!”), site logo/avatar (<img src="https://raw.githubusercontent.com/martbetz/martbetz.github.io/refs/heads/main/_includes/custom/bob_avatar_round.png" width="16px">), and favicon logo (<img src="/favicon.ico" alt="logo" width="16px">) are the trademark (ᴛᴍ) of the author
+The title (“JPEG Junkie”), subtitle (“An Affliction of Addiction to Obsessive Observation and the Perfect Preservation Thereof!”), site logo/avatar (<img src="https://raw.githubusercontent.com/martbetz/martbetz.github.io/refs/heads/main/_includes/custom/bob_avatar_square.png" width="16px">), and favicon logo (<img src="/favicon.ico" alt="logo" width="16px">) are the trademark (ᴛᴍ) of the author
      </p> 
  </div>
 <hr>
