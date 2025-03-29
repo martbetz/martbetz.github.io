@@ -17,9 +17,9 @@ The problem I find with hiking apps is they tend to be a bit snoopy, most requir
 }
 </style>
 
-<div>
+<!-- <div>
      <img style="padding-top: 7px; padding-bottom: 25px;" class="center" src="https://raw.githubusercontent.com/martbetz/martbetz.github.io/refs/heads/main/_includes/custom/phone-hiker.jpg" alt="Hiker">
-</div>
+</div> -->
 
 <a href="https://organicmaps.app/ ">Organic Maps</a> is a popular sub for Google maps; after reading <a href="https://www.makeuseof.com/organic-maps-google-maps-privacy-focused-alternative/">Digvijay Kumar’s post</a>, I certainly see the appeal. I also found a nice simple app called <a href="https://codeberg.org/jannis/FitoTrack">FitoTrack</a> to help keep a log of progress, and another app called <a href="https://kylecorry.com/Trail-Sense/">Trail Sense</a> that’s very cool indeed.
 
