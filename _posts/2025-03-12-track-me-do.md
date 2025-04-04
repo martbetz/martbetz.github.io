@@ -33,7 +33,7 @@ While I’ve always got my smartphone to hand, I wanted to try something differe
 
 As luck would have it, I still had an old <a href="https://en.m.wikipedia.org/wiki/Samsung_Galaxy_S6">S6</a> in the draw; this fit the bill just perfect as they’re nice and small, have good displays, and can still run the apps without issue (as a bonus, this one even came with a nice protective cover). 
 
-The only slight downside in my case is battery on this thing is shot, but that’s nothing an external pack can’t solve (I considered replacing the battery, but the payoff’s just not worth the cost).
+The only slight downside in my case is the battery on this thing is shot, but that’s nothing an external pack can’t solve (I considered replacing the battery, but the payoff’s just not worth the cost).
 
 With all the apps installed, I took it for a three-hour  test walk; it all worked perfectly (everything runs off GPS; there’s no SIM installed, and the wi-fi's turned off to save juice). 
 
