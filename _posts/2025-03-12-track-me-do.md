@@ -5,7 +5,7 @@ categories: hiking
 tags: gear
 ---
 
-The problem I find with hiking apps is they tend to be a bit snoopy, most require sign-up and like to chew on data, and a lots of them are pay-walled or ship with a cart load of ads. There are a few exceptions, though.
+The problem I find with hiking apps is they tend to be a bit snoopy, most require sign-up and like to chew on data, and lots of them are pay-walled or ship with a cart load of ads. There are a few exceptions, though.
 
 <style>
 .center {
