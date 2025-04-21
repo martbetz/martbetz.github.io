@@ -14,9 +14,9 @@ Woo-hoo! It’s that time of the year when the snapper comes out, and my first m
   
 <b>Please note that I’m neither involved with nor promoting the event concerned — the aim of this post is to specifically discuss the way in which the event has been promoted and communicated. My attendance of this event will be strictly limited to impartial observation in context with amateur documentary photography.</b>
 
-</span>
-
 </font>
+
+</span>
   
 <hr style="background-color: #ccc">
 
