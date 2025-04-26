@@ -7,7 +7,7 @@ tags: gear
 
 I’m not a hard-core hiker; I’m more a part-time rambler, so I’ve not worn much of anything designed for the task in hand. Recently, though, I swapped my everyday cotton shirts for polyester hiking ones — will they really make a difference?
 
-I’ve always gone a wandering in plain old cotton t-shirts; they’re what I’ve had to hand, and I couldn’t see any practical need for anything more exotic — I’m only a part-time bimbler, I don’t do any camping, and I’m mostly out in the summer (I’m also stubbornly hype-adverse and downright frustratingly frugal&nbsp;😁).
+I’ve always gone a wandering in plain old cotton t-shirts; they’re what I’ve had to hand, and I couldn’t see any practical need for anything more exotic — I’m only a part-time bimbler, I don’t do any camping, and I’m mostly out in the summer (I’m also stubbornly hyper-adverse and downright frustratingly frugal&nbsp;😁).
 
 Just the other day, though, I spotted some tops on sale; they were dedicated hiking shirts, made of lightweight polyester, apparently very ‘breathable’ and ‘moisure-wicking,’ and very quick-drying to boot. As the price was right, and I needed new t-shirts anyway, I went and picked one up.
 
