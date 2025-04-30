@@ -15,7 +15,7 @@ The fit seems bang on the money, and it’s very nice next to the skin; it even 
 
 <hr>
 
-Update (Apr 26, 2025): It was quite a warm day, today; not an absolute scorcher, but most certainly hot enough for a test run. I definately felt comfortable; the top was not only cool but very soft next to my skin, very light, and my back (which in a cotton shirt gets absolutely sodden) was only slightly damp before drying almost instantly. 
+Update (Apr 26, 2025): It was quite a warm day, today (not an absolute scorcher, but certainly hot enough). I definately felt comfortable; the top was lovely and cool, very soft next to my skin, very light, and my back (which in a cotton shirt gets absolutely sodden) was only slightly damp before drying almost instantly. 
 
 Performance-wise, then, I was very pleased indeed&nbsp;— it even kept me cool despite the dark colour, which I thought would at least get very warm in the sun. The only downside I’ve noticed is it tends to easily snag; my cotton shirts will stand up to anything, but this thing’s an absolute wimp&nbsp;— <i>best stay away from those brambles, then, Bob!</i>
 
