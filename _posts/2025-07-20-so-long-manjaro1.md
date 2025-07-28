@@ -7,7 +7,7 @@ tags: Manjaro Arch RawTherapee
 
 I’ve used Manjaro since always, but I’ve now switched over to Arch. I’ve never been one to distro hop, but my hand was pretty much forced — and, now that I’m gone, I’m certainly not turning back.
 
-I noticed something strange in RawTherapee; the results when applying my custom PP3s differed from version to version. I just went with it at first, presuming it was down to changes and tweaks to the way RawTherapee worked; it turns out, though, it wasn't — when I tried it out on Arch, no such issues occured.
+I noticed something strange in RawTherapee; the results when applying my custom PP3s differed from version to version. I thought it was down to the changes; as it turns out, though, it wasn't — when I tried it out on Arch, everything worked as it should.
 
 So that was it; that was the push I needed to set me on my way. Manjaro was always good to me, and things worked well for the most part, but I hankered for something simpler; something to call my own — I was just too lazy to sort it.&nbsp;😁 
 
