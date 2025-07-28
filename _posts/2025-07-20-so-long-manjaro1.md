@@ -1,6 +1,6 @@
 ---
 layout: post
-title: So Long Manjaro
+title: So Long, Manjaro
 categories: photography computing
 tags: Manjaro Arch RawTherapee
 ---
