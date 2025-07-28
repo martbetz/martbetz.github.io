@@ -5,7 +5,7 @@ categories: photography computing
 tags: Manjaro Arch RawTherapee
 ---
 
-I’ve used Manjaro since always, but I’ve now switched over to Arch. I’ve never been one to distro hop (even, perhaps when I should have), but my hand was pretty much forced — and, now that I’m gone, I won’t be coming back.
+Manjaro, Manjaro, Manjaro... I’ve used Manjaro since always, but I’ve now switched over to Arch. I’ve never been one to distro hop (even, perhaps when I should have), but my hand was pretty much forced — and, now that I’m gone, I won’t be coming back.
 
 I noticed something strange in RawTherapee; the results when applying my custom PP3s differed from version to version. I thought it was down to the changes; as it turns out, though, it wasn't — when I tried it out on Arch, everything worked as it should.
 
