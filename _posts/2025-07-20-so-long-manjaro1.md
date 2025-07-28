@@ -11,4 +11,4 @@ I noticed something strange in RawTherapee; the results when applying my custom 
 
 So that was it; that was the push I needed to set me on my way. Manjaro was always good to me, and things worked well for the most part, but I hankered for something simpler; something to call my own — I was just too lazy to sort it.&nbsp;😁 
 
-Now I’ve a system that’s blazing fast and works like an absolute charm — <i>we live in happier times, young Bob; we live in happier times.</i>&nbsp;😎
+Now I’ve a system that’s blazing fast and works like an absolute charm — <i>we live in happier times, young Bob; we live in happier times!</i>&nbsp;😎
