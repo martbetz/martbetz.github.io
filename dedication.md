@@ -7,7 +7,13 @@ format: default
 <h2>
 <b>
 <br>
-To a father who died<br>of a broken mind.<br><br>To a mother who died<br>of a broken heart.
+<p>
+To a father who died<br>of a broken mind.
+</p>
+  
+<p>
+To a mother who died<br>of a broken heart.
+</p>
 <br>
 &nbsp;
 </b>
