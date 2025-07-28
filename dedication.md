@@ -12,7 +12,4 @@ format: default
 <h2><b>Thank you for the world<br>&nbsp;and everything that’s in it.</b></h2>
 </p> -->
 </center>
-<br>
-<p style="margin-top: 50px;">
-  &nbsp;
-</p>
+
