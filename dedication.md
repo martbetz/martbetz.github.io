@@ -11,7 +11,7 @@ format: default
 To a father who died<br>of a broken mind.
 </p>
   
-<p>
+<p style="padding-top:10px;">
 To a mother who died<br>of a broken heart.
 </p>
 <br>
