@@ -3,6 +3,10 @@ title: Dedication
 format: default
 ---
 
+
+
+<style="width: 300px;border: solid red 2px;">
+
 <center>
 <h2>
 <b>
@@ -20,6 +24,8 @@ To a mother who died<br>of a broken heart.
 </b>
 </h2>
 </center>
+
+</style>
 
 <!-- <p>
 <h2><b>Thank you for the world<br>&nbsp;and everything that’s in it.</b></h2>
