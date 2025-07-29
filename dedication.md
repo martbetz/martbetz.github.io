@@ -11,7 +11,7 @@ format: default
 <b>
 <br>
 <p>
-  <div style="width: 600px;border: solid black 2px;"
+  <div style="width: 300px;border: solid black 2px;"
 To a father who died<br>of a broken mind.
   </div>
 </p>
