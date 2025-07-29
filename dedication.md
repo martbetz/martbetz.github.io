@@ -10,7 +10,7 @@ format: default
 <h2>
 <b>
 <br>
-  <div style="width: 300px;border: solid black 2px;">
+  <div style="padding: 10px;border: solid black 2px;">
 <p>
 To a father who died<br>of a broken mind.
 </p>
