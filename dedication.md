@@ -7,7 +7,7 @@ format: default
 
 
 <center>
-<h2 style="font-size: 36px;">
+<h2 style="font-size: 26px;">
 <b>
 <br>
   <div style="width: 280px; padding-top: 15px; padding-left: 10px; padding-right: 10px;border: solid black 2px;">
