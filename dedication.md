@@ -7,7 +7,7 @@ format: default
 
 
 <center>
-<h2>
+<h2 style="font-size: 12px;">
 <b>
 <br>
   <div style="width: 320px; padding-top: 15px; padding-left: 10px; padding-right: 10px;border: solid black 2px;">
@@ -19,7 +19,7 @@ To a father who died<br>of a broken mind.
 To a mother who died<br>of a broken heart.
 </p>
 </div>
-<p style="padding-top: 20px;">
+<p style="padding-top: 15px;">
 &nbsp;
 </p>
 </b>
