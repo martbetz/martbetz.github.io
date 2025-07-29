@@ -10,14 +10,14 @@ format: default
 <h2>
 <b>
 <br>
-<div style="width: 600px;border: solid black 2px;">
 <p>
+  <div style="width: 600px;border: solid black 2px;"
 To a father who died<br>of a broken mind.
+  </div>
 </p>
   
 <p style="padding-top:10px;">
 To a mother who died<br>of a broken heart.
-</div>
 </p>
 <p>
 &nbsp;
