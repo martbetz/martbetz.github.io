@@ -57,7 +57,7 @@ Bob’s just ‘Bob’ spelled backwards.
 
 Bob's the website mascot; he's a chimpanzee from Bristol Zoo who loves to play with cameras and sport the website colours.
 
-Bob has a habit of [chimping](https://en.m.wikipedia.org/wiki/Chimping)(of course), and he likes to photograph people&nbsp;— he says he knows who Banksy is but isn't telling a soul.
+Bob has a habit of [chimping](https://en.m.wikipedia.org/wiki/Chimping) (of course), and he likes to photograph people&nbsp;— he says he knows who Banksy is but isn't telling a soul.
 
 ### Can I meet you in person? ###
 
