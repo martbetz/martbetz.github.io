@@ -55,6 +55,10 @@ The Land of Sheep & Dragons.
 
 Bob’s just ‘Bob’ spelled backwards.
 
+Bob's the website mascott; he's a chimpanzie from Bristol Zoo who loves to play with cameras, and sport the website colours.
+
+Bob has a habit of chimping (of course), and he likes to photograph people — he says he knows who Banksy is but isn't telling a soul.
+
 ### Can I meet you in person? ###
 
 Don't be weird.
