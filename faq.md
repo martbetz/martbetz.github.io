@@ -53,7 +53,7 @@ The Land of Sheep & Dragons.
 
 ### Who’s Bob? ###
 
-[Bob](https://raw.githubusercontent.com/martbetz/martbetz.github.io/refs/heads/main/_includes/custom/avitar-square.png)’s just ‘Bob’ (spelled backwards) and the JPEG Junkie mascot; he's a chimpanzee from Bristol Zoo who loves to play with cameras and sport the website colours.
+[Bob](https://raw.githubusercontent.com/martbetz/martbetz.github.io/refs/heads/main/_includes/custom/avitar-square.png)’s the website mascot; he's a chimpanzee from Bristol Zoo who loves to play with cameras and sport the website colours. Bob's just ‘Bob’ (spelled backwards).
 
 Bob has a habit of [chimping](https://en.m.wikipedia.org/wiki/Chimping) (of course), and he likes to photograph people&nbsp;— he says he knows who Banksy is but isn't telling a soul.
 
