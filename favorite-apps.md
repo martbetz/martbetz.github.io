@@ -1,0 +1,94 @@
+--- 
+title: Favourite Apps & Projects
+layout: page 
+--- 
+
+
+<font size="4"> 
+This webpage is currently under construction (and until I get out of my rocking chair and do something useful, it’s likely to remain so&nbsp;😴). As you can tell straight away, I've not got very far with this list; I’ll get it finished soon, though (maybe 😬).¹
+</font> 
+
+<hr>
+
+<p>
+<font size="4">
+   <span style="display:block; margin-left:2em; margin-right:2em">
+      <b>Please keep in mind that this is a personal list, and I’ve included it here for general reference only; I’m neither affiliated with nor advocating any of the following projects. My comments, thoughts, and opinions are based on personal experience only; they should not be considered definitive&nbsp;— <i>so don’t go blaming me if your drive explodes, Bob!</i></b>
+   </span> 
+</font>
+</p>
+
+<hr> 
+
+<h3>
+Git
+</h3> 
+
+<a href="https://git-scm.com/">Git</a> is a free and open-source version-control system that can used for so much more than just software development — for example, I often use Git to manage such things as my RawTherapee PP3s and processing work (it's avery diverse and powerful tool.
+
+<h3> 
+Jekyll
+</h3> 
+
+
+<a href="https://jekyllrb.com/">Jekyll</a> is a free and open-source tool that's absolutely indispensable for creating static websites (such as this one, for example). GitHub Pages is actually <i>powered</i> by Jekyll (with loads of integrated plugins and fully supported documentation).
+
+<h3> 
+DNGLab
+</h3> 
+
+<a href="https://helpx.adobe.com/uk/camera-raw/using/adobe-dng-converter.html">Adobe DNG Converter</a> doesn’t work on Linux (you can try to run it in Wine, of course, but it’s far from an ideal solution). Enter <a href="https://github.com/dnglab/dnglab  ">DNGLab</a>: a camera-raw to DNG file converter that runs in the Linux command line; it’s easy to install, simple to use, and it’s free and open-source.
+
+<h3>
+Lensfun
+</h3> 
+
+Lenses aren’t perfect; chromatic aberations, geometric distortion, vignetting... all of them need correcting for in post. <a href="https://lensfun.github.io">Lensfun</a> is a free and open-source library of preset optical corrections (and with a little patience and practice, you can even create your own).
+
+<h3>
+RawTherapee
+</h3>
+
+If your looking for a competent raw processor, there’s no need to look any further. I’ve been using <a href=" https://rawtherapee.com">RawTherapee</a> since I first held a digital camera; it’s multi-platform, it’s packed with useful features, and it’s completely free and open-source (it also supports some terminal commands). 
+
+<h3>
+FEH
+</h3>
+
+When you need to check photos on the run, a bloat-free, resource-light, and lighting-quick viewer is king. This is where <a href="https://feh.finalrewind.org/">FEH</a> comes in; just set up a shortcut in your toolbar (configuration is as easy as it is extensive), and you’re good to go. FEH is both free and open-source.
+
+<h3>
+ExifTool
+</h3>
+
+I sometimes like a little privacy. 😉 <a href="https://exiftool.org">ExifTool</a> is both a Perl library and a command-line utility that, amongst other things, reads and writes to the metadata of media files (third-party GUIs are also available); it’s completely platform-independent, and it’s free and open-source.
+
+<h3>
+FFmpeg
+</h3>
+
+When it comes to multimedia files, nothing beats <a href="https://ffmpeg.org">FFmpeg</a>; from encoding and decoding to streaming and filtering, I’ve yet to find a format that isn’t fully supported. FFmpeg is a cross-platform command-line project that’s free and open-source (though a few GUIs are also available).
+
+<h3>
+PeaZip
+</h3>
+
+When it comes to archive management, nothing quite matches <a href=" https://rawtherapee.com">PeaZip</a>; it’s cross-platform, free and open-source, supports almost every format available, and has a host of jucy features that are simply unmatched in it’s field (including, not least of all, several advanced security options).
+
+<h3>
+rsync
+</h3>
+
+Backups are really important, but they’re often a bit of a faff; <a href="https://github.com/RsyncProject/rsync">rsync</a>, a free and open-source command-line tool for syncing files on the fly, takes away all of the pain (there’s also a GUI you can use should you need to). From PP3s to final edits, Rclone can sync both locally and remotely.
+
+<h3>
+Rclone
+</h3>
+
+Backups are really important, but they’re often a bit of a faff (so much so, that I had to say it twice 😉). <a href="https://rclone.org">Rclone</a> is much like rsync, but it backs up straight to the cloud (think Dropbox, for example); it’s a comand-line tool that’s free and open source (but, once again, GUIs are also available).
+
+<p style="margin-top: 30px; line-height: 1.15em;">
+   <font size="2">
+     ¹ I’m getting there, though. 😊 So far, I’ve ordered the list in relation to my workflow; this may continue or, as more stuff gets added, I might change my mind. 🤔
+   </font>
+</p>
