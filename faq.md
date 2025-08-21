@@ -53,7 +53,7 @@ The Land of Sheep & Dragons.
 
 ### Who’s Bob? ###
 
-Bob’s just ‘Bob’ spelled backwards.
+[Bob](https://raw.githubusercontent.com/martbetz/martbetz.github.io/refs/heads/main/_includes/custom/avitar-square.png)’s just ‘Bob’ spelled backwards.
 
 Bob's the website mascot; he's a chimpanzee from Bristol Zoo who loves to play with cameras and sport the website colours.
 
