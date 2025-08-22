@@ -1,5 +1,5 @@
 ---
-title: Linux (Arch) Troubleshooting
+title: Linux (Arch) Issues & Solutions 
 layout: page
 ---
 
