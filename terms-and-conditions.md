@@ -101,7 +101,7 @@ while <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">JavaScri
      <p>This website is contractually bound by the <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages">terms of GitHub Pages</a> (the website host); you (the vistor) are responsibile for reviewing these terms conjunctively.</p>
 </div>
 <div id="terms-external"> 
-    <p>External sources (including those represented by hyperlinks) are subject to seperate terms; you (the vistor) are responsibile for reviewing such terms independently.
+    <p>External sources (including those represented by hyperlinks) may be subject to seperate codes of practice and may operate (voluntarily and/or legally) according to different terms; you (the vistor) are responsibile for reviewing such terms independently.
     </p>
 </div> 
 <div> 
