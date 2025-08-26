@@ -48,7 +48,7 @@ By interacting with this website, you (the visitor) hereby subsequently acknowle
 </ul> -->
 <ul>
 <li>
-(as per the <a href="#disclaimer">General Disclaimer</a>) it is the explicit intention of the author to neither include nor promote any website content that is legally defined as harmful according to UK law (such as age-restricted material) nor any other content that may reasonably be considered imoral (such as direspectful or offensive material); however, the author does reserve the right to the freedom of speech (which includes, within context, referals to <a href="#terms-external">external sources</a>)  — please <a href="https://github.com/martbetz/martbetz.github.io/issues/new ">contact the author</a>  directly regarding any legitimate concerns
+(as per the <a href="#disclaimer">General Disclaimer</a>) it is the explicit intention of the author to neither include nor promote any website content that is legally defined as harmful according to UK law (such as age-restricted material) nor any other content that may reasonably be considered imoral (such as direspectful or offensive material); however, the author does reserve the right of free speech (which includes, within context, referals to <a href="#terms-external">external sources</a>)  — please <a href="https://github.com/martbetz/martbetz.github.io/issues/new ">contact the author</a>  directly regarding any legitimate concerns
 </li>
 </ul>
 <ul>
@@ -126,7 +126,7 @@ Opinions expressed by the author are solely representational of independent obse
 <br>
 The author provides no guarantees regarding the accuracy of the website’s content; nor does the author  accept responsibility should any misinterpretation of its content arise. -->
 </p>
-<p>It is the explicit intention of the author to neither include nor promote any website content that is legally defined as harmful according to UK law (such as age-restricted material) nor any other content that may reasonably be considered imoral (such as direspectful or offensive material); however, the author does reserve the right to the freedom of speech (which includes, within context, referals to <a href="#terms-external">external sources</a>)  — please <a href="https://github.com/martbetz/martbetz.github.io/issues/new ">contact the author</a>  directly regarding any legitimate concerns.
+<p>It is the explicit intention of the author to neither include nor promote any website content that is legally defined as harmful according to UK law (such as age-restricted material) nor any other content that may reasonably be considered imoral (such as direspectful or offensive material); however, the author does reserve the right of free speech (which includes, within context, referals to <a href="#terms-external">external sources</a>)  — please <a href="https://github.com/martbetz/martbetz.github.io/issues/new ">contact the author</a>  directly regarding any legitimate concerns.
 </p>
 <p>
 All content is reflective of style (for example, humorous and/or hyperbolic statements are exclusively intended as such; the author does not promote such statements as literal and accepts no responsibility should any misinterpretation arise).
