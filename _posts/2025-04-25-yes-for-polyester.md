@@ -19,4 +19,4 @@ Update (Apr 26, 2025): It was quite a warm day, today (not an absolute scorcher,
 
 Performance-wise, then, I was very pleased indeed&nbsp;— it even kept me cool despite the dark colour, which I thought would at least get very warm in the sun. The only downside I’ve noticed is it tends to easily snag; my cotton shirts will stand up to anything, but this thing’s an absolute wimp&nbsp;— <i>best stay away from those brambles, then, Bob!</i>
 
-So, have I been won over? Partially; I’ll certainly be getting some more. The term ‘horses for courses’ springs to mind though; they’ll be a worthwhile addition to my wardrobe, but not a direct replacement.
+So, have I been won over? Partially; I’ll certainly be getting some more. The term ‘horses for courses’ springs to mind, though; they’ll be a worthwhile addition to my wardrobe, but not a direct replacement.
