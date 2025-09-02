@@ -37,7 +37,7 @@ Yes, [but no](https://martbetz.github.io/social404.html).
 
 ### Are you on Facebook, Instagram, or X? ###
 
-No, no, and perish the thought.
+No, absolutely not, and perish the thought.
 
 ### What are your chosen pronouns? ###
 
