@@ -7,9 +7,9 @@ description: > # this means to ignore newlines until "show_excerpts:"
   
 show_excerpts: true # set to true to show excerpts on the homepage
 
-
 paginate: 3  # amount of posts to show per page
-paginate_path: /page:num/
+# paginate_path: /page:num/
+paginate_path: /086d154f76bf49d3ae51db55a1a3a58d97a55159/index.html/page:num/
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
