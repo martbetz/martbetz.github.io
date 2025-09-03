@@ -9,7 +9,7 @@ show_excerpts: true # set to true to show excerpts on the homepage
 
 
 include:
-  - /086d154f76bf49d3ae51db55a1a3a58d97a55159
+  - 086d154f76bf49d3ae51db55a1a3a58d97a55159
 
 
 paginate: 3  # amount of posts to show per page
