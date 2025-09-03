@@ -39,7 +39,7 @@ minima:
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
- - 086d154f76bf49d3ae51db55a1a3a58d97a55159/index.html
+ - /086d154f76bf49d3ae51db55a1a3a58d97a55159/index.html
  - about.html
 # - now.html
  - reference.html
