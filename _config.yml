@@ -9,7 +9,7 @@ show_excerpts: true # set to true to show excerpts on the homepage
 
 paginate: 3  # amount of posts to show per page
 # paginate_path: /page:num/
-paginate_path: /086d154f76bf49d3ae51db55a1a3a58d97a55159/page:num/ /xindex.html
+paginate_path: /086d154f76bf49d3ae51db55a1a3a58d97a55159/page:num/
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -39,7 +39,7 @@ minima:
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
- - xindex.html
+ - https://martbetz.github.io/086d154f76bf49d3ae51db55a1a3a58d97a55159/index.html
  - about.html
 # - now.html
  - reference.html
@@ -58,3 +58,4 @@ plugins:
  - jekyll-seo-tag
  - jekyll-paginate
  - jekyll-smartify
+
