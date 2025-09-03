@@ -7,23 +7,16 @@ description: > # this means to ignore newlines until "show_excerpts:"
   
 show_excerpts: true # set to true to show excerpts on the homepage
 
-
-include:
-  - 086d154f76bf49d3ae51db55a1a3a58d97a55159
-
-
 paginate: 3  # amount of posts to show per page
 # paginate_path: /page:num/
 paginate_path: /086d154f76bf49d3ae51db55a1a3a58d97a55159/page:num/
-
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
   date_format: "%a, %b %-d, %Y"
 
-
-  # generate social links in footer
+# generate social links in footer
   social_links:
 #    - { platform: devto,          user_url: "https://dev.to/jekyll" }
 #    - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
@@ -43,11 +36,9 @@ minima:
 #    - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
 #    - { platform: youtube,        user_url: "https://www.m.youtube.com/@martbetz" }
 
-
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
- - 086d154f76bf49d3ae51db55a1a3a58d97a55159/index.html
  - about.html
 # - now.html
  - reference.html
@@ -58,14 +49,11 @@ header_pages:
 # - legal.html
 # - test.html
 
-
 # Build settings
 theme: minima
-
 
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
  - jekyll-paginate
  - jekyll-smartify
-
