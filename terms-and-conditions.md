@@ -11,6 +11,9 @@ Author: <a href="https://github.com/martbetz">Mart Betz</a>
 <p>
 This website is hosted by <a href="https://pages.github.com">GitHub Pages</a>; it was built using <a href="https://jekyllrb.com">Jekyll</a> and incorporates a fork of the <a href="https://jekyll.github.io/minima/about/">Minima</a> theme. Images attributed to the author may alternatively be hosted by <!-- <s><a href="https://martbetz.github.io/social404.html">Ello</a></s> --> <a href="https://imgbox.com">imgbox</a>; images not attributed to the author may be hosted by other sites. The source code for this website is hosted by <a href="github.com">GitHub</a>.
 </p>
+<p>
+martbetz.github.io is digital-photography blog&nbsp;— an independent and personal project, solely maintained by the website author, that respects user privacy (does not employ the use of cookies) and complies with legal practice (does not promote such content restrained by UK law).
+</p>
 <hr>
 <!--
 <ol>
