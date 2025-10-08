@@ -1,40 +1,27 @@
-
+---
+layout: blank
+---
 
 <head>
 <meta name="robots" content="noindex, nofollow, noimageindex, noarchive, nocache, nosnippet">
 </head>
-
-
-
 
 <center>
         
 <p style="padding-top: 4px;">
 </p>
 
-
-
-
 <p style="line-height:1.7em;">
 <span style="font-weight: 1000; font-size: 28px;"> <b>Thanks for visiting<br>JPEG Junkie:<br>An Affliction of Addiction</b></span>
 </p>
-
-
-
 
 <p style="margin-top: 32px;">
 <img src="https://raw.githubusercontent.com/martbetz/martbetz.github.io/refs/heads/main/_includes/custom/avitar-round.png" alt="logo" width="240px" style="margin-left: 0px; margin-top: -20px; margin-bottom: -10px">
 </p>       
 
-
-
-
 <p style="margin-top: 22px; line-height:1.7em;">
 <span style="font-weight: 1000; font-size: 28px;"> to Obsessive Observation<br>and the Perfect<br>Preservation Thereof!</span>
 </p>
-
-
-
 
 <p style="margin-top: 60px;">
 <span style="font-size: 17px; line-height:1.3em;">
@@ -42,55 +29,20 @@ martbetz.github.io is a digital-photography blog&nbsp;— an independent and per
 </span>
 </p>
 
-
-
-
 <p style="margin-top: 60px; line-height:1.6em;">
 <span style="font-weight: 1000; font-size: 25px;">
 This website is currently on hiatus&nbsp;— well, fancy that!
 </span>
 </p>
 
-
 <!-- THIS IS EXPERIMENTAL - FOM HERE... -->
 
-
 <style>
-
 
 .box {
 	border-radius: 3px;
 	background: rgba(101, 101, 101, 0.7); margin: auto; padding: 12px;
 }
-
-
-.lightbox {
-	zoom: 1.5;
-	position: fixed;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 100%;
-	background: rgba(10, 10, 10, 0.8);
-	text-align: center;
-	margin: auto;n-top: 60px; line-height:1.6em;">
-<span style="font-weight: 1000; font-size: 25px;">
-This website is currently on hiatus&nbsp;— well, fancy that!
-</span>
-</p>
-
-
-<!-- THIS IS EXPERIMENTAL - FOM HERE... -->
-
-
-<style>
-
-
-.box {
-	border-radius: 3px;
-	background: rgba(101, 101, 101, 0.7); margin: auto; padding: 12px;
-}
-
 
 .lightbox {
 	zoom: 1.5;
@@ -102,3 +54,126 @@ This website is currently on hiatus&nbsp;— well, fancy that!
 	background: rgba(10, 10, 10, 0.8);
 	text-align: center;
 	margin: auto;
+
+}
+
+div.horizontal {
+	display: flex;
+	justify-content: center;
+	height: 100%;
+}
+
+div.vertical {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	width: 100%;
+}
+
+::-webkit-input-placeholder {
+   color: #955;
+   text-align: center;
+}
+
+::-moz-placeholder {
+   color: #955;
+   text-align: center;
+}
+
+:-ms-input-placeholder {
+   color: #955;
+   text-align: center;
+}
+
+</style>
+
+
+	<div id="loginbox" class="lightbox" >
+		<div class="horizontal">
+			<div class="vertical">
+				<div class="box">
+					<input style="margin: 16px; text-align: center;" id="password" type="password" placeholder="password" /> <br />
+					<button id="loginbutton" type="button">Enter</button>
+					<p id="wrongPassword" style="display: none">wrong password</p>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+
+	<script type="text/javascript" src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+
+
+	 <script type="text/javascript" src="https://rawcdn.githack.com/chrisveness/crypto/7067ee62f18c76dd4a9d372a00e647205460b62b/sha1.js"></script>
+
+	<script type="text/javascript">
+	"use strict";
+
+
+	function loadPage(pwd) {
+
+		var hash= pwd;
+		hash= Sha1.hash(pwd);
+		var url= hash + "/index.html";
+
+		$.ajax({
+			url : url,
+			dataType : "html",
+			success : function(data) {
+
+				window.location= url;
+
+			},
+			error : function(xhr, ajaxOptions, thrownError) {
+
+
+				parent.location.hash= hash;
+
+				//$("#wrongPassword").show();
+				$("#password").attr("placeholder","wrong password");
+				$("#password").val("");
+			}
+		});
+	}
+
+
+	$("#loginbutton").on("click", function() {
+		loadPage($("#password").val());
+	});
+	$("#password").keypress(function(e) {
+		if (e.which == 13) {
+
+			loadPage($("#password").val());
+		}
+	});
+	$("#password").focus();
+
+	</script>
+
+
+<!-- ... to here. -->
+
+<p style="margin-top: 60px;">
+<span style="font-size: 17px; line-height:1.3em;">
+<b>Intellectual Property Notice:</b>
+<br><br>
+Unless otherwise stated, all content is the copyright (©) of the author and may neither be redistributed (which includes by way of hotlinking) nor reproduced (which includes by way of archiving) without the author’s consent (both explicit and prior).
+<br><br>
+The title (“JPEG Junkie”), subtitle (“An Affliction of Addiction to Obsessive Observation and the Perfect Preservation Thereof!”), site logo, and favicon are the trademark (ᴛᴍ) of the author.
+</span>
+</p>
+
+</center>
+
+<p style=margin-top:70px;>
+</p>
+
+
+
+
+
+
+
+
+	

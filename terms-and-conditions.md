@@ -10,7 +10,16 @@ Author: <a href="https://github.com/martbetz">Mart Betz</a>
 </h4>
 <p>
 This website is hosted by <a href="https://pages.github.com">GitHub Pages</a>; it was built using <a href="https://jekyllrb.com">Jekyll</a> and incorporates a fork of the <a href="https://jekyll.github.io/minima/about/">Minima</a> theme. Images attributed to the author may alternatively be hosted by <!-- <s><a href="https://martbetz.github.io/social404.html">Ello</a></s> --> <a href="https://imgbox.com">imgbox</a>; images not attributed to the author may be hosted by other sites. The source code for this website is hosted by <a href="github.com">GitHub</a>.
+<hr>
 </p>
+<div id="Overview"> 
+   <h2>
+      Overview
+   </h2> 
+<p>
+martbetz.github.io is a digital-photography blog&nbsp;— an independent and personal project, solely maintained by the website author, that respects user privacy (does not employ the use of cookies) and complies with legal practice (does not promote such content restrained by UK law).
+</p>
+</div>
 <hr>
 <!--
 <ol>
@@ -48,7 +57,7 @@ By interacting with this website, you (the visitor) hereby subsequently acknowle
 </ul> -->
 <ul>
 <li>
-(as per the <a href="#disclaimer">General Disclaimer</a>) every effort is made to ensure that this website does not contain any content that may reasonably be considered as offensive, age-restricted, or otherwise morally and/or legally unacceptable; however, the author does reserve the right to use non-affiliated hyperlinks that direct to external sources  — please <a href="https://github.com/martbetz/martbetz.github.io/issues/new ">contact the author</a>  directly regarding any legitimate concerns
+(as per the <a href="#disclaimer">General Disclaimer</a>) it is the explicit intention of the author to neither include nor promote any website content that is legally defined as harmful according to UK law (such as age-restricted material) nor any other content that may reasonably be considered imoral (such as direspectful or offensive material); however, the author does reserve the right of free speech (which includes, within context, referals to <a href="#terms-external">external sources</a>)&nbsp;— please <a href="https://github.com/martbetz/martbetz.github.io/issues/new ">contact the author</a>  directly regarding any legitimate concerns
 </li>
 </ul>
 <ul>
@@ -94,14 +103,14 @@ By interacting with this website, you (the visitor) hereby subsequently acknowle
 <ul>
 <li>
 (as per the <a href="#privacy">Privacy Policy</a>) 
-while <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">JavaScript</a> is used by this website to serve an enhanced experience, it is not a critical component of the website’s core operation; it may, therefore, be disabled at the visitor’s sole discretion (browser features permitting)
+while <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">JavaScript</a> is used by this website to serve an enhanced experience, it is not a critical component of the website’s core operation (that is, with the exception of where/when password-protection has been invoked); it may, therefore, be disabled at the visitor’s sole discretion (browser features permitting)
 </li>
 </ul>
 <div id="terms-host">
      <p>This website is contractually bound by the <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages">terms of GitHub Pages</a> (the website host); you (the vistor) are responsibile for reviewing these terms conjunctively.</p>
 </div>
 <div id="terms-external"> 
-    <p>External sources (including those represented by hyperlinks) are subject to seperate terms; you (the vistor) are responsibile for reviewing such terms independently.
+    <p>External sources (including those represented by hyperlinks) may be subject to seperate codes of practice and may operate (voluntarily and/or legally) according to different terms; you (the vistor) are responsibile for reviewing such terms independently.
     </p>
 </div> 
 <div> 
@@ -126,7 +135,7 @@ Opinions expressed by the author are solely representational of independent obse
 <br>
 The author provides no guarantees regarding the accuracy of the website’s content; nor does the author  accept responsibility should any misinterpretation of its content arise. -->
 </p>
-<p>Every effort is made to ensure that this website does not contain any content that may reasonably be considered as offensive, age-restricted, or otherwise morally and/or legally unacceptable; however, the author does reserve the right to use non-affiliated hyperlinks that direct to external sources  — please <a href="https://github.com/martbetz/martbetz.github.io/issues/new ">contact the author</a>  directly regarding any legitimate concerns.
+<p>It is the explicit intention of the author to neither include nor promote any website content that is legally defined as harmful according to UK law (such as age-restricted material) nor any other content that may reasonably be considered imoral (such as direspectful or offensive material); however, the author does reserve the right of free speech (which includes, within context, referals to <a href="#terms-external">external sources</a>)&nbsp;— please <a href="https://github.com/martbetz/martbetz.github.io/issues/new ">contact the author</a>  directly regarding any legitimate concerns.
 </p>
 <p>
 All content is reflective of style (for example, humorous and/or hyperbolic statements are exclusively intended as such; the author does not promote such statements as literal and accepts no responsibility should any misinterpretation arise).
@@ -170,6 +179,6 @@ This website does not collect data directly (of any kind or in any form); howeve
 This website does not make use of cookies, and neither does any of its content; however, the author does reserve the right to use non-affiliated hyperlinks that direct to <a href="#terms-external">external sources</a>.
 </p>
 <p>
-While <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">JavaScript</a> is used by this website to serve an enhanced experience, it is not a critical component of the website’s core operation; it may, therefore, be disabled at the visitor’s sole discretion (browser features permitting).
+While <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">JavaScript</a> is used by this website to serve an enhanced experience, it is not a critical component of the website’s core operation (that is, with the exception of where/when password-protection has been invoked); it may, therefore, be disabled at the visitor’s sole discretion (browser features permitting).
    </p> 
 </div>
