@@ -1,7 +1,9 @@
+
 ---
 title: Legalities
 layout: page
 ---
+
 
 <h4>
 Website: <a href="https://github.com/martbetz/martbetz.github.io">martbetz.github.io</a>
@@ -17,20 +19,8 @@ This website is hosted by <a href="https://pages.github.com">GitHub Pages</a>; i
       Overview
    </h2> 
 <p>
-martbetz.github.io is digital-photography blog&nbsp;— an independent and personal project, solely maintained by the website author, that respects user privacy (does not employ the use of cookies) and complies with legal practice (does not promote such content restrained by UK law).
-</p>
-</div>
-<hr>
-<!--
-<ol>
-   <li>
-     <a href="#terms">Visitor Declaration</a>
-   </li> 
-   <li>
-     <a href="#disclaimer">General Disclaimer</a>
-   </li> 
-   <li>
-     <a href="#copyright">Intellectual Property Notice</a>
+martbetz.github.io is a digital-photography blog&nbsp;— an independent and personal project, solely maintained by the website author, that respects user privacy (does not employ the use of cookies) and complies with legal practice (does not promote such content restrained by UK law).
+perty Notice</a>
    </li>
    <li>
      <a href="#privacy">Privacy Policy</a>
