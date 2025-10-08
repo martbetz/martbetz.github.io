@@ -1,4 +1,3 @@
-
 ---
 title: Legalities
 layout: page
