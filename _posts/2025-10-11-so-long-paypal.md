@@ -1,6 +1,6 @@
 ---
 layout: post
-title: So Long PayPal 
+title: So Long, PayPal 
 categories: computing
 ---
 
