@@ -6,9 +6,11 @@ tags: presgrip
 ---
 
 <div>
+  <p>
   <center>
     <img style="padding-top: 0px; max-width: 300px;" src="https://user-images.githubusercontent.com/110672536/213457704-eeb368ae-b18b-4dd3-8c9f-fb1f88a232a4.png" alt="ProjectLogo">
   </center>
+  </p>
 </div>
 
 <p>
