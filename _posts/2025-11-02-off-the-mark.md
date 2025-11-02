@@ -13,7 +13,7 @@ tags: presgrip
   </p>
 </div>
 
-<p>
+<p style="padding-top: 10px;">
 A lot's going on in my personal life, so the website is still on hold. Having said this, I needed to take my mind off things for a while — so I've at least made a start at long last.
 </p>
 
