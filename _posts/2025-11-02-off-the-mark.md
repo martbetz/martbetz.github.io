@@ -2,7 +2,6 @@
 title: Off The Mark!
 format: post
 categories: projects
-tags: Presgrip
 ---
 
 <div>
