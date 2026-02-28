@@ -27,7 +27,7 @@ In May of 2025, I managed to turn my ankle while out on another ramble. I mentio
 
 Between the onset of the twitching and seeing the neurologist, I was experiencing cramps, stiffness, and fatigue in my legs; I also develiped lower back pain which slowly made walking more and more intolerable as time passed.
 
-​During my appointment with the neurologist, I had another neuro exam, ten viles of blood taken, and an NCS and EMG ordered. He didn't seem too concerned from the exam in general, but was mindful of my ankle weakness and my inability to stand on my heals.
+​I had another neuro exam, ten viles of blood taken, and an NCS and EMG ordered during my next appointment; the neurologist didn't seem too concerned from the exam in general, but was mindful of my ankle weakness and my inability to stand on my heels.
 
 In December 2025, I had both the NCS and the EMG. Not much was discussed with me, but I could sense the concern over the EMG; the NCS test was apparently normal.
 
