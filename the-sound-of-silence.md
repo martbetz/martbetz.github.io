@@ -15,6 +15,8 @@ Ok, so here's the gist of it. Around two years ago, I started to experience some
 
 For this, and a few other reasons, I'm placing this project on haitus. I may be back, or I may decide to call it a day; either way, I'll post any updates here.
 
+---
+
 UPDATE - 28/02/2026
 
 It's been a while, so I thought I'd post an update. 
