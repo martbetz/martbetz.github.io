@@ -44,25 +44,25 @@ So here I am. We could be looking at a compressed nerve in my back that's coinci
     font-family: 'Courier New', Courier, monospace;
     background-color: #1a1a1a;
     color: #00ff00;
-    padding: 20px;
-    border-radius: 12px;
+    padding: 10px;
+    border-radius: 8px;
     text-align: center;
-    width: 350px;
-    margin: 20px auto;
-    border: 4px solid #333;
-    box-shadow: 0 0 20px rgba(0,255,0,0.15);
+    width: 220px; /* Reduced width */
+    margin: 10px auto;
+    border: 2px solid #333;
+    box-shadow: 0 0 10px rgba(0,255,0,0.1);
   }
   .timer-label {
-    font-size: 0.9em;
+    font-size: 0.7em; /* Smaller label */
     color: #aaaaaa;
     text-transform: uppercase;
     letter-spacing: 1px;
-    margin-bottom: 15px;
+    margin-bottom: 5px;
     display: block;
     font-weight: bold;
   }
   .time-display {
-    font-size: 1.8em;
+    font-size: 1.2em; /* Smaller time display */
     font-weight: bold;
   }
 </style>
@@ -83,10 +83,8 @@ So here I am. We could be looking at a compressed nerve in my back that's coinci
     let months = now.getMonth() - startDate.getMonth();
     let days = now.getDate() - startDate.getDate();
 
-    // Adjust months and years if current month/day is before the start month/day
     if (days < 0) {
       months--;
-      // Get the number of days in the previous month
       const prevMonth = new Date(now.getFullYear(), now.getMonth(), 0);
       days += prevMonth.getDate();
     }
@@ -95,15 +93,12 @@ So here I am. We could be looking at a compressed nerve in my back that's coinci
       months += 12;
     }
 
-    // Display the result
     document.getElementById('timer').innerText = 
       `${years}y ${String(months).padStart(2, '0')}m ${String(days).padStart(2, '0')}d`;
   }
 
-  // Update timer once per day (since precision to the second isn't needed for Y/M/D)
   updateTimer();
-  setInterval(updateTimer, 86400000); // 86400000 ms = 24 hours
+  setInterval(updateTimer, 86400000); // 24 hours
 </script>
 
 </body>
-</html>
