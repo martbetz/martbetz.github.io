@@ -37,3 +37,57 @@ I started getting on with my life, and wasn't too worried when I attended my nex
 
 So here I am. We could be looking at a compressed nerve in my back that's coincidentally accompanied by benign fasciculations and cramps, or we could be looking at a relentless and terminal illness. Only time may truely tell — that is, presuming the axiety and stress don't finish me off regardless.
 
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  .timer-container {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #333;
+    color: #0f0;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    width: 200px;
+    margin: 20px auto;
+    font-size: 2em;
+    font-weight: bold;
+    border: 3px solid #555;
+  }
+</style>
+</head>
+<body>
+
+<div class="timer-container" id="timer">00:00:00</div>
+
+<script>
+  let seconds = 0;
+  let minutes = 0;
+  let hours = 0;
+  const display = document.getElementById('timer');
+
+  function updateTimer() {
+    seconds++;
+    if (seconds >= 60) {
+      seconds = 0;
+      minutes++;
+      if (minutes >= 60) {
+        minutes = 0;
+        hours++;
+      }
+    }
+
+    // Format with leading zeros
+    const s = String(seconds).padStart(2, '0');
+    const m = String(minutes).padStart(2, '0');
+    const h = String(hours).padStart(2, '0');
+
+    display.innerText = `${h}:${m}:${s}`;
+  }
+
+  // Update timer every second
+  setInterval(updateTimer, 1000);
+</script>
+
+</body>
+</html>
