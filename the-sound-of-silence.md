@@ -37,8 +37,7 @@ I started getting on with my life, and wasn't too worried when I attended my nex
 
 So here I am. We could be looking at a compressed nerve in my back that's coincidentally accompanied by benign fascicularions and cramps, or we could be looking at a relentless and terminal illness. Only time may truely tell — that is, presuming the axiety and stress don't finish me off regardless.
 
----
-
+<!-- <font style="color:#555555;"> -->
 <center>
 <!-- Display the countdown timer in an element -->
 <p id="demo"></p>
@@ -46,7 +45,7 @@ So here I am. We could be looking at a compressed nerve in my back that's coinci
 <script>
 
 // Set the date we're counting up from 
-var countDownDate = new Date("Jan 1, 2024 10:00:00").getTime();
+var countDownDate = new Date("Dec 14, 2024 15:00:00").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
@@ -65,7 +64,7 @@ var x = setInterval(function() {
 
 // Display the result in the element with id="demo"
   document.getElementById("demo").innerHTML = "<br />" + "<b>" + days + "&nbsp;days,&nbsp;" + hours + "&nbsp;hours, <br>"
-  + minutes + "&nbsp;minutes&nbsp;" + "and&nbsp;" + seconds + "&nbsp;seconds" + "<br />" + "since symptoms began" + "<br /><br />" + "🤔  😲  😣 " + "<br /><br />" + "" + "</b>";
+  + minutes + "&nbsp;minutes&nbsp;" + "and&nbsp;" + seconds + "&nbsp;seconds" + "<br />" + "since utter disaster!" + "<br /><br />" + "😊😐🤨😲😣😩😟😞🤔" + "<br /><br />" + "To be continued." + "</b>";
   
   // If the count down is finished, write some text 
   if (days > 365) {
@@ -76,3 +75,4 @@ var x = setInterval(function() {
 </script>
 
 </center>
+<!-- </font> -->
