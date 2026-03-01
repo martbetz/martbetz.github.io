@@ -36,3 +36,43 @@ The neurologist wrote to my GP with a diagnosis of Benign Cramp Fasciculation Sy
 I started getting on with my life, and wasn't too worried when I attended my next neurology appointment in February 2026. I had another neuro exam, more blood taken, and an MRI booked in (which I'll be having next week). It was then that the neurologist explained to me that my EMG was showing some red flags — based on these results, and combined with my other symptoms, MND would usually weigh in as a very serious contender; however, he didn't believe it was MND in my case as several things (such as the relative length of time involved) just didn't quite fit. 
 
 So here I am. We could be looking at a compressed nerve in my back that's coincidentally accompanied by benign fascicularions and cramps, or we could be looking at a relentless and terminal illness. Only time may truely tell — that is, presuming the axiety and stress don't finish me off regardless.
+
+---
+
+<center>
+<!-- Display the countdown timer in an element -->
+<p id="demo"></p>
+  
+<script>
+
+// Set the date we're counting up from 
+var countDownDate = new Date("Jan 1, 2024 10:00:00").getTime();
+
+// Update the count down every 1 second
+var x = setInterval(function() {
+
+  // Get today's date and time
+  var now = new Date().getTime();
+
+  // Find the distance between now and the count from date
+  var distance = now - countDownDate;
+
+  // Time calculations for days, hours, minutes and seconds
+  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+// Display the result in the element with id="demo"
+  document.getElementById("demo").innerHTML = "<br />" + "<b>" + days + "&nbsp;days,&nbsp;" + hours + "&nbsp;hours, <br>"
+  + minutes + "&nbsp;minutes&nbsp;" + "and&nbsp;" + seconds + "&nbsp;seconds" + "<br />" + "since symptoms began" + "<br /><br />" + "🤔  😲  😣 " + "<br /><br />" + "" + "</b>";
+  
+  // If the count down is finished, write some text 
+  if (days > 365) {
+    clearInterval(x);
+    document.getElementById("demo").innerHTML = "";
+  }
+}, 1000);
+</script>
+
+</center>
