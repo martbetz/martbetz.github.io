@@ -33,7 +33,7 @@ In **December 2025**, I had both the NCS and the EMG. Not much was discussed wit
 
 The neurologist wrote to my GP with a diagnosis of Benign Cramp Fasciculation Syndrome in February 2025 — this was a huge relief for me as, for the best part of two years, I was fearing a diagnosis of motor neuron disease.
 
-I started getting on with my life, and wasn't too worried when I attended my next neurology appointment in February 2026. I had another neuro exam, more blood taken, and an MRI booked in (which I'll be having next week). It was then that the neurologist explained to me that my EMG was showing some red flags — based on these results, and combined with my other symptoms, MND would usually weigh in as a very serious contender; however, he didn't believe it was MND in my case as several things (such as the relative length of time involved) just didn't quite fit. 
+I started getting on with my life, and wasn't too worried when I attended my next neurology appointment in **February 2026**. I had another neuro exam, more blood taken, and an MRI booked in (which I'll be having next week). It was then that the neurologist explained to me that my EMG was showing some red flags — based on these results, and combined with my other symptoms, MND would usually weigh in as a very serious contender; however, he didn't believe it was MND in my case as several things (such as the relative length of time involved) just didn't quite fit. 
 
 So here I am. We could be looking at a compressed nerve in my back that's coincidentally accompanied by benign fasciculations and cramps, or we could be looking at a relentless and terminal illness. Only time may truely tell — that is, presuming the axiety and stress don't finish me off regardless.
 
