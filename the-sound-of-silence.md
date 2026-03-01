@@ -69,6 +69,7 @@ So here I am. We could be looking at a compressed nerve in my back that's coinci
 </head>
 <body>
 
+<br><br>
 <div class="timer-container">
   <span class="timer-label">SINCE SYMPTOMS BEGAN</span>
   <div class="time-display" id="timer">Loading...</div>
