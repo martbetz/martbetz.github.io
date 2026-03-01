@@ -37,55 +37,69 @@ I started getting on with my life, and wasn't too worried when I attended my nex
 
 So here I am. We could be looking at a compressed nerve in my back that's coincidentally accompanied by benign fasciculations and cramps, or we could be looking at a relentless and terminal illness. Only time may truely tell — that is, presuming the axiety and stress don't finish me off regardless.
 
-<!DOCTYPE html>
 <html>
 <head>
 <style>
   .timer-container {
     font-family: 'Courier New', Courier, monospace;
-    background-color: #333;
+    background-color: #222;
     color: #0f0;
     padding: 20px;
     border-radius: 10px;
     text-align: center;
-    width: 200px;
+    width: 300px;
     margin: 20px auto;
-    font-size: 2em;
+    font-size: 1.5em;
     font-weight: bold;
-    border: 3px solid #555;
+    border: 3px solid #444;
+    box-shadow: 0 0 15px rgba(0,255,0,0.2);
+  }
+  .timer-label {
+    font-size: 0.5em;
+    color: #aaa;
+    display: block;
+    margin-bottom: 10px;
   }
 </style>
 </head>
 <body>
 
-<div class="timer-container" id="timer">00:00:00</div>
+<div class="timer-container">
+  <span class="timer-label">SINCE FIRT SIMPTOMS BEGAN</span>
+  <div id="timer">00d 00h 00m 00s</div>
+</div>
 
 <script>
-  let seconds = 0;
-  let minutes = 0;
-  let hours = 0;
+  // Set the target date and time (Month Day, Year Hour:Minute:Second)
+  const targetDate = new Date("Jan 1, 2024 10:00:00").getTime();
+
   const display = document.getElementById('timer');
 
   function updateTimer() {
-    seconds++;
-    if (seconds >= 60) {
-      seconds = 0;
-      minutes++;
-      if (minutes >= 60) {
-        minutes = 0;
-        hours++;
-      }
-    }
+    // Get current date and time
+    const now = new Date().getTime();
+
+    // Find the distance between now and the target date
+    const distance = now - targetDate;
+
+    // Time calculations for days, hours, minutes and seconds
+    const days = Math.floor(distance / (1000 * 60 * 60 * 24));
+    const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+    const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+    const seconds = Math.floor((distance % (1000 * 60)) / 1000);
 
     // Format with leading zeros
-    const s = String(seconds).padStart(2, '0');
-    const m = String(minutes).padStart(2, '0');
+    const d = String(days).padStart(2, '0');
     const h = String(hours).padStart(2, '0');
+    const m = String(minutes).padStart(2, '0');
+    const s = String(seconds).padStart(2, '0');
 
-    display.innerText = `${h}:${m}:${s}`;
+    // Display the result
+    display.innerText = `${d}d ${h}h ${m}m ${s}s`;
   }
 
   // Update timer every second
+  updateTimer(); // run immediately
   setInterval(updateTimer, 1000);
 </script>
 
