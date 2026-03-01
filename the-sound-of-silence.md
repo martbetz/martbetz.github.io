@@ -42,65 +42,67 @@ So here I am. We could be looking at a compressed nerve in my back that's coinci
 <style>
   .timer-container {
     font-family: 'Courier New', Courier, monospace;
-    background-color: #222;
-    color: #0f0;
+    background-color: #1a1a1a;
+    color: #00ff00;
     padding: 20px;
-    border-radius: 10px;
+    border-radius: 12px;
     text-align: center;
-    width: 300px;
+    width: 350px;
     margin: 20px auto;
-    font-size: 1.5em;
-    font-weight: bold;
-    border: 3px solid #444;
-    box-shadow: 0 0 15px rgba(0,255,0,0.2);
+    border: 4px solid #333;
+    box-shadow: 0 0 20px rgba(0,255,0,0.15);
   }
   .timer-label {
-    font-size: 0.5em;
-    color: #aaa;
+    font-size: 0.9em;
+    color: #aaaaaa;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 15px;
     display: block;
-    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  .time-display {
+    font-size: 1.8em;
+    font-weight: bold;
   }
 </style>
 </head>
 <body>
 
 <div class="timer-container">
-  <span class="timer-label">SINCE FIRT SIMPTOMS BEGAN</span>
-  <div id="timer">00d 00h 00m 00s</div>
+  <span class="timer-label">SINCE SYMPTOMS BEGAN</span>
+  <div class="time-display" id="timer">Loading...</div>
 </div>
 
 <script>
-  // Set the target date and time (Month Day, Year Hour:Minute:Second)
-  const targetDate = new Date("Jan 1, 2024 10:00:00").getTime();
-
-  const display = document.getElementById('timer');
-
   function updateTimer() {
-    // Get current date and time
-    const now = new Date().getTime();
+    const startDate = new Date("Jan 1, 2024 10:00:00");
+    const now = new Date();
 
-    // Find the distance between now and the target date
-    const distance = now - targetDate;
+    let years = now.getFullYear() - startDate.getFullYear();
+    let months = now.getMonth() - startDate.getMonth();
+    let days = now.getDate() - startDate.getDate();
 
-    // Time calculations for days, hours, minutes and seconds
-    const days = Math.floor(distance / (1000 * 60 * 60 * 24));
-    const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-    const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-    const seconds = Math.floor((distance % (1000 * 60)) / 1000);
-
-    // Format with leading zeros
-    const d = String(days).padStart(2, '0');
-    const h = String(hours).padStart(2, '0');
-    const m = String(minutes).padStart(2, '0');
-    const s = String(seconds).padStart(2, '0');
+    // Adjust months and years if current month/day is before the start month/day
+    if (days < 0) {
+      months--;
+      // Get the number of days in the previous month
+      const prevMonth = new Date(now.getFullYear(), now.getMonth(), 0);
+      days += prevMonth.getDate();
+    }
+    if (months < 0) {
+      years--;
+      months += 12;
+    }
 
     // Display the result
-    display.innerText = `${d}d ${h}h ${m}m ${s}s`;
+    document.getElementById('timer').innerText = 
+      `${years}y ${String(months).padStart(2, '0')}m ${String(days).padStart(2, '0')}d`;
   }
 
-  // Update timer every second
-  updateTimer(); // run immediately
-  setInterval(updateTimer, 1000);
+  // Update timer once per day (since precision to the second isn't needed for Y/M/D)
+  updateTimer();
+  setInterval(updateTimer, 86400000); // 86400000 ms = 24 hours
 </script>
 
 </body>
