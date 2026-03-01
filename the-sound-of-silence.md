@@ -21,7 +21,7 @@ UPDATE - 28/02/2026
 
 It's been a while, so I thought I'd post an update. 
 
-Back in **January 20224**, I developed very pronounced and very 'coarse' fasciculations which presented in both legs (thighs, calves and feet); they seemed to appear spontaneously after a particularly challenging ramble. I went to my GP in June of 2024 who gave me a full neuro exam (which I 'passed') but refered me to a neurologist for further investigation.
+Back in **January 2024**, I developed very pronounced and very 'coarse' fasciculations which presented in both legs (thighs, calves and feet); they seemed to appear spontaneously after a particularly challenging ramble. I went to my GP in June of 2024 who gave me a full neuro exam (which I 'passed') but refered me to a neurologist for further investigation.
 
 In **May 2025**, I managed to turn my ankle while out on another ramble. I mention this here as by the time I saw the neurologist, in **October 2025**, I was also presenting with partial foot-drop (which the ankle injury may or may not have contributed to).
 
