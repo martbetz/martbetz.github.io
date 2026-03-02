@@ -69,7 +69,7 @@ So here I am. We could be looking at a compressed nerve in my back that's coinci
 
 <script>
   function updateTimer() {
-    const startDate = new Date("Jan 1, 2024 10:00:00");
+    const startDate = new Date("Jan 14, 2024 10:00:00");
     const now = new Date();
 
     let years = now.getFullYear() - startDate.getFullYear();
