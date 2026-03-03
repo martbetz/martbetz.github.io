@@ -97,5 +97,5 @@ So here I am. We could be looking at a compressed nerve in my back that's coinci
 </body>
 
 <center>
-  <a href="https://discuss.pixls.us/t/my-health-journey/56381/25">My Health Journey</a>
+  <a href="https://discuss.pixls.us/t/my-health-journey/">My Health Journey</a>
 </center>
