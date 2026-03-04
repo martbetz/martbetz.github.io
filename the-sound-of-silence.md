@@ -140,6 +140,11 @@ So here I am. We could be looking at a compressed nerve in my back that's coinci
   <div class="time-display" id="timer2">Loading...</div>
 </div>
 
+<div class="timer-container">
+  <span class="timer-label">SINCE INTIAL NEUROLOGY APPOINTMENT</span>
+  <div class="time-display" id="timer3">Loading...</div>
+</div>
+
 <script>
   function calculateTimeDifference(startDateStr, elementId) {
     const startDate = new Date(startDateStr);
@@ -167,6 +172,7 @@ So here I am. We could be looking at a compressed nerve in my back that's coinci
     // You can change the dates and labels here
     calculateTimeDifference("Jan 14, 2024 10:00:00", "timer1");
     calculateTimeDifference("June 21, 2024 10:00:00", "timer2");
+    calculateTimeDifference("Oct 24, 2025 10:00:00", "timer3");
   }
 
   // Initial call
