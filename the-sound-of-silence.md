@@ -96,6 +96,73 @@ So here I am. We could be looking at a compressed nerve in my back that's coinci
 
 </body>
 
+<html>
+<head>
+<style>
+  .timer-container {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #1a1a1a;
+    color: #00ff00;
+    padding: 10px;
+    border-radius: 8px;
+    text-align: center;
+    width: 220px; /* Reduced width */
+    margin: 10px auto;
+    border: 2px solid #333;
+    box-shadow: 0 0 10px rgba(0,255,0,0.1);
+  }
+  .timer-label {
+    font-size: 0.7em; /* Smaller label */
+    color: #aaaaaa;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 5px;
+    display: block;
+    font-weight: bold;
+  }
+  .time-display {
+    font-size: 1.2em; /* Smaller time display */
+    font-weight: bold;
+  }
+</style>
+</head>
+<body>
+
+<br>
+<div class="timer-container">
+  <span class="timer-label">SINCE INTIAL SYMPTOMS BEGAN</span>
+  <div class="time-display" id="timer">Loading...</div>
+</div>
+
+<script>
+  function updateTimer() {
+    const startDate = new Date("Jan 14, 2024 10:00:00");
+    const now = new Date();
+
+    let years = now.getFullYear() - startDate.getFullYear();
+    let months = now.getMonth() - startDate.getMonth();
+    let days = now.getDate() - startDate.getDate();
+
+    if (days < 0) {
+      months--;
+      const prevMonth = new Date(now.getFullYear(), now.getMonth(), 0);
+      days += prevMonth.getDate();
+    }
+    if (months < 0) {
+      years--;
+      months += 12;
+    }
+
+    document.getElementById('timer').innerText = 
+      `${years}y ${String(months).padStart(2, '0')}m ${String(days).padStart(2, '0')}d`;
+  }
+
+  updateTimer();
+  setInterval(updateTimer, 86400000); // 24 hours
+</script>
+
+</body>
+
 <center>
   <a href="https://discuss.pixls.us/t/my-health-journey/">My Health Journey</a>
 </center>
