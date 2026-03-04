@@ -130,13 +130,13 @@ So here I am. We could be looking at a compressed nerve in my back that's coinci
 
 <br>
 <div class="timer-container">
-  <span class="timer-label">SINCE INTIAL SYMPTOMS BEGAN</span>
+  <span class="timer-label">SINCE INTIAL GP APPOINTMENT</span>
   <div class="time-display" id="timer">Loading...</div>
 </div>
 
 <script>
   function updateTimer() {
-    const startDate = new Date("Jan 14, 2024 10:00:00");
+    const startDate = new Date("Jun 21, 2024 10:00:00");
     const now = new Date();
 
     let years = now.getFullYear() - startDate.getFullYear();
