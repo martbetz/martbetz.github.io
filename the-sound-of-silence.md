@@ -29,7 +29,7 @@ I started getting on with my life, and wasn't too worried when I attended my nex
 
 So here I am. We could be looking at a compressed nerve in my back that's coincidentally accompanied by benign fasciculations and cramps, or we could be looking at a relentless and terminal illness; only time may truely tell&nbsp;— that is, presuming the axiety and stress don't finish me off regardless.
 
-<html>
+<!-- <html>
 <head>
 <style>
   .timer-container {
@@ -94,7 +94,7 @@ So here I am. We could be looking at a compressed nerve in my back that's coinci
   setInterval(updateTimer, 86400000); // 24 hours
 </script>
 
-</body>
+</body> -->
 
 <html>
 <head>
@@ -106,13 +106,13 @@ So here I am. We could be looking at a compressed nerve in my back that's coinci
     padding: 10px;
     border-radius: 8px;
     text-align: center;
-    width: 220px; /* Reduced width */
+    width: 220px;
     margin: 10px auto;
     border: 2px solid #333;
     box-shadow: 0 0 10px rgba(0,255,0,0.1);
   }
   .timer-label {
-    font-size: 0.7em; /* Smaller label */
+    font-size: 0.7em;
     color: #aaaaaa;
     text-transform: uppercase;
     letter-spacing: 1px;
@@ -121,7 +121,7 @@ So here I am. We could be looking at a compressed nerve in my back that's coinci
     font-weight: bold;
   }
   .time-display {
-    font-size: 1.2em; /* Smaller time display */
+    font-size: 1.2em;
     font-weight: bold;
   }
 </style>
@@ -129,14 +129,20 @@ So here I am. We could be looking at a compressed nerve in my back that's coinci
 <body>
 
 <br>
+
+<div class="timer-container">
+  <span class="timer-label">SINCE INITIAL SYMPTOMS BEGAN</span>
+  <div class="time-display" id="timer1">Loading...</div>
+</div>
+
 <div class="timer-container">
   <span class="timer-label">SINCE INTIAL GP APPOINTMENT</span>
-  <div class="time-display" id="timer">Loading...</div>
+  <div class="time-display" id="timer2">Loading...</div>
 </div>
 
 <script>
-  function updateTimer() {
-    const startDate = new Date("Jun 21, 2024 10:00:00");
+  function calculateTimeDifference(startDateStr, elementId) {
+    const startDate = new Date(startDateStr);
     const now = new Date();
 
     let years = now.getFullYear() - startDate.getFullYear();
@@ -153,15 +159,26 @@ So here I am. We could be looking at a compressed nerve in my back that's coinci
       months += 12;
     }
 
-    document.getElementById('timer').innerText = 
-      `${years}y ${String(months).padStart(2, '0')}m ${String(days).padStart(2, '0')}d`;
+    const timeString = `${years}y ${String(months).padStart(2, '0')}m ${String(days).padStart(2, '0')}d`;
+    document.getElementById(elementId).innerText = timeString;
   }
 
-  updateTimer();
-  setInterval(updateTimer, 86400000); // 24 hours
+  function updateAllTimers() {
+    // You can change the dates and labels here
+    calculateTimeDifference("Jan 14, 2024 10:00:00", "timer1");
+    calculateTimeDifference("June 21, 2024 10:00:00", "timer2");
+  }
+
+  // Initial call
+  updateAllTimers();
+  
+  // Refresh every 24 hours
+  setInterval(updateAllTimers, 86400000); 
 </script>
 
 </body>
+</html>
+
 
 <center>
   <a href="https://discuss.pixls.us/t/my-health-journey/">My Health Journey</a>
