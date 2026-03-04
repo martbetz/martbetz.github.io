@@ -94,8 +94,6 @@ So here I am. We could be looking at a compressed nerve in my back that's coinci
   setInterval(updateTimer, 86400000); // 24 hours
 </script>
 
-</body>
-
 <script>
   function updateTimer() {
     const startDate = new Date("Jun 31, 2024 10:00:00");
