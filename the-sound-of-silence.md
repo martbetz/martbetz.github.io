@@ -63,13 +63,42 @@ So here I am. We could be looking at a compressed nerve in my back that's coinci
 
 <br>
 <div class="timer-container">
-  <span class="timer-label">SINCE SYMPTOMS BEGAN</span>
+  <span class="timer-label">SINCE INTIAL GP APPOINTMENT</span>
   <div class="time-display" id="timer">Loading...</div>
 </div>
 
 <script>
   function updateTimer() {
     const startDate = new Date("Jan 14, 2024 10:00:00");
+    const now = new Date();
+
+    let years = now.getFullYear() - startDate.getFullYear();
+    let months = now.getMonth() - startDate.getMonth();
+    let days = now.getDate() - startDate.getDate();
+
+    if (days < 0) {
+      months--;
+      const prevMonth = new Date(now.getFullYear(), now.getMonth(), 0);
+      days += prevMonth.getDate();
+    }
+    if (months < 0) {
+      years--;
+      months += 12;
+    }
+
+    document.getElementById('timer').innerText = 
+      `${years}y ${String(months).padStart(2, '0')}m ${String(days).padStart(2, '0')}d`;
+  }
+
+  updateTimer();
+  setInterval(updateTimer, 86400000); // 24 hours
+</script>
+
+</body>
+
+<script>
+  function updateTimer() {
+    const startDate = new Date("Jun 31, 2024 10:00:00");
     const now = new Date();
 
     let years = now.getFullYear() - startDate.getFullYear();
