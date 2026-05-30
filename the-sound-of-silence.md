@@ -35,10 +35,6 @@ I won't go into what the referal letter said to the surgeon except to say it sca
 
 As of **right now**, I've completed both my pre-op and pre-clerking and am awaiting a surgery date. While my symptoms have pretty much remained stable in and of themselves, the amount of walking I can do before I get nerve pain and loss of strenth has shrunk down to a few hundred paces. I tried to go for a short stroll down the road and back five days ago, and ended up taking a fall&nbsp;— and if I fall, getting back up again is a monumental task. I have no idea if the surgery will help at all, if my thoratic issues really *are* something that'll come back to haunt me, or even if there's still something else that's going on in the background. I have, however, been refered by my GP for mental crisis support. As soon as I have more news, I'll get this pin updated. 
 
-
-
-So here I am. We could be looking at a compressed nerve in my back that's coincidentally accompanied by benign fasciculations and cramps, or we could be looking at a relentless and terminal illness; only time may truely tell&nbsp;— that is, presuming the axiety and stress don't finish me off regardless.
-
 <!-- <html>
 <head>
 <style>
