@@ -7,6 +7,10 @@ layout: page
 
 Welcome to my playground!
 
+### When was this website launched? ###
+
+It's been online since Wednesday, December 21, 2022
+
 ### Can I buy your photos? ###
 
 Nothing found here is for sale.
