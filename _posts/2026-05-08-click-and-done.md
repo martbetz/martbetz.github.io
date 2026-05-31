@@ -21,7 +21,7 @@ The following code converts both still images (including .tiff) and animations (
 ```
 [Desktop Entry]
 Type=Action
-Name=Convert to JPEG XL (cjxl)
+Name=Convert to jxl
 Icon=image-jpeg
 Profiles=profile-zero;
 
