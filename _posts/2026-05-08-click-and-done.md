@@ -9,14 +9,14 @@ I really do like a simple life, and I just wanted to have an easy way of convert
 In my case, I'm running LX-qt on Arch (which means the menu entries are handled by PCManFM-qt, the lifting is done by cjxl and ffmpeg, and the output is displayed in Qterminal).
 
 
-Fitstly, I created the custom sction file as follows:
+Firstly, I created the custom action file as follows:
 
 ```
 mkdir -p ~/.local/share/file-manager/actions && \
 cat << 'EOF' > ~/.local/share/file-manager/actions/conv-to-jxl.desktop
 ```
 
-Then I added the following code to convert both still images (including .tiff) and animations (including  .apng) to JPEG XL:
+Then I added the following code to convert both still images (including .tiff) and animations (including .apng) to .jxl:
 
 ```
 [Desktop Entry]
