@@ -4,7 +4,7 @@ layout: post
 categories: computing photography
 ---
 
-I really do like a simple life, and I just wanted to have an easy way of converting a single image to JPEG XL right from the desktop without having to load up an image editor or resort batch processing. So, I created one.
+I really do like a simple life, and I just wanted to have an easy way of converting a single image to JPEG XL right from the desktop without having to load up an image editor or resort batch processing&nbsp;— so I created one.
 
 In my case, I'm running LX-qt on Arch (which means the menu entries are handled by PCManFM-qt, the lifting is done by cjxl and ffmpeg, and the output is displayed in Qterminal).
 
