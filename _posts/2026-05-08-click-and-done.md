@@ -9,14 +9,14 @@ I really do like a simple life, and I just wanted to have an easy way of convert
 In my case, I'm running LX-qt on Arch (which means the menu entries are handled by PCManFM-qt, the lifting is done by cjxl and ffmpeg, and the output is displayed in Qterminal).
 
 
-All custom action files for PCManFM-qt need to be stored in `/.local/share/file-manager/actions`, so I created mine as follows:
+Fitstly, I created the custom sction file as follows:
 
 ```
 mkdir -p ~/.local/share/file-manager/actions && \
 cat << 'EOF' > ~/.local/share/file-manager/actions/conv-to-jxl.desktop
 ```
 
-The following code converts both still images (including .tiff) and animations (including  .apng) to JPEG XL:
+Then I added the following code to convert both still images (including .tiff) and animations (including  .apng) to JPEG XL:
 
 ```
 [Desktop Entry]
@@ -31,7 +31,6 @@ Exec=qterminal -e bash -c 'for f in "$@"; do filename=$(basename "$f"); filename
 Name=Default profile
 
 ```
-Then it's just a case of making the file executable and rebooting.
 
 Given the logistics of my current health journey, I needed something to pass the time; as such, I 've created a few more right-click wonders (see if you can guess what each of them does): 
 
