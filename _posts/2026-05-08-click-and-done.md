@@ -11,9 +11,10 @@ In my case, I'm running LX-qt on Arch (which means the menu entries are handled 
 
 All custom action files for PCManFM-qt need to be stored in `/.local/share/file-manager/actions`, so I created mine as follows:
 
-`mkdir -p ~/.local/share/file-manager/actions && \
-cat << 'EOF' > ~/.local/share/file-manager/actions/conv-to-jxl.desktop`
-
+```
+mkdir -p ~/.local/share/file-manager/actions && \
+cat << 'EOF' > ~/.local/share/file-manager/actions/conv-to-jxl.desktop
+```
 
 The following code converts both still images (including .tiff) and animations (including  .apng) to JPEG XL:
 
