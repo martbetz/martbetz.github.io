@@ -32,7 +32,7 @@ Name=Default profile
 
 ```
 
-Given the logistics of my current health journey, I needed something to pass the time; as such, I've created a few more right-click wonders (see if you can guess what each of them does): 
+Given the logistics of my current health journey, I needed something to pass the time; as such, I've created a few more right-click wonders (see if you can guess what each of them does&nbsp;😉): 
 
 - calc-sha.desktop
 - view-exif.desktop
