@@ -19,7 +19,7 @@ layout: page
 <font size="4">
 <div align="left">
 
-<p style="margin-top: -25px;">
+<p style="margin-top: -15px;">
 Here's a list of my custom 'right-click' desktop actions that I use with Qterminal and PCManFM-qt as part of the LXqt desktop (I've also included links to any required dependancies). All `.desktop` files should be copied to the following location:
 
 `/.local/share/file-manager/actions`
