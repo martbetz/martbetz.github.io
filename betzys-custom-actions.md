@@ -58,7 +58,7 @@ Copies the full path of a selected file to the clipboard&nbsp;— an insanely us
 ### edit_as_root.desktop ###
 Enables a specific file to be edited as Root&nbsp;— a much simpler way to quickly edit files as Root without having to jump into the terminal.
 
-[sudo]
+[sudo](https://github.com/sudo-project/sudo?hl=en-GB)
 
 <br>
 
