@@ -31,6 +31,8 @@ Here's a list of my custom 'right-click' desktop actions that I use with Qtermin
 
 ---
 
+<br>
+
 ### calc_sha.desktop ###
 calculates the SHA checksum of a selected file and displays the result in the terminal
 
