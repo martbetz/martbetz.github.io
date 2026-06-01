@@ -47,14 +47,14 @@ Converts a selected still or animated image to JPEG XL (.jpx) format&nbsp;— ve
 <br>
 
 ### copy_path.desktop ###
-Copies the full path of a selected file to the clipboard&nbsp;— insanely useful for copying the full path of any file or directory straight to the clipboard.
+Copies the full path of a selected file to the clipboard&nbsp;— an insanely useful solution that pretty much speaks for itself.
 
 [xclip](https://github.com/astrand/xclip)
 
 <br>
 
 ### view_exif.desktop ###
-Displays the exif data of a selected image in the terminal&nbsp;— a quick and light way to view the full EXIF data of any image file.
+Displays the exif data of a selected image in the terminal&nbsp;— a quick and light way to view the full EXIF data of any image file right there and then.
 
 [ExifTool](https://github.com/exiftool/exiftool)
 
