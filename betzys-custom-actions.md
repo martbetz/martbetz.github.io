@@ -3,10 +3,16 @@ title: Betzy's Custom Actions
 layout: page
 ---
 
-https://github.com/martbetz/martbetz.github.io/blob/main/_includes/custom/Dt.png?raw=tru
+<div>
+  <p>
+  <center>
+    <img style="padding-top: 0px; width:600px;" src="https://raw.githubusercontent.com/martbetz/martbetz.github.io/refs/heads/main/_includes/custom/Dt.png" alt="meunu">
+  </center>
+  </p>
+</div>
 
-
-<img src="https://github.com/martbetz/martbetz.github.io/blob/main/_includes/custom/Dt.png?raw=true" alt="Centred Image" class="center-block"  style="max-width: 300px; width: 100%; height: auto; margin-left: auto; margin-right: auto">
+<!--
+<img src="https://github.com/martbetz/martbetz.github.io/blob/main/_includes/custom/Dt.png?raw=true" alt="Centred Image" class="center-block"  style="max-width: 300px; width: 100%; height: auto; margin-left: auto; margin-right: auto"> -->
 
 Here's a list of my custom 'right-click' desktop actions that I use with Qterminal and PCManFM-qt as part of the LXqt desktop (I've also included links to any required dependancies). All `.desktop` files should be copied to the following location:
 
