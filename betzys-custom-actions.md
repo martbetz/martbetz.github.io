@@ -11,6 +11,8 @@ layout: page
   </p>
 </div>
 
+<br>
+
 <!--
 <img src="https://github.com/martbetz/martbetz.github.io/blob/main/_includes/custom/Dt.png?raw=true" alt="Centred Image" class="center-block"  style="max-width: 300px; width: 100%; height: auto; margin-left: auto; margin-right: auto"> -->
 
