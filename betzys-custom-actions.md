@@ -63,7 +63,7 @@ Enables a specific file to be edited as Root&nbsp;— a much simpler way to quic
 <br>
 
 ### view_exif.desktop ###
-Displays the exif data of a selected image in the terminal&nbsp;— a quick and light way to view the full EXIF data of any image file right there and then (works great alongside a lightweight image viewer such as [FEH](https://github.com/derf/feh)).
+Displays the exif data of a selected image in the terminal&nbsp;— a quick and light way to view the full EXIF data of any image file right there and then (works great along side a lightweight image viewer such as [FEH](https://github.com/derf/feh)).
 
 [ExifTool](https://github.com/exiftool/exiftool)
 
