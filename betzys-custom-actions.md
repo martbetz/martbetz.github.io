@@ -1,5 +1,5 @@
 ---
-title: Betzy's Custom Actions
+title: Betzy's Actions
 layout: page
 ---
 
