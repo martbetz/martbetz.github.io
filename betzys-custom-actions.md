@@ -37,7 +37,7 @@ Here's a list of my custom 'right-click' desktop actions that I use with Qtermin
 ### calc_sha.desktop ###
 Calculates the SHA checksum of a selected file and displays the result in the terminal&nbsp;— a simple and convenient way to quickly validate or share the checksum of any downloaded/uploaded file.
 
-[coreutils](https://www.gnu.org/software/coreutils/)
+[coreutils (sha256sum)](https://www.gnu.org/software/coreutils/)
 
 <br>
 
