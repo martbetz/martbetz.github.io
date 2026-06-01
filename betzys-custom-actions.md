@@ -1,6 +1,6 @@
 ---
 title: Betzy's Custom Actions
-layoit: page
+layout: page
 ---
 
 
@@ -35,8 +35,6 @@ copies the full path of a selected file to the clipboard
 displays the exif data of a selected image in the terminal
 
 [ExifTool](https://github.com/exiftool/exiftool)
-
----
 
 <p style="padding-top: 10px;">
 <a class="github-button" href="https://github.com/martbetz/The-Promura-Project   " data-size="large" aria-label="View Repo">Download Archive</a>
