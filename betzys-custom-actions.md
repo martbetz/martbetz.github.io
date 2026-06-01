@@ -36,21 +36,21 @@ Here's a list of my custom 'right-click' desktop actions that I use with Qtermin
 ### calc_sha.desktop ###
 calculates the SHA checksum of a selected file and displays the result in the terminal
 
----
+<br>
 
 ### conv_to_jxl.desktop ###
 converts a selected still or animated image to JPEG XL (.jpx) format 
 
 [libjxl (cjxl)](https://github.com/libjxl/libjxl); [FFmpeg](https://github.com/FFmpeg/FFmpeg)
 
----
+<br>
 
 ### copy_path.desktop ###
 copies the full path of a selected file to the clipboard
 
 [xclip](https://github.com/astrand/xclip)
 
----
+<br>
 
 ### view_exif.desktop ###
 displays the exif data of a selected image in the terminal
