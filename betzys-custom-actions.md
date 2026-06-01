@@ -60,7 +60,7 @@ displays the exif data of a selected image in the terminal
 
 <br>
 
-<p style="padding-top: 10px;">
+<p style="padding-top: 30px;">
 <a class="github-button" href="https://github.com/martbetz/The-Promura-Project   " data-size="large" aria-label="View Repo">Download Archive</a>
 </p>
 
