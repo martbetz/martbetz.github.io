@@ -35,26 +35,26 @@ Here's a list of my custom 'right-click' desktop actions that I use with Qtermin
 <br>
 
 ### calc_sha.desktop ###
-calculates the SHA checksum of a selected file and displays the result in the terminal
+Calculates the SHA checksum of a selected file and displays the result in the terminal&nbsp;— a simple and convenient way to quickly validate or share the checksum of any downloaded/uploaded file.
 
 <br>
 
 ### conv_to_jxl.desktop ###
-converts a selected still or animated image to JPEG XL (.jpx) format 
+Converts a selected still or animated image to JPEG XL (.jpx) format&nbsp;— very useful for getting the job done on the fly without having to spin up an image editor or delve into the command line.
 
 [libjxl (cjxl)](https://github.com/libjxl/libjxl); [FFmpeg](https://github.com/FFmpeg/FFmpeg)
 
 <br>
 
 ### copy_path.desktop ###
-copies the full path of a selected file to the clipboard
+Copies the full path of a selected file to the clipboard&nbsp;— insanely useful for copying the full path of any file or directory straight to the clipboard.
 
 [xclip](https://github.com/astrand/xclip)
 
 <br>
 
 ### view_exif.desktop ###
-displays the exif data of a selected image in the terminal
+Displays the exif data of a selected image in the terminal&nbsp;— a quick and light way to view the full EXIF data of any image file.
 
 [ExifTool](https://github.com/exiftool/exiftool)
 
