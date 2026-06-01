@@ -54,7 +54,7 @@ Copies the full path of a selected file to the clipboard&nbsp;— an insanely us
 <br>
 
 ### view_exif.desktop ###
-Displays the exif data of a selected image in the terminal&nbsp;— a quick and light way to view the full EXIF data of any image file right there and then (which works great alongside a lightweight image viewer such as [FEH](https://github.com/derf/feh).
+Displays the exif data of a selected image in the terminal&nbsp;— a quick and light way to view the full EXIF data of any image file right there and then (works great alongside a lightweight image viewer such as [FEH](https://github.com/derf/feh)).
 
 [ExifTool](https://github.com/exiftool/exiftool)
 
