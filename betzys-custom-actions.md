@@ -70,7 +70,7 @@ Displays the exif data of a selected image in the terminal&nbsp;— a quick and 
 <br>
 
 <p style="padding-top: 40px;">
-<a class="github-button" href="https://martbetz.github.io/betzys-custom-actions.html" data-size="large" aria-label="View Repo">Download (available soon)</a>
+<a class="github-button" href="https://github.com/martbetz/Custom-Actions/tree/main" data-size="large" aria-label="View Repo">View Repo</a>
 
 </p>
 
