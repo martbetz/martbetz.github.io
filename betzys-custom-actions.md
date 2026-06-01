@@ -6,7 +6,7 @@ layout: page
 <div>
   <p>
   <center>
-    <img style="padding-top: 0px; width:400px;" src="https://raw.githubusercontent.com/martbetz/martbetz.github.io/refs/heads/main/_includes/custom/menu.png" alt="meunu">
+    <img style="padding-top: 0px; width:400px;" src="https://raw.githubusercontent.com/martbetz/martbetz.github.io/refs/heads/main/_includes/custom/menu.png" alt="menu">
   </center>
   </p>
 </div>
