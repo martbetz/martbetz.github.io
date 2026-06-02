@@ -29,7 +29,7 @@ Here's a list of my custom 'right-click' desktop actions that I use with Qtermin
 <font size="4">
 <div align="left">
 
-<p style="margin-top: -15px;">
+<p style="margin-top: -0px;">
 Where possible, I've tried to keep the executable scripting within the action file; however, there maybe situations in the future where I'll write a seperate script (if complexity demands it).
 </p>
 </div>
