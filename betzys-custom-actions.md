@@ -20,14 +20,20 @@ layout: page
 <div align="left">
 
 <p style="margin-top: -15px;">
-Here's a list of my custom 'right-click' desktop actions that I use with Qterminal and PCManFM-qt as part of the LXqt desktop (I've also included links to any required dependancies). All action files should be copied to the following location:</p>
+Here's a list of my custom 'right-click' desktop actions that I use with Qterminal and PCManFM-qt as part of the LXqt desktop (I've also included links to any required dependancies). All action files should be made executable and copied to the following location:</p>
 </div>
 </font>
 
 `/.local/share/file-manager/actions`
 
+<font size="4">
+<div align="left">
 
-
+<p style="margin-top: -15px;">
+Where possible, I've tried to keep the executable scripting within the action file; however, there maybe situations in the future where I'll write a seperate script (if complexity demands it).
+</p>
+</div>
+</font>
 
 
 ---
