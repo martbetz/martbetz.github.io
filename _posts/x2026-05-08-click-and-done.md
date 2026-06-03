@@ -15,7 +15,7 @@ mkdir -p ~/.local/share/file-manager/actions && \
 cat << 'EOF' > ~/.local/share/file-manager/actions/conv-to-jxl.desktop
 ```
 
-Then I added the code to convert both still images (including .tiff) and animations (including .apng) to .jxl:
+Then I added [the code](https://raw.githubusercontent.com/martbetz/Custom-Actions/refs/heads/main/conv_to_jxl.desktop) to convert both still images (including .tiff) and animations (including .apng).
 
 Given the logistics of my current health journey, I needed something to pass the time; as such, I've created a few more right-click wonders (see if you can guess what each of them does&nbsp;😉).
 
