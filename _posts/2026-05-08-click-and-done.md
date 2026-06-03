@@ -17,7 +17,7 @@ cat << 'EOF' > ~/.local/share/file-manager/actions/conv-to-jxl.desktop
 
 Then I added [the code](https://raw.githubusercontent.com/martbetz/Custom-Actions/refs/heads/main/conv_to_jxl.desktop) to convert both still images (including .tiff) and animations (including .apng).
 
-Given the logistics of my current health journey, I needed something to pass the time; as such, I've created a few more [right-click wonders](https://github.com/martbetz/Custom-Actions/tree/main) (see if you can guess what each of them does&nbsp;😉).
+Given the logistics of my current health journey, I needed something to pass the time; as such, I've created a few more [right-click wonders](https://martbetz.github.io/betzys-custom-actions.html) (see if you can guess what each of them does&nbsp;😉).
 
 I've also created a 'tools menu' with various bash scripts and other useful delights that I'll share the details of shortly.
 
