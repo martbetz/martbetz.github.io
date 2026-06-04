@@ -6,7 +6,7 @@ categories: computing photography
 
 I really do like a simple life. I needed an easy way of converting a single image file directly to JPEG XL without having to load up an image editor or play around in the terminal&nbsp;— so I went away and created one.
 
-In my case, I'm running LX-qt on Arch (which means the menu entries are handled by PCManFM-qt, the lifting is done by cjxl and ffmpeg, and the output is displayed in Qterminal).
+In my case, I'm running LXQt on Arch (which means the menu entries are handled by PCManFM-qt, the lifting is done by cjxl and ffmpeg, and the output is displayed in Qterminal).
 
 Firstly, I created the custom action file as follows:
 
