@@ -161,6 +161,11 @@ I've got a follow-up neurology  appointment in a few days time, so we'll wait to
   <div class="time-display" id="timer3">Loading...</div>
 </div>
 
+<div class="timer-container">
+  <span class="timer-label">SINCE HAVING SURGERY</span>
+  <div class="time-display" id="timer4">Loading...</div>
+</div>
+
 <script>
   function calculateTimeDifference(startDateStr, elementId) {
     const startDate = new Date(startDateStr);
@@ -189,6 +194,7 @@ I've got a follow-up neurology  appointment in a few days time, so we'll wait to
     calculateTimeDifference("Jan 14, 2024 10:00:00", "timer1");
     calculateTimeDifference("June 21, 2024 10:00:00", "timer2");
     calculateTimeDifference("Oct 24, 2025 10:00:00", "timer3");
+    calculateTimeDifference("June 11, 2026 10:00:00", "timer4");
   }
 
   // Initial call
