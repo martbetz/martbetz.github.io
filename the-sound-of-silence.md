@@ -33,7 +33,17 @@ In **early April 2006**, I had an appointment with neurosurgery. I'd received a 
 
 I won't go into what the referal letter said to the surgeon except to say it scared the life out of me&nbsp;—  by the time I had my appointment in **late April 2026** I was an absolute mental mess. The lumbar issues weren't a suprise to me; the cervical issues were, but not in alarming way&nbsp;— that "impressive" disc indenting and causing distress to my spinal cord, though, sent me straight into an absolute tailspin. To sum it all up, however, the surgeon made it very clear that his concern was directed at my lumbar region; he didn't have much to say about the thoratic issue, except to say the signal change was "old" rather than a more recent active event. After short consideration, I opted for surgery&nbsp;— cauda equina decompression via laminotomy and double discectomy.
 
-As of **right now**, I've completed both my pre-op and pre-clerking and am awaiting a surgery date. While my symptoms have pretty much remained stable in and of themselves, the amount of walking I can do before things just tend to stop working has shrunk down to a few hundred paces. I tried to go for a short stroll down the road and back five days ago, and ended up taking a fall&nbsp;— and if I fall, getting back up again is a monumental task. I have no idea if the surgery will help at all, if my thoratic issues really *are* something that'll come back to haunt me, or even if there's still something else that's going on in the background. I have, however, been refered by my GP for mental crisis support. As soon as I have more news, I'll get this pin updated. 
+So, I completed my pre-op on the same day as my neurosurgery consultation, and toward the **end of May** I completed my pre-clerking. While my symptoms pretty much remained stable in and of themselves, the amount of walking I could do before things completely ground to a halt had now shrunk down to almost nothing. I tried to go for a short stroll down the road and back, and ended up taking a fall&nbsp;— and if I fall, getting back up again is a monumental task. 
+
+Then, in **early June 2026** I got the call. Three days later, I was on the operating table. 
+
+According to the surgeon, everything went well. I was home by the following day, and that's pretty much where I am to date. The only thing that's bothering me at present is that the physio noticed I have clonus in my ankle. 
+
+Clonus is associated with UMN pathology&nbsp;— and, given my thoratic cord issues and previous scares over MND, this confirmation makes me very anxious indeed. However, I have had this for a *very* long time (I just didn't think anything of it), and I also passed the rest of the UMN exam she gave me with flying colours (as I did on three seperate previous occasions with both my neurologist and GP). Still...
+
+I've got a follow-up neurology  appointment in a few days time, so we'll wait to see what's said there. I hate these the most — I feel like there's never an end to anything; it's almost as if they'll never stop until they find something awful. 
+
+
 
 <!-- <html>
 <head>
