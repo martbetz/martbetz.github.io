@@ -39,7 +39,7 @@ Then, in **early June 2026**, I got the call. Three days later, I was on the ope
 
 According to the surgeon, everything went well. I was home by the following day, and that's pretty much where I am to date. The only thing that's bothering me at present is that the physio noticed I have clonus in my ankle. 
 
-Clonus is associated with UMN pathology&nbsp;— and, given my thoratic cord issues and previous scares over MND, this confirmation makes me very anxious indeed. However, I have had this for a *very* long time (I just didn't think anything of it), and I also passed the rest of the UMN exam she gave me with flying colours (as I did on three seperate previous occasions with both my neurologist and GP). Still...
+Clonus is associated with UMN pathology&nbsp;— and, given my thoratic cord issues and previous scares over MND, this confirmation makes me very anxious indeed&nbso;— however, I have had this for a *very* long time (I just didn't think anything of it), and I also passed the rest of the UMN exam she gave me with flying colours (as I did on three seperate previous occasions with both my neurologist and GP). Still...
 
 I've got a follow-up neurology  appointment in a few days time, so we'll wait to see what's said there. I hate these the most — I feel like there's never an end to anything; it's almost as if they'll never stop until they find something awful. 
 
