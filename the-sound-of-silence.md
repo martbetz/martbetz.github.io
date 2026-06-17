@@ -162,7 +162,7 @@ I've got a follow-up neurology  appointment in a few days time, so we'll wait to
 </div>
 
 <div class="timer-container">
-  <span class="timer-label">SINCE HAVING SURGERY</span>
+  <span class="timer-label">SINCE HAVING LOWER BACK SURGERY</span>
   <div class="time-display" id="timer4">Loading...</div>
 </div>
 
