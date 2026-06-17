@@ -35,7 +35,7 @@ I won't go into what the referal letter said to the surgeon except to say it sca
 
 So, I completed my pre-op on the same day as my neurosurgery consultation, and toward the **end of May** I completed my pre-clerking. While my symptoms pretty much remained stable in and of themselves, the amount of walking I could do before things completely ground to a halt had now shrunk down to almost nothing. I tried to go for a short stroll down the road and back, and ended up taking a fall&nbsp;— and if I fall, getting back up again is a monumental task. 
 
-Then, in **early June 2026** I got the call. Three days later, I was on the operating table. 
+Then, in **early June 2026**, I got the call. Three days later, I was on the operating table. 
 
 According to the surgeon, everything went well. I was home by the following day, and that's pretty much where I am to date. The only thing that's bothering me at present is that the physio noticed I have clonus in my ankle. 
 
