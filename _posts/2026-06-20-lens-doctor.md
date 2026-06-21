@@ -37,5 +37,6 @@ He was also incredibly popular with videographers for "de-clicking" manual iris 
 </p>
 
 [The Lens Doctor: De-clicking in the UK](https://www.newsshooter.com/2010/12/27/the-lens-doctor-de-clicking-in-the-uk/)&nbsp;— Dan Chung, newsshooter.com
+
 [Interview with the Lens Doctor](https://www.ephotozine.com/article/new-life-for-old-lenses-16939)&nbsp;— ephotozine.com
 
