@@ -32,8 +32,9 @@ He was also incredibly popular with videographers for "de-clicking" manual iris 
 
 ​With his retirement, the community really has lost a  rare and cherished specialist&nbsp;— fewer and fewer technicians possess the specific lathe-work skills, engineering background, and spare parts required to keep such vintage lenses alive.
 
-<p style="padding-top: 10px;">
+<p style="padding-top: -10px;">
+&nbsp;
+</p>
 
 [The Lens Doctor: De-clicking in the UK](https://www.newsshooter.com/2010/12/27/the-lens-doctor-de-clicking-in-the-uk/)&nbsp;— Dan Chung (nrwsshooter.com)
 
-</p>
