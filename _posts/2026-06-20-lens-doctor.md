@@ -7,9 +7,9 @@ tags: repair
 
 If you’ve recently tried to visit thelensdoctor.co.uk and found it down or listed for sale, it’s because Eddie Houston has officially retired from the commercial lens repair and modification business.
 
-​According to UK Companies House, his business, The Lens Doctor Ltd, was officially dissolved via voluntary strike-off on December 7, 2021. Following the closure, his website went offline, marking the end of an era for vintage glass enthusiasts.  
+​According to UK Companies House, The Lens Doctor Ltd was officially dissolved via voluntary strike-off on December 7 2021. His website went offline shortly following the closure, marking the end of an era for vintage glass enthusiasts.  
 
-Having earned a legendary reputation within the photography community, Eddie Houston was the go-to specialist in the UK and Europe for highly technical, niche optical work; he was particularly revered for his  fawless FD to EF conversions, mastering the art of converting vintage Canon FD manual lenses to modern Canon EF mounts while maintaining true infinity focus.
+Having earned a legendary reputation within the photography community, Eddie Houston was the go-to specialist in the UK and Europe for highly technical and niche optical work; he was particularly revered for his  fawless FD to EF conversions, mastering the art of converting vintage Canon FD manual lenses to modern Canon EF mounts while maintaining true infinity focus.
 
 He was also incredibly popular with videographers for "de-clicking" manual iris rings (frequently on Contax/Yashica and Carl Zeiss glass). He didn't just remove the ball bearings; he added custom resistance so the ring felt fluid, like a high-end cinema lens.
 
