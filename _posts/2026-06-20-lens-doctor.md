@@ -31,3 +31,5 @@ He was also incredibly popular with videographers for "de-clicking" manual iris 
 ​Before establishing his workshop in Scotland (moving over the years from Cumbernauld to Blairgowrie), Eddie had a colorful history&nbsp;— he once worked as a technical manager for Canon during the height of the manual FD camera era, and he even spent some time as a touring rock guitarist alongside bands like Thin Lizzy and Status Quo.  
 
 ​With his retirement, the community really has lost a  rare and cherished specialist&nbsp;— fewer and fewer technicians possess the specific lathe-work skills, engineering background, and spare parts required to keep such vintage lenses alive.
+
+[The Lens Doctor: De-clicking in the UK](https://www.newsshooter.com/2010/12/27/the-lens-doctor-de-clicking-in-the-uk/)&nbsp;— Dan Chung (nrwsshooter.com)
