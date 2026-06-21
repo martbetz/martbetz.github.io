@@ -18,7 +18,7 @@ If you’ve recently tried to visit thelensdoctor.co.uk and found it down or lis
 
 <p style="padding-top: 10px;">
 
-​According to UK Companies House, The Lens Doctor Ltd was officially dissolved via voluntary strike-off on December 7 2021. His website went offline following the closure, marking the end of an era for vintage glass enthusiasts.  
+​According to UK Companies House, The Lens Doctor Ltd was officially dissolved via voluntary strike-off on 7th December 2021. His website went offline following the closure, marking the end of an era for vintage glass enthusiasts.  
 
 </p>
 
