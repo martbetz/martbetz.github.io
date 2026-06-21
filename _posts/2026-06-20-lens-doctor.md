@@ -32,7 +32,7 @@ He was also incredibly popular with videographers for "de-clicking" manual iris 
 
 ​With his retirement, the community really has lost a  rare and cherished specialist&nbsp;— fewer and fewer technicians possess the specific lathe-work skills, engineering background, and spare parts required to keep such vintage lenses alive.
 
-<p style="padding-top: -20px;">
+<p style="margin-top: -20px;">
 &nbsp;
 </p>
 
