@@ -14,7 +14,7 @@ actions:
 
 <div>
   <center>
-    <img src="https://user-images.githubusercontent.com/110672536/183131595-afeb1dec-1c84-436c-9a50-90468f9ec3ec.png" alt="ProjectLogo">
+    <img style="padding-top: 0px; max-width:500px; width:100%;" src="https://user-images.githubusercontent.com/110672536/183131595-afeb1dec-1c84-436c-9a50-90468f9ec3ec.png" alt="ProjectLogo">
   </center>
 </div>
 
