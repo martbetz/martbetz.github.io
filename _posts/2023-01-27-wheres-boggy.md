@@ -23,7 +23,7 @@ When a website like this one goes bye-bye, it's never good news; mountains of ir
 </div> -->
 
 <center>
-<img style="padding-top: 15px; max-width:500px; width:100%;" ; max" src="https://raw.githubusercontent.com/martbetz/martbetz.github.io/main/_includes/custom/kironklub.png" class="align-center" alt="The KironKlub Website" width="600">
+<img style="padding-top: 15px; max-width:500px; width:100%;"; src="https://raw.githubusercontent.com/martbetz/martbetz.github.io/main/_includes/custom/kironklub.png" class="align-center" alt="The KironKlub Website">
 </center>
 
 <p style="text-align:center; padding-top: 5px;">
