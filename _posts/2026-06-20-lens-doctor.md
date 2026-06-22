@@ -1,7 +1,7 @@
 ---
 title: The Lens Doctor
 format: post
-categories: photography
+categories: photography maintenance
 ---
 
 If you’ve recently tried to visit thelensdoctor.co.uk and found it down or listed for sale, it’s because Eddie Houston has officially retired from the commercial lens repair and modification business.
