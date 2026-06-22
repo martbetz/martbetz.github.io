@@ -24,7 +24,7 @@ If you’ve recently tried to visit thelensdoctor.co.uk and found it down or lis
 
 Having earned a legendary reputation within the photography community, Eddie Houston was the go-to specialist in the UK and Europe for highly technical and niche optical work; he was particularly revered for his fawless FD to EF conversions, mastering the art of converting vintage Canon FD manual lenses to modern Canon EF mounts while maintaining true infinity focus&nbsp;— he was one of the few engineers people trusted to work on delicate and discontinued heavy-hitters, such as the legendary Canon EF 200mm f/1.8L USM.
 
-Eddie was also incredibly popular with videographers for "de-clicking" manual iris rings (frequently on Contax/Yashica and Carl Zeiss glass). He didn't just remove the ball bearings; he added custom resistance so the ring felt fluid, like a high-end cinema lens.
+Eddie was also incredibly popular with videographers for "de-clicking" manual iris rings (frequently on Contax/Yashica and Carl Zeiss glass)&nbsp;— he didn't just remove the ball bearings; he added custom resistance so the ring felt fluid, like a high-end cinema lens.
 
 ​Before establishing his workshop in Scotland (moving over the years from Cumbernauld to Blairgowrie), Eddie had a colorful history&nbsp;— he once worked as a technical manager for Canon during the height of the manual FD camera era, and he even spent some time as a touring rock guitarist alongside bands like Thin Lizzy and Status Quo.  
 
