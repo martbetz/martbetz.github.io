@@ -7,8 +7,9 @@ categories: photography
 If you’ve recently tried to visit thelensdoctor.co.uk and found it down or listed for sale, it’s because Eddie Houston has officially retired from the commercial lens repair and modification business.
 
 <center>
-<img style="padding-top: 15px; max-width: 300px; height: auto;" src="https://raw.githubusercontent.com/martbetz/martbetz.github.io/main/_includes/custom/lensdoc(1).jpg" class="align-center" alt="The Lens Doctor Website">
+<img style="padding-top: 15px; max-width: 500px; width: 100%; height: auto;" src="https://raw.githubusercontent.com/martbetz/martbetz.github.io/main/_includes/custom/lensdoc(1).jpg" class="align-center" alt="The Lens Doctor Website">
 </center>
+
 
 <p style="text-align:center; padding-top: 5px;">
   <font size="2">
