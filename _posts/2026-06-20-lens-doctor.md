@@ -1,5 +1,5 @@
 ---
-title: The Lens Doctor
+title: All the Best, Eddie!
 format: post
 categories: photography maintenance
 ---
