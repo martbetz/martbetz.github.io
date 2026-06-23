@@ -1,7 +1,7 @@
 ---
 title: Desert Drifter
 layout: page
-categories: hiking
+categories: eulogy hiking
 ---
 
 I was greeted by further sad news, today, when checking in on Youtube; Andrew Cross was involved in a terrible accident on Friday, and he’s currently in critical condition. My thoughts are with Andrew and his family at this very challenging time.
