@@ -24,6 +24,13 @@ Here's a list of my custom 'right-click' desktop actions that I use with Qtermin
 </div>
 </font>
 
+<style>
+      pre, code {
+        white-space: pre-wrap !important;
+        word-break: break-all;
+      }
+    </style>
+
 `/.local/share/file-manager/actions`
 
 <font size="4">
