@@ -31,7 +31,9 @@ Here's a list of my custom 'right-click' desktop actions that I use with Qtermin
       }
     </style>
 
-`/.local/share/file-manager/actions`
+```
+/.local/share/file-manager/actions
+```
 
 <font size="4">
 <div align="left">
