@@ -10,6 +10,14 @@ In my case, I'm running LXQt on Arch (which means the menu entries are handled b
 
 Firstly, I created the custom action file as follows:
 
+<style>
+      pre, code {
+        white-space: pre-wrap !important;
+        word-break: break-all;
+      }
+    </style>
+
+
 ```
 mkdir -p ~/.local/share/file-manager/actions && \
 cat << 'EOF' > ~/.local/share/file-manager/actions/conv-to-jxl.desktop
