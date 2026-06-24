@@ -12,4 +12,4 @@ We all know the score by now; so many useful plugins and scripts that used to wo
 
 This isn't the first time I've used this approach; I use an older (2012) version of Hugin, for example, to help create my custom lens-correction profiles for Lensfun (I just can't do it the same way in later versions because the whole workflow method was "improved").
 
-Anyway... onwards an upwards&nbsp;— or _backwards_, as the case may be...
+Anyway... onwards an upwards&nbsp;— or _backwards_, as the case may be... 😉
