@@ -4,7 +4,7 @@ layout: post
 categories: photography computing
 ---
 
-There's an age-old saying that goes something like this: "If it's not broke, don't fix it!" Here's the thing, though; I'd very much like to expand on that: "If it _is_ broke, try not to fix it by breaking anything else!"
+There's an age-old saying that goes something like this: "If it's not broke, don't fix it!" Here's the thing, though; I'd very much like to expand on that: "If it _is_ broke, try not to fix it by breaking everything else!"
 
 <center>
 <img style="padding-top: 5px; max-width: 500px; width: 100%; height: auto;" src="https://raw.githubusercontent.com/martbetz/martbetz.github.io/main/_includes/custom/gimph.jpg" class="align-center" alt="The Lens Doctor Website">
