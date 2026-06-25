@@ -7,7 +7,7 @@ categories: website
 I'm currently recovering from surgery and have way too much time on my hands, so I thought this would be a good opportunity to check through my bookmark list for link rot&nbsp;— and I've plenty to get through!
 
 <center>
-<img style="padding-top: 5px; max-width: 500px; width: 100%; height: auto;" src="https://raw.githubusercontent.com/martbetz/martbetz.github.io/main/_includes/custom/anf(1).png" class="align-center" alt="Address not found!">
+<img style="padding-top: 5px; max-width: 500px; width: 100%; height: auto;" src="https://raw.githubusercontent.com/martbetz/martbetz.github.io/main/_includes/custom/Anf(1).png" class="align-center" alt="Address not found!">
 </center>
 
 
