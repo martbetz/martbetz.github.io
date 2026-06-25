@@ -10,6 +10,12 @@ We all know the score by now; so many useful plugins and scripts that used to wo
 
 [GIMP Hybrid](https://portable-linux-apps.github.io/apps/gimp-hybrid.html) is a specific (experimental) "flavor" of GIMP that's based on GIMP 2.X and distributed as an AppImage — this means I can run it alongside my 3.X installation without any conflicts or issues, and I can fire it up whenever I need to use my goodies!
 
-This isn't the first time I've used this approach; I use an older (2012) version of Hugin, for example, to help create my [custom Lensfun LCPs](https://martbetz.github.io/photography/computing/2022/08/23/custom-lensfun-lcps.html) (I just can't do it the same way in later versions because the whole workflow method was "improved").
+This isn't the first time I've used this approach; I use an older (2012) version of Hugin,¹ for example, to help create my [custom Lensfun LCPs](https://martbetz.github.io/photography/computing/2022/08/23/custom-lensfun-lcps.html) (I just can't do it the same way in later versions because the whole workflow method was "improved").
 
 Anyway... onwards an upwards&nbsp;— or _backwards_, as the case may be... 
+
+<p style="padding-top: 15px; line-height: 1.1">
+<font size="2">
+¹ To be specific, I use a 2012 Windows version that I run in Wine (but only because I couldn't find a Linux version).
+</font>
+</p>
