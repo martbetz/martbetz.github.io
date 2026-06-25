@@ -7,11 +7,11 @@ categories: photography computing
 There's an age-old saying that goes something like this: "If it's not broke, don't fix it!" Here's the thing, though; I'd very much like to expand on that: "If it _is_ broke, try not to fix it by breaking anything else!"
 
 <center>
-<img style="padding-top: 10px; max-width: 500px; width: 100%; height: auto;" src="https://raw.githubusercontent.com/martbetz/martbetz.github.io/main/_includes/custom/gimph.jpg" class="align-center" alt="The Lens Doctor Website">
+<img style="padding-top: 5px; max-width: 500px; width: 100%; height: auto;" src="https://raw.githubusercontent.com/martbetz/martbetz.github.io/main/_includes/custom/gimph.jpg" class="align-center" alt="The Lens Doctor Website">
 </center>
 
 
-<p style="padding-top:10px;">
+<p style="padding-top:20px;">
 We all know the score by now; so many useful plugins and scripts that used to work in GIMP 2.X are completely incompatible with 3.X, and I've a whole boatload of custom stuff that I'm not about to throw overboard! Yet fear not, young Bob&nbsp;— there's a very simple solution!
 </p>
 
