@@ -10,4 +10,4 @@ Seeing as I'm not a sadist, I cobbled together a bash script to do the heavy lif
 
 Fortunately, the vast majority have been archived by the Wayback Machine, so I've updated the links to redirect to here wherever possible.
 
-This may take me a while, so stick with me&nbsp;— while I may have time to kill, it doesn't make the task any less combersome. 😒
+This may take a while, so please stick with me&nbsp;— while I may have time to kill, it doesn't make the task any less combersome. 😒
