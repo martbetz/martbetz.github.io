@@ -61,6 +61,10 @@ The Land of Sheep & Dragons.
 
 Bob has a habit of [chimping](https://en.m.wikipedia.org/wiki/Chimping) (of course), and he likes to photograph people&nbsp;— he says he knows who [Banksy](https://en.wikipedia.org/wiki/Banksy) is but isn't telling a soul.
 
+### Is a chimp a monkey? ###
+
+No.
+
 ### Can I meet you in person? ###
 
 Don't be weird.
