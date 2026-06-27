@@ -2,7 +2,7 @@
 layout: post
 title: So Long, Manjaro
 categories: photography computing
-tags: Manjaro Arch RawTherapee
+tags: Arch RawTherapee
 ---
 
 Manjaro, Manjaro, Manjaro... I’ve used Manjaro since always, but I’ve now switched over to Arch. I’ve never been one to distro hop (even, perhaps, when I should), but my hand was pretty much forced&nbsp;— and, now that I’m gone, I won’t be coming back.
