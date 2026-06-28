@@ -10,8 +10,15 @@ I'm currently recovering from surgery and have way too much time on my hands, so
 <img style="padding-top: 5px; max-width: 500px; width: 100%; height: auto;" src="https://raw.githubusercontent.com/martbetz/martbetz.github.io/main/_includes/custom/1782667712011.png" class="align-center" alt="Address not found!">
 </center>
 
+<p style="text-align:center; padding-top: 5px;">
+  <font size="2">
+Created using Google Gemini (copyright free)
+  </font>
+</p>
 
-<p style="padding-top: 20px;">
+
+
+<p style="padding-top: -5px;">
 Seeing as I'm not a sadist, I cobbled together a bash script to do the heavy lifting. After running it, I was saddened to see a lot of pages and many entire sites have completely dropped off the web.
 </p>
 
