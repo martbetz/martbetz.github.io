@@ -8,9 +8,11 @@ categories: computing
 What began as a series of quiet modifications to abandoned community packages quickly spiraled into a systemic crisis that would come to be known as the "Atomic Arch" attack.
 </p>
 
+<p>
 <center>
 <img style="padding-top: 15px; max-width: 500px; width: 100%; height: auto;" src="https://raw.githubusercontent.com/martbetz/martbetz.github.io/main/_includes/custom/atomic-arch.jpg" class="align-center" alt="Arch News">
 </center>
+</p>
 
 <p style="text-align:center; padding-top: 5px;">
   <font size="2">
