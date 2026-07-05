@@ -21,7 +21,7 @@ What began as a series of quiet modifications to abandoned community packages qu
 </p>
 
 
-<p style="padding-top: -15px;">
+<p style="padding-top: -10px;">
 On 11th June, the campaign broke cover when cybersecurity researchers identified a surge of suspicious activity within the Arch User Repository (AUR). Attackers had initiated a sophisticated  automated campaign to "adopt" orphaned packages; by taking over these dormant accounts, the attackers gained the ability to modify the PKGBUILD scripts.</p>
 
 <p>
