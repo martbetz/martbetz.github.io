@@ -11,7 +11,7 @@ What began as a series of quiet modifications to abandoned community packages qu
 </center>
 
 
-<p style="text-align:center; padding-top: 5px;">
+<p style="text-align:center; padding-top: 15px;">
   <font size="2">
 © archlinux.org (screenshot 04.07.2026)
   </font>
