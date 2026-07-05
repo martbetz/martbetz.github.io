@@ -11,13 +11,13 @@ What began as a series of quiet modifications to abandoned community packages qu
 </center>
 
 
-<p style="text-align:center; padding-top: 15px;">
+<p style="text-align:center; padding-top: 5px;">
   <font size="2">
 © archlinux.org (screenshot 04.07.2026)
   </font>
 </p>
 ​
-​On 11th June, the campaign broke cover when cybersecurity researchers identified a surge of suspicious activity within the Arch User Repository (AUR). Attackers had initiated a sophisticated  automated campaign to "adopt" orphaned packages; by taking over these dormant accounts, the attackers gained the ability to modify the PKGBUILD scripts.
+<p>On 11th June, the campaign broke cover when cybersecurity researchers identified a surge of suspicious activity within the Arch User Repository (AUR). Attackers had initiated a sophisticated  automated campaign to "adopt" orphaned packages; by taking over these dormant accounts, the attackers gained the ability to modify the PKGBUILD scripts.</p>
 
  
 ​​By the following day, the threat evolved from a simple hijacking into a coordinated offensive. Recognizing that static code was easy to spot, the attackers shifted to a dynamic approach&nbsp;— they updated the compromised packages to pull in external dependencies from public registries like npm and bun which enabled them to "poison the well" by injecting malicious payloads that executed only at the moment of installation, effectively bypassing static security scanners.
