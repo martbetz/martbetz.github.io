@@ -41,7 +41,10 @@ According to the surgeon, everything went well. I was home by the following day,
 
 Clonus is associated with UMN pathology&nbsp;— and, given my thoratic cord issues and previous scares over MND, this confirmation makes me very anxious indeed&nbsp;— however, I have had this for a *very* long time (I just didn't think anything of it), and I also passed the rest of the UMN exam she gave me with flying colours (as I did on three seperate previous occasions with both my neurologist and GP). Still...
 
-I've got a follow-up neurology  appointment in a few days time, so we'll wait to see what's said there. I hate these the most — I feel like there's never an end to anything; it's almost as if they'll never stop until they find something awful. 
+In **early July 2026**, I had my next neurology appointment. My clonus was acknowleged, but I passed my UMN exam without any issues for yet another time; we also went over the MRI of my thoratic region, and the neurologist concluded that the clonus was likely a lasting consiquence of the cord compression with no obvious evidence of progression.
+
+And that just about brings us up to date. So far, my recovery is going well. I remain under observation with neurology, and only time will tell how things progress. Right now, though, I'm feeling quite optomistic for the first time in years - and, if I ever start posting about my my ramblings again, you can take that as a sign that everything's now goning in the right direction.
+
 
 
 
