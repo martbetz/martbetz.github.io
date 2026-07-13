@@ -3,15 +3,7 @@ title: The Sound of Silence
 layout: page
 ---
 
-I haven't posted much for quite some time; in short, I'm thinking of shutting this site down.
-
-I'll be sharing full details shortly, so please bear with me for now.
-
----
-
-UPDATED - 13/07/2026
-
-It's been a while, so I thought I'd post an update. 
+Things have been very slow for a while, so I thought I'd put this page together by way of an update. In short, it's because I've been on a bit of a hralth journey.
 
 Back in **January 2024**, I developed very pronounced and very 'coarse' fasciculations which presented in both legs (thighs, calves and feet); they seemed to appear spontaneously after a particularly challenging ramble. I went to my GP in **June of 2024** who gave me a full neuro exam (which I 'passed') but refered me to a neurologist for further investigation.
 
