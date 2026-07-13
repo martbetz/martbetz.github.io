@@ -43,7 +43,7 @@ Clonus is associated with UMN pathology&nbsp;— and, given my thoratic cord iss
 
 In **early July 2026**, I had my next neurology appointment. My clonus was acknowleged, but I passed my UMN exam without any issues for yet another time; we also went over the MRI of my thoratic region, and the neurologist concluded that the clonus was likely a lasting consiquence of the cord compression with no obvious evidence of progression.
 
-And that just about brings us up to date. So far, my recovery is going well. I remain under observation with neurology, and only time will tell how things progress. Right now, though, I'm feeling quite optomistic for the first time in years - and, if I ever start posting about my my ramblings again, you can take that as a sign that everything's now goning in the right direction.
+And that just about brings us up to date. So far, my recovery is going well. I remain under observation with neurology, and only time will tell how things progress. Right now, though, I'm feeling quite optomistic for the first time in years - and, if I ever start posting about my my ramblings again, you can take that as a sign that everything's now going in the right direction.
 
 
 
