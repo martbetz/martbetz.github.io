@@ -4,7 +4,7 @@ layout: post
 categories: computing
 ---
 
-If you're running an Arch Linux system... well... you may want to pause before you run your next system update because the Arch User Repository (AUR) has just been struck by a malware wave&nbsp;— again! 
+If you're running Arch Linux, you may want to pause before you run your next system update; the Arch User Repository (AUR) has just been struck by a malware wave&nbsp;— again! 
 
 ​Beginning in late July 2026, bad actors managed to compromise over 200 community-maintained packages in an attack that highlights the ongoing vulnerabilities of open-source software delivery models.  
 
