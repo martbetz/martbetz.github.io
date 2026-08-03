@@ -18,9 +18,9 @@ The malware targets browser credentials, SSH keys, cryptocurrency wallets, and c
 
 ​In response to the influx of malicious package adoptions and unauthorized commits, Arch Linux DevOps took swift action on July 31 2026 by completely disabling package adoptions in the AUR and temporarily locking down package pushes.  
 
-​This latest wave rides on the heels of the massive "Atomic Arch" campaign from June 2026 (which affected over 1,500 packages), demonstrating that threat actors are actively hunting for weaknesses in community-driven infrastructure where maintainer oversight can sometimes lapse.  
+​This latest wave rides hot on the heels of the massive "Atomic Arch" campaign from June 2026 (which affected over 1,500 packages), demonstrating that threat actors are actively hunting for weaknesses in community-driven infrastructure where maintainer oversight can sometimes lapse.  
 
-​Because the AUR relies entirely on user-submitted build scripts (PKGBUILDs) rather than official vetting, security ultimately falls back to user due diligence&nbsp;— if you use Arch Linux, take these steps immediately:  
+​Because the AUR relies entirely on user-submitted build scripts (PKGBUILDs) rather than official vetting, security ultimately falls back to user due diligence. If you use Arch Linux, take these steps immediately:  
 
 - ​audit your installed AUR packages&nbsp;— un pacman -Qm or paru -Qm to see a list of all explicitly installed foreign/AUR packages on your system
 
