@@ -1,5 +1,5 @@
 ---
-title: Round 1!
+title: Round One!
 layout: post
 categories: computing
 ---
