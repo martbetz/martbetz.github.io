@@ -11,7 +11,7 @@ The day has finally come to put my dear old X-T10 out to pasture; in "tech years
 <img style="padding-top: 5px; max-width: 500px; width: 100%; height: auto;" src="https://raw.githubusercontent.com/martbetz/martbetz.github.io/refs/heads/main/_includes/custom/xt10retire.jpg" class="align-center" alt="Happy Retitement!">
 </center>
 
-<p style="padding-top: 5px;">
+<p style="padding-top: 15px;">
 Despite it's advancing age, my camera really is in good nick; almost like new, in fact, both cosmetically _and_ functionally. So why not continue to use it? Well, here's the thing; ideally, I'd really like it to remain that way.</p>
 
 The passage of time, though, has steadily been stacking the odds:
