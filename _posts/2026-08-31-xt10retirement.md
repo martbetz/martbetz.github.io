@@ -1,5 +1,5 @@
 ---
-title: Happy Retirement X-T10
+title: Happy Retirement, X-T10
 layout: post
 categories: photography
 tags: gear
