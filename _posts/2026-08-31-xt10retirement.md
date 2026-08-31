@@ -5,7 +5,7 @@ categories: photography
 tags: gear
 ---
 
-The day has finally come to put my dear old X-T10 out to pasture; in "tech years," my happy little snapper's now turned 55. It's time to plan it's retirement, then, and employ a new replacement&nbsp;— and I've just the candidate in mind.
+The day has finally come to put my dear old X-T10 out to pasture; in "tech years," my happy little snapper's now turned 55. It's time, then, to plan it's retirement and employ a new replacement.
 
 ![Happy Retirement!](https://raw.githubusercontent.com/martbetz/martbetz.github.io/refs/heads/main/_includes/custom/xt10retire.jpg)
 
