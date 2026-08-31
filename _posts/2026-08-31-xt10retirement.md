@@ -7,7 +7,7 @@ tags: gear
 
 The day has finally come to put my dear old X-T10 out to pasture; in "tech years," my happy little snapper's now turned 55. It's time to plan it's retirement, then, and employ a new replacement&nbsp;— and I've just the candidate in mind.
 
-![1788172219056](_res/1788172219056.jpg)
+![Happy Retirement!](https://raw.githubusercontent.com/martbetz/martbetz.github.io/refs/heads/main/_includes/custom/xt10retire.jpg)
 
 Despite it's advancing age, my camera's really is in good nick; almost like new, in fact, both cosmetically _and_ functionally. So why not continue to use it? Well, here's the thing; ideally, I'd really like it to remain that way.
 
