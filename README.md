@@ -1,6 +1,8 @@
 This is the [Jekyll](https://jekyllrb.com) source code for my personal website; it was built using a fork of the [minima](https://github.com/jekyll/minima) Jekyll theme and is hosted by GitHub Pages as [martbetz.github.io](martbetz.github.io).
 
-This website uses the Minima Jekyll theme.
+---
+
+### Theme Licence
 
 The minima theme is licensed under the MIT License:
 
@@ -26,7 +28,7 @@ THE SOFTWARE.
 
 ------------------------------------------------------------
 
-Content Copyright
+### Content Copyright
 
 Unless otherwise stated, all original content on this website, including
 but not limited to articles, text, documentation, guides, images, graphics,
@@ -38,10 +40,14 @@ No permission is granted to copy, reproduce, redistribute, modify, publish,
 or create derivative works from this content without prior written
 permission from the copyright holder.
 
-The MIT License applies only to the Minima theme software and any other
+The MIT License applies **only** to the minima theme software and any other
 third-party software components that are expressly licensed under MIT or
-another open-source licence. It does not apply to the original content of
+another open-source licence; it **does not** apply to the original content of
 this website.
+
+---
+
+### Website Copyright
 
 Unless otherwise stated, all content is the copyright (©) of the author and may neither be redistributed (which includes by way of hotlinking) nor reproduced (which includes by way of archiving) without the author’s consent (both explicit and prior).
 
