@@ -39,3 +39,7 @@ Wait! What?! An X-T1?! Yep. Well, when you look at it logically, it all makes pe
 3. **convenience** – I can pair it with my full existing collection of interchagable lenses and, because it uses exactly the same sensor as my X-T10, nothing needs to be tweaked as far as my workflow is concerned
 
 So, I'm off to the second-hand market. I'll let you know how I get on.
+
+<hr>
+
+Mmmm... But now I'm thinking... X-T2? 🤔
