@@ -42,4 +42,4 @@ So, I'm off to the second-hand market. I'll let you know how I get on.
 
 <hr>
 
-Mmmm... But now I'm thinking... X-T2? 🤔
+Mmmm... But now I'm thinking... X-T2? 🤔 What do you reckon, Bob?
