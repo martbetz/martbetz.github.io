@@ -17,7 +17,7 @@ This website is hosted by <a href="https://pages.github.com">GitHub Pages</a>; i
       Overview
    </h2> 
 <p>
-martbetz.github.io is a digital-photography blog&nbsp;— an independent and personal project, solely maintained by the website author, that respects user privacy (does not employ the use of cookies) and complies with legal practice (does not promote such content restrained by UK law).
+martbetz.github.io is a digital-photography blog&nbsp;— an independent and personal project, solely maintained by the website author, that respects user privacy (does not employ the use of cookies) and complies with legal practice (does not promote such content as restrained by UK law).
 </p>
 </div>
 <hr>
