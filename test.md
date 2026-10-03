@@ -61,7 +61,7 @@ layout: page
   <span style="color:#B000B0;">magenta</span>,
   hovered-over links are<br>dark
   <span style="color:#937500;">yellow</span>,
-  and visited links are<br>dark
+  and visited links are dark
   <span style="color:#008B8B;">cyan</span>.</b>
 </div>
 
