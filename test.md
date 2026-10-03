@@ -38,7 +38,7 @@ layout: page
   <h3 style="text-align:center;margin-top:50px;margin-bottom:30px;"><u>Page Colours</u></h3>
   
 
-  <div style="width:210px;margin:0 auto;padding:24px;background:#E8E8D8;color:#333333;text-align:center;border:2px solid #333333;">
+  <div style="width:210px;margin:0 auto;padding:24px;background:#E8E8D8;color:#333333;text-align:center;border:2px solid #cccccc;">
   <b>This combination provides a <strong>warm off-white background</strong> with <strong>near-black text</strong>, rather than the harsher combination of pure white and pure black.</b>
 </div>
   
@@ -66,7 +66,7 @@ layout: page
 
 <!-- Hyperlink Colours -->
 
-<div style="width:210px;margin:0 auto;margin-top:20px;padding:24px;background:#E8E8D8;color:#333333;text-align:center;border:2px solid #333333;">
+<div style="width:210px;margin:0 auto;margin-top:20px;padding:24px;background:#E8E8D8;color:#333333;text-align:center;border:2px solid #cccccc;">
   <b>Unvisited links are
   <span style="color:#B000B0;">dark magenta</span>,
   hovered-over links are
