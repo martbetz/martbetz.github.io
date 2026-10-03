@@ -1,34 +1,3 @@
----
-title: Test Page
-layout: page
----
-
-<head>
-<meta name="robots" content="noindex, nofollow, noimageindex, noarchive, nocache, nosnippet">
-</head>
-
-<!-- <style> 
- img
-   { 
-     max-width: 84%; height: auto;
-   }
-</style>
-
-<center>
-<h1><b>Nothing to see here!</b></h1>
-</center>
-
-<br> -->
-
-<p style="margin-top: -0px">
-  <font size="4">
-    <div align="left">
-      This is just a basic test page; there’s nothing of interest here (that is, not unless reading a load of nonsense and staring at random shapes floats your boat).
-    </div>
-  </font>
-</p>
-
-<hr style="background-color: #ccc">
 
 
 <!-- Web Page Colours -->
@@ -38,7 +7,7 @@ layout: page
   <h3 style="text-align:center;margin-top:50px;margin-bottom:30px;"><u>Page Colours</u></h3>
   
 
-  <div style="width:210px;margin:0 auto;padding:24px;background:#E8E8D8;color:#333333;text-align:center;border:2px solid #cccccc;">
+  <div style="width:210px;margin:0 auto;padding:24px;background:#E8E8D8;color:#333333;text-align:center;border:2px solid #CCCCCC;">
   <b>This combination provides a <strong>warm off-white background</strong> with <strong>near-black text</strong>, rather than the harsher combination of pure white and pure black.</b>
 </div>
   
@@ -146,57 +115,6 @@ layout: page
     <td style="background:#595959;width:32px;height:24px;"></td>
     <td><code>#595959</code></td>
     <td style="font-size:14px;">deep grey</td>
-  </tr>
-</table>
-
-
-<br><br>
-  
-
-<!-- Favicon (Logo) Colours -->
-
-<h3 style="text-align:center;margin-top:20px;margin-bottom:20px;"><u>Favicon Colours</u></h3>
-  
-
-<div style="width:128px;height:128px;position:relative;background:transparent;margin:0 auto;">
-
-  <!-- Grey -->
-  <div style="position:absolute;left:16px;top:16px;width:40px;height:40px;background:#595959;"></div>
-
-  <!-- Deep Cyan -->
-  <div style="position:absolute;left:56px;top:16px;width:40px;height:40px;background:#00B0B0;"></div>
-
-  <!-- Deep Magenta -->
-  <div style="position:absolute;left:16px;top:56px;width:40px;height:40px;background:#CB00CB;"></div>
-
-  <!-- Deep Yellow -->
-  <div style="position:absolute;left:72px;top:72px;width:40px;height:40px;background:#ECC33E;"></div>
-
-</div>
-
-
-<!-- Colour Table -->
-
-<table style="margin:0 auto;margin-top:20px;width:260px;">
-  <tr>
-    <td style="background:#00B0B0;width:32px;height:24px;"></td>
-    <td><code>#00B0B0</code></td>
-    <td>deep cyan</td>
-  </tr>
-  <tr>
-    <td style="background:#CB00CB;width:32px;height:24px;"></td>
-    <td><code>#CB00CB</code></td>
-    <td>deep magenta</td>
-  </tr>
-  <tr>
-    <td style="background:#ECC33E;width:32px;height:24px;"></td>
-    <td><code>#ECC33E</code></td>
-    <td>deep yellow</td>
-  </tr>
-  <tr>
-    <td style="background:#595959;width:32px;height:24px;"></td>
-    <td><code>#595959</code></td>
-    <td>deep grey</td>
   </tr>
 </table>
 
