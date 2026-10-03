@@ -10,7 +10,7 @@ layout: page
 <p style="margin-top: -20px">
   <font size="4">
     <div align="left">
-      This is just a test page; there’s nothing of intetest here (not unless reading a load of nonsense and staring at random images floats your boat).
+      This is just a test page; there’s nothing of intetest here (at least, not unless reading a load of nonsense and staring at random shapes floats your boat).
     </div>
   </font>
 </p>
@@ -69,7 +69,7 @@ layout: page
 <div style="width:210px;margin:0 auto;margin-top:20px;padding:24px;background:#E8E8D8;color:#333333;text-align:center;border:2px solid #CCCCCC;">
   <b>Unvisited links are dark
   <span style="color:#B000B0;">magenta</span>,
-  hovered-over links are dark
+  hovered-over links are dark<br>
   <span style="color:#937500;">yellow</span>,
   and visited links are dark
   <span style="color:#008B8B;">cyan</span>.</b>
