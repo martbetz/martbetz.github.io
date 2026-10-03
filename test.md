@@ -14,11 +14,11 @@ layout: page
    }
 </style>
 
-<center>
+<!--- <center>
 <h1><b>Nothing to see here!</b></h1>
 </center>
 
-<br>
+<br> -->
 
 <p style="margin-top: -20px">
   <font size="4">
