@@ -59,9 +59,9 @@ layout: page
 <div style="width:210px;margin:0 auto;margin-top:20px;padding:24px;background:#E8E8D8;color:#333333;text-align:center;border:2px solid #CCCCCC;">
   <b>Unvisited links are dark
   <span style="color:#B000B0;">magenta</span>,
-  hovered-over links are dark
+  hovered-over links are<br>dark
   <span style="color:#937500;">yellow</span>,
-  and visited links are dark
+  and visited links are<br>dark
   <span style="color:#008B8B;">cyan</span>.</b>
 </div>
 
