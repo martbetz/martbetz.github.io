@@ -1,3 +1,24 @@
+---
+title: Test Page
+layout: page
+---
+
+<head>
+<meta name="robots" content="noindex, nofollow, noimageindex, noarchive, nocache, nosnippet">
+</head>
+
+<!-- <style> 
+ img
+   { 
+     max-width: 84%; height: auto;
+   }
+</style>
+
+<center>
+<h1><b>Nothing to see here!</b></h1>
+</center>
+
+<br> -->
 
 
 <!-- Web Page Colours -->
