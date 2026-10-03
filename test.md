@@ -70,8 +70,8 @@ layout: page
   <b>Unvisited links are<br>
   <span style="color:#B000B0;">dark magenta</span>,
   hovered-over links are
-  <span style="color:#937500;">dark yellow</span>,<br>
-  and visited links are<br>
+  <span style="color:#937500;">dark yellow</span>,
+  and visited links are
   <span style="color:#008B8B;">dark cyan</span>.</b>
 </div>
 
