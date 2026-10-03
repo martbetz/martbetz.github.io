@@ -51,13 +51,13 @@ layout: page
   <table style="margin:0 auto;margin-top:20px;width:260px;">
     <tr>
       <td style="width:32px;height:24px;background:#E8E8D8;"></td>
-      <td><code>#E8E8D8</code></td>
-      <td>warm white</td>
+      <td ><code>#E8E8D8</code></td>
+      <td style="font-size:14px;">warm white</td>
     </tr>
     <tr>
       <td style="width:32px;height:24px;background:#333333;"></td>
       <td><code>#333333</code></td>
-      <td>charcoal black</td>
+      <td style="font-size:14px;">charcoal black</td>
     </tr>
   </table>
   
@@ -66,8 +66,8 @@ layout: page
 
 <!-- Hyperlink Colours -->
 
-<div style="width:210px;margin:0 auto;margin-top:20px;padding:24px;background:#E8E8D8;color:#333333;text-align:center;border:2px solid #cccccc;">
-  <b>Unvisited links are<br>
+<div style="width:210px;margin:0 auto;margin-top:20px;padding:24px;background:#E8E8D8;color:#333333;text-align:center;border:2px solid #CCCCCC;">
+  <b>Unvisited links are
   <span style="color:#B000B0;">dark magenta</span>,
   hovered-over links are
   <span style="color:#937500;">dark yellow</span>,
@@ -84,17 +84,68 @@ layout: page
   <tr>
     <td style="background:#B000B0;width:32px;height:24px;"></td>
     <td><code>#B000B0</code></td>
-    <td>dark magenta</td>
+    <td style="font-size:14px;">dark magenta</td>
   </tr>
   <tr>
     <td style="background:#937500;width:32px;height:24px;"></td>
     <td><code>#937500</code></td>
-    <td>dark yellow</td>
+    <td style="font-size:14px;">dark yellow</td>
   </tr>
   <tr>
     <td style="background:#008B8B;width:32px;height:24px;"></td>
     <td><code>#008B8B</code></td>
-    <td>dark cyan</td>
+    <td style="font-size:14px;">dark cyan</td>
+  </tr>
+</table>
+
+
+<br><br>
+  
+
+<!-- Favicon (Logo) Colours -->
+
+<h3 style="text-align:center;margin-top:20px;margin-bottom:20px;"><u>Favicon Colours</u></h3>
+  
+
+<div style="width:128px;height:128px;position:relative;background:transparent;margin:0 auto;">
+
+  <!-- Grey -->
+  <div style="position:absolute;left:16px;top:16px;width:40px;height:40px;background:#595959;"></div>
+
+  <!-- Deep Cyan -->
+  <div style="position:absolute;left:56px;top:16px;width:40px;height:40px;background:#00B0B0;"></div>
+
+  <!-- Deep Magenta -->
+  <div style="position:absolute;left:16px;top:56px;width:40px;height:40px;background:#CB00CB;"></div>
+
+  <!-- Deep Yellow -->
+  <div style="position:absolute;left:72px;top:72px;width:40px;height:40px;background:#ECC33E;"></div>
+
+</div>
+
+
+<!-- Colour Table -->
+
+<table style="margin:0 auto;margin-top:20px;width:260px;">
+  <tr>
+    <td style="background:#00B0B0;width:32px;height:24px;"></td>
+    <td><code>#00B0B0</code></td>
+    <td style="font-size:14px;">deep cyan</td>
+  </tr>
+  <tr>
+    <td style="background:#CB00CB;width:32px;height:24px;"></td>
+    <td><code>#CB00CB</code></td>
+    <td style="font-size:14px;">deep magenta</td>
+  </tr>
+  <tr>
+    <td style="background:#ECC33E;width:32px;height:24px;"></td>
+    <td><code>#ECC33E</code></td>
+    <td style="font-size:14px;">deep yellow</td>
+  </tr>
+  <tr>
+    <td style="background:#595959;width:32px;height:24px;"></td>
+    <td><code>#595959</code></td>
+    <td style="font-size:14px;">deep grey</td>
   </tr>
 </table>
 
