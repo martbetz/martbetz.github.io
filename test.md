@@ -1,24 +1,3 @@
----
-title: Test Page
-layout: page
----
-
-<head>
-<meta name="robots" content="noindex, nofollow, noimageindex, noarchive, nocache, nosnippet">
-</head>
-
-<!-- <style> 
- img
-   { 
-     max-width: 84%; height: auto;
-   }
-</style>
-
-<center>
-<h1><b>Nothing to see here!</b></h1>
-</center>
-
-<br> -->
 
 
 <!-- Web Page Colours -->
@@ -29,7 +8,7 @@ layout: page
   
 
   <div style="width:210px;margin:0 auto;padding:24px;background:#E8E8D8;color:#333333;text-align:center;border:2px solid #CCCCCC;">
-  <b>This combination provides a <strong>warm off-white background</strong> with <strong>near-black text</strong>, rather than the harsher combination of pure white and pure black.</b>
+  <b>This combination provides a <strong>warm off-white (cream) background</strong> with <strong>near-black (charcoal) text</strong>, rather than the harsher combination of pure white and pure black.</b>
 </div>
   
 
@@ -42,12 +21,12 @@ layout: page
     <tr>
       <td style="width:32px;height:24px;background:#E8E8D8;"></td>
       <td ><code>#E8E8D8</code></td>
-      <td style="font-size:14px;">warm white</td>
+      <td>cream</td>
     </tr>
     <tr>
       <td style="width:32px;height:24px;background:#333333;"></td>
       <td><code>#333333</code></td>
-      <td style="font-size:14px;">charcoal black</td>
+      <td>charcoal</td>
     </tr>
   </table>
   
@@ -57,12 +36,12 @@ layout: page
 <!-- Hyperlink Colours -->
 
 <div style="width:210px;margin:0 auto;margin-top:20px;padding:24px;background:#E8E8D8;color:#333333;text-align:center;border:2px solid #CCCCCC;">
-  <b>Unvisited links are
-  <span style="color:#B000B0;">dark magenta</span>,
-  hovered-over links are
-  <span style="color:#937500;">dark yellow</span>,
-  and visited links are
-  <span style="color:#008B8B;">dark cyan</span>.</b>
+  <b>Unvisited links are dark
+  <span style="color:#B000B0;">magenta</span>,
+  hovered-over links are dark
+  <span style="color:#937500;">yellow</span>,
+  and visited links are dark
+  <span style="color:#008B8B;">cyan</span>.</b>
 </div>
 
 <br>
@@ -74,17 +53,17 @@ layout: page
   <tr>
     <td style="background:#B000B0;width:32px;height:24px;"></td>
     <td><code>#B000B0</code></td>
-    <td style="font-size:14px;">dark magenta</td>
+    <td> magenta</td>
   </tr>
   <tr>
     <td style="background:#937500;width:32px;height:24px;"></td>
     <td><code>#937500</code></td>
-    <td style="font-size:14px;">dark yellow</td>
+    <td>yellow</td>
   </tr>
   <tr>
     <td style="background:#008B8B;width:32px;height:24px;"></td>
     <td><code>#008B8B</code></td>
-    <td style="font-size:14px;">dark cyan</td>
+    <td>cyan</td>
   </tr>
 </table>
 
@@ -120,22 +99,22 @@ layout: page
   <tr>
     <td style="background:#00B0B0;width:32px;height:24px;"></td>
     <td><code>#00B0B0</code></td>
-    <td style="font-size:14px;">deep cyan</td>
+    <td>cyan</td>
   </tr>
   <tr>
     <td style="background:#CB00CB;width:32px;height:24px;"></td>
     <td><code>#CB00CB</code></td>
-    <td style="font-size:14px;">deep magenta</td>
+    <td>magenta</td>
   </tr>
   <tr>
     <td style="background:#ECC33E;width:32px;height:24px;"></td>
     <td><code>#ECC33E</code></td>
-    <td style="font-size:14px;">deep yellow</td>
+    <td>yellow</td>
   </tr>
   <tr>
     <td style="background:#595959;width:32px;height:24px;"></td>
     <td><code>#595959</code></td>
-    <td style="font-size:14px;">deep grey</td>
+    <td>grey</td>
   </tr>
 </table>
 
