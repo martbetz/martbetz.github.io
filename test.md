@@ -7,14 +7,14 @@ layout: page
 <meta name="robots" content="noindex, nofollow, noimageindex, noarchive, nocache, nosnippet">
 </head>
 
-<style> 
+<!-- <style> 
  img
    { 
      max-width: 84%; height: auto;
    }
 </style>
 
-<!--- <center>
+<center>
 <h1><b>Nothing to see here!</b></h1>
 </center>
 
