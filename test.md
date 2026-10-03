@@ -67,7 +67,7 @@ layout: page
 <!-- Hyperlink Colours -->
 
 <div style="width:210px;margin:0 auto;margin-top:20px;padding:24px;background:#E8E8D8;color:#333333;text-align:center;border:2px solid #cccccc;">
-  <b>Unvisited links are
+  <b>Unvisited links are<br>
   <span style="color:#B000B0;">dark magenta</span>,
   hovered-over links are
   <span style="color:#937500;">dark yellow</span>,<br>
