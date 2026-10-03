@@ -7,7 +7,7 @@
   <h3 style="text-align:center;margin-top:50px;margin-bottom:30px;"><u>Page Colours</u></h3>
   
 
-  <div style="width:212px;margin:0 auto;padding:24px;background:#F1F1E9;color:#333333;text-align:center;border:1px solid #333333;">
+  <div style="width:212px;margin:0 auto;padding:24px;background:#E8E8D8;color:#333333;text-align:center;border:1px solid #333333;">
   <b>This combination provides a <strong>warm off-white background</strong> with <strong>near-black text</strong>, rather than the harsher combination of pure white and pure black.</b>
 </div>
   
@@ -19,8 +19,8 @@
 
   <table style="margin:0 auto;margin-top:20px;width:260px;">
     <tr>
-      <td style="width:32px;height:24px;background:#F1F1E9;"></td>
-      <td><code>#F1F1E9</code></td>
+      <td style="width:32px;height:24px;background:#E8E8D8;"></td>
+      <td><code>#E8E8D8</code></td>
       <td>warm white</td>
     </tr>
     <tr>
@@ -35,7 +35,7 @@
 
 <!-- Hyperlink Colours -->
 
-<div style="width:212px;margin:0 auto;margin-top:20px;padding:24px;background:#F1F1E9;color:#333333;text-align:center;border:1px solid #333333;">
+<div style="width:212px;margin:0 auto;margin-top:20px;padding:24px;background:#E8E8D8;color:#333333;text-align:center;border:1px solid #333333;">
   <b>Unvisited links are
   <span style="color:#B000B0;">dark magenta</span>,
   hovered-over links are
@@ -260,7 +260,7 @@
 
 <h3 style="text-align:center;margin-top:20px;margin-bottom:30px;"><u>Reference Colours</u></h3>
 
-<table style="margin:0 auto;margin-top:0;">
+<table style="margin:20px auto 0 auto;width:260px;">
   <tr>
     <td style="background:#FF0000;width:32px;height:24px;"></td>
     <td><code>#FF0000</code></td>
