@@ -7,6 +7,16 @@ layout: page
 <meta name="robots" content="noindex, nofollow, noimageindex, noarchive, nocache, nosnippet">
 </head>
 
+<p style="margin-top: -20px">
+  <font size="4">
+    <div align="left">
+      This is just a test page; there’s nothing of intetest here (not unless reading a load of nonsense and staring at random images floats your boat).
+    </div>
+  </font>
+</p>
+
+<hr>
+
 <!-- <style> 
  img
    { 
