@@ -17,7 +17,7 @@ layout: page
 
 <hr>
 
-!-- Web Page Colours -->
+<!-- Web Page Colours -->
 
 <div style="text-align:center;">
 
