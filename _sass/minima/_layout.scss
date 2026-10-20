@@ -47,11 +47,20 @@ body{
 }
 
 
+
+
+
+
+
+.site-header .wrapper {
+    position: relative;
+}
+
 .site-nav {
-    width: 100%;
-    max-width: 1200px; /* Match your page width */
-    margin: 0 auto;
-    box-sizing: border-box;
+    position: absolute;
+    right: 15px; /* Adjust as required */
+    top: 50%;
+    transform: translateY(-50%);
 }
 
 
