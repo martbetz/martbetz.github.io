@@ -239,9 +239,28 @@ body.dark pre code {
 
 @media screen and (min-width: 600px) {
 
-.site-header .wrapper {
-    position: relative;
+    .site-header .wrapper {
+        position: relative;
+    }
+
+    .site-nav {
+        position: absolute !important;
+        top: 9px !important;
+        right: 15px !important;
+
+        background-color: #E8E8D8 !important;
+        border: 1px solid #333333 !important;
+        border-radius: 5px !important;
+        text-align: right !important;
+    }
+
+    .site-nav label[for="nav-trigger"] {
+        display: block !important;
+    }
+
+    /* rest of your menu CSS */
 }
+
 
   
 
