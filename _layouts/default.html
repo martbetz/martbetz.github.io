@@ -176,59 +176,21 @@ vanilla-back-to-top options:
 
     /* Mobile Navigation */
 
-    body.dark .site-nav {
-        background: var(--header-footer-bg);
-        border-color: var(--header-footer-border);
-    }
+body.dark .site-nav .page-link,
+body.dark .site-nav .trigger .page-link {
+    color: #333333 !important;
+}
 
-    body.dark .site-nav .trigger {
-        background: var(--header-footer-bg);
-    }
+body.dark .site-nav .page-link:visited,
+body.dark .site-nav .trigger .page-link:visited {
+    color: #333333 !important;
+}
 
-    body.dark .site-nav .page-link,
-    body.dark .site-nav .trigger .page-link {
-        color: var(--nav-text-colour);
-    }
+body.dark .site-nav .page-link:hover,
+body.dark .site-nav .trigger .page-link:hover {
+    color: #000000 !important;
+}
 
-    body.dark .site-nav .page-link:visited,
-    body.dark .site-nav .trigger .page-link:visited {
-        color: var(--nav-text-colour);
-    }
-
-    body.dark .site-nav .page-link:hover,
-    body.dark .site-nav .trigger .page-link:hover {
-        color: var(--link-hover-colour);
-    }
-
-    body.dark .site-nav .menu-icon > svg path {
-        fill: var(--text-colour);
-    }
-
-    body.dark .site-nav label[for="nav-trigger"] {
-        background: var(--header-footer-bg);
-    }
-
-    @media screen and (max-width: 600px) {
-
-        body.dark .site-nav {
-            background-color: var(--header-footer-bg);
-            border: 1px solid var(--header-footer-border);
-        }
-
-        body.dark .site-nav .trigger {
-            background-color: var(--header-footer-bg);
-        }
-
-        body.dark .site-nav .page-link,
-        body.dark .site-nav .trigger .page-link {
-            color: var(--nav-text-colour) !important;
-        }
-
-        body.dark .site-nav .page-link:hover,
-        body.dark .site-nav .trigger .page-link:hover {
-            color: var(--link-hover-colour) !important;
-        }
-    }
 
     /* Meta Information */
 
