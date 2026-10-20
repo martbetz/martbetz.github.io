@@ -163,111 +163,7 @@ vanilla-back-to-top options:
         border-top-color: var(--header-footer-border);
     }
 
-    /* Desktop Navigation */
-
-/* Force mobile navigation on desktop */
-
-.site-nav {
-    position: absolute;
-    top: 9px;
-    right: 15px;
-    background-color: var(--bg-colour);
-    border: 1px solid var(--table-border-colour);
-    border-radius: 5px;
-    text-align: right;
-}
-
-.site-nav .nav-trigger {
-    display: none;
-}
-
-.site-nav label[for="nav-trigger"] {
-    display: block;
-    float: right;
-    width: 36px;
-    height: 36px;
-    z-index: 2;
-    cursor: pointer;
-}
-
-.site-nav .menu-icon {
-    display: block;
-}
-
-.site-nav input ~ .trigger {
-    clear: both;
-    display: none;
-}
-
-.site-nav input:checked ~ .trigger {
-    display: block;
-    padding-bottom: 5px;
-}
-
-.site-nav .page-link {
-    display: block;
-    padding: 5px 10px;
-    margin: 0;
-}
-
-
-    /* Mobile Navigation */
-
-body.dark .site-nav .page-link,
-body.dark .site-nav .trigger .page-link {
-    color: #333333 !important;
-}
-
-body.dark .site-nav .page-link:visited,
-body.dark .site-nav .trigger .page-link:visited {
-    color: #333333 !important;
-}
-
-body.dark .site-nav .page-link:hover,
-body.dark .site-nav .trigger .page-link:hover {
-    color: #000000 !important;
-}
-
-
-    /* Meta Information */
-
-    body.dark .post-meta {
-        color: var(--meta-colour);
-    }
-
-    /* Blockquotes */
-
-    body.dark blockquote {
-        border-left: 4px solid var(--blockquote-border);
-        background: var(--blockquote-bg);
-        color: var(--text-colour);
-        padding: 0.5em 1em;
-    }
-
-    /* Code */
-
-    body.dark code {
-        background: var(--code-bg);
-        color: var(--code-text);
-        border: 1px solid var(--pre-border);
-    }
-
-    body.dark pre {
-        background: var(--pre-bg);
-        color: var(--code-text);
-        border: 1px solid var(--pre-border);
-    }
-
-    body.dark .highlight {
-        background: var(--pre-bg);
-        border: 1px solid var(--pre-border);
-    }
-
-    /* Horizontal Rules */
-
-    body.dark hr {
-        border-color: var(--header-footer-border);
-    }
+    
 
     /* Tables */
 
@@ -313,6 +209,51 @@ td {
 }
 
 
+/* Force mobile navigation at all screen sizes */
+
+@media screen and (min-width: 600px) {
+
+    .site-nav {
+        position: absolute !important;
+        top: 9px !important;
+        right: 15px !important;
+        background-color: var(--bg-colour) !important;
+        border: 1px solid var(--table-border-colour) !important;
+        border-radius: 5px !important;
+        text-align: right !important;
+    }
+
+    .site-nav label[for="nav-trigger"] {
+        display: block !important;
+    }
+
+    .site-nav .menu-icon {
+        display: block !important;
+        float: none !important;
+    }
+
+    .site-nav .trigger {
+        clear: both !important;
+        display: none !important;
+    }
+
+    .site-nav input:checked ~ .trigger {
+        display: block !important;
+        padding-bottom: 5px !important;
+    }
+
+    .site-nav .page-link {
+        display: block !important;
+        padding: 5px 10px !important;
+        margin: 0 !important;
+        line-height: normal !important;
+    }
+}
+
+
+
+
+  
 
     /* Theme Toggle */
 
