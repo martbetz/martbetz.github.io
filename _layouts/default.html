@@ -241,33 +241,26 @@ color: #333333 !important;
 
 
 
-/* Desktop navigation dark mode */
-@media screen and (min-width: 650px) {
-
-  body.dark .site-nav .trigger .page-link,
-  body.dark .site-nav .trigger .page-link:link,
-  body.dark .site-nav .trigger .page-link:visited,
-  body.dark .site-nav .trigger .page-link:hover,
-  body.dark .site-nav .trigger .page-link:active,
-  body.dark .site-nav .trigger .page-link:focus {
+/* Desktop links */
+body.dark .site-nav .page-link,
+body.dark .site-nav .page-link:link,
+body.dark .site-nav .page-link:visited,
+body.dark .site-nav .page-link:hover,
+body.dark .site-nav .page-link:active,
+body.dark .site-nav .page-link:focus {
     color: #F2F2F2 !important;
-  }
-
 }
 
-/* Mobile navigation dark mode */
-@media screen and (max-width: 649px) {
-
-  body.dark .site-nav .trigger .page-link,
-  body.dark .site-nav .trigger .page-link:link,
-  body.dark .site-nav .trigger .page-link:visited,
-  body.dark .site-nav .trigger .page-link:hover,
-  body.dark .site-nav .trigger .page-link:active,
-  body.dark .site-nav .trigger .page-link:focus {
+/* Mobile dropdown links */
+body.dark .site-nav input:checked ~ .trigger .page-link,
+body.dark .site-nav input:checked ~ .trigger .page-link:link,
+body.dark .site-nav input:checked ~ .trigger .page-link:visited,
+body.dark .site-nav input:checked ~ .trigger .page-link:hover,
+body.dark .site-nav input:checked ~ .trigger .page-link:active,
+body.dark .site-nav input:checked ~ .trigger .page-link:focus {
     color: #333333 !important;
-  }
-
 }
+
 
 
 
