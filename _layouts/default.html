@@ -58,7 +58,7 @@ vanilla-back-to-top options:
 --> 
   </body>
 
-<!-- Theme Toggle 
+<!-- Theme Toggle -->
 
 <style>
     :root {
@@ -75,7 +75,7 @@ vanilla-back-to-top options:
 
     body {
         margin: 0;
-        padding: 0px;
+        padding: 0;
         background: var(--bg-colour);
         color: var(--text-colour);
         font-family: sans-serif;
@@ -85,13 +85,28 @@ vanilla-back-to-top options:
         --bg-colour: #404040;
         --text-colour: #F2F2F2;
         --table-border-colour: #F2F2F2;
-        $lm-site-title-color: #F2F2F2
+        --site-title-colour: #F2F2F2;
 
         /* Dark theme links */
         --link-colour: #F55FFF;
         --link-visited-colour: #00CCCC;
         --link-hover-colour: #ECC33E;
         --link-active-colour: #ECC33E;
+
+        /* Minima dark-mode extras */
+        --header-footer-bg: #404040;
+        --header-footer-border: #666666;
+        --nav-text-colour: #F2F2F2;
+        --meta-colour: #B0B0B0;
+
+        --blockquote-border: #AAAAAA;
+        --blockquote-bg: #4A4A4A;
+
+        --code-bg: #2A2A2A;
+        --code-text: #F2F2F2;
+
+        --pre-bg: #252525;
+        --pre-border: #666666;
     }
 
     /* Hyperlinks */
@@ -111,6 +126,63 @@ vanilla-back-to-top options:
         color: var(--link-active-colour);
     }
 
+    /* Minima Theme Elements */
+
+    body.dark .site-title,
+    body.dark .site-title:visited {
+        color: var(--site-title-colour);
+    }
+
+    body.dark .site-header {
+        background: var(--header-footer-bg);
+        border-top-color: var(--header-footer-border);
+        border-bottom-color: var(--header-footer-border);
+    }
+
+    body.dark .site-footer {
+        background: var(--header-footer-bg);
+        border-top-color: var(--header-footer-border);
+    }
+
+    body.dark .site-nav a,
+    body.dark .site-nav .page-link {
+        color: var(--nav-text-colour);
+    }
+
+    body.dark .post-meta {
+        color: var(--meta-colour);
+    }
+
+    body.dark blockquote {
+        border-left: 4px solid var(--blockquote-border);
+        background: var(--blockquote-bg);
+        color: var(--text-colour);
+        padding: 0.5em 1em;
+    }
+
+    body.dark code {
+        background: var(--code-bg);
+        color: var(--code-text);
+        border: 1px solid var(--pre-border);
+    }
+
+    body.dark pre {
+        background: var(--pre-bg);
+        color: var(--code-text);
+        border: 1px solid var(--pre-border);
+    }
+
+    body.dark .highlight {
+        background: var(--pre-bg);
+        border: 1px solid var(--pre-border);
+    }
+
+    body.dark hr {
+        border-color: var(--header-footer-border);
+    }
+
+    /* Theme Toggle */
+
     .theme-toggle {
 
         /* Floating version disabled */
@@ -122,8 +194,7 @@ vanilla-back-to-top options:
         */
 
         width: 30px;
-        margin: 20px auto;
-        margin-top: -50px;
+        margin: 40px auto;
         text-align: center;
     }
 
@@ -170,6 +241,7 @@ vanilla-back-to-top options:
     }
 
     /* Tables */
+
     table {
         border-collapse: collapse;
     }
@@ -192,14 +264,39 @@ vanilla-back-to-top options:
         <span class="slider"></span>
     </label>
 
+    <!--
+    <div class="theme-label">Light / Dark</div>
+    -->
 </div>
 
+<!-- Retain User Preference -->
+
 <script>
-document.getElementById('themeToggle').addEventListener('change', function () {
-    document.body.classList.toggle('dark', this.checked);
+document.addEventListener('DOMContentLoaded', function() {
+
+    const toggle = document.getElementById('themeToggle');
+
+    if (localStorage.getItem('theme') === 'dark') {
+        document.body.classList.add('dark');
+        toggle.checked = true;
+    }
+
+    toggle.addEventListener('change', function() {
+
+        if (this.checked) {
+            document.body.classList.add('dark');
+            localStorage.setItem('theme', 'dark');
+        } else {
+            document.body.classList.remove('dark');
+            localStorage.setItem('theme', 'light');
+        }
+
+    });
+
 });
 </script>
 
-End of Theme Toggle -->
+<!-- End of Theme Toggle -->
+
 
 </html>
