@@ -60,11 +60,14 @@ vanilla-back-to-top options:
 
 <!-- Theme Toggle -->
 
+<!-- Theme Toggle -->
+
 <style>
     :root {
         --bg-colour: #E8E8D8;
         --text-colour: #333333;
         --table-border-colour: #333333;
+        --table-header-bg: #D8D8C8;
         --site-title-colour: #333333;
 
         /* Light theme links */
@@ -85,7 +88,10 @@ vanilla-back-to-top options:
     body.dark {
         --bg-colour: #404040;
         --text-colour: #F2F2F2;
+
         --table-border-colour: #F2F2F2;
+        --table-header-bg: #505050;
+
         --site-title-colour: #F2F2F2;
 
         /* Dark theme links */
@@ -110,6 +116,13 @@ vanilla-back-to-top options:
         --pre-border: #666666;
     }
 
+    /* Page */
+
+    body {
+        background: var(--bg-colour);
+        color: var(--text-colour);
+    }
+
     /* Hyperlinks */
 
     a:link {
@@ -128,19 +141,14 @@ vanilla-back-to-top options:
         color: var(--link-active-colour);
     }
 
-    /* Site title */
+    /* Site Title */
 
     .site-title,
     .site-title:visited {
         color: var(--site-title-colour);
     }
 
-    /* Minima Theme Elements */
-
-    body.dark .site-title,
-    body.dark .site-title:visited {
-        color: var(--site-title-colour);
-    }
+    /* Header */
 
     body.dark .site-header {
         background: var(--header-footer-bg);
@@ -148,14 +156,22 @@ vanilla-back-to-top options:
         border-bottom-color: var(--header-footer-border);
     }
 
+    /* Footer */
+
     body.dark .site-footer {
         background: var(--header-footer-bg);
         border-top-color: var(--header-footer-border);
     }
 
+    /* Desktop Navigation */
+
     body.dark .site-nav a,
     body.dark .site-nav .page-link {
         color: var(--nav-text-colour);
+    }
+
+    body.dark .site-nav .page-link:hover {
+        color: var(--link-hover-colour);
     }
 
     /* Mobile Navigation */
@@ -184,8 +200,6 @@ vanilla-back-to-top options:
         color: var(--link-hover-colour);
     }
 
-    /* Hamburger icon */
-
     body.dark .site-nav .menu-icon > svg path {
         fill: var(--text-colour);
     }
@@ -193,8 +207,6 @@ vanilla-back-to-top options:
     body.dark .site-nav label[for="nav-trigger"] {
         background: var(--header-footer-bg);
     }
-
-    /* Mobile-specific overrides */
 
     @media screen and (max-width: 600px) {
 
@@ -218,9 +230,13 @@ vanilla-back-to-top options:
         }
     }
 
+    /* Meta Information */
+
     body.dark .post-meta {
         color: var(--meta-colour);
     }
+
+    /* Blockquotes */
 
     body.dark blockquote {
         border-left: 4px solid var(--blockquote-border);
@@ -228,6 +244,8 @@ vanilla-back-to-top options:
         color: var(--text-colour);
         padding: 0.5em 1em;
     }
+
+    /* Code */
 
     body.dark code {
         background: var(--code-bg);
@@ -246,15 +264,37 @@ vanilla-back-to-top options:
         border: 1px solid var(--pre-border);
     }
 
+    /* Horizontal Rules */
+
     body.dark hr {
         border-color: var(--header-footer-border);
+    }
+
+    /* Tables */
+
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin: 1em 0;
+        border: 2px solid var(--table-border-colour);
+    }
+
+    th,
+    td {
+        border: 2px solid var(--table-border-colour);
+        padding: 8px 12px;
+        text-align: left;
+    }
+
+    th {
+        font-weight: bold;
+        background: var(--table-header-bg);
     }
 
     /* Theme Toggle */
 
     .theme-toggle {
 
-        /* Floating version disabled */
         /*
         position: fixed;
         top: 15px;
@@ -309,23 +349,6 @@ vanilla-back-to-top options:
         font-weight: bold;
         text-align: center;
     }
-
-    /* Tables */
-
-    table {
-        border-collapse: collapse;
-    }
-
-    table,
-    th,
-    td {
-        border: 1px solid var(--table-border-colour);
-    }
-
-    th,
-    td {
-        padding: 8px;
-    }
 </style>
 
 <div class="theme-toggle">
@@ -367,21 +390,11 @@ document.addEventListener('DOMContentLoaded', function () {
 <!-- End of Theme Toggle -->
 
 
+<!-- End of Theme Toggle -->
+
+
 <!-- Tables -->
 
-<style>
-  table,
-  th,
-  td {
-    border: 2px solid;
-    border-collapse: collapse;
-  }
-
-  th,
-  td {
-    padding: 8px;
-  }
-</style>
 
 
 
