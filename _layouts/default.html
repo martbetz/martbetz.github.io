@@ -165,14 +165,20 @@ vanilla-back-to-top options:
 
     /* Desktop Navigation */
 
-    body.dark .site-nav a,
-    body.dark .site-nav .page-link {
-        color: var(--nav-text-colour);
-    }
+body.dark .site-nav a,
+body.dark .site-nav a:visited,
+body.dark .site-nav .page-link,
+body.dark .site-nav .page-link:visited {
+    color: #F2F2F2 !important;
+}
 
-    body.dark .site-nav .page-link:hover {
-        color: var(--link-hover-colour);
-    }
+body.dark .site-nav a:hover,
+body.dark .site-nav a:active,
+body.dark .site-nav .page-link:hover,
+body.dark .site-nav .page-link:active {
+    color: #F2F2F2 !important;
+}
+
 
     /* Mobile Navigation */
 
