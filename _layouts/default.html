@@ -58,4 +58,123 @@ vanilla-back-to-top options:
 --> 
   </body>
 
+<!-- Theme Toggle -->
+
+<style>
+    :root {
+        --bg-colour: #404040;
+        --text-colour: #F2F2F2;
+        --table-border-colour: #F2F2F2;
+    }
+
+    body {
+        margin: 0;
+        padding: 0px;
+        background: var(--bg-colour);
+        color: var(--text-colour);
+        font-family: sans-serif;
+    }
+
+    body.light {
+        --bg-colour: #E8E8D8;
+        --text-colour: #333333;
+        --table-border-colour: #333333;
+    }
+
+    .theme-toggle {
+
+        /* Floating version disabled */
+        /*
+        position: fixed;
+        top: 15px;
+        right: 15px;
+        z-index: 2147483647;
+        */
+
+        width: 30px;
+        margin: 0px auto;
+        text-align: center;
+    }
+
+    .theme-toggle input {
+        display: none;
+    }
+
+    .slider {
+        display: block;
+        width: 30px;
+        height: 17px;
+        background: #CB00CB;
+        border-radius: 17px;
+        cursor: pointer;
+        position: relative;
+        transition: .3s;
+    }
+
+    .slider::before {
+        content: "";
+        position: absolute;
+        width: 13px;
+        height: 13px;
+        left: 2px;
+        top: 2px;
+        background: #F2F2F2;
+        border-radius: 50%;
+        transition: .3s;
+    }
+
+    #themeToggle:checked + .slider {
+        background: #00B0B0;
+    }
+
+    #themeToggle:checked + .slider::before {
+        transform: translateX(13px);
+    }
+
+    .theme-label {
+        margin-top: 8px;
+        font-size: 11px;
+        font-weight: bold;
+        text-align: center;
+    }
+
+    /* Tables */
+    table {
+        border-collapse: collapse;
+    }
+
+    table,
+    th,
+    td {
+        border: 1px solid var(--table-border-colour);
+    }
+
+    th,
+    td {
+        padding: 8px;
+    }
+</style>
+
+<div class="theme-toggle">
+    <label>
+        <input type="checkbox" id="themeToggle">
+        <span class="slider"></span>
+    </label>
+
+    <!--
+    <div class="theme-label">Dark / Light</div>
+    -->
+</div>
+
+<script>
+document.getElementById('themeToggle').addEventListener('change', function () {
+    document.body.classList.toggle('light', this.checked);
+});
+</script>
+
+<!-- End of Theme Toggle -->
+
+
+
+
 </html>
