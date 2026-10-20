@@ -5,22 +5,22 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {%- seo -%}
+
+
+<script>
+if (localStorage.getItem('theme') === 'dark') {
+    document.documentElement.classList.add('dark');
+}
+</script>
+
+
+  
   <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
   {%- feed_meta -%}
   <link rel="shortcut icon" type="image/ico" href="/favicon.ico">
   <!-- {%- if jekyll.environment == 'production' and site.google_analytics -%}
     {%- include google-analytics.html -%}
   {%- endif -%} -->
-
-  <style>
-html {
-    background: #E8E8D8;
-}
-
-html.dark {
-    background: #404040;
-}
-   </style>
   
   {%- include custom-head.html -%}
   
