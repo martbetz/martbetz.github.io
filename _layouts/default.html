@@ -238,13 +238,12 @@ table {
     width: 100%;
     border-collapse: collapse;
     margin: 1em 0;
-    border: 2px solid var(--table-border-colour);
     color: var(--text-colour);
 }
 
 th,
 td {
-    border: 2px solid var(--table-border-colour);
+    border: 1px solid var(--table-border-colour);
     padding: 8px 12px;
     text-align: left;
     vertical-align: top;
@@ -261,6 +260,18 @@ tbody tr:nth-child(even) {
 /* Ensure rows themselves don't apply colours */
 
 tr {
+    color: var(--text-colour);
+}
+
+/* Ensure table text follows page text colour */
+
+table,
+thead,
+tbody,
+tfoot,
+tr,
+th,
+td {
     color: var(--text-colour);
 }
 
