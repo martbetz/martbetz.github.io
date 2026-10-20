@@ -389,6 +389,50 @@ document.addEventListener('DOMContentLoaded', function () {
 <!-- End of Theme Toggle -->
 
 
+/* Force mobile navigation on desktop */
+
+.site-nav {
+    position: absolute;
+    top: 9px;
+    right: 15px;
+    background-color: var(--bg-colour);
+    border: 1px solid var(--table-border-colour);
+    border-radius: 5px;
+    text-align: right;
+}
+
+.site-nav .nav-trigger {
+    display: none;
+}
+
+.site-nav label[for="nav-trigger"] {
+    display: block;
+    float: right;
+    width: 36px;
+    height: 36px;
+    z-index: 2;
+    cursor: pointer;
+}
+
+.site-nav .menu-icon {
+    display: block;
+}
+
+.site-nav input ~ .trigger {
+    clear: both;
+    display: none;
+}
+
+.site-nav input:checked ~ .trigger {
+    display: block;
+    padding-bottom: 5px;
+}
+
+.site-nav .page-link {
+    display: block;
+    padding: 5px 10px;
+    margin: 0;
+}
 
 
 
