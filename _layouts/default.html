@@ -390,10 +390,46 @@ document.addEventListener('DOMContentLoaded', function () {
 <!-- End of Theme Toggle -->
 
 
-<!-- End of Theme Toggle -->
-
-
 <!-- Tables -->
+
+/* Tables */
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1em 0;
+    border: 2px solid var(--table-border-colour);
+    background: transparent;
+    color: var(--text-colour);
+}
+
+thead,
+tbody,
+tr,
+th,
+td {
+    background: transparent !important;
+    color: var(--text-colour) !important;
+}
+
+th,
+td {
+    border: 2px solid var(--table-border-colour);
+    padding: 8px 12px;
+    text-align: left;
+}
+
+th {
+    font-weight: bold;
+}
+
+/* Disable Minima's alternating row colours */
+
+tbody tr:nth-child(odd),
+tbody tr:nth-child(even) {
+    background: transparent !important;
+}
+
 
 
 
