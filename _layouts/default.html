@@ -57,10 +57,6 @@ vanilla-back-to-top options:
 
 --> 
 
-  .site-nav {
-    position: absolute;
-    right: max(15px, calc((100vw - 800px) / 2));
-}
 
     
   </body>
@@ -243,10 +239,17 @@ body.dark pre code {
 
 @media screen and (min-width: 600px) {
 
-    .site-nav {
-        position: absolute !important;
-        top: 9px !important;
-        right: 15px !important;
+.site-header .wrapper {
+    position: relative;
+}
+
+  
+   .site-nav {
+    position: absolute !important;
+    top: 9px !important;
+    right: 15px !important;
+}
+
 
         /* Match mobile menu colours exactly */
         background-color: #E8E8D8 !important;
