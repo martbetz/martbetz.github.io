@@ -167,20 +167,36 @@ vanilla-back-to-top options:
 
 @media screen and (min-width: 600px) {
 
-    body.dark .site-nav .trigger,
-    body.dark .site-nav .trigger a,
-    body.dark .site-nav .trigger a:link,
-    body.dark .site-nav .trigger a:visited,
-    body.dark .site-nav .trigger a:hover,
-    body.dark .site-nav .trigger a:active,
-    body.dark .site-nav .trigger a:focus,
-    body.dark .site-nav .trigger .page-link,
-    body.dark .site-nav .trigger .page-link:link,
-    body.dark .site-nav .trigger .page-link:visited,
-    body.dark .site-nav .trigger .page-link:hover,
-    body.dark .site-nav .trigger .page-link:active,
-    body.dark .site-nav .trigger .page-link:focus {
-        color: #F2F2F2 !important;
+    .site-nav {
+        position: absolute !important;
+        top: 9px !important;
+        right: 15px !important;
+        background-color: var(--bg-colour) !important;
+        border: 1px solid var(--table-border-colour) !important;
+        border-radius: 5px !important;
+        text-align: right !important;
+    }
+
+    .site-nav label[for="nav-trigger"] {
+        display: block !important;
+    }
+
+    .site-nav .menu-icon {
+        display: block !important;
+    }
+
+    .site-nav .trigger {
+        display: none;
+    }
+
+    .site-nav input:checked ~ .trigger {
+        display: block !important;
+    }
+
+    .site-nav .page-link {
+        display: block !important;
+        padding: 5px 10px !important;
+        margin: 0 !important;
     }
 
 }
@@ -388,51 +404,6 @@ document.addEventListener('DOMContentLoaded', function () {
 
 <!-- End of Theme Toggle -->
 
-
-/* Force mobile navigation on desktop */
-
-.site-nav {
-    position: absolute;
-    top: 9px;
-    right: 15px;
-    background-color: var(--bg-colour);
-    border: 1px solid var(--table-border-colour);
-    border-radius: 5px;
-    text-align: right;
-}
-
-.site-nav .nav-trigger {
-    display: none;
-}
-
-.site-nav label[for="nav-trigger"] {
-    display: block;
-    float: right;
-    width: 36px;
-    height: 36px;
-    z-index: 2;
-    cursor: pointer;
-}
-
-.site-nav .menu-icon {
-    display: block;
-}
-
-.site-nav input ~ .trigger {
-    clear: both;
-    display: none;
-}
-
-.site-nav input:checked ~ .trigger {
-    display: block;
-    padding-bottom: 5px;
-}
-
-.site-nav .page-link {
-    display: block;
-    padding: 5px 10px;
-    margin: 0;
-}
 
 
 
