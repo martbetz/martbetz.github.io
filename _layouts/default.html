@@ -65,6 +65,7 @@ vanilla-back-to-top options:
         --bg-colour: #E8E8D8;
         --text-colour: #333333;
         --table-border-colour: #333333;
+        --site-title-colour: #333333;
 
         /* Light theme links */
         --link-colour: #B000B0;
@@ -110,6 +111,7 @@ vanilla-back-to-top options:
     }
 
     /* Hyperlinks */
+
     a:link {
         color: var(--link-colour);
     }
@@ -124,6 +126,13 @@ vanilla-back-to-top options:
 
     a:active {
         color: var(--link-active-colour);
+    }
+
+    /* Site title */
+
+    .site-title,
+    .site-title:visited {
+        color: var(--site-title-colour);
     }
 
     /* Minima Theme Elements */
@@ -147,6 +156,66 @@ vanilla-back-to-top options:
     body.dark .site-nav a,
     body.dark .site-nav .page-link {
         color: var(--nav-text-colour);
+    }
+
+    /* Mobile Navigation */
+
+    body.dark .site-nav {
+        background: var(--header-footer-bg);
+        border-color: var(--header-footer-border);
+    }
+
+    body.dark .site-nav .trigger {
+        background: var(--header-footer-bg);
+    }
+
+    body.dark .site-nav .page-link,
+    body.dark .site-nav .trigger .page-link {
+        color: var(--nav-text-colour);
+    }
+
+    body.dark .site-nav .page-link:visited,
+    body.dark .site-nav .trigger .page-link:visited {
+        color: var(--nav-text-colour);
+    }
+
+    body.dark .site-nav .page-link:hover,
+    body.dark .site-nav .trigger .page-link:hover {
+        color: var(--link-hover-colour);
+    }
+
+    /* Hamburger icon */
+
+    body.dark .site-nav .menu-icon > svg path {
+        fill: var(--text-colour);
+    }
+
+    body.dark .site-nav label[for="nav-trigger"] {
+        background: var(--header-footer-bg);
+    }
+
+    /* Mobile-specific overrides */
+
+    @media screen and (max-width: 600px) {
+
+        body.dark .site-nav {
+            background-color: var(--header-footer-bg);
+            border: 1px solid var(--header-footer-border);
+        }
+
+        body.dark .site-nav .trigger {
+            background-color: var(--header-footer-bg);
+        }
+
+        body.dark .site-nav .page-link,
+        body.dark .site-nav .trigger .page-link {
+            color: var(--nav-text-colour) !important;
+        }
+
+        body.dark .site-nav .page-link:hover,
+        body.dark .site-nav .trigger .page-link:hover {
+            color: var(--link-hover-colour) !important;
+        }
     }
 
     body.dark .post-meta {
@@ -195,6 +264,7 @@ vanilla-back-to-top options:
 
         width: 30px;
         margin: 40px auto;
+        margin-top: -40px;
         text-align: center;
     }
 
@@ -269,10 +339,8 @@ vanilla-back-to-top options:
     -->
 </div>
 
-<!-- Retain User Preference -->
-
 <script>
-document.addEventListener('DOMContentLoaded', function() {
+document.addEventListener('DOMContentLoaded', function () {
 
     const toggle = document.getElementById('themeToggle');
 
@@ -281,7 +349,7 @@ document.addEventListener('DOMContentLoaded', function() {
         toggle.checked = true;
     }
 
-    toggle.addEventListener('change', function() {
+    toggle.addEventListener('change', function () {
 
         if (this.checked) {
             document.body.classList.add('dark');
@@ -297,6 +365,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </script>
 
 <!-- End of Theme Toggle -->
+
 
 
 </html>
