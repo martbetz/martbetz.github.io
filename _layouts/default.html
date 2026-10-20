@@ -64,5 +64,339 @@ background: transparent !important;
 </style>
 
 
+
+
+
+
+<!-- ‐----------------- -->
+
+
+
+
+
+ <!-- Theme Toggle -->
+
+<style>
+:root {
+--bg-colour: #E8E8D8;
+--text-colour: #333333;
+--table-border-colour: #333333;
+--table-header-bg: #D8D8C8;
+--site-title-colour: #333333;
+
+/* Light theme links */
+--link-colour: #B000B0;
+--link-visited-colour: #008B8B;
+--link-hover-colour: #937500;
+--link-active-colour: #937500;
+}
+
+body {
+margin: 0;
+padding: 0;
+background: var(--bg-colour);
+color: var(--text-colour);
+font-family: sans-serif;
+}
+
+body.dark {
+--bg-colour: #404040;
+--text-colour: #F2F2F2;
+
+--table-border-colour: #F2F2F2;
+--table-header-bg: #505050;
+
+--site-title-colour: #F2F2F2;
+
+/* Dark theme links */
+--link-colour: #F55FFF;
+--link-visited-colour: #00CCCC;
+--link-hover-colour: #ECC33E;
+--link-active-colour: #ECC33E;
+
+/* Minima dark-mode extras */
+--header-footer-bg: #404040;
+--header-footer-border: #666666;
+--nav-text-colour: #F2F2F2;
+--meta-colour: #B0B0B0;
+
+--blockquote-border: #AAAAAA;
+--blockquote-bg: #4A4A4A;
+
+--code-bg: #2A2A2A;
+--code-text: #333333;
+
+--pre-bg: #252525;
+--pre-border: #666666;
+}
+
+/* Page */
+
+body {
+background: var(--bg-colour);
+color: var(--text-colour);
+}
+
+/* Hyperlinks */
+
+a:link {
+color: var(--link-colour);
+}
+
+a:visited {
+color: var(--link-visited-colour);
+}
+
+a:hover {
+color: var(--link-hover-colour);
+}
+
+a:active {
+color: var(--link-active-colour);
+}
+
+/* Site Title */
+
+.site-title,
+.site-title:visited {
+color: var(--site-title-colour);
+}
+
+/* Header */
+
+body.dark .site-header {
+background: var(--header-footer-bg);
+border-top-color: var(--header-footer-border);
+border-bottom-color: var(--header-footer-border);
+}
+
+/* Footer */
+
+body.dark .site-footer {
+background: var(--header-footer-bg);
+border-top-color: var(--header-footer-border);
+}
+
+
+
+
+
+
+
+
+/* Tables */
+
+table {
+width: 100%;
+border-collapse: collapse;
+margin: 1em 0;
+color: var(--text-colour);
+}
+
+th,
+td {
+border: 1px solid var(--table-border-colour);
+padding: 8px 12px;
+text-align: left;
+vertical-align: top;
+color: var(--text-colour);
+}
+
+/* Remove Minima's row striping without affecting cell colours */
+
+tbody tr:nth-child(odd),
+tbody tr:nth-child(even) {
+background: transparent !important;
+}
+
+/* Ensure rows themselves don't apply colours */
+
+tr {
+color: var(--text-colour);
+}
+
+/* Ensure table text follows page text colour */
+
+table,
+thead,
+tbody,
+tfoot,
+tr,
+th,
+td {
+color: var(--text-colour);
+}
+
+
+
+body.dark code,
+body.dark pre,
+body.dark pre code {
+color: #333333 !important;
+}
+
+
+
+
+
+
+
+/* Desktop navigation dark mode */
+
+body.dark .site-nav .trigger .page-link,
+body.dark .site-nav .trigger .page-link:link,
+body.dark .site-nav .trigger .page-link:visited,
+body.dark .site-nav .trigger .page-link:hover,
+body.dark .site-nav .trigger .page-link:active,
+body.dark .site-nav .trigger .page-link:focus {
+color: #F2F2F2 !important;
+}
+
+
+/* Mobile menu dark mode = same colours as light mode */
+
+@media screen and (max-width: 599px) {
+
+  body.dark .site-nav,
+  body.dark .site-nav .trigger {
+    background-color: #E8E8D8 !important;
+    border-color: #333333 !important;
+  }
+
+  /* Hamburger icon bars */
+  body.dark .site-nav .menu-icon svg path {
+    fill: #333333 !important;
+  }
+
+  /* Hamburger icon border */
+  body.dark .site-nav .menu-icon {
+    border-color: #333333 !important;
+  }
+
+  /* Menu links */
+  body.dark .site-nav .page-link,
+  body.dark .site-nav .page-link:link,
+  body.dark .site-nav .page-link:visited,
+  body.dark .site-nav .page-link:hover,
+  body.dark .site-nav .page-link:active,
+  body.dark .site-nav .page-link:focus {
+    color: #333333 !important;
+    background-color: #E8E8D8 !important;
+  }
+
+}
+
+
+
+
+
+
+
+
+
+/* Theme Toggle */
+
+.theme-toggle {
+
+/*
+position: fixed;
+top: 15px;
+right: 15px;
+z-index: 2147483647;
+*/
+
+width: 30px;
+margin: 40px auto;
+margin-top: -40px;
+text-align: center;
+}
+
+.theme-toggle input {
+display: none;
+}
+
+.slider {
+display: block;
+width: 30px;
+height: 17px;
+background: #CB00CB;
+border-radius: 17px;
+cursor: pointer;
+position: relative;
+transition: .3s;
+}
+
+.slider::before {
+content: "";
+position: absolute;
+width: 13px;
+height: 13px;
+left: 2px;
+top: 2px;
+background: #F2F2F2;
+border-radius: 50%;
+transition: .3s;
+}
+
+#themeToggle:checked + .slider {
+background: #00B0B0;
+}
+
+#themeToggle:checked + .slider::before {
+transform: translateX(13px);
+}
+
+.theme-label {
+margin-top: 8px;
+font-size: 11px;
+font-weight: bold;
+text-align: center;
+}
+</style>
+
+<div class="theme-toggle">
+<label>
+<input type="checkbox" id="themeToggle">
+<span class="slider"></span>
+</label>
+
+<!--
+<div class="theme-label">Light / Dark</div>
+-->
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+
+const toggle = document.getElementById('themeToggle');
+
+if (localStorage.getItem('theme') === 'dark') {
+document.body.classList.add('dark');
+toggle.checked = true;
+}
+
+toggle.addEventListener('change', function () {
+
+if (this.checked) {
+document.body.classList.add('dark');
+localStorage.setItem('theme', 'dark');
+} else {
+document.body.classList.remove('dark');
+localStorage.setItem('theme', 'light');
+}
+
+});
+
+});
+</script>
+
+<!-- End of Theme Toggle -->
+
+
+
+
+
+    
+
 </body>
 </html>
