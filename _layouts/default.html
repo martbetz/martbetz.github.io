@@ -459,7 +459,7 @@ document.addEventListener('DOMContentLoaded', function () {
     z-index: 10;
 }
 
-/* Main dial */
+/* Main Dial */
 
 .dial {
     position: relative;
@@ -477,25 +477,20 @@ document.addEventListener('DOMContentLoaded', function () {
 
     border: 1px solid #666;
 
-    /* box-shadow:
-        inset 0 1px 2px rgba(255,255,255,.6),
-        inset 0 -2px 3px rgba(0,0,0,.25),
-        0 2px 4px rgba(0,0,0,.18); */
-
     transition: transform .35s ease;
 }
 
-/* Inner ring */
+/* Inner Ring */
 
 .dial::before {
     content: "";
     position: absolute;
-    inset: 3px;
+    inset: 9px;                 /* equivalent of 25px on the large dial */
     border-radius: 50%;
     border: 1px solid rgba(0,0,0,.2);
 }
 
-/* Centre label */
+/* Centre Label */
 
 .dial::after {
     content: "EXP";
@@ -512,7 +507,7 @@ document.addEventListener('DOMContentLoaded', function () {
     color: #222;
 }
 
-/* Markings */
+/* Dial Markings */
 
 .mark {
     position: absolute;
@@ -521,18 +516,20 @@ document.addEventListener('DOMContentLoaded', function () {
     width: 100%;
     height: 100%;
     transform-origin: center center;
+
     font-size: 5px;
-    font-weight: 700;
+    font-weight: 600;
     color: #222;
 }
 
 .mark span {
     position: absolute;
-    top: 2px;
+    top: 2px;                   /* copied from the larger dial */
     left: 50%;
+    white-space: nowrap;
 }
 
-/* Positions */
+/* Mark Positions */
 
 .m1 { transform: translate(-50%,-50%) rotate(-90deg); }
 .m2 { transform: translate(-50%,-50%) rotate(-60deg); }
@@ -541,6 +538,16 @@ document.addEventListener('DOMContentLoaded', function () {
 .m5 { transform: translate(-50%,-50%) rotate(30deg); }
 .m6 { transform: translate(-50%,-50%) rotate(60deg); }
 .m7 { transform: translate(-50%,-50%) rotate(90deg); }
+
+/* Keep Labels Upright */
+
+.m1 span { transform: translateX(-50%) rotate(90deg); }
+.m2 span { transform: translateX(-50%) rotate(60deg); }
+.m3 span { transform: translateX(-50%) rotate(30deg); }
+.m4 span { transform: translateX(-50%) rotate(0deg); }
+.m5 span { transform: translateX(-50%) rotate(-30deg); }
+.m6 span { transform: translateX(-50%) rotate(-60deg); }
+.m7 span { transform: translateX(-50%) rotate(-90deg); }
 
 .m1 span { transform: translateX(-50%) rotate(90deg); }
 .m2 span { transform: translateX(-50%) rotate(60deg); }
