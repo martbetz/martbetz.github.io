@@ -327,9 +327,7 @@ body.dark .site-nav input:checked ~ .trigger .page-link:focus {
 
 
 
-<style>
-
-/* Theme Toggle */
+<!-- <style>
 
 .theme-toggle {
     width: 30px;
@@ -388,11 +386,11 @@ body.dark .site-nav input:checked ~ .trigger .page-link:focus {
     <label>
         <input type="checkbox" id="themeToggle">
         <span class="slider"></span>
-    </label>
+    </label> -->
 
     <!--
     <div class="theme-label">Light / Dark</div>
-    -->
+    --> <!--
 </div>
 
 <script>
@@ -420,9 +418,199 @@ document.addEventListener('DOMContentLoaded', function () {
 });
 </script>
 
-
 <!-- End of Theme Toggle -->
 
+
+
+
+
+    <style>
+
+/* Fuji Exposure Dial Theme Toggle */
+
+.theme-toggle {
+    width: 46px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -40px;
+    padding-bottom: 60px;
+    text-align: center;
+}
+
+.dial-wrapper {
+    position: relative;
+    width: 46px;
+    height: 46px;
+    cursor: pointer;
+    user-select: none;
+}
+
+/* Red index marker */
+
+.index-marker {
+    position: absolute;
+    top: -2px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 2px;
+    height: 6px;
+    background: #cc0000;
+    border-radius: 1px;
+    z-index: 10;
+}
+
+/* Main dial */
+
+.dial {
+    position: relative;
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+
+    background:
+        radial-gradient(
+            circle at 35% 35%,
+            #e4e4e4,
+            #bdbdbd 60%,
+            #8b8b8b
+        );
+
+    border: 1px solid #666;
+
+    box-shadow:
+        inset 0 1px 2px rgba(255,255,255,.6),
+        inset 0 -2px 3px rgba(0,0,0,.25),
+        0 2px 4px rgba(0,0,0,.18);
+
+    transition: transform .35s ease;
+}
+
+/* Inner ring */
+
+.dial::before {
+    content: "";
+    position: absolute;
+    inset: 3px;
+    border-radius: 50%;
+    border: 1px solid rgba(0,0,0,.2);
+}
+
+/* Centre label */
+
+.dial::after {
+    content: "EXP";
+    position: absolute;
+    inset: 0;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    font-size: 6px;
+    font-weight: 700;
+    letter-spacing: .1em;
+    color: #222;
+}
+
+/* Markings */
+
+.mark {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 100%;
+    height: 100%;
+    transform-origin: center center;
+    font-size: 5px;
+    font-weight: 700;
+    color: #222;
+}
+
+.mark span {
+    position: absolute;
+    top: 2px;
+    left: 50%;
+}
+
+/* Positions */
+
+.m1 { transform: translate(-50%,-50%) rotate(-90deg); }
+.m2 { transform: translate(-50%,-50%) rotate(-60deg); }
+.m3 { transform: translate(-50%,-50%) rotate(-30deg); }
+.m4 { transform: translate(-50%,-50%) rotate(0deg); }
+.m5 { transform: translate(-50%,-50%) rotate(30deg); }
+.m6 { transform: translate(-50%,-50%) rotate(60deg); }
+.m7 { transform: translate(-50%,-50%) rotate(90deg); }
+
+.m1 span { transform: translateX(-50%) rotate(90deg); }
+.m2 span { transform: translateX(-50%) rotate(60deg); }
+.m3 span { transform: translateX(-50%) rotate(30deg); }
+.m4 span { transform: translateX(-50%) rotate(0deg); }
+.m5 span { transform: translateX(-50%) rotate(-30deg); }
+.m6 span { transform: translateX(-50%) rotate(-60deg); }
+.m7 span { transform: translateX(-50%) rotate(-90deg); }
+
+</style>
+
+<div class="theme-toggle">
+
+    <div class="dial-wrapper" id="themeToggle">
+
+        <div class="index-marker"></div>
+
+        <div class="dial" id="dial">
+
+            <div class="mark m1"><span>-3</span></div>
+            <div class="mark m2"><span>-2</span></div>
+            <div class="mark m3"><span>-1</span></div>
+            <div class="mark m4"><span>0</span></div>
+            <div class="mark m5"><span>+1</span></div>
+            <div class="mark m6"><span>+2</span></div>
+            <div class="mark m7"><span>+3</span></div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+
+    const toggle = document.getElementById('themeToggle');
+    const dial = document.getElementById('dial');
+
+    function updateDial(isDark) {
+
+        if (isDark) {
+            document.body.classList.add('dark');
+            dial.style.transform = 'rotate(30deg)';
+        } else {
+            document.body.classList.remove('dark');
+            dial.style.transform = 'rotate(-30deg)';
+        }
+
+    }
+
+    const darkMode = localStorage.getItem('theme') === 'dark';
+
+    updateDial(darkMode);
+
+    toggle.addEventListener('click', function () {
+
+        const isDark = !document.body.classList.contains('dark');
+
+        updateDial(isDark);
+
+        localStorage.setItem(
+            'theme',
+            isDark ? 'dark' : 'light'
+        );
+
+    });
+
+});
+</script>
 
 
 
