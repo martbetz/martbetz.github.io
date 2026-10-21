@@ -329,103 +329,98 @@ body.dark .site-nav input:checked ~ .trigger .page-link:focus {
 
 <style>
 
+<style>
+
 /* Theme Toggle */
 
 .theme-toggle {
-
-/*
-position: fixed;
-top: 15px;
-right: 15px;
-z-index: 2147483647;
-*/
-
-width: 40px;
-margin: 40px auto;
-margin-top: -40px;
-padding-bottom: 10px;
-text-align: center;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-top: -40px;
+    padding-bottom: 10px;
 }
 
 .theme-toggle input {
-display: none;
+    display: none;
 }
 
 .slider {
-display: block;
-width: 40px;
-height: 22px;
-background: #CB00CB;
-border-radius: 22px;
-cursor: pointer;
-position: relative;
-transition: .3s;
+    display: block;
+    width: 40px;
+    height: 22px;
+    background: #CB00CB;
+    border-radius: 22px;
+    cursor: pointer;
+    position: relative;
+    transition: .3s;
 }
 
 .slider::before {
-content: "";
-position: absolute;
-width: 18px;
-height: 18px;
-left: 2px;
-top: 2px;
-background: #F2F2F2;
-border-radius: 50%;
-transition: .3s;
+    content: "";
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    left: 2px;
+    top: 2px;
+    background: #F2F2F2;
+    border-radius: 50%;
+    transition: .3s;
 }
 
 #themeToggle:checked + .slider {
-background: #00B0B0;
+    background: #00B0B0;
 }
 
 #themeToggle:checked + .slider::before {
-transform: translateX(18px);
+    transform: translateX(18px);
 }
 
 .theme-label {
-margin-top: 8px;
-font-size: 11px;
-font-weight: bold;
-text-align: center;
+    margin-top: 8px;
+    font-size: 11px;
+    font-weight: bold;
+    text-align: center;
 }
 
 </style>
 
 <div class="theme-toggle">
-<label>
-<input type="checkbox" id="themeToggle">
-<span class="slider"></span>
-</label>
+    <label>
+        <input type="checkbox" id="themeToggle">
+        <span class="slider"></span>
+    </label>
 
-<!--
-<div class="theme-label">Light / Dark</div>
--->
+    <!--
+    <div class="theme-label">Light / Dark</div>
+    -->
 </div>
 
 <script>
 document.addEventListener('DOMContentLoaded', function () {
 
-const toggle = document.getElementById('themeToggle');
+    const toggle = document.getElementById('themeToggle');
 
-if (localStorage.getItem('theme') === 'dark') {
-document.body.classList.add('dark');
-toggle.checked = true;
-}
+    if (localStorage.getItem('theme') === 'dark') {
+        document.body.classList.add('dark');
+        toggle.checked = true;
+    }
 
-toggle.addEventListener('change', function () {
+    toggle.addEventListener('change', function () {
 
-if (this.checked) {
-document.body.classList.add('dark');
-localStorage.setItem('theme', 'dark');
-} else {
-document.body.classList.remove('dark');
-localStorage.setItem('theme', 'light');
-}
+        if (this.checked) {
+            document.body.classList.add('dark');
+            localStorage.setItem('theme', 'dark');
+        } else {
+            document.body.classList.remove('dark');
+            localStorage.setItem('theme', 'light');
+        }
 
-});
+    });
 
 });
 </script>
+
 
 <!-- End of Theme Toggle -->
 
