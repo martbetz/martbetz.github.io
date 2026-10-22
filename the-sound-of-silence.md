@@ -29,13 +29,13 @@ So, I completed my pre-op on the same day as my neurosurgery consultation, and t
 
 Then, in **early June 2026**, I got the call. Three days later, I was on the operating table. 
 
-According to the surgeon, everything went well. I was home by the following day, and that's pretty much where I am to date. The only thing that's bothering me at present is that the physio noticed I have clonus in my ankle. 
+According to the surgeon, everything went well. I was home by the following day, and that's pretty much where I am to date. The only thing that bothered me at the time was the physio noticing I have clonus in my ankle. 
 
 Clonus is associated with UMN pathology&nbsp;— and, given my thoratic cord issues and previous scares over MND, this confirmation makes me very anxious indeed&nbsp;— however, I have had this for a *very* long time (I just didn't think anything of it), and I also passed the rest of the UMN exam she gave me with flying colours (as I did on three seperate previous occasions with both my neurologist and GP). Still...
 
 In **early July 2026**, I had my next neurology appointment. My clonus was acknowleged, but I passed my UMN exam without any issues for yet another time; we also went over the MRI of my thoratic region, and the neurologist concluded that the clonus was likely a lasting consiquence of the cord compression with no obvious evidence of progression.
 
-And that just about brings us up to date. I remain under observation with neurology, and only time will tell how things progress. Right now, though, things aren't going great - nothing's improved at all four month's post op, and some thing's have declined even further. I've got a surgical follow-up next week and a neurology appointment shortly after that — I'm looking forward to neither.
+And that just about brings us up to date. I remain under observation with neurology, and only time will tell how things progress. Right now, though, things aren't going great - nothing's improved at all four month's post op (except for the clonus, which has now somehow magically disapeared 🤔), and some thing's have declined even further. I've got a surgical follow-up next week and a neurology appointment shortly after that — I'm looking forward to neither.
 
 
 
