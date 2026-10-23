@@ -191,8 +191,12 @@ color: var(--link-active-colour);
 /* Site Title */
 
 .site-title,
-.site-title:visited {
-color: var(--site-title-colour);
+.site-title:link,
+.site-title:visited,
+.site-title:hover,
+.site-title:active,
+.site-title:focus {
+    color: var(--site-title-colour) !important;
 }
 
 /* Header */
