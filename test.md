@@ -10,7 +10,7 @@ layout: page
 <p style="margin-top: -0px">
   <font size="4">
     <div align="left">
-      This is just a test page; there’s nothing of intetest here (not unless reading a load of nonsense and staring at random images floats your boat).
+      This is just a test page; there’s nothing of intetest here (not unless reading a load of nonsense and staring at random shapes floats your boat).
     </div>
   </font>
 </p>
@@ -416,6 +416,8 @@ layout: page
     />
 
 </div>
+
+<br><br>
 
 
 
