@@ -631,13 +631,22 @@ document.addEventListener('DOMContentLoaded', function () {
 </script>
 
 
-<style>
-.site-footer {
-    overflow-x: hidden;
+<!-- exp -->
+
+    <style>
+    html,
+body {
+    width: 100%;
+    max-width: 100%;
+    overflow-x: clip;
 }
 
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
 </style>
-
 
 
 
