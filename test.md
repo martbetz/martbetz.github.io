@@ -416,7 +416,7 @@ body.dark {
 
     <div style="
         background-color:var(--frame-colour);
-        padding:3.294%;
+        padding:3.19%;
         box-sizing:border-box;
     ">
 
