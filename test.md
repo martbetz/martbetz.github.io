@@ -417,7 +417,7 @@ layout: page
 
 </div>
 
-<br><br>
+<br>
 
 
 
