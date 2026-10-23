@@ -635,11 +635,17 @@ document.addEventListener('DOMContentLoaded', function () {
  <!-- EXPERIMENTAL -->
 
     <style>
-    .page-content {
+    /* Background behind the blog */
+body {
+    background: #808080 url('/assets/images/background.jpg') center center fixed;
+    background-size: cover;
+}
+
+/* The blog itself */
+.site {
     max-width: 400px;
     margin: 40px auto;
-    background: var(--bg-color);
-    padding: 40px;
+    background: var(--surface-color, #fff);
     box-shadow: 0 0 20px rgba(0,0,0,0.25);
 }
 
