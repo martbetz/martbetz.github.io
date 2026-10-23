@@ -589,17 +589,19 @@ document.addEventListener('DOMContentLoaded', function () {
     function updateDial(isDark) {
 
         if (isDark) {
-    document.body.classList.add('dark');
+            document.body.classList.add('dark');
 
-    /* Dark mode = -1 EV */
-    dial.style.transform = 'rotate(30deg)';
+            /* Dark mode = -1 EV */
+            dial.style.transform = 'rotate(30deg)';
 
-} else {
-    document.body.classList.remove('dark');
+        } else {
+            document.body.classList.remove('dark');
 
-    /* Light mode = +1 EV */
-    dial.style.transform = 'rotate(-30deg)';
-}
+            /* Light mode = +1 EV */
+            dial.style.transform = 'rotate(-30deg)';
+        }
+
+    }   /* <-- Missing brace was here */
 
     const darkMode =
         localStorage.getItem('theme') === 'dark';
@@ -617,6 +619,7 @@ document.addEventListener('DOMContentLoaded', function () {
             'theme',
             isDark ? 'dark' : 'light'
         );
+
     });
 
 });
