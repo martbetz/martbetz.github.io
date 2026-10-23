@@ -395,5 +395,27 @@ layout: page
 
 <br><br>
 
+<div style="
+    width:min(600px, calc(100% - 40px));
+    margin:20px auto;
+    background:#333333;
+    padding:18px;
+    box-sizing:border-box;
+">
+
+    <img
+        src="https://raw.githubusercontent.com/martbetz/martbetz.github.io/refs/heads/main/_includes/custom/avitar-square.png"
+        alt=""
+        style="
+            display:block;
+            width:100%;
+            max-width:100%;
+            height:auto;
+            margin:0;
+        "
+    />
+
+</div>
+
 
 
