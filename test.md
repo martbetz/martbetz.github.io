@@ -417,6 +417,42 @@ layout: page
 
 </div>
 
+<style>
+:root {
+    --frame-colour: #333333;
+}
+
+body.dark {
+    --frame-colour: #D8D8D8
+}
+</style>
+
+<div style="
+    width:min(calc(100% - 40px), 600px);
+    margin:20px auto;
+">
+
+    <div style="
+        background-color:var(--frame-colour);
+        padding:3.294%;
+        box-sizing:border-box;
+    ">
+
+        <img
+            src='https://raw.githubusercontent.com/martbetz/martbetz.github.io/refs/heads/main/_includes/custom/avitar-square.png'
+            alt=''
+            style='
+                display:block;
+                width:100%;
+                height:auto;
+            '
+        >
+
+    </div>
+
+</div>
+
+
 <br>
 
 
