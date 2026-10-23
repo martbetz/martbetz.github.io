@@ -588,21 +588,22 @@ document.addEventListener('DOMContentLoaded', function () {
 
     function updateDial(isDark) {
 
-        if (isDark) {
-            document.body.classList.add('dark');
+    if (isDark) {
+        document.body.classList.add('dark');
 
-            /* Dark mode = -1 EV */
-            dial.style.transform = 'rotate(30deg)';
+        /* Dark mode = -2 EV */
+        dial.style.transform = 'rotate(60deg)';
 
-        } else {
-            document.body.classList.remove('dark');
+    } else {
+        document.body.classList.remove('dark');
 
-            /* Light mode = +1 EV */
-            dial.style.transform = 'rotate(-30deg)';
-        }
+        /* Light mode = 0 EV */
+        dial.style.transform = 'rotate(0deg)';
+    }
 
-    }   /* <-- Missing brace was here */
+}
 
+    
     const darkMode =
         localStorage.getItem('theme') === 'dark';
 
