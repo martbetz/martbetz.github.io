@@ -679,27 +679,26 @@ body {
 
     <!-- EXPERIMENTAL -->
 
-    <style>
+ <style>
 
-/* Area outside the content */
+/* Dark grey outside the site's max width */
 
 html {
     background: #404040;
 }
 
-/* Main page area */
+body {
+    background: var(--bg-colour);
+    max-width: 600px;
+    margin: 0 auto;
+}
 
-body,
+/* Keep header, content and footer using your normal page colour */
+
 .site-header,
 .page-content,
 .site-footer {
     background: var(--bg-colour);
-}
-
-/* Content width */
-
-.wrapper {
-    max-width: 750px;
 }
 
 </style>
