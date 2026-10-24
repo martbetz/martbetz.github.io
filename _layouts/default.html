@@ -661,7 +661,6 @@ body {
   margin-right: 0;
 }
 
-
       .site-header .wrapper {
     padding-left: 10px;
 }
@@ -670,11 +669,43 @@ body {
   margin-right: 2px;
 }
 
-
       </style>
     
 
-    
+    <!-- EXPERIMENTAL -->
+
+    <style>
+    :root {
+    --bg-colour: #E8E8D8;     /* page content */
+    --outer-bg: #404040;      /* area beyond max width */
+
+    --text-colour: #333333;
+    --table-border-colour: #333333;
+    --table-header-bg: #D8D8C8;
+    --site-title-colour: #333333;
+}
+
+body.dark {
+    --bg-colour: #404040;     /* page content */
+    --outer-bg: #E8E8D8;      /* area beyond max width */
+
+    --text-colour: #F2F2F2;
+    --table-border-colour: #F2F2F2;
+    --table-header-bg: #505050;
+    --site-title-colour: #F2F2F2;
+}
+
+/* Outer background (outside Minima's max width) */
+html {
+    background: var(--outer-bg);
+}
+
+/* Main page background */
+body {
+    background: var(--bg-colour);
+    color: var(--text-colour);
+}
+</style>
 
     
 
