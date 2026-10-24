@@ -421,7 +421,7 @@ body.dark {
     ">
 
         <img
-            src='[   ](https://raw.githubusercontent.com/martbetz/martbetz.github.io/refs/heads/main/_includes/custom/01testimage.jpg)'
+            src='https://raw.githubusercontent.com/martbetz/martbetz.github.io/refs/heads/main/_includes/custom/01testimage.jpg'
             alt=''
             style='
                 display:block;
