@@ -706,7 +706,7 @@ body {
 
     -->
 
-    <style>
+    <!-- <style>
 
 /* Outer frame */
 html {
@@ -715,13 +715,13 @@ html {
 
 /* Centre the entire page panel */
 body {
-    max-width: 1500px;
+    max-width: 1000px;
     margin: 40px auto;
     background: var(--bg-colour);
 }
 
 /* Remove top/bottom margins on smaller screens */
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 999px) {
     body {
         margin: 0;
     }
@@ -734,7 +734,35 @@ body {
     background: var(--bg-colour);
 }
 
+</style> -->
+
+    <style>
+
+html {
+    background: #888888;
+}
+
+body {
+    max-width: 1000px;
+    width: 100%;
+    margin: 40px auto;
+    background: var(--bg-colour);
+}
+
+@media (max-width: 1080px) {
+    body {
+        margin: 0 auto;
+    }
+}
+
+.site-header,
+.page-content,
+.site-footer {
+    background: var(--bg-colour);
+}
+
 </style>
+
 
 
 
