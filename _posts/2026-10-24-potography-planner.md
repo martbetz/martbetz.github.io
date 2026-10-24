@@ -41,5 +41,5 @@ The Photography Day Planner demonstrates an important truth: successful photogra
 
 Great images still require vision, patience, and technical skill&nbsp;— but planning can dramatically increase the chances of being in the right place at the right time.
 
-Whether you use a dedicated planner, a notebook, or your own customised spreadsheet, the principle remains the same: teliminating uncertainty isn't the goal; the goal is to spend less time managing logistics and more time making photographs.
+Whether you use a dedicated planner, a notebook, or your own customised spreadsheet, the principle remains the same: eliminating uncertainty isn't the goal; the goal is to spend less time managing logistics and more time making photographs.
 
