@@ -687,7 +687,7 @@ body {
 
     
 
-    <!-- EXPERIMENTAL -->
+    <!-- EXPERIMENTAL 
 
   
 
@@ -735,8 +735,6 @@ body {
 
 </style>
 
-
-
     
 <style>
     @media screen and (min-width: 1000px) {
@@ -771,6 +769,89 @@ body {
 
 </style>
 
+-->
+
+<style>
+:root {
+    --outer-bg: #D8D8D8;
+}
+
+body.dark {
+    --outer-bg: #333333;
+}
+</style>
+
+
+    <!-- EXPERIMENTAL -->
+
+<style>
+.site-header {
+    border-top: 0 !important;
+}
+</style>
+
+<style>
+
+/* Mobile / tablet */
+
+html {
+    background: var(--bg-colour);
+}
+
+body {
+    max-width: none;
+    margin: 0;
+    background: var(--bg-colour);
+}
+
+/* Desktop */
+
+@media screen and (min-width: 1140px) {
+
+    html {
+        background: var(--outer-bg);
+    }
+
+    body {
+        max-width: 1000px;
+        margin: 40px auto;
+        background: var(--bg-colour);
+    }
+
+    .site-header,
+    .page-content,
+    .site-footer {
+        background: var(--bg-colour);
+    }
+}
+
+</style>
+
+<style>
+@media screen and (min-width: 1000px) {
+
+    .wrapper {
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+
+    .site-header {
+        margin-top: 20px;
+    }
+}
+</style>
+
+<style>
+@media screen and (min-width: 1000px) {
+
+    .site-header .wrapper,
+    .page-content .wrapper,
+    .site-footer .wrapper {
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+}
+</style>
 
     
 
