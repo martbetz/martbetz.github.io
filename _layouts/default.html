@@ -680,7 +680,7 @@ body {
     <!-- EXPERIMENTAL -->
 
     
- <style>
+<!-- <style>
 
 /* Dark grey outside the site's max width */
 
@@ -725,6 +725,31 @@ body {
 </style> -->
 
 
+<style>
+
+body {
+    margin: 0;
+    background: var(--bg-colour);
+}
+
+.site-header,
+.page-content,
+.site-footer {
+    background: var(--bg-colour);
+}
+
+/* Only show the frame when the window is wider than the page */
+
+@media (min-width: 1041px) {
+
+    html {
+        background: #888888;
+        padding: 20px;
+    }
+
+}
+
+</style>
 
 
 
