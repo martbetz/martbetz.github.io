@@ -628,6 +628,46 @@ document.addEventListener('DOMContentLoaded', function () {
     });
 
 });
+
+
+<!-- -->
+function updateDial(isDark) {
+
+    const themeColor =
+        document.querySelector('meta[name="theme-color"]');
+
+    if (isDark) {
+        document.body.classList.add('dark');
+        dial.style.transform = 'rotate(60deg)';
+
+        if (themeColor) {
+            themeColor.setAttribute(
+                'content',
+                '#404040'
+            );
+        }
+
+    } else {
+        document.body.classList.remove('dark');
+        dial.style.transform = 'rotate(0deg)';
+
+        if (themeColor) {
+            themeColor.setAttribute(
+                'content',
+                '#E8E8D8'
+            );
+        }
+
+    }
+
+}
+
+
+
+
+
+
+  
 </script>
 
 
