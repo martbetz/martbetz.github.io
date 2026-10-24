@@ -736,29 +736,40 @@ body {
 
 </style> -->
 
-    <style>
+  <style>
+
+/* Mobile / tablet (<1000px) */
 
 html {
-    background: #888888;
+    background: var(--bg-colour);
 }
 
 body {
-    max-width: 1000px;
-    width: 100%;
-    margin: 40px auto;
+    max-width: none;
+    margin: 0;
     background: var(--bg-colour);
 }
 
-@media (max-width: 1080px) {
-    body {
-        margin: 0 auto;
+/* Desktop (1000px+) */
+
+@media screen and (min-width: 1000px) {
+
+    html {
+        background: #888888;
     }
-}
 
-.site-header,
-.page-content,
-.site-footer {
-    background: var(--bg-colour);
+    body {
+        max-width: 1000px;
+        margin: 40px auto;
+        background: var(--bg-colour);
+    }
+
+    .site-header,
+    .page-content,
+    .site-footer {
+        background: var(--bg-colour);
+    }
+
 }
 
 </style>
