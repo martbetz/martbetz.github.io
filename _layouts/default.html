@@ -679,35 +679,7 @@ body {
 
     <!-- EXPERIMENTAL -->
 
-    
-<!-- <style>
-
-/* Dark grey outside the site's max width */
-
-html {
-    background: #888888;
-}
-
-body {
-    background: var(--bg-colour);
-    max-width: 1000px;
-    margin: 0 auto;
-}
-
-/* Keep header, content and footer using your normal page colour */
-
-.site-header,
-.page-content,
-.site-footer {
-    background: var(--bg-colour);
-}
-
-</style> -->
-
-
-
-
-  
+  <!-- 
 
    <style>
 
@@ -732,20 +704,34 @@ body {
 
 </style>
 
+    -->
+
     <style>
 
+/* Outer frame */
+html {
+    background: #888888;
+}
+
+/* Centre the entire page panel */
 body {
-    margin: 0;
+    max-width: 1000px;
+    margin: 40px auto;
     background: var(--bg-colour);
 }
 
-@media screen and (min-width: 1000px) {
-
-    html {
-        background: #888888;
-        padding: 20px;
+/* Remove top/bottom margins on smaller screens */
+@media screen and (max-width: 999px) {
+    body {
+        margin: 0;
     }
+}
 
+/* Ensure all site sections use the page colour */
+.site-header,
+.page-content,
+.site-footer {
+    background: var(--bg-colour);
 }
 
 </style>
