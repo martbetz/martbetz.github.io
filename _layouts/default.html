@@ -440,6 +440,12 @@ document.addEventListener('DOMContentLoaded', function () {
     margin-top: -80px;
     padding-bottom: 5px;
     text-align: center;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    width: fit-content;
 }
 
 /* Dial Container */
@@ -448,9 +454,6 @@ document.addEventListener('DOMContentLoaded', function () {
     position: relative;
     cursor: pointer;
     user-select: none;
-
-    width: fit-content;
-    margin: 0 auto;
 
     /* Same dial as standalone version */
     transform: scale(0.35);
@@ -565,8 +568,6 @@ document.addEventListener('DOMContentLoaded', function () {
 /* Camera Menu Button */
 
 .menu-button-wrapper{
-    margin-top:-140px;
-    margin-left:135px;
     position:relative;
     display:inline-block;
 
