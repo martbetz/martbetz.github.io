@@ -113,7 +113,7 @@ this website does employ the use of local storage (when JavaScript is enabled) f
 </li>
 </ul>
 <div id="terms-host">
-     <p>This website is hosted using GitHub Pages and is therefore subject to the applicable <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages">GitHub Pages hosting terms and policies</a>; you (the visitor) are responsibile for reviewing these terms conjunctively.</p>
+     <p>This website is hosted using GitHub Pages and is therefore subject to the applicable <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages">GitHub Pages hosting terms and policies</a>; you (the visitor) are responsible for reviewing these terms conjunctively.</p>
 </div>
 <div id="terms-external"> 
     <p>External sources (including those represented by hyperlinks) may be subject to separate codes of practice and may operate (voluntarily and/or legally) according to different terms; you (the visitor) are responsible for reviewing such terms independently.
@@ -130,7 +130,7 @@ this website does employ the use of local storage (when JavaScript is enabled) f
       General Disclaimer
    </h2>
    <p>
-<!--This website is an independent and personal project on the part of the website author and, while publicly accessible, is soley and entirely intended for the author’s reference only; as such, in relation to the accuracy of content, there are no guarantees provided and no liabilities accepted.-->This website is an independent and personal project on the part of the website author and, while publically accessable for reference, is not in any way intended as a definative factual resource; as such, in relation to the accuracy of content, no guarantees are provided and no liabilities are accepted.
+<!--This website is an independent and personal project on the part of the website author and, while publicly accessible, is soley and entirely intended for the author’s reference only; as such, in relation to the accuracy of content, there are no guarantees provided and no liabilities accepted.-->This website is an independent and personal project on the part of the website author and, while publicly accessible for reference, is not in any way intended as a definitive factual resource; as such, in relation to the accuracy of content, no guarantees are provided and no liabilities are accepted.
 </p>
 <p>
 <!-- All content is reflective of style (for example, humorous and/or hyperbolic statements are exclusively intended as such; the author does not promote such statments as literal). 
