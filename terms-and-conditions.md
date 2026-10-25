@@ -103,7 +103,7 @@ By interacting with this website, you (the visitor) hereby subsequently acknowle
 <ul>
 <li>
 (as per the <a href="#privacy">Privacy Policy</a>) 
-while <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">JavaScript</a> is used by this website to serve an enhanced experience, it is not a critical component of the website’s core operation (that is, with the exception of where/when password-protection has been invoked); it may, therefore, be disabled at the visitor’s sole discretion (browser features permitting).
+while <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">JavaScript</a> is used by this website to serve an enhanced experience, it is not a critical component of the website’s core operation (that is, with the exception of where/when password-protection has been invoked); it may, therefore, be disabled at the visitor’s sole discretion (browser features permitting)
 </li>
 </ul>
 <ul>
