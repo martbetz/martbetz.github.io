@@ -768,7 +768,106 @@ body {
 </style>
 
 
+
+
+
+<!-- Camera Menu Button -->
+
 <style>
+
+/* Camera Menu Button */
+
+.menu-button-wrapper{
+    position:relative;
+    display:inline-block;
+
+    cursor:pointer;
+    user-select:none;
+
+    /* Reduced by 25% */
+    transform:scale(0.2625);
+    transform-origin:center center;
+}
+
+.menu-button{
+    position:relative;
+
+    width:130px;
+    height:130px;
+
+    border-radius:50%;
+
+    background:
+        radial-gradient(
+            circle at 35% 35%,
+            #e4e4e4,
+            #bdbdbd 60%,
+            #8b8b8b
+        );
+
+    border:2px solid #666;
+
+    transition:
+        transform .2s ease,
+        filter .2s ease;
+}
+
+.menu-button:hover{
+    filter:brightness(1.05);
+}
+
+/* Inner Ring */
+
+.menu-button::before{
+    content:"";
+
+    position:absolute;
+
+    inset:4px;
+
+    border-radius:50%;
+
+    border:1px solid rgba(0,0,0,.2);
+}
+
+/* MENU Label */
+
+.menu-text{
+    position:absolute;
+
+    top:50%;
+    left:50%;
+
+    transform:translate(-50%,-50%);
+
+    font-size:18px;
+    font-weight:700;
+    letter-spacing:.15em;
+
+    color:#222;
+
+    line-height:1;
+
+    pointer-events:none;
+}
+
+</style>
+
+<div
+    class="menu-button-wrapper"
+    onclick="window.location.href='camera_menu.html';"
+    title="Camera Menu">
+
+    <div class="menu-button">
+
+        <div class="menu-text">
+            MENU
+        </div>
+
+    </div>
+
+</div>
+    
 
   
     
