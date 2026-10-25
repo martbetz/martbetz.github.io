@@ -637,6 +637,83 @@ document.addEventListener('DOMContentLoaded', function () {
 
     pointer-events:none;
 }
+
+
+/* Camera Focus Switch (AF/MF) */
+
+.camera-switch-wrapper {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    user-select: none;
+    /* Scaled down to match the layout proportions */
+    transform: scale(0.5);
+    transform-origin: center center;
+    margin: 0 -21px;
+}
+
+.camera-switch {
+    position: relative;
+    width: 84px;
+    height: 44px;
+    background: linear-gradient(to bottom, #d7d7d7, #aaaaaa);
+    border: 2px solid #666;
+    border-radius: 24px;
+    overflow: hidden;
+}
+
+.camera-switch-label {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: .08em;
+    color: #000;
+    pointer-events: none;
+}
+
+.camera-switch-label.af {
+    left: 10px;
+}
+
+.camera-switch-label.mf {
+    right: 10px;
+}
+
+.camera-switch-slider {
+    position: absolute;
+    top: 3px;
+    left: 3px;
+    width: 38px;
+    height: 34px;
+    border-radius: 17px;
+    background: linear-gradient(to bottom, #f5f5f5, #bcbcbc);
+    border: 1px solid #777;
+    transition: left .25s ease;
+}
+
+.camera-switch-slider::before {
+    content: "";
+    position: absolute;
+    top: 8px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 12px;
+    height: 18px;
+    background: repeating-linear-gradient(
+        90deg,
+        #888 0,
+        #888 2px,
+        transparent 2px,
+        transparent 4px
+    );
+    opacity: .5;
+}
+
+.camera-switch.mf .camera-switch-slider {
+    left: 43px;
+}
 </style>
 
 <div class="theme-toggle">
@@ -672,6 +749,14 @@ document.addEventListener('DOMContentLoaded', function () {
 
         </div>
 
+    </div>
+
+    <div class="camera-switch-wrapper" id="focusSwitchWrapper" title="Focus Mode">
+        <div class="camera-switch" id="cameraSwitch">
+            <div class="camera-switch-label af">AF</div>
+            <div class="camera-switch-label mf">MF</div>
+            <div class="camera-switch-slider"></div>
+        </div>
     </div>
 
 </div>
@@ -717,6 +802,39 @@ document.addEventListener('DOMContentLoaded', function () {
             isDark ? 'dark' : 'light'
         );
 
+    });
+
+    // AF/MF Switch Logic
+    const cameraSwitch = document.getElementById('cameraSwitch');
+    const focusSwitchWrapper = document.getElementById('focusSwitchWrapper');
+    const targetUrl = "https://martbetz.github.io/camera_menu.html";
+
+    const isMfPage = window.location.href.includes("camera_menu.html");
+    if (isMfPage) {
+        cameraSwitch.classList.add('mf');
+    }
+
+    focusSwitchWrapper.addEventListener('click', function(){
+        if (cameraSwitch.classList.contains('animating')) return;
+
+        const isCurrentlyMf = cameraSwitch.classList.contains('mf');
+        cameraSwitch.classList.add('animating');
+
+        if (!isCurrentlyMf) {
+            cameraSwitch.classList.add('mf');
+            setTimeout(function() {
+                window.location.href = targetUrl;
+            }, 250);
+        } else {
+            cameraSwitch.classList.remove('mf');
+            setTimeout(function() {
+                if (document.referrer && document.referrer !== window.location.href) {
+                    window.history.back();
+                } else {
+                    window.location.href = "index.html";
+                }
+            }, 250);
+        }
     });
 
 });
