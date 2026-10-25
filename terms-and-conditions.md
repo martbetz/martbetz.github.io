@@ -103,7 +103,13 @@ By interacting with this website, you (the visitor) hereby subsequently acknowle
 <ul>
 <li>
 (as per the <a href="#privacy">Privacy Policy</a>) 
-while <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">JavaScript</a> is used by this website to serve an enhanced experience (for example, to serve the user's light/dark theme preferences which are stored in the user's browser), it is not a critical component of the website’s core operation (that is, with the exception of where/when password-protection has been invoked); it may, therefore, be disabled at the visitor’s sole discretion (browser features permitting).
+while <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">JavaScript</a> is used by this website to serve an enhanced experience, it is not a critical component of the website’s core operation (that is, with the exception of where/when password-protection has been invoked); it may, therefore, be disabled at the visitor’s sole discretion (browser features permitting).
+</li>
+</ul>
+<ul>
+<li>
+(as per the <a href="#privacy">Privacy Policy</a>) 
+if JavaScript is enabled, this website does store the visitor's optional light/dark theme preference in the visitor's browser using local storage; however, this information is used solely to retain the visitor's preference settings and is not used for any other purpose
 </li>
 </ul>
 <div id="terms-host">
@@ -179,6 +185,9 @@ This website does not collect data directly (of any kind or in any form); howeve
 This website does not make use of cookies, and neither does any of its content; however, the author does reserve the right to use non-affiliated hyperlinks that direct to <a href="#terms-external">external sources</a>.
 </p>
 <p>
-While <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">JavaScript</a> is used by this website to serve an enhanced experience (for example, to serve the user's light/dark theme preferences which are stored in the user's browser), it is not a critical component of the website’s core operation (that is, with the exception of where/when password-protection has been invoked); it may, therefore, be disabled at the visitor’s sole discretion (browser features permitting).
+While <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">JavaScript</a> is used by this website to serve an enhanced experience, it is not a critical component of the website’s core operation (that is, with the exception of where/when password-protection has been invoked); it may, therefore, be disabled at the visitor’s sole discretion (browser features permitting).
    </p> 
+<p>
+If JavaScript is enabled, this website does store the visitor's optional light/dark theme preference in the visitor's browser using local storage; however, this information is used solely to retain the visitor's preference settings and is not used for any other purpose.   
+</p>
 </div>
