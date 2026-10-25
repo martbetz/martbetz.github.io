@@ -113,7 +113,7 @@ this website does employ the use of local storage (when JavaScript is enabled) f
 </li>
 </ul>
 <div id="terms-host">
-     <p>This website is hosted using GitHub Pages and is therefore subject to the applicable GitHub Pages <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages">GitHub Pages hosting terms and policies</a>; you (the vistor) are responsibile for reviewing these terms conjunctively.</p>
+     <p>This website is hosted using GitHub Pages and is therefore subject to the applicable <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages">GitHub Pages hosting terms and policies</a>; you (the vistor) are responsibile for reviewing these terms conjunctively.</p>
 </div>
 <div id="terms-external"> 
     <p>External sources (including those represented by hyperlinks) may be subject to seperate codes of practice and may operate (voluntarily and/or legally) according to different terms; you (the vistor) are responsibile for reviewing such terms independently.
