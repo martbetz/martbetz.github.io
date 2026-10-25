@@ -1,0 +1,411 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>FUJIFILM Theme & Layout</title>
+
+<!-- Theme Initialization Script -->
+<script>
+if (localStorage.getItem('theme') === 'dark') {
+    document.body.classList.add('dark');
+}
+</script>
+
+<style>
+/* ==========================================
+   1. ROOT VARIABLES & THEME CONFIGURATION
+   ================================---------- */
+:root {
+    --bg-colour: #E8E8D8;
+    --text-colour: #333333;
+    --table-border-colour: #333333;
+    --table-header-bg: #D8D8C8;
+    --site-title-colour: #333333;
+
+    /* Light theme links */
+    --link-colour: #B000B0;
+    --link-visited-colour: #008B8B;
+    --link-hover-colour: #937500;
+    --link-active-colour: #937500;
+}
+
+body.dark {
+    --bg-colour: #404040;
+    --text-colour: #F2F2F2;
+
+    --table-border-colour: #F2F2F2;
+    --table-header-bg: #505050;
+
+    --site-title-colour: #F2F2F2;
+
+    /* Dark theme links */
+    --link-colour: #F55FFF;
+    --link-visited-colour: #00CCCC;
+    --link-hover-colour: #ECC33E;
+    --link-active-colour: #ECC33E;
+
+    /* Minima dark-mode extras */
+    --header-footer-bg: #404040;
+    --header-footer-border: #666666;
+    --nav-text-colour: #F2F2F2;
+    --meta-colour: #B0B0B0;
+
+    --blockquote-border: #AAAAAA;
+    --blockquote-bg: #4A4A4A;
+
+    --code-bg: #2A2A2A;
+    --code-text: #333333;
+
+    --pre-bg: #252525;
+    --pre-border: #666666;
+}
+
+/* ==========================================
+   2. GLOBAL & LAYOUT STYLES
+   ================================---------- */
+html {
+    background: transparent;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    max-width: none;
+    background: var(--bg-colour);
+    color: var(--text-colour);
+    font-family: sans-serif;
+}
+
+@media screen and (min-width: 600px) {
+    body {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+}
+
+@media screen and (min-width: 1000px) {
+    .site-header .wrapper,
+    .page-content .wrapper,
+    .site-footer .wrapper {
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+    .site-header {
+        margin-top: 20px;
+    }
+}
+
+@media screen and (min-width: 1140px) {
+    html {
+        background: #555555;
+    }
+
+    body {
+        max-width: 1000px;
+        margin: 40px auto;
+        background: var(--bg-colour);
+    }
+
+    .site-header,
+    .page-content,
+    .site-footer {
+        background: var(--bg-colour);
+    }
+}
+
+/* Header & Footer Resets */
+.site-header,
+.site-footer {
+    margin-left: 0;
+    margin-right: 0;
+    border-top: 0 !important;
+}
+
+.site-nav {
+    margin-right: 2px;
+}
+
+.site-header .wrapper {
+    padding-left: 10px;
+}
+
+/* Hyperlinks */
+a:link { color: var(--link-colour); }
+a:visited { color: var(--link-visited-colour); }
+a:hover { color: var(--link-hover-colour); }
+a:active { color: var(--link-active-colour); }
+
+/* Site Title */
+.site-title,
+.site-title:link,
+.site-title:visited,
+.site-title:hover,
+.site-title:active,
+.site-title:focus {
+    color: var(--site-title-colour) !important;
+}
+
+/* Dark Mode Header/Footer Overrides */
+body.dark .site-header {
+    background: var(--header-footer-bg);
+    border-top-color: var(--header-footer-border);
+    border-bottom-color: var(--header-footer-border);
+}
+
+body.dark .site-footer {
+    background: var(--header-footer-bg);
+    border-top-color: var(--header-footer-border);
+}
+
+/* Post Dates */
+body.dark .post-meta,
+body.dark .post-meta *,
+body.dark time,
+body.dark .dt-published {
+    color: #D8D8D8 !important;
+}
+
+/* Code & Pre Blocks */
+body.dark code,
+body.dark pre,
+body.dark pre code {
+    color: #333333 !important;
+}
+
+/* Navigation Links (Desktop & Mobile) */
+body.dark .site-nav .page-link,
+body.dark .site-nav .page-link:link,
+body.dark .site-nav .page-link:visited,
+body.dark .site-nav .page-link:hover,
+body.dark .site-nav .page-link:active,
+body.dark .site-nav .page-link:focus {
+    color: #F2F2F2 !important;
+}
+
+body.dark .site-nav input:checked ~ .trigger .page-link,
+body.dark .site-nav input:checked ~ .trigger .page-link:link,
+body.dark .site-nav input:checked ~ .trigger .page-link:visited,
+body.dark .site-nav input:checked ~ .trigger .page-link:hover,
+body.dark .site-nav input:checked ~ .trigger .page-link:active,
+body.dark .site-nav input:checked ~ .trigger .page-link:focus {
+    color: #333333 !important;
+}
+
+@media screen and (max-width: 750px) {
+    body.dark .site-nav {
+        background-color: #F2F2F2 !important;
+    }
+
+    body.dark .site-nav input:checked ~ .trigger {
+        background-color: #F2F2F2 !important;
+        border-radius: 0 0 10px 10px;
+    }
+}
+
+/* ==========================================
+   3. TABLES
+   ================================---------- */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1em 0;
+    color: var(--text-colour);
+}
+
+th,
+td {
+    border: 1px solid var(--table-border-colour);
+    padding: 8px 12px;
+    text-align: left;
+    vertical-align: top;
+    color: var(--text-colour);
+}
+
+tr {
+    color: var(--text-colour);
+}
+
+tbody tr:nth-child(odd),
+tbody tr:nth-child(even) {
+    background: transparent !important;
+}
+
+table, thead, tbody, tfoot, tr, th, td {
+    color: var(--text-colour);
+}
+
+/* ==========================================
+   4. FUJI EXPOSURE DIAL THEME TOGGLE
+   ================================---------- */
+.theme-toggle {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -80px;
+    padding-bottom: 5px;
+    text-align: center;
+}
+
+.dial-wrapper {
+    position: relative;
+    cursor: pointer;
+    user-select: none;
+    width: fit-content;
+    margin: 0 auto;
+    transform: scale(0.35);
+    transform-origin: center center;
+}
+
+.index-marker {
+    position: absolute;
+    top: -12px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 6px;
+    height: 16px;
+    background: #cc0000;
+    border-radius: 2px;
+    z-index: 10;
+}
+
+.dial {
+    position: relative;
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    background: radial-gradient(circle at 35% 35%, #e4e4e4, #bdbdbd 60%, #8b8b8b);
+    border: 2px solid #666;
+    transition: transform .35s ease;
+}
+
+.dial::before {
+    content: "";
+    position: absolute;
+    inset: 25px;
+    border-radius: 50%;
+    border: 1px solid rgba(0,0,0,.2);
+}
+
+.dial::after {
+    content: "EXP";
+    position: absolute;
+    inset: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: .15em;
+    color: #222;
+}
+
+.mark {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 100%;
+    height: 100%;
+    transform-origin: center center;
+    font-size: 13px;
+    font-weight: 600;
+    color: #222;
+}
+
+.mark span {
+    position: absolute;
+    top: 5px;
+    left: 50%;
+    white-space: nowrap;
+}
+
+.m1 { transform: translate(-50%,-50%) rotate(-90deg); }
+.m2 { transform: translate(-50%,-50%) rotate(-60deg); }
+.m3 { transform: translate(-50%,-50%) rotate(-30deg); }
+.m4 { transform: translate(-50%,-50%) rotate(0deg); }
+.m5 { transform: translate(-50%,-50%) rotate(30deg); }
+.m6 { transform: translate(-50%,-50%) rotate(60deg); }
+.m7 { transform: translate(-50%,-50%) rotate(90deg); }
+
+.m1 span { transform: translateX(-50%) rotate(90deg); }
+.m2 span { transform: translateX(-50%) rotate(60deg); }
+.m3 span { transform: translateX(-50%) rotate(30deg); }
+.m4 span { transform: translateX(-50%) rotate(0deg); }
+.m5 span { transform: translateX(-50%) rotate(-30deg); }
+.m6 span { transform: translateX(-50%) rotate(-60deg); }
+.m7 span { transform: translateX(-50%) rotate(-90deg); }
+</style>
+</head>
+<body>
+
+  {%- include head.html -%}
+  {%- include header.html -%}
+
+  <main class="page-content" aria-label="Content">
+    <div class="wrapper">
+      <hr style="margin-top: -30px; background-color: #ccc">
+      {{ content }}     
+      &nbsp;
+      <hr style="margin-top: -20px; background-color: #ccc">
+    </div>
+  </main>
+
+  {%- include footer.html -%}
+
+  <!-- Theme Toggle Component -->
+  <div class="theme-toggle">
+    <div class="dial-wrapper" id="themeToggle">
+      <div class="index-marker"></div>
+      <div class="dial" id="dial">
+        <div class="mark m1"><span>-3</span></div>
+        <div class="mark m2"><span>-2</span></div>
+        <div class="mark m3"><span>-1</span></div>
+        <div class="mark m4"><span>0</span></div>
+        <div class="mark m5"><span>+1</span></div>
+        <div class="mark m6"><span>+2</span></div>
+        <div class="mark m7"><span>+3</span></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Back to Top Script & Asset -->
+  <script src="/assets/vanilla-back-to-top.min.js"></script>
+  <script>
+    addBackToTop({
+      innerHTML: '<svg viewBox="0 0 24 24"><path d="M4 12l1.41 1.41L11 7.83V20h2V7.83l5.58 5.59L20 12l-8-8-8 8z"/></svg>',
+      diameter: 36,
+      backgroundColor: '#FFCC40',
+      textColor: '#484848',
+      showWhenScrollTopIs: 2020,
+      cornerOffset: 20
+    });
+  </script>
+
+  <!-- Dial Theme Toggle Interactive Logic -->
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+        const toggle = document.getElementById('themeToggle');
+        const dial = document.getElementById('dial');
+
+        function updateDial(isDark) {
+            if (isDark) {
+                document.body.classList.add('dark');
+                dial.style.transform = 'rotate(60deg)'; // -2 EV
+            } else {
+                document.body.classList.remove('dark');
+                dial.style.transform = 'rotate(0deg)';  // 0 EV
+            }
+        }
+
+        const darkMode = localStorage.getItem('theme') === 'dark';
+        updateDial(darkMode);
+
+        toggle.addEventListener('click', function () {
+            const isDark = !document.body.classList.contains('dark');
+            updateDial(isDark);
+            localStorage.setItem('theme', isDark ? 'dark' : 'light');
+        });
+    });
+  </script>
+
+</body>
+</html>
