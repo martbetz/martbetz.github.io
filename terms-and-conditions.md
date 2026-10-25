@@ -97,7 +97,7 @@ By interacting with this website, you (the visitor) hereby subsequently acknowle
 </ul>
 <ul>
 <li>
-(as per the <a href="#privacy">Privacy Policy</a>) this website does not emply the use of cookies, and neither does any of its content; however, the author does reserve the right to use non-affiliated hyperlinks that direct to external sources
+(as per the <a href="#privacy">Privacy Policy</a>) this website respects user privacy and does not employ the use of cookies (or any other forms of tracking technologies), and neither does any of its content; however, the author does reserve the right to use non-affiliated hyperlinks that direct to <a href="#terms-external">external sources</a>
 </li>
 </ul>
 <ul>
@@ -109,11 +109,11 @@ while <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">JavaScri
 <ul>
 <li>
 (as per the <a href="#privacy">Privacy Policy</a>) 
-this website does employ the use of local storage (when JavaScript is enabled) for the purpose of retaining theme preferences; this website does not employ the use of local storage for any other purpose (such as tracking, canvasing, or analytics)
+this website does employ the use of local storage (when JavaScript is enabled) for the purpose of retaining theme preferences; this website does not employ the use of local storage for any other purpose (such as tracking, profiling, or analytics)
 </li>
 </ul>
 <div id="terms-host">
-     <p>This website is contractually bound by the <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages">terms of GitHub Pages</a> (the website host); you (the vistor) are responsibile for reviewing these terms conjunctively.</p>
+     <p>This website is hosted using GitHub Pages and is therefore subject to the applicable GitHub Pages <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages">GitHub Pages hosting terms and policies</a>; you (the vistor) are responsibile for reviewing these terms conjunctively.</p>
 </div>
 <div id="terms-external"> 
     <p>External sources (including those represented by hyperlinks) may be subject to seperate codes of practice and may operate (voluntarily and/or legally) according to different terms; you (the vistor) are responsibile for reviewing such terms independently.
@@ -182,12 +182,12 @@ This website does not collect data directly (of any kind or in any form); howeve
 <q>When a GitHub Pages site is visited, the visitor’s IP address is logged and stored for security purposes, regardless of whether the visitor has signed into GitHub or not. For more information about GitHub’s security practices, see <a href="https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement">GitHub Privacy Statement</a>.</q>
 </p>
 <p>
-This website does not employ the use of cookies, and neither does any of its content; however, the author does reserve the right to use non-affiliated hyperlinks that direct to <a href="#terms-external">external sources</a>.
+This website respects user privacy and does not employ the use of cookies (or any other forms of tracking technologies), and neither does any of its content; however, the author does reserve the right to use non-affiliated hyperlinks that direct to <a href="#terms-external">external sources</a>.
 </p>
 <p>
 While <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">JavaScript</a> is employed by this website to serve an enhanced experience, it is not a critical component of the website’s core operation (that is, with the exception of where/when password-protection has been invoked); it may, therefore, be disabled at the visitor’s sole discretion (browser features permitting).
    </p> 
 <p>
-This website does employ the use of local storage (when JavaScript is enabled) for the purpose of retaining theme preferences; this website does not employ the use of local storage for any other purpose (such as tracking, canvasing, or analytics).
+This website does employ the use of local storage (when JavaScript is enabled) for the purpose of retaining theme preferences; this website does not employ the use of local storage for any other purpose (such as tracking, profiling, or analytics).
 </p>
 </div>
