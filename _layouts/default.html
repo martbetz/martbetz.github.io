@@ -646,7 +646,7 @@ document.addEventListener('DOMContentLoaded', function () {
     display: inline-block;
     cursor: pointer;
     user-select: none;
-    /* Scaled down to match the layout proportions */
+    /* Scaled down to match layout proportions */
     transform: scale(0.5);
     transform-origin: center center;
     margin: 0 -21px;
@@ -718,6 +718,14 @@ document.addEventListener('DOMContentLoaded', function () {
 
 <div class="theme-toggle">
 
+    <div class="camera-switch-wrapper" id="focusSwitchWrapper" title="Focus Mode">
+        <div class="camera-switch" id="cameraSwitch">
+            <div class="camera-switch-label af">AF</div>
+            <div class="camera-switch-label mf">MF</div>
+            <div class="camera-switch-slider"></div>
+        </div>
+    </div>
+
     <div class="dial-wrapper" id="themeToggle">
 
         <div class="index-marker"></div>
@@ -749,14 +757,6 @@ document.addEventListener('DOMContentLoaded', function () {
 
         </div>
 
-    </div>
-
-    <div class="camera-switch-wrapper" id="focusSwitchWrapper" title="Focus Mode">
-        <div class="camera-switch" id="cameraSwitch">
-            <div class="camera-switch-label af">AF</div>
-            <div class="camera-switch-label mf">MF</div>
-            <div class="camera-switch-slider"></div>
-        </div>
     </div>
 
 </div>
@@ -984,3 +984,4 @@ body {
 
 </body>
 </html>
+
