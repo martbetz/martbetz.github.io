@@ -47,7 +47,7 @@ martbetz.github.io is a digital-photography blog&nbsp;— an independent and per
 By interacting with this website, you (the visitor) hereby subsequently acknowledge both your understanding and your acceptance of each of the following terms:
 <ul>
 <li>
-(as per the <a href="#disclaimer">General Disclaimer</a>) <!-- this website is an independent and personal project on the part of the website author and, while publicly accessible, is soley and entirely intended for the author’s reference only; as such, in relation to the accuracy of content, there are no guarantees provided and no liabilities accepted -->this website is an independent and personal project on the part of the website author and, while publically accessable for reference, is not in any way intended as a definative factual resource; as such, in relation to the accuracy of content, no guarantees are provided and no liabilities are accepted
+(as per the <a href="#disclaimer">General Disclaimer</a>) <!-- this website is an independent and personal project on the part of the website author and, while publicly accessible, is soley and entirely intended for the author’s reference only; as such, in relation to the accuracy of content, there are no guarantees provided and no liabilities accepted -->this website is an independent and personal project on the part of the website author and, while publicaly accessable for reference, is not in any way intended as a definative factual resource; as such, in relation to the accuracy of content, no guarantees are provided and no liabilities are accepted
 </li>
 </ul>
 <!-- <ul>
@@ -57,7 +57,7 @@ By interacting with this website, you (the visitor) hereby subsequently acknowle
 </ul> -->
 <ul>
 <li>
-(as per the <a href="#disclaimer">General Disclaimer</a>) it is the explicit intention of the author to neither include nor promote any website content that is legally defined as harmful according to UK law (such as age-restricted material) nor any other content that may reasonably be considered imoral (such as direspectful or offensive material); however, the author does reserve the right of free speech (which includes, within context, referals to <a href="#terms-external">external sources</a>)&nbsp;— please <a href="https://github.com/martbetz/martbetz.github.io/issues/new ">contact the author</a>  directly regarding any legitimate concerns
+(as per the <a href="#disclaimer">General Disclaimer</a>) it is the explicit intention of the author to neither include nor promote any website content that is legally defined as harmful according to UK law (such as age-restricted material) nor any other content that may reasonably be considered immoral (such as direspectful or offensive material); however, the author does reserve the right of free speech (which includes, within context, referals to <a href="#terms-external">external sources</a>)&nbsp;— please <a href="https://github.com/martbetz/martbetz.github.io/issues/new ">contact the author</a>  directly regarding any legitimate concerns
 </li>
 </ul>
 <ul>
@@ -113,10 +113,10 @@ this website does employ the use of local storage (when JavaScript is enabled) f
 </li>
 </ul>
 <div id="terms-host">
-     <p>This website is hosted using GitHub Pages and is therefore subject to the applicable <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages">GitHub Pages hosting terms and policies</a>; you (the vistor) are responsibile for reviewing these terms conjunctively.</p>
+     <p>This website is hosted using GitHub Pages and is therefore subject to the applicable <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages">GitHub Pages hosting terms and policies</a>; you (the visitor) are responsibile for reviewing these terms conjunctively.</p>
 </div>
 <div id="terms-external"> 
-    <p>External sources (including those represented by hyperlinks) may be subject to seperate codes of practice and may operate (voluntarily and/or legally) according to different terms; you (the vistor) are responsibile for reviewing such terms independently.
+    <p>External sources (including those represented by hyperlinks) may be subject to separate codes of practice and may operate (voluntarily and/or legally) according to different terms; you (the visitor) are responsible for reviewing such terms independently.
     </p>
 </div> 
 <div> 
