@@ -17,7 +17,7 @@ This website is hosted by <a href="https://pages.github.com">GitHub Pages</a>; i
       Overview
    </h2> 
 <p>
-martbetz.github.io is a digital-photography blog&nbsp;— an independent and personal project, solely maintained by the website author, that respects user privacy (does not employ the use of cookies) and complies with legal practice (does not promote such content as restrained by UK law).
+martbetz.github.io is a digital-photography blog&nbsp;— an independent and personal project, solely maintained by the website author, that respects user privacy (does not employ the use of cookies or any other forms of tracking technologies) and complies with legal practice (does not promote such content as restrained by UK law).
 </p>
 </div>
 <hr>
@@ -97,7 +97,7 @@ By interacting with this website, you (the visitor) hereby subsequently acknowle
 </ul>
 <ul>
 <li>
-(as per the <a href="#privacy">Privacy Policy</a>) this website respects user privacy and does not employ the use of cookies (or any other forms of tracking technologies), and neither does any of its content; however, the author does reserve the right to use non-affiliated hyperlinks that direct to <a href="#terms-external">external sources</a>
+(as per the <a href="#privacy">Privacy Policy</a>) this website does not employ the use of cookies, and neither does any of its content; however, the author does reserve the right to use non-affiliated hyperlinks that direct to <a href="#terms-external">external sources</a>
 </li>
 </ul>
 <ul>
@@ -182,7 +182,7 @@ This website does not collect data directly (of any kind or in any form); howeve
 <q>When a GitHub Pages site is visited, the visitor’s IP address is logged and stored for security purposes, regardless of whether the visitor has signed into GitHub or not. For more information about GitHub’s security practices, see <a href="https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement">GitHub Privacy Statement</a>.</q>
 </p>
 <p>
-This website respects user privacy and does not employ the use of cookies (or any other forms of tracking technologies), and neither does any of its content; however, the author does reserve the right to use non-affiliated hyperlinks that direct to <a href="#terms-external">external sources</a>.
+This website does not employ the use of cookies, and neither does any of its content; however, the author does reserve the right to use non-affiliated hyperlinks that direct to <a href="#terms-external">external sources</a>.
 </p>
 <p>
 While <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">JavaScript</a> is employed by this website to serve an enhanced experience, it is not a critical component of the website’s core operation (that is, with the exception of where/when password-protection has been invoked); it may, therefore, be disabled at the visitor’s sole discretion (browser features permitting).
