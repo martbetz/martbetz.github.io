@@ -109,7 +109,7 @@ while <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">JavaScri
 <ul>
 <li>
 (as per the <a href="#privacy">Privacy Policy</a>) 
-this website does employ the use of local storage (when JavaScript is enabled) for the purpose of retaining theme preferences; this website does not employ the use of local storage for any other purpose (such as tracking, canvasing, or analitics)
+this website does employ the use of local storage (when JavaScript is enabled) for the purpose of retaining theme preferences; this website does not employ the use of local storage for any other purpose (such as tracking, canvasing, or analytics)
 </li>
 </ul>
 <div id="terms-host">
@@ -188,6 +188,6 @@ This website does not employ the use of cookies, and neither does any of its con
 While <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">JavaScript</a> is employed by this website to serve an enhanced experience, it is not a critical component of the website’s core operation (that is, with the exception of where/when password-protection has been invoked); it may, therefore, be disabled at the visitor’s sole discretion (browser features permitting).
    </p> 
 <p>
-This website does employ the use of local storage (when JavaScript is enabled) for the purpose of retaining theme preferences; this website does not employ the use of local storage for any other purpose (such as tracking, canvasing, or analitics).
+This website does employ the use of local storage (when JavaScript is enabled) for the purpose of retaining theme preferences; this website does not employ the use of local storage for any other purpose (such as tracking, canvasing, or analytics).
 </p>
 </div>
