@@ -444,11 +444,11 @@ document.addEventListener('DOMContentLoaded', function () {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 0px;
-    width: fit-content;
+    width: 100%;
+    position: relative;
 }
 
-/* Dial Container (Centered with original negative margins) */
+/* Dial Container (True dead-centre anchor) */
 
 .dial-wrapper {
     position: relative;
@@ -457,7 +457,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
     transform: scale(0.35);
     transform-origin: center center;
-    margin: 0 -35px;
+    /* Zero out horizontal offset so it acts as the exact centre point */
+    margin: 0 -22px;
 }
 
 /* Red Index Marker */
@@ -577,8 +578,7 @@ document.addEventListener('DOMContentLoaded', function () {
     /* Reduced by 25% */
     transform:scale(0.2625);
     transform-origin:center center;
-    /* Adjusted right-side pull to perfectly balance the switch on the left */
-    margin: 0 -47px;
+    margin: 0 -45px;
 }
 
 .menu-button{
@@ -649,8 +649,7 @@ document.addEventListener('DOMContentLoaded', function () {
     /* Scaled down to match layout proportions */
     transform: scale(0.5);
     transform-origin: center center;
-    /* Adjusted left-side pull to match the menu button offset */
-    margin: 0 -37px;
+    margin: 0 -45px;
 }
 
 .camera-switch {
