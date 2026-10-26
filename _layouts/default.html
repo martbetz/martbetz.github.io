@@ -649,7 +649,7 @@ document.addEventListener('DOMContentLoaded', function () {
     /* Scaled down to match layout proportions */
     transform: scale(0.5);
     transform-origin: center center;
-    margin: 0 -21px;
+    margin: 0 -15px;
 }
 
 .camera-switch {
@@ -804,37 +804,25 @@ document.addEventListener('DOMContentLoaded', function () {
 
     });
 
-    // AF/MF Switch Logic
+    // AF/MF Dummy Switch Placeholder Logic
     const cameraSwitch = document.getElementById('cameraSwitch');
     const focusSwitchWrapper = document.getElementById('focusSwitchWrapper');
-    const targetUrl = "https://martbetz.github.io/camera_menu.html";
-
-    const isMfPage = window.location.href.includes("camera_menu.html");
-    if (isMfPage) {
-        cameraSwitch.classList.add('mf');
-    }
 
     focusSwitchWrapper.addEventListener('click', function(){
-        if (cameraSwitch.classList.contains('animating')) return;
-
+        // Toggle the visual slide state (AF <-> MF)
         const isCurrentlyMf = cameraSwitch.classList.contains('mf');
-        cameraSwitch.classList.add('animating');
-
-        if (!isCurrentlyMf) {
-            cameraSwitch.classList.add('mf');
-            setTimeout(function() {
-                window.location.href = targetUrl;
-            }, 250);
-        } else {
+        
+        if (isCurrentlyMf) {
             cameraSwitch.classList.remove('mf');
-            setTimeout(function() {
-                if (document.referrer && document.referrer !== window.location.href) {
-                    window.history.back();
-                } else {
-                    window.location.href = "index.html";
-                }
-            }, 250);
+        } else {
+            cameraSwitch.classList.add('mf');
         }
+
+        // ==========================================
+        // TODO: Add your custom function here later
+        // Current state can be checked via: isCurrentlyMf (true = switched to AF, false = switched to MF)
+        // ==========================================
+        console.log("Focus switch toggled. Current mode:", isCurrentlyMf ? "AF" : "MF");
     });
 
 });
@@ -984,4 +972,3 @@ body {
 
 </body>
 </html>
-
