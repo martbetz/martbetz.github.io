@@ -444,22 +444,19 @@ document.addEventListener('DOMContentLoaded', function () {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 0px;
-    width: fit-content;
+    width: 100%;
+    position: relative;
 }
 
-/* Dial Container */
-
+/* Dial Container - Perfectly centered with equal balancing side margins */
 .dial-wrapper {
     position: relative;
     cursor: pointer;
     user-select: none;
 
-    /* Same dial as standalone version */
     transform: scale(0.35);
     transform-origin: center center;
-    /* Increased right margin to create more space between dial and menu button */
-    margin: 0 -15px 0 -35px;
+    margin: 0 10px; /* Equal spacing buffer on both sides */
 }
 
 /* Red Index Marker */
@@ -579,7 +576,7 @@ document.addEventListener('DOMContentLoaded', function () {
     /* Reduced by 25% */
     transform:scale(0.2625);
     transform-origin:center center;
-    margin: 0 -42px;
+    margin: 0 -20px;
 }
 
 .menu-button{
@@ -650,7 +647,7 @@ document.addEventListener('DOMContentLoaded', function () {
     /* Scaled down to match layout proportions */
     transform: scale(0.5);
     transform-origin: center center;
-    margin: 0 -15px;
+    margin: 0 -20px;
 }
 
 .camera-switch {
