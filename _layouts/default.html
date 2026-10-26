@@ -804,40 +804,42 @@ document.addEventListener('DOMContentLoaded', function () {
 
     });
 
-    // AF/MF Dummy Switch Placeholder Logic
+    // AF/MF Switch State & Persistence Logic
     const cameraSwitch = document.getElementById('cameraSwitch');
     const focusSwitchWrapper = document.getElementById('focusSwitchWrapper');
 
+    // 1. Load saved state on page load
+    const savedFocusMode = localStorage.getItem('focusMode') || 'af';
+    if (savedFocusMode === 'mf') {
+        cameraSwitch.classList.add('mf');
+    } else {
+        cameraSwitch.classList.remove('mf');
+    }
+
+    // 2. Handle click, toggle, and save to localStorage
     focusSwitchWrapper.addEventListener('click', function(){
-        // Toggle the visual slide state (AF <-> MF)
         const isCurrentlyMf = cameraSwitch.classList.contains('mf');
         
+        let newMode;
         if (isCurrentlyMf) {
             cameraSwitch.classList.remove('mf');
+            newMode = 'af';
         } else {
             cameraSwitch.classList.add('mf');
+            newMode = 'mf';
         }
+
+        // Save state so it persists across page changes
+        localStorage.setItem('focusMode', newMode);
 
         // ==========================================
         // TODO: Add your custom function here later
-        // Current state can be checked via: isCurrentlyMf (true = switched to AF, false = switched to MF)
         // ==========================================
-        console.log("Focus switch toggled. Current mode:", isCurrentlyMf ? "AF" : "MF");
+        console.log("Focus switch toggled. Current mode:", newMode.toUpperCase());
     });
 
 });
-
-
-<!-- -->
-
-
-
-
-
-
-  
 </script>
-
 
 <!-- exp 
 
