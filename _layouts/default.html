@@ -1,6 +1,8 @@
 <!DOCTYPE html>
-
+<html lang="en">
+<head>
   {%- include head.html -%}
+</head>
 
   <body>
 
@@ -332,109 +334,16 @@ body.dark .site-nav input:checked ~ .trigger {
 
 
 
-<!-- <style>
-
-.theme-toggle {
-    width: 30px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: -40px;
-    padding-bottom: 60px;
-    text-align: center;
-}
-
-.theme-toggle input {
-    display: none;
-}
-
-.slider {
-    display: block;
-    width: 30px;
-    height: 17px;
-    background: #CB00CB;
-    border-radius: 17px;
-    cursor: pointer;
-    position: relative;
-    transition: 0.3s;
-}
-
-.slider::before {
-    content: "";
-    position: absolute;
-    width: 13px;
-    height: 13px;
-    left: 2px;
-    top: 2px;
-    background: #F2F2F2;
-    border-radius: 50%;
-    transition: 0.3s;
-}
-
-#themeToggle:checked + .slider {
-    background: #00B0B0;
-}
-
-#themeToggle:checked + .slider::before {
-    transform: translateX(13px);
-}
-
-.theme-label {
-    margin-top: 8px;
-    font-size: 11px;
-    font-weight: bold;
-    text-align: center;
-}
-
-</style>
-
-<div class="theme-toggle">
-    <label>
-        <input type="checkbox" id="themeToggle">
-        <span class="slider"></span>
-    </label> -->
-
-    <!--
-    <div class="theme-label">Light / Dark</div>
-    --> <!--
-</div>
-
-<script>
-document.addEventListener('DOMContentLoaded', function () {
-
-    const toggle = document.getElementById('themeToggle');
-
-    if (localStorage.getItem('theme') === 'dark') {
-        document.body.classList.add('dark');
-        toggle.checked = true;
-    }
-
-    toggle.addEventListener('change', function () {
-
-        if (this.checked) {
-            document.body.classList.add('dark');
-            localStorage.setItem('theme', 'dark');
-        } else {
-            document.body.classList.remove('dark');
-            localStorage.setItem('theme', 'light');
-        }
-
-    });
-
-});
-</script>
-
-<!-- End of Theme Toggle -->
-
-
-
-
-
     
 
 <style>
-/* Fuji Exposure Dial Theme Toggle */
+/* Fuji Exposure Dial & Controls Theme Toggle */
 
 .theme-toggle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: -8px;
     margin-left: auto;
     margin-right: auto;
     margin-top: -80px;
@@ -448,13 +357,10 @@ document.addEventListener('DOMContentLoaded', function () {
     position: relative;
     cursor: pointer;
     user-select: none;
-
     width: fit-content;
-    margin: 0 auto;
-
-    /* Same dial as standalone version */
     transform: scale(0.35);
     transform-origin: center center;
+    margin: -35px;
 }
 
 /* Red Index Marker */
@@ -560,16 +466,88 @@ document.addEventListener('DOMContentLoaded', function () {
 .m5 span { transform: translateX(-50%) rotate(-30deg); }
 .m6 span { transform: translateX(-50%) rotate(-60deg); }
 .m7 span { transform: translateX(-50%) rotate(-90deg); }
+
+
+/* Menu & Preview Buttons */
+
+.menu-button-wrapper {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    user-select: none;
+    transform: scale(0.2625);
+    transform-origin: center center;
+    margin: -48px;
+}
+
+.menu-button {
+    position: relative;
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    background: radial-gradient(circle at 35% 35%, #e4e4e4, #bdbdbd 60%, #8b8b8b);
+    border: 2px solid #666;
+    transition: transform .2s ease, filter .2s ease;
+}
+
+.menu-button:hover {
+    filter: brightness(1.05);
+}
+
+.menu-button::before {
+    content: "";
+    position: absolute;
+    inset: 4px;
+    border-radius: 50%;
+    border: 1px solid rgba(0,0,0,.2);
+}
+
+.menu-icon {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    pointer-events: none;
+}
+
+.menu-icon svg {
+    width: 56px;
+    height: 56px;
+}
+
+.menu-icon line {
+    stroke: #222;
+    stroke-width: 6;
+    stroke-linecap: round;
+}
+
+.menu-icon polygon {
+    fill: #222;
+}
 </style>
 
 <div class="theme-toggle">
 
+    <!-- Menu Button (Left) -->
+    <div class="menu-button-wrapper"
+         onclick="window.location.href='https://martbetz.github.io/camera_menu';"
+         title="Camera Menu">
+        <div class="menu-button">
+            <div class="menu-icon">
+                <svg viewBox="0 0 100 100">
+                    <line x1="25" y1="35" x2="75" y2="35"></line>
+                    <line x1="25" y1="50" x2="75" y2="50"></line>
+                    <line x1="25" y1="65" x2="75" y2="65"></line>
+                </svg>
+            </div>
+        </div>
+    </div>
+
+    <!-- Exposure Dial Theme Toggle (Center) -->
     <div class="dial-wrapper" id="themeToggle">
-
         <div class="index-marker"></div>
-
         <div class="dial" id="dial">
-
             <div class="mark m1"><span>-3</span></div>
             <div class="mark m2"><span>-2</span></div>
             <div class="mark m3"><span>-1</span></div>
@@ -577,9 +555,20 @@ document.addEventListener('DOMContentLoaded', function () {
             <div class="mark m5"><span>+1</span></div>
             <div class="mark m6"><span>+2</span></div>
             <div class="mark m7"><span>+3</span></div>
-
         </div>
+    </div>
 
+    <!-- Preview/Playback Button (Right) -->
+    <div class="menu-button-wrapper"
+         onclick="window.location.href='https://martbetz.github.io/camera_menu';"
+         title="Preview">
+        <div class="menu-button">
+            <div class="menu-icon">
+                <svg viewBox="0 0 100 100">
+                    <polygon points="35,25 35,75 75,50"></polygon>
+                </svg>
+            </div>
+        </div>
     </div>
 
 </div>
@@ -592,21 +581,20 @@ document.addEventListener('DOMContentLoaded', function () {
 
     function updateDial(isDark) {
 
-    if (isDark) {
-        document.body.classList.add('dark');
+        if (isDark) {
+            document.body.classList.add('dark');
 
-        /* Dark mode = -2 EV */
-        dial.style.transform = 'rotate(60deg)';
+            /* Dark mode = -2 EV */
+            dial.style.transform = 'rotate(60deg)';
 
-    } else {
-        document.body.classList.remove('dark');
+        } else {
+            document.body.classList.remove('dark');
 
-        /* Light mode = 0 EV */
-        dial.style.transform = 'rotate(0deg)';
+            /* Light mode = 0 EV */
+            dial.style.transform = 'rotate(0deg)';
+        }
+
     }
-
-}
-
     
     const darkMode =
         localStorage.getItem('theme') === 'dark';
@@ -628,37 +616,7 @@ document.addEventListener('DOMContentLoaded', function () {
     });
 
 });
-
-
-<!-- -->
-
-
-
-
-
-
-  
 </script>
-
-
-<!-- exp 
-
-    <style>
-    html,
-body {
-    width: 100%;
-    max-width: 100%;
-    overflow-x: clip;
-}
-
-*,
-*::before,
-*::after {
-    box-sizing: border-box;
-}
-</style>
-
--->
 
     <style>
 .site-header {
@@ -681,16 +639,6 @@ body {
 
       </style>
 
-
-
-
-
-    
-
-  
-
-  
-
     <style>
     .site-header {
     border-top: 0 !important;
@@ -699,17 +647,10 @@ body {
 
   <style>
 
-/* Mobile / tablet (<1000px) */
-
-/* html {
-    background: var(--bg-colour);
-} */
-
     html {
     background: transparent;
     }
     
-
 body {
     max-width: none;
     margin: 0;
@@ -739,7 +680,6 @@ body {
 }
 
 </style>
-
     
 <style>
     @media screen and (min-width: 1000px) {
@@ -766,119 +706,6 @@ body {
 
 }
 </style>
-
-
-
-
-
-
-
-    
-
-<!-- Camera Menu Button
-
-<style>
-
-/* Camera Menu Button */
-
-.menu-button-wrapper{
-    margin-top:-140px;
-    margin-left:135px;
-    position:relative;
-    display:inline-block;
-
-    cursor:pointer;
-    user-select:none;
-
-    /* Reduced by 25% */
-    transform:scale(0.2625);
-    transform-origin:center center;
-}
-
-.menu-button{
-    position:relative;
-
-    width:130px;
-    height:130px;
-
-    border-radius:50%;
-
-    background:
-        radial-gradient(
-            circle at 35% 35%,
-            #e4e4e4,
-            #bdbdbd 60%,
-            #8b8b8b
-        );
-
-    border:2px solid #666;
-
-    transition:
-        transform .2s ease,
-        filter .2s ease;
-}
-
-.menu-button:hover{
-    filter:brightness(1.05);
-}
-
-/* Inner Ring */
-
-.menu-button::before{
-    content:"";
-
-    position:absolute;
-
-    inset:4px;
-
-    border-radius:50%;
-
-    border:1px solid rgba(0,0,0,.2);
-}
-
-/* MENU Label */
-
-.menu-text{
-    position:absolute;
-
-    top:50%;
-    left:50%;
-
-    transform:translate(-50%,-50%);
-
-    font-size:18px;
-    font-weight:700;
-    letter-spacing:.15em;
-
-    color:#222;
-
-    line-height:1;
-
-    pointer-events:none;
-}
-
-</style>
-
-<div
-    class="menu-button-wrapper"
-    onclick="window.location.href='camera_menu.html';"
-    title="Camera Menu">
-
-    <div class="menu-button">
-
-        <div class="menu-text">
-            MENU
-        </div>
-
-    </div>
-
-</div> -->
-    
-
-  
-    
-
-
 
 </body>
 </html>
