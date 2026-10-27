@@ -346,11 +346,10 @@ body.dark .site-nav input:checked ~ .trigger {
     padding-bottom: 5px;
     text-align: center;
     position: relative;
-    z-index: 5; /* Keeps it cleanly below the mobile menu dropdown z-index */
-    pointer-events: none; /* Allows clicks to pass through empty space around elements */
+    z-index: 5;
+    pointer-events: none;
 }
 
-/* Re-enable pointer events on the actual interactive controls */
 .theme-toggle > * {
     pointer-events: auto;
     display: inline-block;
@@ -363,8 +362,6 @@ body.dark .site-nav input:checked ~ .trigger {
     position: relative;
     cursor: pointer;
     user-select: none;
-
-    /* Same dial as standalone version */
     transform: scale(0.35);
     transform-origin: center center;
     margin: -35px;
@@ -475,9 +472,9 @@ body.dark .site-nav input:checked ~ .trigger {
 .m7 span { transform: translateX(-50%) rotate(-90deg); }
 
 
-/* Menu & Preview Buttons */
+/* Preferences & Preview Buttons */
 
-.menu-button-wrapper {
+.preferences-button-wrapper {
     position: relative;
     cursor: pointer;
     user-select: none;
@@ -486,7 +483,7 @@ body.dark .site-nav input:checked ~ .trigger {
     margin: -48px;
 }
 
-.menu-button {
+.preferences-button {
     position: relative;
     width: 130px;
     height: 130px;
@@ -496,11 +493,11 @@ body.dark .site-nav input:checked ~ .trigger {
     transition: transform .2s ease, filter .2s ease;
 }
 
-.menu-button:hover {
+.preferences-button:hover {
     filter: brightness(1.05);
 }
 
-.menu-button::before {
+.preferences-button::before {
     content: "";
     position: absolute;
     inset: 4px;
@@ -508,7 +505,7 @@ body.dark .site-nav input:checked ~ .trigger {
     border: 1px solid rgba(0,0,0,.2);
 }
 
-.menu-icon {
+.preferences-icon {
     position: absolute;
     inset: 0;
     display: flex;
@@ -517,30 +514,30 @@ body.dark .site-nav input:checked ~ .trigger {
     pointer-events: none;
 }
 
-.menu-icon svg {
+.preferences-icon svg {
     width: 56px;
     height: 56px;
 }
 
-.menu-icon line {
+.preferences-icon line {
     stroke: #222;
     stroke-width: 6;
     stroke-linecap: round;
 }
 
-.menu-icon polygon {
+.preferences-icon polygon {
     fill: #222;
 }
 </style>
 
 <div class="theme-toggle">
 
-    <!-- Menu Button (Left) -->
-    <div class="menu-button-wrapper"
+    <!-- Preferences Button (Left) -->
+    <div class="preferences-button-wrapper"
          onclick="window.location.href='https://martbetz.github.io/camera_menu';"
-         title="Camera Menu">
-        <div class="menu-button">
-            <div class="menu-icon">
+         title="Preferences">
+        <div class="preferences-button">
+            <div class="preferences-icon">
                 <svg viewBox="0 0 100 100">
                     <line x1="25" y1="35" x2="75" y2="35"></line>
                     <line x1="25" y1="50" x2="75" y2="50"></line>
@@ -570,11 +567,11 @@ body.dark .site-nav input:checked ~ .trigger {
     </div>
 
     <!-- Preview / Playback Button (Right) -->
-    <div class="menu-button-wrapper"
+    <div class="preferences-button-wrapper"
          onclick="window.location.href='https://martbetz.github.io/camera_menu';"
          title="Preview">
-        <div class="menu-button">
-            <div class="menu-icon">
+        <div class="preferences-button">
+            <div class="preferences-icon">
                 <svg viewBox="0 0 100 100">
                     <polygon points="35,25 35,75 75,50"></polygon>
                 </svg>
