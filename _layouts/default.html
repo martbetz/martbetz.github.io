@@ -472,9 +472,9 @@ body.dark .site-nav input:checked ~ .trigger {
 .m7 span { transform: translateX(-50%) rotate(-90deg); }
 
 
-/* Preferences & Preview Buttons */
+/* Unified Side Button Styles (Shared exact same block) */
 
-.preferences-button-wrapper {
+.camera-button-wrapper {
     position: relative;
     cursor: pointer;
     user-select: none;
@@ -483,7 +483,7 @@ body.dark .site-nav input:checked ~ .trigger {
     margin: -48px;
 }
 
-.preferences-button {
+.camera-button {
     position: relative;
     width: 130px;
     height: 130px;
@@ -493,11 +493,11 @@ body.dark .site-nav input:checked ~ .trigger {
     transition: transform .2s ease, filter .2s ease;
 }
 
-.preferences-button:hover {
+.camera-button:hover {
     filter: brightness(1.05);
 }
 
-.preferences-button::before {
+.camera-button::before {
     content: "";
     position: absolute;
     inset: 4px;
@@ -505,7 +505,7 @@ body.dark .site-nav input:checked ~ .trigger {
     border: 1px solid rgba(0,0,0,.2);
 }
 
-.preferences-icon {
+.camera-icon {
     position: absolute;
     inset: 0;
     display: flex;
@@ -514,30 +514,30 @@ body.dark .site-nav input:checked ~ .trigger {
     pointer-events: none;
 }
 
-.preferences-icon svg {
+.camera-icon svg {
     width: 56px;
     height: 56px;
 }
 
-.preferences-icon line {
+.camera-icon line {
     stroke: #222;
     stroke-width: 6;
     stroke-linecap: round;
 }
 
-.preferences-icon polygon {
+.camera-icon polygon {
     fill: #222;
 }
 </style>
 
 <div class="theme-toggle">
 
-    <!-- Preferences Button (Left) -->
-    <div class="preferences-button-wrapper"
+    <!-- Menu Button (Left) -->
+    <div class="camera-button-wrapper"
          onclick="window.location.href='https://martbetz.github.io/camera_menu';"
          title="Preferences">
-        <div class="preferences-button">
-            <div class="preferences-icon">
+        <div class="camera-button">
+            <div class="camera-icon">
                 <svg viewBox="0 0 100 100">
                     <line x1="25" y1="35" x2="75" y2="35"></line>
                     <line x1="25" y1="50" x2="75" y2="50"></line>
@@ -566,12 +566,12 @@ body.dark .site-nav input:checked ~ .trigger {
 
     </div>
 
-    <!-- Preview / Playback Button (Right) -->
-    <div class="preferences-button-wrapper"
+    <!-- Preview Button (Right) -->
+    <div class="camera-button-wrapper"
          onclick="window.location.href='https://martbetz.github.io/camera_menu';"
          title="Preview">
-        <div class="preferences-button">
-            <div class="preferences-icon">
+        <div class="camera-button">
+            <div class="camera-icon">
                 <svg viewBox="0 0 100 100">
                     <polygon points="38,30 38,70 72,50"></polygon>
                 </svg>
