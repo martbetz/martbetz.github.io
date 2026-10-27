@@ -337,7 +337,7 @@ body.dark .site-nav input:checked ~ .trigger {
     
 
 <style>
-/* Fuji Exposure Dial Theme Toggle & Controls */
+/* Fuji Exposure Dial & Controls Isolation */
 
 .theme-toggle {
     margin-left: auto;
@@ -345,15 +345,22 @@ body.dark .site-nav input:checked ~ .trigger {
     margin-top: -80px;
     padding-bottom: 5px;
     text-align: center;
-    white-space: nowrap;
+    position: relative;
+    z-index: 5; /* Keeps it cleanly below the mobile menu dropdown z-index */
+    pointer-events: none; /* Allows clicks to pass through empty space around elements */
+}
+
+/* Re-enable pointer events on the actual interactive controls */
+.theme-toggle > * {
+    pointer-events: auto;
+    display: inline-block;
+    vertical-align: middle;
 }
 
 /* Dial Container */
 
 .dial-wrapper {
     position: relative;
-    display: inline-block;
-    vertical-align: middle;
     cursor: pointer;
     user-select: none;
 
@@ -472,8 +479,6 @@ body.dark .site-nav input:checked ~ .trigger {
 
 .menu-button-wrapper {
     position: relative;
-    display: inline-block;
-    vertical-align: middle;
     cursor: pointer;
     user-select: none;
     transform: scale(0.2625);
