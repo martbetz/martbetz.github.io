@@ -337,27 +337,27 @@ body.dark .site-nav input:checked ~ .trigger {
     
 
 <style>
-/* Fuji Exposure Dial & Controls Theme Toggle */
+/* Fuji Exposure Dial Theme Toggle & Controls */
 
 .theme-toggle {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: -10px;
     margin-left: auto;
     margin-right: auto;
     margin-top: -80px;
     padding-bottom: 5px;
     text-align: center;
+    white-space: nowrap;
 }
 
 /* Dial Container */
 
 .dial-wrapper {
     position: relative;
+    display: inline-block;
+    vertical-align: middle;
     cursor: pointer;
     user-select: none;
-    width: fit-content;
+
+    /* Same dial as standalone version */
     transform: scale(0.35);
     transform-origin: center center;
     margin: -35px;
@@ -473,6 +473,7 @@ body.dark .site-nav input:checked ~ .trigger {
 .menu-button-wrapper {
     position: relative;
     display: inline-block;
+    vertical-align: middle;
     cursor: pointer;
     user-select: none;
     transform: scale(0.2625);
@@ -546,8 +547,11 @@ body.dark .site-nav input:checked ~ .trigger {
 
     <!-- Exposure Dial Theme Toggle (Center) -->
     <div class="dial-wrapper" id="themeToggle">
+
         <div class="index-marker"></div>
+
         <div class="dial" id="dial">
+
             <div class="mark m1"><span>-3</span></div>
             <div class="mark m2"><span>-2</span></div>
             <div class="mark m3"><span>-1</span></div>
@@ -555,10 +559,12 @@ body.dark .site-nav input:checked ~ .trigger {
             <div class="mark m5"><span>+1</span></div>
             <div class="mark m6"><span>+2</span></div>
             <div class="mark m7"><span>+3</span></div>
+
         </div>
+
     </div>
 
-    <!-- Preview/Playback Button (Right) -->
+    <!-- Preview / Playback Button (Right) -->
     <div class="menu-button-wrapper"
          onclick="window.location.href='https://martbetz.github.io/camera_menu';"
          title="Preview">
@@ -581,20 +587,21 @@ document.addEventListener('DOMContentLoaded', function () {
 
     function updateDial(isDark) {
 
-        if (isDark) {
-            document.body.classList.add('dark');
+    if (isDark) {
+        document.body.classList.add('dark');
 
-            /* Dark mode = -2 EV */
-            dial.style.transform = 'rotate(60deg)';
+        /* Dark mode = -2 EV */
+        dial.style.transform = 'rotate(60deg)';
 
-        } else {
-            document.body.classList.remove('dark');
+    } else {
+        document.body.classList.remove('dark');
 
-            /* Light mode = 0 EV */
-            dial.style.transform = 'rotate(0deg)';
-        }
-
+        /* Light mode = 0 EV */
+        dial.style.transform = 'rotate(0deg)';
     }
+
+}
+
     
     const darkMode =
         localStorage.getItem('theme') === 'dark';
