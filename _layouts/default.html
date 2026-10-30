@@ -101,6 +101,9 @@ background: transparent !important;
 --link-visited-colour: #008B8B;
 --link-hover-colour: #937500;
 --link-active-colour: #937500;
+
+/* Blockquote text colour (Light mode) */
+--blockquote-text-colour: #555555;
 }
 
 body {
@@ -157,6 +160,7 @@ body.dark {
 
 --blockquote-border: #AAAAAA;
 --blockquote-bg: #4A4A4A;
+--blockquote-text-colour: #D8D8D8; /* Light grey for dark mode */
 
 --code-bg: #2A2A2A;
 --code-text: #333333;
@@ -170,6 +174,13 @@ body.dark {
 body {
 background: var(--bg-colour);
 color: var(--text-colour);
+}
+
+/* Blockquotes */
+
+blockquote,
+blockquote p {
+    color: var(--blockquote-text-colour);
 }
 
 /* Hyperlinks */
