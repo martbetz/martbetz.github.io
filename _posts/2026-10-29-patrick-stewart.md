@@ -16,6 +16,8 @@ A star has gone out, but its light continues to travel.
 
 Fair winds and following seas, Captain.
 
+<br>
+
 <blockquote style="padding-top: 3px;">
   <p>
     <a href="https://www.bbc.co.uk/news/live/cq23dve8dgv9t">Legendary actor Patrick Stewart has died aged 86</a>
