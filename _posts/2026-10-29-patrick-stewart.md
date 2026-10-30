@@ -18,7 +18,7 @@ Fair winds and following seas, Captain.
 
 <p style="padding-top: 3px;">
 <blockquote>
-<a href="https://www.bbc.co.uk/news/live/cq23dve8dgv9t"</a>Legendary actor Patrick Stewart has died aged 86</a></p>&mdash; bbc.co.uk <br> Thursday October 29, 2026</blockquote>
+<a href="https://www.bbc.co.uk/news/live/cq23dve8dgv9t">Legendary actor Patrick Stewart has died aged 86</a></p>&mdash; bbc.co.uk <br> Thursday October 29, 2026</blockquote>
 </p>
 
 <br>
