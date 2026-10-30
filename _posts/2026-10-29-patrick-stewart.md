@@ -14,5 +14,12 @@ For millions of fans, he was a constant companion across decades. His characters
 
 A star has gone out, but its light continues to travel.
 
-Fair winds and following seas, Captain. Fair winds and following seas.
+Fair winds and following seas, Captain.
+
+<p style="padding-top: 3px;">
+<blockquote>
+<a href="https://www.bbc.co.uk/news/live/cq23dve8dgv9t"</a>Legendary actor Patrick Stewart has died aged 86</a></p>&mdash; bbc.co.uk <br> Thursday October 29, 2026</blockquote>
+</p>
+
+<br>
 
