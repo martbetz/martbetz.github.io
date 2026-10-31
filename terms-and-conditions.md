@@ -115,7 +115,7 @@ this website does employ the use of local storage (when JavaScript is enabled) f
 <ul>
 <li>
 (as per the <a href="#privacy">Privacy Policy</a>) 
-to preserve visual layout and typography across devices, this website uses Google Fonts via standard web links; however, no user tracking cookies are set or stored as part of this function
+this website does employ the use of Google fonts (via standard weblinks) to preserve typography across devices; however, no user tracking cookies are set or stored as part of this function
 </li>
 </ul>
 <div id="terms-host">
@@ -197,6 +197,6 @@ While <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">JavaScri
 This website does employ the use of local storage (when JavaScript is enabled) for the purpose of retaining theme preferences; this website does not employ the use of local storage for any other purpose (such as tracking, profiling, or analytics).
 </p>
 <p>
-   To preserve visual layout and typography across devices, this website uses Google Fonts via standard web links; however, no user tracking cookies are set or stored as part of this function.
+   This website does employ the use of Google fonts (via standard weblinks) to preserve typography across devices; however, no user tracking cookies are set or stored as part of this function.
 </p>
 </div>
