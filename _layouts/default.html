@@ -266,11 +266,8 @@ body.dark .site-nav input:checked ~ .trigger .page-link:active,
 body.dark .site-nav input:checked ~ .trigger .page-link:focus {
     color: #333333 !important;
 }
-
-  
   
 @media screen and (max-width: 750px) {
-
     /* Hamburger button container */
     body.dark .site-nav {
         background-color: #F2F2F2 !important;
@@ -281,7 +278,6 @@ body.dark .site-nav input:checked ~ .trigger .page-link:focus {
         background-color: #F2F2F2 !important;
         border-radius: 0 0 10px 10px;
     }
-
 }
 </style>
 
@@ -466,11 +462,10 @@ body.dark .site-nav input:checked ~ .trigger .page-link:focus {
     left: 48px;
 }
 
-/* Buttons */
+/* Buttons (Restored to original template class names) */
 
-.menu-button-wrapper {
+.camera-button-wrapper {
     position: relative;
-    display: inline-block;
     cursor: pointer;
     user-select: none;
     transform: scale(0.2625);
@@ -478,7 +473,7 @@ body.dark .site-nav input:checked ~ .trigger .page-link:focus {
     margin: -48px;
 }
 
-.menu-button {
+.camera-button {
     position: relative;
     width: 130px;
     height: 130px;
@@ -488,11 +483,11 @@ body.dark .site-nav input:checked ~ .trigger .page-link:focus {
     transition: transform .2s ease, filter .2s ease;
 }
 
-.menu-button:hover {
+.camera-button:hover {
     filter: brightness(1.05);
 }
 
-.menu-button::before {
+.camera-button::before {
     content: "";
     position: absolute;
     inset: 4px;
@@ -500,7 +495,7 @@ body.dark .site-nav input:checked ~ .trigger .page-link:focus {
     border: 1px solid rgba(0,0,0,.2);
 }
 
-.menu-icon {
+.camera-icon {
     position: absolute;
     inset: 0;
     display: flex;
@@ -509,18 +504,18 @@ body.dark .site-nav input:checked ~ .trigger .page-link:focus {
     pointer-events: none;
 }
 
-.menu-icon svg {
+.camera-icon svg {
     width: 56px;
     height: 56px;
 }
 
-.menu-icon line {
+.camera-icon line {
     stroke: #222;
     stroke-width: 6;
     stroke-linecap: round;
 }
 
-.menu-icon polygon {
+.camera-icon polygon {
     fill: #222;
 }
 </style>
@@ -554,12 +549,12 @@ body.dark .site-nav input:checked ~ .trigger .page-link:focus {
     </div>
 
     <!-- Menu Button -->
-    <div class="menu-button-wrapper"
+    <div class="camera-button-wrapper"
          onclick="window.location.href='https://martbetz.github.io/camera_menu';"
          title="Camera Menu">
 
-        <div class="menu-button">
-            <div class="menu-icon">
+        <div class="camera-button">
+            <div class="camera-icon">
                 <svg viewBox="0 0 100 100">
                     <line x1="25" y1="35" x2="75" y2="35"></line>
                     <line x1="25" y1="50" x2="75" y2="50"></line>
@@ -570,12 +565,12 @@ body.dark .site-nav input:checked ~ .trigger .page-link:focus {
     </div>
 
     <!-- Playback Button -->
-    <div class="menu-button-wrapper"
+    <div class="camera-button-wrapper"
          onclick="window.location.href='https://martbetz.github.io/camera_menu';"
          title="Playback">
 
-        <div class="menu-button">
-            <div class="menu-icon">
+        <div class="camera-button">
+            <div class="camera-icon">
                 <svg viewBox="0 0 100 100">
                     <polygon points="38,30 38,70 72,50"></polygon>
                 </svg>
