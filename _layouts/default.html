@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
   {%- include head.html -%}
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,300&display=swap">
 </head>
 
   <body>
@@ -9,6 +10,9 @@
   <script>
 if (localStorage.getItem('theme') === 'dark') {
     document.body.classList.add('dark');
+}
+if (localStorage.getItem('imageMode') === 'mf') {
+    document.body.classList.add('merriweather-font');
 }
 </script>
     
@@ -96,6 +100,11 @@ padding: 0px;
 background: var(--bg-colour);
 color: var(--text-colour);
 font-family: sans-serif;
+}
+
+/* Merriweather Font Switch Target */
+body.merriweather-font .page-content {
+    font-family: 'Merriweather', serif;
 }
 
 @media screen and (min-width: 600px) {
@@ -420,11 +429,11 @@ body.dark .site-nav input:checked ~ .trigger .page-link:focus {
     pointer-events: none;
 }
 
-.jxl-label.auto {
+.jxl-label.manual {
     left: 11px;
 }
 
-.jxl-label.manual {
+.jxl-label.auto {
     right: 11px;
 }
 
@@ -458,7 +467,11 @@ body.dark .site-nav input:checked ~ .trigger .page-link:focus {
     opacity: .5;
 }
 
-.jxl-switch.manual .jxl-slider {
+.jxl-switch.af .jxl-slider {
+    left: 4px;
+}
+
+.jxl-switch.mf .jxl-slider {
     left: 48px;
 }
 
@@ -541,9 +554,9 @@ body.dark .site-nav input:checked ~ .trigger .page-link:focus {
 
     <!-- AF / MF Switch -->
     <div class="jxl-switch-container">
-        <div class="jxl-switch auto" id="jxlSwitch" title="Image Mode">
-            <div class="jxl-label auto">AF</div>
+        <div class="jxl-switch af" id="jxlSwitch" title="Font Mode">
             <div class="jxl-label manual">MF</div>
+            <div class="jxl-label auto">AF</div>
             <div class="jxl-slider"></div>
         </div>
     </div>
@@ -613,48 +626,29 @@ document.addEventListener('DOMContentLoaded', function () {
 </script>
 
 <script>
-document.addEventListener('DOMContentLoaded', async function(){
+document.addEventListener('DOMContentLoaded', function(){
 
     const jxlSwitch = document.getElementById('jxlSwitch');
 
-    async function supportsJXL(){
-        return new Promise(resolve => {
-            const img = new Image();
-            img.onload = () => resolve(true);
-            img.onerror = () => resolve(false);
-            img.src = 'data:image/jxl;base64,/wo=';
-        });
-    }
-
-    async function updateImages(mode){
-        const jxlSupported = await supportsJXL();
-        document.querySelectorAll('img[data-jpg][data-jxl]').forEach(img => {
-            let newSrc;
-            if(mode === 'manual') {
-                newSrc = img.dataset.jxl;
-            } else {
-                newSrc = jxlSupported ? img.dataset.jxl : img.dataset.jpg;
-            }
-            if(img.src !== newSrc) {
-                img.src = newSrc;
-            }
-        });
-    }
-
-    async function setMode(mode){
+    function setMode(mode){
         localStorage.setItem('imageMode', mode);
-        jxlSwitch.classList.remove('auto', 'manual');
+        jxlSwitch.classList.remove('af', 'mf');
         jxlSwitch.classList.add(mode);
-        await updateImages(mode);
+
+        if(mode === 'mf'){
+            document.body.classList.add('merriweather-font');
+        } else {
+            document.body.classList.remove('merriweather-font');
+        }
     }
 
-    const savedMode = localStorage.getItem('imageMode') || 'auto';
-    await setMode(savedMode);
+    const savedMode = localStorage.getItem('imageMode') || 'af';
+    setMode(savedMode);
 
-    jxlSwitch.addEventListener('click', async function(){
-        const current = localStorage.getItem('imageMode') || 'auto';
-        const newMode = current === 'auto' ? 'manual' : 'auto';
-        await setMode(newMode);
+    jxlSwitch.addEventListener('click', function(){
+        const current = localStorage.getItem('imageMode') || 'af';
+        const newMode = current === 'af' ? 'mf' : 'af';
+        setMode(newMode);
     });
 
 });
