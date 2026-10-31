@@ -100,6 +100,12 @@ padding: 0px;
 background: var(--bg-colour);
 color: var(--text-colour);
 font-family: 'Lato', sans-serif;
+font-weight: 700; /* Sets main body/page content to Lato 700 */
+}
+
+/* Ensure headings/titles inside the site-header or page titles keep their natural/explicit weight */
+.site-title, .page-heading, h1, h2, h3, h4, h5, h6 {
+    font-weight: normal; 
 }
 
 /* Merriweather Font Switch Target (MF Mode) */
@@ -107,6 +113,7 @@ body.merriweather-font .page-content {
     font-family: 'Merriweather', serif;
     font-size: 0.95em;
     line-height: 1.4;
+    font-weight: 400; /* Resets back to regular reading weight for serif mode */
 }
 
 @media screen and (min-width: 600px) {
