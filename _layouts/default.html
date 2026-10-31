@@ -103,9 +103,20 @@ font-family: 'Lato', sans-serif;
 font-weight: 500; /* Sets main body/page content to Lato 500 */
 }
 
-/* Ensure headings/titles inside the site-header or page titles keep their natural/explicit weight */
-.site-title, .page-heading, h1, h2, h3, h4, h5, h6 {
-    font-weight: normal; 
+/* Lighter weight for the website title */
+.site-title,
+.site-title:link,
+.site-title:visited,
+.site-title:hover,
+.site-title:active,
+.site-title:focus {
+    font-weight: 300 !important;
+    color: var(--site-title-colour) !important;
+}
+
+/* Increased weight for the footer */
+.site-footer {
+    font-weight: 700;
 }
 
 /* Merriweather Font Switch Target (MF Mode) */
@@ -194,17 +205,6 @@ color: var(--link-hover-colour);
 
 a:active {
 color: var(--link-active-colour);
-}
-
-/* Site Title */
-
-.site-title,
-.site-title:link,
-.site-title:visited,
-.site-title:hover,
-.site-title:active,
-.site-title:focus {
-    color: var(--site-title-colour) !important;
 }
 
 /* Header */
