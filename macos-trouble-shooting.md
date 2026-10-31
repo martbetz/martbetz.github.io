@@ -1,4 +1,3 @@
-
 ---
 title: macOS Issues & Solutions
 layout: page
