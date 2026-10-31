@@ -112,6 +112,12 @@ while <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">JavaScri
 this website does employ the use of local storage (when JavaScript is enabled) for the purpose of retaining theme preferences; this website does not employ the use of local storage for any other purpose (such as tracking, profiling, or analytics)
 </li>
 </ul>
+<li>
+<ul>
+(as per the <a href="#privacy">Privacy Policy</a>) 
+to preserve visual layout and typography across devices, this website uses Google Fonts via standard web links; however, no user tracking cookies are set or stored as part of this function
+</li>
+</ul>
 <div id="terms-host">
      <p>This website is hosted using GitHub Pages and is therefore subject to the applicable <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages">GitHub Pages hosting terms and policies</a>; you (the visitor) are responsible for reviewing these terms conjunctively.</p>
 </div>
@@ -189,5 +195,8 @@ While <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">JavaScri
    </p> 
 <p>
 This website does employ the use of local storage (when JavaScript is enabled) for the purpose of retaining theme preferences; this website does not employ the use of local storage for any other purpose (such as tracking, profiling, or analytics).
+</p>
+<p>
+   To preserve visual layout and typography across devices, this website uses Google Fonts via standard web links; however, no user tracking cookies are set or stored as part of this function.
 </p>
 </div>
