@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   {%- include head.html -%}
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,300&family=Open+Sans:ital,wght@0,400;0,600;1,400&display=swap">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,300&family=Open+Sans:ital,wght@0,400;0,600;0,700;0,800;1,400&display=swap">
 </head>
 
   <body>
@@ -103,12 +103,29 @@ font-family: 'Open Sans', sans-serif;
 font-weight: 600;
 }
 
+/* Ensure bold text and headings stand out proportionally against the 600 weight base */
+strong, b, th, h1, h2, h3, h4, h5, h6 {
+    font-weight: 800;
+}
+
 /* Merriweather Font Switch Target */
 body.merriweather-font .page-content {
     font-family: 'Merriweather', serif;
     font-size: 0.93em;
     line-height: 1.5;
     font-weight: normal;
+}
+
+body.merriweather-font strong,
+body.merriweather-font b,
+body.merriweather-font th,
+body.merriweather-font h1,
+body.merriweather-font h2,
+body.merriweather-font h3,
+body.merriweather-font h4,
+body.merriweather-font h5,
+body.merriweather-font h6 {
+    font-weight: bold;
 }
 
 @media screen and (min-width: 600px) {
