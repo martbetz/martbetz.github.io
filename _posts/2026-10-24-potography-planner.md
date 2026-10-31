@@ -15,7 +15,7 @@ In this [video by Darren Arnold](https://m.youtube.com/watch?v=3Cq6ri2weSo&pp=0g
 
 ### The Planning Problem
 
-Photography planning can quickly become fragmented&nbsp;— tne browser tab contains weather forecasts, another shows sunrise and sunset times, and yet another displays location information or route planning. The result is information overload, and photographers can find themselves juggling multiple sources of data and trying to make sense of it all instead of concentrating on composition, storytelling, and creativity.
+Photography planning can quickly become fragmented&nbsp;— one browser tab contains weather forecasts, another shows sunrise and sunset times, and yet another displays location information or route planning. The result is information overload, and photographers can find themselves juggling multiple sources of data and trying to make sense of it all instead of concentrating on composition, storytelling, and creativity.
 
 ### A Photographer's Dashboard
 
