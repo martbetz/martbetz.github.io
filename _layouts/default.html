@@ -61,16 +61,15 @@ body.merriweather-font blockquote p {
     font-size: 1.05em; /* Adjust this value (e.g., 0.85em to 0.95em) as needed */
 }
 
-  /* Force left margin indentation for all code and pre blocks, overriding existing styles */
-pre, code {
-    margin-left: 2em !important; /* Adjust the 2em value to make the indent wider or narrower */
-    display: block;              /* Ensures block-level indentation applies properly */
+  /* Forcefully indent code blocks and override Minima containers */
+div.highlighter-rouge,
+div.highlight,
+pre.highlight,
+.page-content pre {
+    margin-left: 2em !important;
+    margin-right: auto !important;
 }
 
-/* If you only want pre blocks (code blocks) indented while keeping inline code normal: */
-pre {
-    margin-left: 2em !important;
-}
 
   
  </style>
