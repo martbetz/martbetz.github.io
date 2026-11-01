@@ -1,0 +1,112 @@
+---
+layout: default
+---
+
+<p style="padding-top:1px">
+</p>
+
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header style="margin-left:-0px" class="post-header">
+    <h1 style="max-width:90%" class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>  
+    <p class="post-meta">     
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {{ page.date | date: date_format }}
+      </time>
+      {%- if page.modified_date -%}
+        ~ 
+        {%- assign mdate = page.modified_date | date_to_xmlschema -%}
+        <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
+          {{ mdate | date: date_format }}
+        </time>
+      {%- endif -%}   
+
+<!-- Experimental -->
+  <p style="font-size:12px; margin-top:-20px; word-spacing:0.5em; max-width: 600px;">
+  <br>
+  {% if post %}
+    {% assign categories = post.categories %}
+  {% else %}
+    {% assign categories = page.categories %}
+  {% endif %}
+  <!-- posted in&nbsp;&nbsp; -->
+  {% for category in categories %}
+  <!-- <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category|capitalize}}</a> -->
+  <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+  {%- unless forloop.last -%}{% endunless %}
+  {% endfor %}
+  </p>
+<!-- Experimental --> 
+      
+      {%- if page.author -%}
+        • {% for author in page.author %}
+          <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
+            {%- if forloop.last == false %}, {% endif -%}
+        {% endfor %}
+      {%- endif -%}</p>    
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">   
+    {{ content }}
+  </div>
+
+  {%- if site.disqus.shortname -%}
+    {%- include disqus_comments.html -%}
+  {%- endif -%}
+
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+</article>
+
+<!-- Experimental -->
+<!-- https://www.assertnotmagic.com/2017/04/25/jekyll-tags-the-easy-way/ -->
+{% comment %}
+=======================
+The following part extracts all the tags from your posts and sort tags,
+ so that you do not need to manually collect your tags to a place.
+=======================
+{% endcomment %}
+{% assign rawtags = "" %}
+{% for post in site.posts %}
+	{% assign ttags = post.tags | join:'|' | append:'|' %}
+	{% assign rawtags = rawtags | append:ttags %}
+{% endfor %}
+{% assign rawtags = rawtags | split:'|' | sort %}
+
+{% comment %}
+=======================
+The following part removes dulpicated tags and invalid tags like blank tag.
+=======================
+{% endcomment %}
+{% assign tags = "" %}
+{% for tag in rawtags %}
+	{% if tag != "" %}
+		{% if tags == "" %}
+			{% assign tags = tag | split:'|' %}
+		{% endif %}
+		{% unless tags contains tag %}
+			{% assign tags = tags | join:'|' | append:'|' | append:tag | split:'|' %}
+		{% endunless %}
+	{% endif %}
+  {% endfor %}
+
+	
+
+	<p>
+	<center>
+	<span class="tag-cloud-wrap" style="display:block; margin-left:4em; margin-right:4em">
+    {% for tag in site.tags %}
+    <!-- Here's a hack to generate a "tag cloud" where the size of
+    the word is directly proportional to the number of posts with
+    that tag. -->
+    <a href="/tags/{{ tag[0] }}/"
+    style="font-size: {{ tag[1] | size | times: 2 | plus: 10 }}px">
+        {{ tag[0] }} &nbsp;
+    </a>
+    {% endfor %}
+	</span>
+	</center>
+	<br>
+        </p>
+<!-- Experimental -->
