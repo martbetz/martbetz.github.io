@@ -46,6 +46,23 @@ if (localStorage.getItem('imageMode') === 'mf') {
   showWhenScrollTopIs: 3000, // px
   cornerOffset: 20, // px
 })</script>
+
+
+<style>
+
+  /* Scales up Lato inside font size 4 */
+font[size="4"] {
+    font-size: 1.2em; /* Increase as needed */
+}
+
+/* If you want it scaled differently when Merriweather is active */
+body.merriweather-font font[size="4"] {
+    font-size: 1.0em; 
+}
+
+</style>
+
+
     
 <style>
     
