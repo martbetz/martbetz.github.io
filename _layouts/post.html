@@ -91,24 +91,15 @@ The following part removes dulpicated tags and invalid tags like blank tag.
 	{% endif %}
   {% endfor %}
 
-	<style>
-	/* Slightly increase tag cloud sizes in Lato mode only */
-	body:not(.merriweather-font) .tag-cloud-container a {
-	    display: inline-block !important;
-	    transform: scale(1.15) !important;
-	    transform-origin: left center !important;
-	}
-	</style>
-
 	<p>
 	<center>
-	<span class="tag-cloud-container" style="display:block; margin-left:4em; margin-right:4em">
+	<span style="display:block; margin-left:4em; margin-right:4em">
     {% for tag in site.tags %}
     <!-- Here's a hack to generate a "tag cloud" where the size of
     the word is directly proportional to the number of posts with
     that tag. -->
     <a href="/tags/{{ tag[0] }}/"
-    style="font-size: {{ tag[1] | size | times: 2 | plus: 10 }}px">
+    style="font-size: {{ tag[1] | size | times: 2.5 | plus: 13 }}px">
         {{ tag[0] }} &nbsp;
     </a>
     {% endfor %}
