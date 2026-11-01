@@ -23,21 +23,59 @@ layout: default
       {%- endif -%}   
 
 <!-- Experimental -->
-  <p style="font-size:12px; margin-top:-20px; word-spacing:0.5em; max-width: 600px;">
-  <br>
-  {% if post %}
-    {% assign categories = post.categories %}
-  {% else %}
-    {% assign categories = page.categories %}
-  {% endif %}
-  <!-- posted in&nbsp;&nbsp; -->
-  {% for category in categories %}
-  <!-- <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category|capitalize}}</a> -->
-  <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
-  {%- unless forloop.last -%}{% endunless %}
+<!-- https://www.assertnotmagic.com/2017/04/25/jekyll-tags-the-easy-way/ -->
+{% comment %}
+=======================
+The following part extracts all the tags from your posts and sort tags,
+ so that you do not need to manually collect your tags to a place.
+=======================
+{% endcomment %}
+{% assign rawtags = "" %}
+{% for post in site.posts %}
+	{% assign ttags = post.tags | join:'|' | append:'|' %}
+	{% assign rawtags = rawtags | append:ttags %}
+{% endfor %}
+{% assign rawtags = rawtags | split:'|' | sort %}
+
+{% comment %}
+=======================
+The following part removes dulpicated tags and invalid tags like blank tag.
+=======================
+{% endcomment %}
+{% assign tags = "" %}
+{% for tag in rawtags %}
+	{% if tag != "" %}
+		{% if tags == "" %}
+			{% assign tags = tag | split:'|' %}
+		{% endif %}
+		{% unless tags contains tag %}
+			{% assign tags = tags | join:'|' | append:'|' | append:tag | split:'|' %}
+		{% endunless %}
+	{% endif %}
   {% endfor %}
-  </p>
-<!-- Experimental --> 
+
+	<p>
+	<center>
+	<span class="tag-cloud-wrap" style="display:block; margin-left:4em; margin-right:4em">
+    {% for tag in site.tags %}
+    <!-- Check if Merriweather is selected (adjust variable name if yours differs) -->
+    {% if page.font == 'merriweather' or site.font == 'merriweather' %}
+      {% assign tag_size = tag[1] | size | times: 1.5 | plus: 8 %}
+    {% else %}
+      {% assign tag_size = tag[1] | size | times: 2 | plus: 10 %}
+    {% endif %}
+
+    <a href="/tags/{{ tag[0] }}/"
+    style="font-size: {{ tag_size }}px">
+        {{ tag[0] }} &nbsp;
+    </a>
+    {% endfor %}
+	</span>
+	</center>
+	<br>
+        </p>
+<!-- Experimental -->
+
       
       {%- if page.author -%}
         • {% for author in page.author %}
