@@ -1,5 +1,5 @@
 ---
-title: Betzy's Actions
+title: Betzy’s Actions
 layout: page
 ---
 
@@ -20,7 +20,7 @@ layout: page
 <div align="left">
 
 <p style="margin-top: -15px;">
-Here's a list of my custom 'right-click' desktop actions that I use with Qterminal and PCManFM-qt as part of the LXQt desktop (I've also included links to any required dependencies). All action files should be made executable and copied to the following location:</p>
+Here’s a list of my custom ‘right-click’ desktop actions that I use with Qterminal and PCManFM-qt as part of the LXQt desktop (I’ve also included links to any required dependencies). All action files should be made executable and copied to the following location:</p>
 </div>
 </font>
 
@@ -31,9 +31,12 @@ Here's a list of my custom 'right-click' desktop actions that I use with Qtermin
       }
     </style>
 
+
+
 ```
 /.local/share/file-manager/actions
 ```
+
 
 <font size="4">
 <div align="left">
@@ -95,5 +98,3 @@ Displays the exif data of a selected image in the terminal&nbsp;— a quick and 
 <a class="github-button" href="https://github.com/martbetz/Custom-Actions/tree/main" data-size="large" aria-label="View Repo">View Repo</a>
 
 </p>
-
-
