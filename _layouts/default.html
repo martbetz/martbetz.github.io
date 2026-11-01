@@ -50,11 +50,11 @@ if (localStorage.getItem('imageMode') === 'mf') {
 
 <style>
 
-  /* Slightly increase font size for the tag cloud in Lato mode only */
-body:not(.merriweather-font) .tag-cloud,
-body:not(.merriweather-font) .tag-cloud a {
-    font-size: 1.08em !important; /* Adjust this value (e.g., 1.05em to 1.15em) as desired */
+  /* Slightly increase font sizes for the tag cloud in Lato mode only */
+body:not(.merriweather-font) p center span[style*="margin-left:4em"] a {
+    font-size: calc(1em + 2px) !important; /* Adjust the pixel bump (e.g., + 2px or + 3px) to your liking */
 }
+
 
 
   /* Decrease specific smaller font sizes (like size="1", size="2") for Merriweather mode only */
