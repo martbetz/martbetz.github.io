@@ -61,13 +61,12 @@ body.merriweather-font blockquote p {
     font-size: 1.05em; /* Adjust this value (e.g., 0.85em to 0.95em) as needed */
 }
 
-  /* Forcefully indent code blocks and override Minima containers */
-div.highlighter-rouge,
-div.highlight,
-pre.highlight,
-.page-content pre {
-    margin-left: 2em !important;
-    margin-right: auto !important;
+  /* Forcefully indent all code blocks and override Minima theme shorthand */
+.page-content pre,
+.page-content .highlighter-rouge,
+.page-content .highlight,
+.page-content figure.highlight {
+    margin: 1.5em 0 1.5em 3em !important; /* Top, Right, Bottom, Left */
 }
 
 
