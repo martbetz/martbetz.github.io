@@ -140,20 +140,24 @@ body.merriweather-font .page-content {
     font-weight: 400; /* Resets back to regular reading weight for serif mode */
 }
 
-/* Global Merriweather H1, H2, and H3 sizing (applies to home/index post lists as well as inner pages) */
+/* Global Merriweather H1, H2, and H3 sizing & font enforcement */
 body.merriweather-font h1,
 body.merriweather-font .page-content h1 {
-    font-size: 2.40em; 
+    font-family: 'Merriweather', serif !important;
+    font-size: 2.40em !important; 
 }
 
 body.merriweather-font h2,
 body.merriweather-font .page-content h2 {
-    font-size: 1.785em; 
+    font-family: 'Merriweather', serif !important;
+    font-size: 1.785em !important; 
 }
 
 body.merriweather-font h3,
-body.merriweather-font .page-content h3 {
-    font-size: 1.415em; 
+body.merriweather-font .page-content h3,
+body.merriweather-font .post-list h3 {
+    font-family: 'Merriweather', serif !important;
+    font-size: 1.415em !important; 
 }
 
 @media screen and (min-width: 600px) {
