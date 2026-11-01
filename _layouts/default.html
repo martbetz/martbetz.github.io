@@ -50,6 +50,17 @@ if (localStorage.getItem('imageMode') === 'mf') {
 
 <style>
 
+  /* Decrease line height for font size 2 (Lato mode only) */
+body:not(.merriweather-font) font[size="2"] {
+    line-height: 1.25; /* Adjust this value (e.g., 1.2 to 1.4) to your preferred tightness */
+}
+
+ </style>
+
+    
+
+<style>
+
   /* Subtle scale-up for Lato */
 h4 {
     font-size: 1.05em; /* Try 1.05em or 1.08em for a very gentle lift */
