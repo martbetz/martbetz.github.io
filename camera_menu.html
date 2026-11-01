@@ -8,34 +8,52 @@ layout: default
     max-width: 600px;
     text-align: center;
   }
-  h1 {
+
+  /* Lock all WIP headings and text to Lato at fixed sizes */
+  .wip-page-wrap,
+  .wip-page-wrap h1,
+  .wip-page-wrap p,
+  .wip-page-wrap strong,
+  .wip-page-wrap b,
+  .wip-page-wrap i {
+    font-family: 'Lato', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+  }
+
+  .wip-page-wrap h1 {
     margin: 30px 0;
     padding-top: 40px;
-    font-size: 60px;
-    line-height: 1;
+    font-size: 60px !important;
+    line-height: 1 !important;
     letter-spacing: -1px;
+  }
+
+  /* Prevent body paragraph scaling when font toggles */
+  .wip-page-wrap p {
+    font-size: 16px !important;
+    line-height: 1.6 !important;
   }
 </style>
 
-<div class="container">
-  <h1 style="font-family: 'Lato', sans-serif !important">WIP</h1>
-  <br>
-  
-  <p><strong>Alas! This page is not yet ready!&nbsp;😟</strong></p>
+<div class="wip-page-wrap">
+  <div class="container">
+    <h1>WIP</h1>
+    <br>
+    
+    <p><strong>Alas! This page is not yet ready!&nbsp;😟</strong></p>
 
+    <br>
+    
+    <p><strong>Truth be told, I've not yet decided what to put here.</strong></p>
+  </div>
+
+  <br><br>
+
+  <p>
+    Actually, no; I've just had a brainwave.&nbsp;🤔 I was thinking of using the menu button to link to my <b>(Not a) Digest</b>, and the play/preview button to link to my <b>(Not a) Gallery</b> (both of which are currently in progress)&nbsp;— <i>don't worry, Bob; the rather odd titles will be explained in due course!</i>
+  </p>
+
+  <p>
+    Anyway... for the time being, smash the back button.
+  </p>
   <br>
-  
-  <p><strong>Truth be told, I've not yet decided what to put here.</strong></p>
 </div>
-
-<br><br>
-
-   <p>
-     Actually, no; I've just had a brainwave.&nbsp;🤔 I was thinking of using the menu button to link to my <b>(Not a) Digest</b>, and the play/preview button to link to my <b>(Not a) Gallery</b> (both of which are currently in progress)&nbsp;— <i>don't worry, Bob; the rather odd titles will be explained in due course!</i>
-   </p>
-
-<p>
-  Anyway... for the time being, smash the back button.
-</p>
-<br>
-
