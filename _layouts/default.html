@@ -55,10 +55,13 @@ body:not(.merriweather-font) font[size="2"] {
     line-height: 1.25; /* Adjust this value (e.g., 1.2 to 1.4) to your preferred tightness */
 }
 
-  /* Force all text inside blockquote citations to match normal text size */
-blockquote cite {
+  /* Force all blockquote text, links, and citations to stay strictly identical in size */
+blockquote p,
+blockquote cite,
+blockquote a {
     font-size: 1em !important;
 }
+
 
 
   
