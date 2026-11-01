@@ -50,15 +50,16 @@ if (localStorage.getItem('imageMode') === 'mf') {
 
 <style>
 
-  /* Scales up Lato inside font size 4 */
-font[size="4"] {
-    font-size: 1.2em; /* Increase as needed */
+  /* Subtle scale-up for Lato */
+h4 {
+    font-size: 1.05em; /* Try 1.05em or 1.08em for a very gentle lift */
 }
 
-/* If you want it scaled differently when Merriweather is active */
-body.merriweather-font font[size="4"] {
-    font-size: 1.0em; 
+/* Or if you are using <font size="4"> tags directly */
+font[size="4"] {
+    font-size: 1.05em;
 }
+
 
 </style>
 
