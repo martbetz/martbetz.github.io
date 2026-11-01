@@ -92,9 +92,9 @@ The following part removes dulpicated tags and invalid tags like blank tag.
   {% endfor %}
 
 	<style>
-	/* Increase tag font sizes proportionally in Lato mode only without breaking spacing */
-	body:not(.merriweather-font) .tag-cloud-wrap a {
-	    font-size: calc(1rem + 2px) !important; /* Adjust the added px size if needed */
+	/* Scale up the tag cloud container in Lato mode only (adjust 1.25em to tweak size) */
+	body:not(.merriweather-font) .tag-cloud-wrap {
+	    font-size: 1.25em !important;
 	}
 	</style>
 
