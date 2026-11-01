@@ -52,6 +52,11 @@ header_pages:
 # Build settings
 theme: minima
 
+# _config.yml
+markdown: kramdown
+kramdown:
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
