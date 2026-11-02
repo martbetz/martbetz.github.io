@@ -434,11 +434,11 @@ body.dark {
 
 </div>
 
+<br><br>
+
 <hr>
 
 <h3 style="text-align:center;margin-top:20px;margin-bottom:30px;"><u>Code Snippets</u></h3>
-
-<br><br>
 
 <!-- Small Text Code -->
 
