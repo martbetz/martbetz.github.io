@@ -2,25 +2,85 @@
 layout: default
 ---
 
-<br><br>
-<center>
-    <h1>WIP</h1>
-</center>
-<br>
+<style type="text/css" media="screen">
+  .wip-container {
+    max-width: 650px;
+    margin: 50px auto;
+    padding: 40px 30px;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.015);
+    border-radius: 12px;
+    border: 1px solid rgba(0, 0, 0, 0.06);
+  }
 
-<p><strong>Alas! This page is not yet ready!&nbsp;😟</strong></p>
+  .wip-badge {
+    display: inline-block;
+    padding: 6px 14px;
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    background: #e2e8f0;
+    color: #475569;
+    border-radius: 20px;
+    margin-bottom: 20px;
+  }
 
-<br>
+  .wip-container h1 {
+    margin: 0 0 15px 0;
+    font-size: 52px;
+    font-weight: 700;
+    letter-spacing: -1px;
+    line-height: 1;
+  }
 
-<p><strong>Truth be told, I've not yet decided what to put here.</strong></p>
+  .wip-lead {
+    font-size: 1.15rem;
+    color: #1e293b;
+    margin-bottom: 8px;
+  }
 
-<br><br>
+  .wip-sub {
+    color: #64748b;
+    font-size: 1rem;
+    margin-bottom: 30px;
+  }
 
-<p>
-  Actually, no; I've just had a brainwave.&nbsp;🤔 I was thinking of using the menu button to link to my <b>(Not a) Digest</b>, and the play/preview button to link to my <b>(Not a) Gallery</b> (both of which are currently in progress)&nbsp;— <i>don't worry, Bob; the rather odd titles will be explained in due course!</i>
-</p>
+  .wip-note {
+    text-align: left;
+    background: #ffffff;
+    padding: 24px 28px;
+    border-radius: 8px;
+    border-left: 4px solid #3b82f6;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.04);
+    margin-top: 20px;
+  }
 
-<p>
-  Anyway... for the time being, smash the back button.
-</p>
-<br>
+  .wip-note p {
+    margin: 0 0 16px 0;
+    line-height: 1.6;
+    color: #334155;
+  }
+
+  .wip-note p:last-child {
+    margin-bottom: 0;
+    font-weight: 500;
+  }
+</style>
+
+<div class="wip-container">
+  <div class="wip-badge">🚧 Under Construction</div>
+  <h1>WIP</h1>
+  
+  <p class="wip-lead"><strong>Alas! This page is not yet ready!&nbsp;😟</strong></p>
+  <p class="wip-sub">Truth be told, I've not yet decided what to put here.</p>
+
+  <div class="wip-note">
+    <p>
+      Actually, no; I've just had a brainwave.&nbsp;🤔 I was thinking of using the menu button to link to my <b>(Not a) Digest</b>, and the play/preview button to link to my <b>(Not a) Gallery</b> (both of which are currently in progress)&nbsp;— <i>don't worry, Bob; the rather odd titles will be explained in due course!</i>
+    </p>
+    <p>
+      Anyway... for the time being, smash the back button.
+    </p>
+  </div>
+</div>
