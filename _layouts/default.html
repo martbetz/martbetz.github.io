@@ -57,12 +57,12 @@ body.merriweather-font small {
     font-size: 0.7em !important; 
 }
 
-  /* Base line-height for font size 2 (Applies to Lato by default) */
-font[size="2"] {
+  /* Target Lato ONLY (when body does NOT have the merriweather-font class) */
+body:not(.merriweather-font) font[size="2"] {
     line-height: 1.1em !important;
 }
 
-  /* Explicitly override back to 1.15em ONLY when Merriweather font mode is active */
+  /* Merriweather mode line height for font size 2 */
 body.merriweather-font font[size="2"] {
     line-height: 1.15em !important;
 }
