@@ -434,6 +434,18 @@ body.dark {
 
 </div>
 
+<hr>
+
+<h3 style="text-align:center;margin-top:20px;margin-bottom:30px;"><u>Code Snippets</u></h3>
+
+
+<!-- Small Text Code -->
+
+<p style="margin-top: -10px; line-height: 1.15em;">
+   <font size="2">
+       ² As it turns out, I’m both. 😁
+   </font>
+</p>
 
 <br>
 
