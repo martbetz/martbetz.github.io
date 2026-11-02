@@ -434,32 +434,6 @@ body.dark {
 
 </div>
 
-<br><br>
-
-<hr>
-
-<br><br>
-
-<h3 style="text-align:center;margin-bottom:30px;"><u>Code Snippets</u></h3>
-
-<!-- Small Text Code -->
-
-<div>
-<p style="padding-top: 0.75%; line-height: 1.15em;">
-   <font size="2">
-     ¹ I also like breeding dodos,&nbsp;🥚 walking barefoot,&nbsp;👣 and juggling rainbows.&nbsp;🌈
-   </font>
-</p>
-
-<p style="margin-top: -10px; line-height: 1.15em;">
-   <font size="2">
-       ² As it turns out, I’m both. 😁
-   </font>
-</p>
-</div>
-
-<!-- -------------------- -->
-
 <br>
 
 
