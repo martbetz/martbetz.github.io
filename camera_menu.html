@@ -8,9 +8,8 @@ layout: default
     margin: 50px auto;
     padding: 40px 30px;
     text-align: center;
-    background: rgba(0, 0, 0, 0.015);
-    border-radius: 12px;
-    border: 1px solid rgba(0, 0, 0, 0.06);
+    background: transparent;
+    border: none;
   }
 
   .wip-badge {
@@ -41,30 +40,64 @@ layout: default
   }
 
   .wip-sub {
-    color: #64748b;
+    color: inherit; /* Normal body color */
     font-size: 1rem;
     margin-bottom: 30px;
   }
 
-  .wip-note {
+  /* Linux Terminal Box Styles */
+  .linux-terminal {
     text-align: left;
-    background: #ffffff;
-    padding: 24px 28px;
-    border-radius: 8px;
-    border-left: 4px solid #3b82f6;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.04);
+    background: #1e1e1e;
+    color: #d4d4d4;
+    border-radius: 6px;
+    border: 1px solid #333333;
     margin-top: 20px;
+    overflow: hidden;
   }
 
-  .wip-note p {
+  .terminal-header {
+    background: #2d2d2d;
+    padding: 10px 14px;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #333333;
+  }
+
+  .terminal-dots {
+    display: flex;
+    gap: 6px;
+  }
+
+  .dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+  }
+
+  .dot-red { background: #ff5f56; }
+  .dot-yellow { background: #ffbd2e; }
+  .dot-green { background: #27c93f; }
+
+  .terminal-title {
+    margin-left: 12px;
+    font-family: monospace;
+    font-size: 12px;
+    color: #888888;
+  }
+
+  .terminal-body {
+    padding: 20px 24px;
+  }
+
+  .terminal-body p {
     margin: 0 0 16px 0;
     line-height: 1.6;
-    color: #334155;
+    color: inherit; /* Normal body color inheritance inside terminal text */
   }
 
-  .wip-note p:last-child {
+  .terminal-body p:last-child {
     margin-bottom: 0;
-    font-weight: 500;
   }
 </style>
 
@@ -75,12 +108,22 @@ layout: default
   <p class="wip-lead"><strong>Alas! This page is not yet ready!&nbsp;😟</strong></p>
   <p class="wip-sub">Truth be told, I've not yet decided what to put here.</p>
 
-  <div class="wip-note">
-    <p>
-      Actually, no; I've just had a brainwave.&nbsp;🤔 I was thinking of using the menu button to link to my <b>(Not a) Digest</b>, and the play/preview button to link to my <b>(Not a) Gallery</b> (both of which are currently in progress)&nbsp;— <i>don't worry, Bob; the rather odd titles will be explained in due course!</i>
-    </p>
-    <p>
-      Anyway... for the time being, smash the back button.
-    </p>
+  <div class="linux-terminal">
+    <div class="terminal-header">
+      <div class="terminal-dots">
+        <span class="dot dot-red"></span>
+        <span class="dot dot-yellow"></span>
+        <span class="dot dot-green"></span>
+      </div>
+      <span class="terminal-title">bash — wip-notice</span>
+    </div>
+    <div class="terminal-body">
+      <p>
+        Actually, no; I've just had a brainwave.&nbsp;🤔 I was thinking of using the menu button to link to my <b>(Not a) Digest</b>, and the play/preview button to link to my <b>(Not a) Gallery</b> (both of which are currently in progress)&nbsp;— <i>don't worry, Bob; the rather odd titles will be explained in due course!</i>
+      </p>
+      <p>
+        Anyway... for the time being, smash the back button.
+      </p>
+    </div>
   </div>
 </div>
