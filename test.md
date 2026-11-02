@@ -438,7 +438,9 @@ body.dark {
 
 <hr>
 
-<h3 style="text-align:center;padding-top:60px;margin-bottom:30px;"><u>Code Snippets</u></h3>
+<br><br>
+
+<h3 style="text-align:center;margin-bottom:30px;"><u>Code Snippets</u></h3>
 
 <!-- Small Text Code -->
 
