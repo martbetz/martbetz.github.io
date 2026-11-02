@@ -21,7 +21,7 @@ The following chart shows the comparative file sizes when following my typical w
 
 <div align="center">
 <p>
- <img style="padding-top: 15px; padding-bottom: 20px;" max-width: 400px; src="https://raw.githubusercontent.com/martbetz/martbetz.github.io/main/_includes/custom/jxl-chart1.png" alt="File-Size Compariston Test Chart">
+ <img style="padding-top: 15px; padding-bottom: 20px; max-width: 400px;" src="https://raw.githubusercontent.com/martbetz/martbetz.github.io/main/_includes/custom/jxl-chart1.png" alt="File-Size Compariston Test Chart">
 </p>
 </div>
 
