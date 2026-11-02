@@ -54,17 +54,7 @@ if (localStorage.getItem('imageMode') === 'mf') {
 body.merriweather-font font[size="1"],
 body.merriweather-font font[size="2"],
 body.merriweather-font small {
-    font-size: 0.7em !important; /* Adjust multiplier (e.g. 0.8em or 0.85em) to make them smaller */
-}
-
-  /* Tighter line height for Lato (Font size 2) */
-font[size="2"] {
-    line-height: 1.0em !important;
-}
-
-  /* Override line height back to 1.15em ONLY for Merriweather mode */
-body.merriweather-font font[size="2"] {
-    line-height: 1.15em !important;
+    font-size: 0.7em !important; 
 }
 
   /* Standardise space between paragraphs for font size 2 only */
@@ -81,46 +71,34 @@ blockquote a {
     font-size: 1em !important;
 }
 
-
-
-  
   /* Smaller quote text size for Merriweather font mode only */
 body.merriweather-font blockquote,
 body.merriweather-font blockquote p {
-    font-size: 1.10em; /* Adjust this value (e.g., 0.85em to 0.95em) as needed */
+    font-size: 1.10em; 
 }
 
   /* Forcefully indent all quote blocks and add a 15px right border */
 blockquote,
 .page-content blockquote {
-    margin: 0.5em 0 0.5em 15px !important; /* Top, Right, Bottom, Left Indent */
-    padding-left: 15px !important;       /* Space between the left border line and the text */
-    padding-right: 15px !important;      /* Space between the text and the right border */
+    margin: 0.5em 0 0.5em 15px !important; 
+    padding-left: 15px !important;       
+    padding-right: 15px !important;      
     }
 
-
-
-  
  </style>
-
-    
 
 <style>
 
   /* Subtle scale-up for Lato */
 h4 {
-    font-size: 1.05em; /* Try 1.05em or 1.08em for a very gentle lift */
+    font-size: 1.05em; 
 }
 
-/* Or if you are using <font size="4"> tags directly */
 font[size="4"] {
     font-size: 1.05em;
 }
 
-
 </style>
-
-
     
 <style>
     
@@ -141,7 +119,7 @@ text-align: left;
 vertical-align: top;
 color: var(--text-colour);
 }   
-/* Remove Minima's row striping without affecting cell colours */
+
 tbody tr:nth-child(odd),
 tbody tr:nth-child(even) {
 background: transparent !important;
@@ -175,10 +153,9 @@ padding: 0px;
 background: var(--bg-colour);
 color: var(--text-colour);
 font-family: 'Lato', sans-serif;
-font-weight: 500; /* Sets main body/page content to Lato 500 */
+font-weight: 500; 
 }
 
-/* Lighter weight for the website title */
 .site-title,
 .site-title:link,
 .site-title:visited,
@@ -189,15 +166,13 @@ font-weight: 500; /* Sets main body/page content to Lato 500 */
     color: var(--site-title-colour) !important;
 }
 
-/* Merriweather Font Switch Target (MF Mode) */
 body.merriweather-font .page-content {
     font-family: 'Merriweather', serif;
-    font-size: 0.90em; /* Middle ground between 0.95em and 0.85em */
-    line-height: 1.45; /* Adjusted proportionally */
-    font-weight: 400; /* Resets back to regular reading weight for serif mode */
+    font-size: 0.90em; 
+    line-height: 1.45; 
+    font-weight: 400; 
 }
 
-/* Global Merriweather H1, H2, H3 Sizing */
 body.merriweather-font h1,
 body.merriweather-font .page-content h1 {
     font-family: 'Merriweather', serif !important;
@@ -216,7 +191,6 @@ body.merriweather-font .page-content h3 {
     font-size: 1.415em !important; 
 }
 
-/* Index Post Titles set to exact halfway point */
 body.merriweather-font .post-list h3,
 body.merriweather-font .post-list h3 a,
 body.merriweather-font .post-link {
@@ -230,8 +204,6 @@ body.merriweather-font .post-link {
         padding-right: 20px;
     }
 }
-
-/* Post dates */
 
 body.dark .post-meta,
 body.dark .post-meta *,
@@ -249,13 +221,11 @@ body.dark {
 
 --site-title-colour: #F2F2F2;
 
-/* Dark theme links */
 --link-colour: #F55FFF;
 --link-visited-colour: #00CCCC;
 --link-hover-colour: #ECC33E;
 --link-active-colour: #ECC33E;
 
-/* Minima dark-mode extras */
 --header-footer-bg: #404040;
 --header-footer-border: #666666;
 --nav-text-colour: #F2F2F2;
@@ -272,21 +242,15 @@ body.dark {
 --pre-border: #666666;
 }
 
-/* Page */
-
 body {
 background: var(--bg-colour);
 color: var(--text-colour);
 }
 
-/* Blockquotes */
-
 blockquote,
 blockquote p {
     color: var(--blockquote-text-colour);
 }
-
-/* Hyperlinks */
 
 a:link {
 color: var(--link-colour);
@@ -304,22 +268,16 @@ a:active {
 color: var(--link-active-colour);
 }
 
-/* Header */
-
 body.dark .site-header {
 background: var(--header-footer-bg);
 border-top-color: var(--header-footer-border);
 border-bottom-color: var(--header-footer-border);
 }
 
-/* Footer */
-
 body.dark .site-footer {
 background: var(--header-footer-bg);
 border-top-color: var(--header-footer-border);
 }
-
-/* Tables */
 
 table {
 width: 100%;
@@ -362,7 +320,6 @@ body.dark pre code {
 color: #333333 !important;
 }
 
-/* Desktop links */
 body.dark .site-nav .page-link,
 body.dark .site-nav .page-link:link,
 body.dark .site-nav .page-link:visited,
@@ -372,7 +329,6 @@ body.dark .site-nav .page-link:focus {
     color: #F2F2F2 !important;
 }
 
-/* Mobile dropdown links */
 body.dark .site-nav input:checked ~ .trigger .page-link,
 body.dark .site-nav input:checked ~ .trigger .page-link:link,
 body.dark .site-nav input:checked ~ .trigger .page-link:visited,
@@ -383,12 +339,10 @@ body.dark .site-nav input:checked ~ .trigger .page-link:focus {
 }
   
 @media screen and (max-width: 750px) {
-    /* Hamburger button container */
     body.dark .site-nav {
         background-color: #F2F2F2 !important;
     }
 
-    /* Open dropdown panel */
     body.dark .site-nav input:checked ~ .trigger {
         background-color: #F2F2F2 !important;
         border-radius: 0 0 10px 10px;
@@ -412,8 +366,6 @@ body.dark .site-nav input:checked ~ .trigger .page-link:focus {
     justify-content: center;
     gap: 12px;
 }
-
-/* Exposure Dial */
 
 .dial-wrapper {
     position: relative;
@@ -502,8 +454,6 @@ body.dark .site-nav input:checked ~ .trigger .page-link:focus {
 .m6 span { transform: translateX(-50%) rotate(-60deg); }
 .m7 span { transform: translateX(-50%) rotate(-90deg); }
 
-/* AF/MF Switch */
-
 .jxl-switch-container {
     display: flex;
     justify-content: center;
@@ -580,8 +530,6 @@ body.dark .site-nav input:checked ~ .trigger .page-link:focus {
 .jxl-switch.mf .jxl-slider {
     left: 48px;
 }
-
-/* Buttons (Restored to original template class names) */
 
 .camera-button-wrapper {
     position: relative;
@@ -710,11 +658,9 @@ document.addEventListener('DOMContentLoaded', function () {
     function updateDial(isDark) {
         if (isDark) {
             document.body.classList.add('dark');
-            /* Dark mode = -2 EV / 60deg rotation */
             dial.style.transform = 'rotate(60deg)';
         } else {
             document.body.classList.remove('dark');
-            /* Light mode = 0 EV / 0deg rotation */
             dial.style.transform = 'rotate(0deg)';
         }
     }
@@ -736,6 +682,18 @@ document.addEventListener('DOMContentLoaded', function(){
 
     const jxlSwitch = document.getElementById('jxlSwitch');
 
+    function updateFontSizesLineHeight() {
+        const isMerriweather = document.body.classList.contains('merriweather-font');
+        const fontTwos = document.querySelectorAll('font[size="2"]');
+        fontTwos.forEach(el => {
+            const p = el.closest('p');
+            if (p) {
+                // Dynamically apply line-height, overriding any inline style from markdown
+                p.style.setProperty('line-height', isMerriweather ? '1.15em' : '1.05em', 'important');
+            }
+        });
+    }
+
     function setMode(mode){
         localStorage.setItem('imageMode', mode);
         jxlSwitch.classList.remove('af', 'mf');
@@ -746,6 +704,7 @@ document.addEventListener('DOMContentLoaded', function(){
         } else {
             document.body.classList.remove('merriweather-font');
         }
+        updateFontSizesLineHeight();
     }
 
     const savedMode = localStorage.getItem('imageMode') || 'af';
@@ -796,8 +755,6 @@ body {
     margin: 0;
     background: var(--bg-colour);
 }
-
-/* Desktop (1000px+) */
 
 @media screen and (min-width: 1140px) {
     html {
