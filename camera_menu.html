@@ -3,23 +3,21 @@ layout: default
 ---
 
 <style type="text/css" media="screen">
+  /* Force entire page context to Lato and override font-family site-wide */
+  .force-lato-page,
+  .force-lato-page *,
+  body.merriweather-font .force-lato-page,
+  body.merriweather-font .force-lato-page * {
+    font-family: 'Lato', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+  }
+
   .container {
     margin: 10px auto;
     max-width: 600px;
     text-align: center;
   }
 
-  /* Lock all WIP headings and text to Lato at fixed sizes */
-  .wip-page-wrap,
-  .wip-page-wrap h1,
-  .wip-page-wrap p,
-  .wip-page-wrap strong,
-  .wip-page-wrap b,
-  .wip-page-wrap i {
-    font-family: 'Lato', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
-  }
-
-  .wip-page-wrap h1 {
+  .force-lato-page h1 {
     margin: 30px 0;
     padding-top: 40px;
     font-size: 60px !important;
@@ -27,14 +25,13 @@ layout: default
     letter-spacing: -1px;
   }
 
-  /* Prevent body paragraph scaling when font toggles */
-  .wip-page-wrap p {
+  .force-lato-page p {
     font-size: 16px !important;
     line-height: 1.6 !important;
   }
 </style>
 
-<div class="wip-page-wrap">
+<div class="force-lato-page">
   <div class="container">
     <h1>WIP</h1>
     <br>
@@ -57,3 +54,10 @@ layout: default
   </p>
   <br>
 </div>
+
+<script>
+  // Strip Merriweather class from body on load to neutralize the font toggle for this page
+  document.addEventListener("DOMContentLoaded", function() {
+    document.body.classList.remove('merriweather-font');
+  });
+</script>
