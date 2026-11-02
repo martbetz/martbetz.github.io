@@ -54,16 +54,11 @@ if (localStorage.getItem('imageMode') === 'mf') {
 body.merriweather-font font[size="1"],
 body.merriweather-font font[size="2"],
 body.merriweather-font small {
-    font-size: 0.7em !important; 
+    font-size: 0.7em !important; /* Adjust multiplier (e.g. 0.8em or 0.85em) to make them smaller */
 }
 
-  /* Target Lato ONLY (when body does NOT have the merriweather-font class) */
-body:not(.merriweather-font) font[size="2"] {
-    line-height: 1.1em !important;
-}
-
-  /* Merriweather mode line height for font size 2 */
-body.merriweather-font font[size="2"] {
+  /* Force line height to 1.15em for font size 2 */
+font[size="2"] {
     line-height: 1.15em !important;
 }
 
@@ -81,21 +76,29 @@ blockquote a {
     font-size: 1em !important;
 }
 
+
+
+  
   /* Smaller quote text size for Merriweather font mode only */
 body.merriweather-font blockquote,
 body.merriweather-font blockquote p {
-    font-size: 1.10em; 
+    font-size: 1.10em; /* Adjust this value (e.g., 0.85em to 0.95em) as needed */
 }
 
   /* Forcefully indent all quote blocks and add a 15px right border */
 blockquote,
 .page-content blockquote {
-    margin: 0.5em 0 0.5em 15px !important; 
-    padding-left: 15px !important;       
-    padding-right: 15px !important;      
+    margin: 0.5em 0 0.5em 15px !important; /* Top, Right, Bottom, Left Indent */
+    padding-left: 15px !important;       /* Space between the left border line and the text */
+    padding-right: 15px !important;      /* Space between the text and the right border */
     }
 
+
+
+  
  </style>
+
+    
 
 <style>
 
@@ -109,7 +112,10 @@ font[size="4"] {
     font-size: 1.05em;
 }
 
+
 </style>
+
+
     
 <style>
     
