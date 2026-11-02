@@ -441,11 +441,21 @@ body.dark {
 
 <!-- Small Text Code -->
 
+<div>
+<p style="padding-top: 0.75%; line-height: 1.15em;">
+   <font size="2">
+     ¹ I also like breeding dodos,&nbsp;🥚 walking barefoot,&nbsp;👣 and juggling rainbows.&nbsp;🌈
+   </font>
+</p>
+
 <p style="margin-top: -10px; line-height: 1.15em;">
    <font size="2">
        ² As it turns out, I’m both. 😁
    </font>
 </p>
+</div>
+
+<!-- -------------------- -->
 
 <br>
 
