@@ -12,37 +12,25 @@ layout: default
     border: none;
   }
 
-  .wip-badge {
-    display: inline-block;
-    padding: 6px 14px;
-    font-size: 12px;
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 1.5px;
-    background: #e2e8f0;
-    color: #475569;
-    border-radius: 20px;
-    margin-bottom: 20px;
-  }
-
   .wip-container h1 {
     margin: 0 0 15px 0;
     font-size: 52px;
     font-weight: 700;
     letter-spacing: -1px;
     line-height: 1;
+    /* Inherits site theme color for light/dark mode compatibility */
   }
 
   .wip-lead {
     font-size: 1.15rem;
-    color: #1e293b;
     margin-bottom: 8px;
+    /* Inherits site theme color for light/dark mode compatibility */
   }
 
   .wip-sub {
-    color: inherit; /* Normal body color */
     font-size: 1rem;
     margin-bottom: 30px;
+    /* Inherits site theme color for light/dark mode compatibility */
   }
 
   /* Linux Terminal Box Styles */
@@ -88,21 +76,33 @@ layout: default
 
   .terminal-body {
     padding: 20px 24px;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 0.95rem;
+    line-height: 1.6;
+    color: #5af78e; /* Classic terminal green text */
   }
 
   .terminal-body p {
     margin: 0 0 16px 0;
-    line-height: 1.6;
-    color: inherit; /* Normal body color inheritance inside terminal text */
+    color: #f8f8f2; /* Clean light terminal text */
   }
 
   .terminal-body p:last-child {
     margin-bottom: 0;
   }
+
+  .terminal-prompt {
+    color: #ff5555;
+    font-weight: bold;
+  }
+
+  .terminal-comment {
+    color: #6272a4;
+    font-style: italic;
+  }
 </style>
 
 <div class="wip-container">
-  <div class="wip-badge">🚧 Under Construction</div>
   <h1>WIP</h1>
   
   <p class="wip-lead"><strong>Alas! This page is not yet ready!&nbsp;😟</strong></p>
@@ -118,9 +118,11 @@ layout: default
       <span class="terminal-title">bash — wip-notice</span>
     </div>
     <div class="terminal-body">
+      <p><span class="terminal-prompt">$</span> cat brainwave.txt</p>
       <p>
-        Actually, no; I've just had a brainwave.&nbsp;🤔 I was thinking of using the menu button to link to my <b>(Not a) Digest</b>, and the play/preview button to link to my <b>(Not a) Gallery</b> (both of which are currently in progress)&nbsp;— <i>don't worry, Bob; the rather odd titles will be explained in due course!</i>
+        Actually, no; I've just had a brainwave.&nbsp;🤔 I was thinking of using the menu button to link to my <b>(Not a) Digest</b>, and the play/preview button to link to my <b>(Not a) Gallery</b> (both of which are currently in progress)&nbsp;— <span class="terminal-comment">don't worry, Bob; the rather odd titles will be explained in due course!</span>
       </p>
+      <p><span class="terminal-prompt">$</span> echo "action required"</p>
       <p>
         Anyway... for the time being, smash the back button.
       </p>
