@@ -6,7 +6,7 @@ layout: default
   .wip-container {
     max-width: 650px;
     margin: 50px auto;
-    padding: 40px 30px;
+    padding: 20px 30px;
     text-align: center;
     background: transparent;
     border: none;
@@ -18,26 +18,22 @@ layout: default
     font-weight: 700;
     letter-spacing: -1px;
     line-height: 1;
-    /* Inherits site theme color for light/dark mode compatibility */
   }
 
   .wip-lead {
     font-size: 1.15rem;
     margin-bottom: 8px;
-    /* Inherits site theme color for light/dark mode compatibility */
   }
 
   .wip-sub {
     font-size: 1rem;
     margin-bottom: 30px;
-    /* Inherits site theme color for light/dark mode compatibility */
   }
 
   /* Linux Terminal Box Styles */
   .linux-terminal {
     text-align: left;
     background: #1e1e1e;
-    color: #d4d4d4;
     border-radius: 6px;
     border: 1px solid #333333;
     margin-top: 20px;
@@ -79,12 +75,12 @@ layout: default
     font-family: "Courier New", Courier, monospace;
     font-size: 0.95rem;
     line-height: 1.6;
-    color: #5af78e; /* Classic terminal green text */
+    color: #5af78e; /* Classic terminal green for all inner text */
   }
 
   .terminal-body p {
     margin: 0 0 16px 0;
-    color: #f8f8f2; /* Clean light terminal text */
+    color: #5af78e; /* Terminal green */
   }
 
   .terminal-body p:last-child {
@@ -92,13 +88,8 @@ layout: default
   }
 
   .terminal-prompt {
-    color: #ff5555;
+    color: #ff5555; /* Distinct color kept for the '$' prompt */
     font-weight: bold;
-  }
-
-  .terminal-comment {
-    color: #6272a4;
-    font-style: italic;
   }
 </style>
 
@@ -120,7 +111,7 @@ layout: default
     <div class="terminal-body">
       <p><span class="terminal-prompt">$</span> cat brainwave.txt</p>
       <p>
-        Actually, no; I've just had a brainwave.&nbsp;🤔 I was thinking of using the menu button to link to my <b>(Not a) Digest</b>, and the play/preview button to link to my <b>(Not a) Gallery</b> (both of which are currently in progress)&nbsp;— <span class="terminal-comment">don't worry, Bob; the rather odd titles will be explained in due course!</span>
+        Actually, no; I've just had a brainwave.&nbsp;🤔 I was thinking of using the menu button to link to my <b>(Not a) Digest</b>, and the play/preview button to link to my <b>(Not a) Gallery</b> (both of which are currently in progress)&nbsp;— <i>don't worry, Bob; the rather odd titles will be explained in due course!</i>
       </p>
       <p><span class="terminal-prompt">$</span> echo "action required"</p>
       <p>
