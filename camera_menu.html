@@ -2,41 +2,11 @@
 layout: default
 ---
 
-<style type="text/css" media="screen">
-  /* 1. Force absolute specificity to lock ALL elements to Lato regardless of body/html classes */
-  html, body, .wip-page-wrapper, .wip-page-wrapper * {
-    font-family: 'Lato', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
-  }
-
-  .container {
-    margin: 10px auto;
-    max-width: 600px;
-    text-align: center;
-  }
-
-  .wip-page-wrapper h1 {
-    margin: 30px 0;
-    padding-top: 40px;
-    font-size: 60px !important;
-    line-height: 1 !important;
-    letter-spacing: -1px;
-  }
-
-  .wip-page-wrapper p {
-    font-size: 16px !important;
-    line-height: 1.6 !important;
-  }
-
-  /* Optional: visually dim or disable pointer cursor on font toggle button if present */
-  .font-toggle-btn, [data-font-toggle] {
-    opacity: 0.5;
-    cursor: not-allowed !important;
-  }
-</style>
-
-<div class="wip-page-wrapper">
-  <div class="container">
+<br><br>
+<center>
     <h1>WIP</h1>
+
+</center>
     <br>
     
     <p><strong>Alas! This page is not yet ready!&nbsp;😟</strong></p>
@@ -58,29 +28,4 @@ layout: default
   <br>
 </div>
 
-<script>
-  (function() {
-    // Immediate execution: Strip any active font classes from HTML & Body tags
-    function stripFontClasses() {
-      document.documentElement.className = document.documentElement.className.replace(/\b\w*-font\b/g, '');
-      document.body.className = document.body.className.replace(/\b\w*-font\b/g, '');
-      document.body.classList.remove('merriweather-font', 'merriweather');
-    }
 
-    stripFontClasses();
-    document.addEventListener("DOMContentLoaded", function() {
-      stripFontClasses();
-
-      // Intercept clicks on the camera UI font toggle button to disable it on this page
-      // Adjust querySelector selector if your toggle uses a specific class/id
-      const toggleBtns = document.querySelectorAll('.font-toggle-btn, #font-toggle, [data-font-toggle]');
-      toggleBtns.forEach(btn => {
-        btn.addEventListener('click', function(e) {
-          e.preventDefault();
-          e.stopPropagation();
-          return false;
-        }, true); // Capture phase intervention
-      });
-    });
-  })();
-</script>
