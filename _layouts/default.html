@@ -57,9 +57,15 @@ body.merriweather-font small {
     font-size: 0.7em !important; /* Adjust multiplier (e.g. 0.8em or 0.85em) to make them smaller */
 }
 
-  /* Decrease line height for font size 2 (Lato mode only) */
-body:not(.merriweather-font) font[size="2"] {
-    line-height: 1.25; /* Adjust this value (e.g., 1.2 to 1.4) to your preferred tightness */
+  /* Force line height to 1.15em for font size 2 */
+font[size="2"] {
+    line-height: 1.15em !important;
+}
+
+  /* Reduce space between paragraphs by 10 pixels */
+.page-content p {
+    margin-top: 0 !important;
+    margin-bottom: 5px !important; /* Reduced by 10px from standard theme spacing */
 }
 
   /* Force all blockquote text, links, and citations to stay strictly identical in size */
