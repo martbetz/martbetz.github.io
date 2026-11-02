@@ -38,7 +38,7 @@ I’m very pleased with them, personally, but why not judge for yourself?
   </center>
 </div>
 
-<p style="text-align:center; padding-top: 5px;">
+<p style="text-align:center; padding-top: -5px;">
   <font size="2">
   Fujifilm XC 35mm <i>ƒ</i>/2 custom LCP
   </font>
