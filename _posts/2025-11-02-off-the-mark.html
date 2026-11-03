@@ -22,23 +22,26 @@ categories: projects
 
     margin:20px auto 30px auto;
 
-    background:#4b0d0d;
+    background:#050505;
 
     border:8px solid #050505;
     box-sizing:border-box;
 
     overflow:hidden;
+}
 
-   /* box-shadow:
-        0 0 1px rgba(255,255,255,.08),
-        0 12px 40px rgba(0,0,0,.65); */
+.presgrip-screen{
+    position:absolute;
+    inset:0;
+
+    background:#4b0d0d;
 
     animation:
         presgrip-weave 1.3s infinite,
         presgrip-flicker .35s infinite;
 }
 
-.presgrip-frame::before{
+.presgrip-screen::before{
     content:"";
     position:absolute;
     inset:0;
@@ -52,7 +55,7 @@ categories: projects
     mix-blend-mode:screen;
 }
 
-.presgrip-frame::after{
+.presgrip-screen::after{
     content:"";
     position:absolute;
     inset:0;
@@ -103,7 +106,6 @@ categories: projects
 
     transform:rotate(-0.15deg);
 }
-
 
 .presgrip-grain{
     position:absolute;
@@ -192,8 +194,6 @@ categories: projects
     }
 }
 
-/* Extra protection against mobile overflow */
-
 html,
 body{
     overflow-x:hidden;
@@ -203,27 +203,20 @@ body{
 
 <div class="presgrip-frame">
 
-    <div class="presgrip-title">
-        <div class="presgrip-main">THE</div>
-        <div class="presgrip-main">PRESGRIP</div>
-        <div class="presgrip-main">PROJECT</div>
+    <div class="presgrip-screen">
+
+        <div class="presgrip-title">
+            <div class="presgrip-main">THE</div>
+            <div class="presgrip-main">PRESGRIP</div>
+            <div class="presgrip-main">PROJECT</div>
+        </div>
+
+        <div class="presgrip-grain"></div>
+
     </div>
 
-    <div class="presgrip-grain"></div>
-
-<!-- Optional film artefacts -->
-
-    <!--
-    <div class="scratch s1"></div>
-    <div class="scratch s2"></div>
-
-    <div class="dust d1"></div>
-    <div class="dust d2"></div>
-    <div class="dust d3"></div>
-    <div class="dust d4"></div>
-    -->
-  
 </div>
+
 
 
 <p style="padding-top: 10px;">
