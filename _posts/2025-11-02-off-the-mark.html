@@ -12,6 +12,294 @@ categories: projects
   </p>
 </div>
 
+
+
+<style>
+
+html,
+body{
+    margin:0;
+    min-height:100vh;
+
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
+    background:#111;
+    overflow:hidden;
+}
+
+/* movie frame */
+.frame{
+    position:relative;
+
+    width:400px;
+    aspect-ratio:4 / 3;
+
+    max-width:95vw;
+    max-height:95vh;
+
+    background:#4b0d0d;
+
+    border:8px solid #050505;
+    box-sizing:border-box;
+
+    overflow:hidden;
+
+   /* box-shadow:
+        0 0 1px rgba(255,255,255,.08),
+        0 12px 40px rgba(0,0,0,.65); */
+
+    animation:
+        weave 1.3s infinite,
+        flicker .35s infinite;
+}
+
+/* faded film colour */
+.frame::before{
+    content:"";
+    position:absolute;
+    inset:0;
+
+    background:
+    linear-gradient(
+        rgba(255,220,150,.04),
+        rgba(255,220,150,.02)
+    );
+
+    mix-blend-mode:screen;
+}
+
+/* projector vignette */
+.frame::after{
+    content:"";
+    position:absolute;
+    inset:0;
+
+    background:
+    radial-gradient(
+        ellipse at center,
+        transparent 55%,
+        rgba(0,0,0,.15) 75%,
+        rgba(0,0,0,.45) 100%
+    );
+
+    pointer-events:none;
+}
+
+/* title area */
+.title{
+    position:absolute;
+    inset:0;
+
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+
+    text-align:center;
+
+    color:#efe6c8;
+
+    font-family:
+        "Arial Narrow",
+        "Helvetica Neue",
+        Arial,
+        sans-serif;
+
+    text-transform:uppercase;
+
+    filter:blur(.25px);
+}
+
+.main{
+    font-size:32px;
+
+    font-weight:500;
+
+    letter-spacing:.22em;
+
+    line-height:1.15;
+
+    text-shadow:
+        0 0 1px rgba(255,255,220,.4);
+
+    transform:rotate(-0.15deg);
+}
+
+.sub{
+    margin-top:18px;
+
+    font-size:13px;
+
+    letter-spacing:.18em;
+
+    font-weight:500;
+
+    opacity:.95;
+}
+
+/* film grain */
+.grain{
+    position:absolute;
+    inset:-20px;
+
+    opacity:.14;
+
+    background-image:
+    repeating-radial-gradient(
+        circle,
+        rgba(255,255,255,.15) 0,
+        rgba(255,255,255,.15) .5px,
+        transparent 1.5px,
+        transparent 4px
+    );
+
+    animation:grain .25s infinite;
+}
+
+/* dust */
+.dust{
+    position:absolute;
+    width:4px;
+    height:4px;
+
+    background:#fffceb;
+    border-radius:50%;
+
+    opacity:.7;
+}
+
+.d1{left:17%;top:28%;}
+.d2{left:76%;top:18%;}
+.d3{left:45%;top:81%;}
+.d4{left:87%;top:62%;width:2px;height:2px;}
+
+/* scratches */
+.scratch{
+    position:absolute;
+    top:0;
+    bottom:0;
+    width:1px;
+
+    background:
+    linear-gradient(
+        transparent,
+        rgba(255,255,255,.45),
+        transparent
+    );
+
+    opacity:.15;
+}
+
+.s1{left:26%;}
+.s2{left:72%;}
+
+/* subtle projector weave */
+@keyframes weave{
+
+    0%{
+        transform:translate(0px,0px) rotate(0deg);
+    }
+
+    17%{
+        transform:translate(-0.4px,0.3px) rotate(-0.03deg);
+    }
+
+    31%{
+        transform:translate(0.2px,-0.5px) rotate(0.02deg);
+    }
+
+    52%{
+        transform:translate(-0.3px,-0.1px) rotate(-0.02deg);
+    }
+
+    68%{
+        transform:translate(0.5px,0.2px) rotate(0.03deg);
+    }
+
+    84%{
+        transform:translate(-0.1px,0.4px) rotate(-0.01deg);
+    }
+
+    100%{
+        transform:translate(0px,0px) rotate(0deg);
+    }
+}
+
+/* stronger, irregular projector flicker */
+@keyframes flicker{
+
+    0%   { filter:brightness(1.00); }
+    10%  { filter:brightness(1.05); }
+    15%  { filter:brightness(.97); }
+    22%  { filter:brightness(1.03); }
+    31%  { filter:brightness(.95); }
+    46%  { filter:brightness(1.06); }
+    58%  { filter:brightness(.98); }
+    65%  { filter:brightness(1.04); }
+    79%  { filter:brightness(.96); }
+    89%  { filter:brightness(1.07); }
+    100% { filter:brightness(1.00); }
+}
+
+@keyframes grain{
+
+    0%{
+        transform:translate(0,0);
+    }
+
+    25%{
+        transform:translate(3px,-2px);
+    }
+
+    50%{
+        transform:translate(-2px,2px);
+    }
+
+    75%{
+        transform:translate(2px,-1px);
+    }
+
+    100%{
+        transform:translate(0,0);
+    }
+}
+
+</style>
+</head>
+
+<body>
+
+<div class="frame">
+
+    <div class="title">
+        <div class="main">THE</div>
+        <div class="main">PRESGRIP</div>
+        <div class="main">PROJECT</div>
+        <!-- <div class="sub">Martbetz.github.io</div> -->
+    </div>
+
+    <div class="grain"></div>
+
+    <!-- Optional film artefacts -->
+
+    <!--
+    <div class="scratch s1"></div>
+    <div class="scratch s2"></div>
+
+    <div class="dust d1"></div>
+    <div class="dust d2"></div>
+    <div class="dust d3"></div>
+    <div class="dust d4"></div>
+    -->
+
+</div>
+
+
+
+
+
 <p style="padding-top: 10px;">
 A lot’s going on in my personal life, so the website is still on hold. Having said this, I needed to take my mind off things for a while&nbsp;— so I’ve at least made a start at long last.
 </p>
