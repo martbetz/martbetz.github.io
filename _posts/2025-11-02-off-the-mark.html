@@ -14,30 +14,31 @@ categories: projects
 
 
 
+
+
+
+
+
+<div>
+  <p>
+  <center>
+    <img style="padding-top: 0px; max-width:500px; width:100%;" src="https://user-images.githubusercontent.com/110672536/213457704-eeb368ae-b18b-4dd3-8c9f-fb1f88a232a4.png" alt="ProjectLogo">
+  </center>
+  </p>
+</div>
+
 <style>
 
-html,
-body{
-    margin:0;
-    min-height:100vh;
-
-    display:flex;
-    justify-content:center;
-    align-items:center;
-
-    background:#111;
-    overflow:hidden;
-}
-
-/* movie frame */
-.frame{
+.presgrip-frame{
     position:relative;
 
     width:400px;
-    aspect-ratio:4 / 3;
+    aspect-ratio:4/3;
 
     max-width:95vw;
     max-height:95vh;
+
+    margin:20px auto 30px auto;
 
     background:#4b0d0d;
 
@@ -46,17 +47,12 @@ body{
 
     overflow:hidden;
 
-   /* box-shadow:
-        0 0 1px rgba(255,255,255,.08),
-        0 12px 40px rgba(0,0,0,.65); */
-
     animation:
-        weave 1.3s infinite,
-        flicker .35s infinite;
+        presgrip-weave 1.3s infinite,
+        presgrip-flicker .35s infinite;
 }
 
-/* faded film colour */
-.frame::before{
+.presgrip-frame::before{
     content:"";
     position:absolute;
     inset:0;
@@ -70,8 +66,7 @@ body{
     mix-blend-mode:screen;
 }
 
-/* projector vignette */
-.frame::after{
+.presgrip-frame::after{
     content:"";
     position:absolute;
     inset:0;
@@ -87,8 +82,7 @@ body{
     pointer-events:none;
 }
 
-/* title area */
-.title{
+.presgrip-title{
     position:absolute;
     inset:0;
 
@@ -112,13 +106,10 @@ body{
     filter:blur(.25px);
 }
 
-.main{
+.presgrip-main{
     font-size:32px;
-
     font-weight:500;
-
     letter-spacing:.22em;
-
     line-height:1.15;
 
     text-shadow:
@@ -127,20 +118,7 @@ body{
     transform:rotate(-0.15deg);
 }
 
-.sub{
-    margin-top:18px;
-
-    font-size:13px;
-
-    letter-spacing:.18em;
-
-    font-weight:500;
-
-    opacity:.95;
-}
-
-/* film grain */
-.grain{
+.presgrip-grain{
     position:absolute;
     inset:-20px;
 
@@ -155,48 +133,10 @@ body{
         transparent 4px
     );
 
-    animation:grain .25s infinite;
+    animation:presgrip-grain .25s infinite;
 }
 
-/* dust */
-.dust{
-    position:absolute;
-    width:4px;
-    height:4px;
-
-    background:#fffceb;
-    border-radius:50%;
-
-    opacity:.7;
-}
-
-.d1{left:17%;top:28%;}
-.d2{left:76%;top:18%;}
-.d3{left:45%;top:81%;}
-.d4{left:87%;top:62%;width:2px;height:2px;}
-
-/* scratches */
-.scratch{
-    position:absolute;
-    top:0;
-    bottom:0;
-    width:1px;
-
-    background:
-    linear-gradient(
-        transparent,
-        rgba(255,255,255,.45),
-        transparent
-    );
-
-    opacity:.15;
-}
-
-.s1{left:26%;}
-.s2{left:72%;}
-
-/* subtle projector weave */
-@keyframes weave{
+@keyframes presgrip-weave{
 
     0%{
         transform:translate(0px,0px) rotate(0deg);
@@ -227,8 +167,7 @@ body{
     }
 }
 
-/* stronger, irregular projector flicker */
-@keyframes flicker{
+@keyframes presgrip-flicker{
 
     0%   { filter:brightness(1.00); }
     10%  { filter:brightness(1.05); }
@@ -243,7 +182,7 @@ body{
     100% { filter:brightness(1.00); }
 }
 
-@keyframes grain{
+@keyframes presgrip-grain{
 
     0%{
         transform:translate(0,0);
@@ -267,53 +206,19 @@ body{
 }
 
 </style>
-</head>
 
-<body>
+<div class="presgrip-frame">
 
-<div class="frame">
-
-    <div class="title">
-        <div class="main">THE</div>
-        <div class="main">PRESGRIP</div>
-        <div class="main">PROJECT</div>
-        <!-- <div class="sub">Martbetz.github.io</div> -->
+    <div class="presgrip-title">
+        <div class="presgrip-main">THE</div>
+        <div class="presgrip-main">PRESGRIP</div>
+        <div class="presgrip-main">PROJECT</div>
     </div>
 
-    <div class="grain"></div>
-
-    <!-- Optional film artefacts -->
-
-    <!--
-    <div class="scratch s1"></div>
-    <div class="scratch s2"></div>
-
-    <div class="dust d1"></div>
-    <div class="dust d2"></div>
-    <div class="dust d3"></div>
-    <div class="dust d4"></div>
-    -->
+    <div class="presgrip-grain"></div>
 
 </div>
 
-
-
-
-
 <p style="padding-top: 10px;">
 A lot’s going on in my personal life, so the website is still on hold. Having said this, I needed to take my mind off things for a while&nbsp;— so I’ve at least made a start at long last.
-</p>
-
-<p>
-Needless to say, it’s very early days&nbsp;— I’ve still lots of info to add. 
-</p>
-
-<p>
-If you’d like to contribute, please get in touch!
-</p>
-
-<p style="padding-top: 10px;">
-
-<a class="github-button" href="https://github.com/martbetz/The-Presgrip-Project   " data-size="large" aria-label="View Repo">View Repo</a>
-
 </p>
