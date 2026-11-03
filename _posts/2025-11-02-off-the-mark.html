@@ -4,39 +4,21 @@ layout: post
 categories: projects
 ---
 
-<div>
+<!-- <div>
   <p>
   <center>
     <img style="padding-top: 0px; max-width:500px; width:100%;" src="https://user-images.githubusercontent.com/110672536/213457704-eeb368ae-b18b-4dd3-8c9f-fb1f88a232a4.png" alt="ProjectLogo">
   </center>
   </p>
-</div>
-
-
-
-
-
-
-
-
-<div>
-  <p>
-  <center>
-    <img style="padding-top: 0px; max-width:500px; width:100%;" src="https://user-images.githubusercontent.com/110672536/213457704-eeb368ae-b18b-4dd3-8c9f-fb1f88a232a4.png" alt="ProjectLogo">
-  </center>
-  </p>
-</div>
+</div> -->
 
 <style>
 
 .presgrip-frame{
     position:relative;
 
-    width:400px;
+    width:min(400px, calc(100vw - 32px));
     aspect-ratio:4/3;
-
-    max-width:95vw;
-    max-height:95vh;
 
     margin:20px auto 30px auto;
 
@@ -107,7 +89,7 @@ categories: projects
 }
 
 .presgrip-main{
-    font-size:32px;
+    font-size:clamp(18px, 5vw, 32px);
     font-weight:500;
     letter-spacing:.22em;
     line-height:1.15;
@@ -205,6 +187,13 @@ categories: projects
     }
 }
 
+/* Extra protection against mobile overflow */
+
+html,
+body{
+    overflow-x:hidden;
+}
+
 </style>
 
 <div class="presgrip-frame">
@@ -218,6 +207,7 @@ categories: projects
     <div class="presgrip-grain"></div>
 
 </div>
+
 
 <p style="padding-top: 10px;">
 A lot’s going on in my personal life, so the website is still on hold. Having said this, I needed to take my mind off things for a while&nbsp;— so I’ve at least made a start at long last.
