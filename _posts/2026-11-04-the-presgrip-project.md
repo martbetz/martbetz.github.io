@@ -2,6 +2,7 @@
 title: The Presgrip Project
 layout: post
 categories: photography projects
+excerpt_separator: "<!-- more -->"
 
 actions:
   - label: "VIEW REPO"
