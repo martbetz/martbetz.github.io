@@ -217,8 +217,16 @@ body{
 
 </div>
 
-<font size="4">The objective of <b>The Presgrip Project</b> is to collate as much information as possible about the <b>Presgrip</b> range of cine title products.¹
-</font>
+<p> <font size="4">The objective of <b>The Presgrip Project</b> is to collate as much information as possible about the <b>Presgrip</b> range of cine title products.¹
+</font> </p>
+
+<p>
+Presgrip Cine Title Sets were manufactured and marketed, primarily during the 1950s and 1960s, by Presgrip Sign Co (🇬🇧 GBR).  
+</p>
+
+<p>
+During the boom of amateur filmmaking in the mid-20th century (the 1950s and 60s), the company adapted their core product — removable and reusable letters — to create the Presgrip Cini Title Sets for 8mm and 16mm cine film; these sets enabled amateur film-makers to easily create professional-looking titles and captions for home movies. 
+</p>
 
 <p style="padding-top:15px; line-height: 1.1">
 <font size="2">
