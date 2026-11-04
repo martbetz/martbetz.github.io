@@ -217,7 +217,7 @@ body{
 
 </div>
 
-<font size="4">The objective of <b>The Presgrip Project</b> is to collate as much information as possible about the <b>Presgrip</b> range of cine title products. 
+<font size="4">The objective of <b>The Presgrip Project</b> is to collate as much information as possible about the <b>Presgrip</b> range of cine title products.¹
 </font>
 
 <p style="padding-top:15px; line-height: 1.1">
