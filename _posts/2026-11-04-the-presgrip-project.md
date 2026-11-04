@@ -222,7 +222,7 @@ body{
 
 <p style="padding-top:15px; line-height: 1.1">
 <font size="2">
-¹ If you'd like to contribute to this project, plrase raise a pull request for any proposed contributions.
+¹ If you'd like to contribute to this project, please raise a pull request on Github.
 </font>
 </p>
 
