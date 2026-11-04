@@ -151,16 +151,21 @@ body{
     </div>
 </div>
 
-<!-- more -->
+
 
 <p> <font size="4">The objective of <b>The Presgrip Project</b> is to collate as much information as possible about the <b>Presgrip</b> range of cine title products.¹
 </font> </p>
 
 <hr>
 
+<!-- more -->
+
+
 <p>
 Presgrip Cine Title Sets were manufactured and marketed, primarily during the 1950s and 1960s, by Presgrip Sign Co (🇬🇧 GBR).  
 </p>
+
+<!-- more -->
 
 <p style="padding-top:15px; line-height: 1.1">
 <font size="2">
