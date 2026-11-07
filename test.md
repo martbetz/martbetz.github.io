@@ -403,7 +403,7 @@ layout: page
 <style>
 .presgrip-frame{
     position:relative;
-    width:min(400px, calc(100vw - 32px));
+    width:100%;
     aspect-ratio:4/3;
     margin:0 auto;
     background:#4b0d0d;
@@ -542,8 +542,12 @@ layout: page
 }
 </style>
 
-<!-- Wrapper with explicit 20px left and right margins -->
-<div style="margin: 20px 20px;">
+<!-- Responsive wrapper with 20px left/right margins and no mobile overflow -->
+<div style="
+    width: min(calc(100% - 40px), 400px);
+    margin: 20px auto;
+    box-sizing: border-box;
+">
     <div class="presgrip-frame" id="projectorFrame">
         <div class="presgrip-screen">
             <div class="presgrip-pop-overlay" id="dustOverlay"></div>
