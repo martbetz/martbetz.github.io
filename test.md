@@ -436,15 +436,17 @@ body.dark {
 
 <br>
 
+
+
 <style>
 
 .presgrip-frame{
     position:relative;
 
-    width:min(400px, calc(100vw - 32px));
-    aspect-ratio:4/3;
+    width:min(calc(100% - 40px), 600px);
+    margin:20px auto; aspect-ratio:4/3;
 
-    margin:0;
+  
 
     /* Original dark red Super 8 background */
     background:#4b0d0d;
