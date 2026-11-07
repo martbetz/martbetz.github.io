@@ -644,7 +644,7 @@ layout: page
 })();
 </script>
 
-<br><br>
+<br>
 
 <style>
 :root {
