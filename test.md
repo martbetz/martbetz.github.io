@@ -446,17 +446,15 @@ body.dark {
     width:min(calc(100% - 40px), 600px);
     margin:20px auto; aspect-ratio:4/3;
 
-  
-
     /* Original dark red Super 8 background */
     background:#4b0d0d;
 
-    /* Original rounded off edges with a soft, glowing red projection halo */
-    border-radius: 16px;
+    /* Softened inner edge falloff with clean outer boundary */
+    border-radius: 20px;
     border: none;
     box-shadow: 
-        0 0 25px rgba(220, 80, 50, 0.3),
-        0 0 60px rgba(180, 40, 20, 0.15),
+        0 0 20px rgba(220, 80, 50, 0.25),
+        inset 0 0 12px rgba(255, 120, 90, 0.25),
         inset 0 0 35px rgba(0, 0, 0, 0.65);
 
     box-sizing:border-box;
@@ -642,6 +640,7 @@ body.dark {
 }
 
 </style>
+</head>
 <body>
 
 <div class="presgrip-frame" id="projectorFrame">
@@ -752,7 +751,6 @@ body.dark {
     spawnContaminationPop();
 })();
 </script>
-
 <br>
 
 
