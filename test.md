@@ -398,12 +398,12 @@ layout: page
 
 <!-- Super 8 Presgrip Title Section -->
 
-<h3 style="text-align:center;margin-top:20px;margin-bottom:-20px;"><u>Images</u></h3>
+<h3 style="text-align:center;margin-top:20px;margin-bottom:30px;"><u>Super 8 Presgrip Projector</u></h3>
 
 <style>
 .presgrip-frame{
     position:relative;
-    width:100%;
+    width:min(400px, calc(100vw - 32px));
     aspect-ratio:4/3;
     margin:0 auto;
     background:#4b0d0d;
@@ -542,10 +542,8 @@ layout: page
 }
 </style>
 
-<div style="
-    width:min(calc(100% - 40px), 600px);
-    margin:20px auto;
-">
+<!-- Wrapper with explicit 20px left and right margins -->
+<div style="margin: 20px 20px;">
     <div class="presgrip-frame" id="projectorFrame">
         <div class="presgrip-screen">
             <div class="presgrip-pop-overlay" id="dustOverlay"></div>
@@ -644,7 +642,7 @@ layout: page
 })();
 </script>
 
-<br>
+<br><br>
 
 <style>
 :root {
