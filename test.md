@@ -640,7 +640,6 @@ body.dark {
 }
 
 </style>
-</head>
 <body>
 
 <div class="presgrip-frame" id="projectorFrame">
