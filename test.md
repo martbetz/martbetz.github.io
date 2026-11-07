@@ -446,21 +446,29 @@ body.dark {
     width:min(calc(100% - 40px), 600px);
     margin:20px auto; aspect-ratio:4/3;
 
-    /* Original dark red Super 8 background */
+       /* Original dark red Super 8 background */
     background:#4b0d0d;
 
-    /* Softened inner edge falloff with clean outer boundary */
-    border-radius: 20px;
+    /* Original rounded off edges with a soft, glowing red projection halo */
+    border-radius: 16px;
     border: none;
     box-shadow: 
-        0 0 20px rgba(220, 80, 50, 0.25),
-        inset 0 0 12px rgba(255, 120, 90, 0.25),
+        0 0 25px rgba(220, 80, 50, 0.3),
+        0 0 60px rgba(180, 40, 20, 0.15),
         inset 0 0 35px rgba(0, 0, 0, 0.65);
 
     box-sizing:border-box;
 
     overflow:hidden;
     will-change: transform;
+
+    /* Feather the outer rectangle edges into transparency while preserving rounded corners */
+    -webkit-mask-image: linear-gradient(to right, transparent, black 12px, black calc(100% - 12px), transparent),
+                        linear-gradient(to bottom, transparent, black 12px, black calc(100% - 12px), transparent);
+    -webkit-mask-composite: intersect;
+    mask-image: linear-gradient(to right, transparent, black 12px, black calc(100% - 12px), transparent),
+                linear-gradient(to bottom, transparent, black 12px, black calc(100% - 12px), transparent);
+    mask-composite: intersect;
 }
 
 .presgrip-screen{
