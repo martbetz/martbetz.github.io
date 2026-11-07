@@ -398,7 +398,7 @@ layout: page
 
 <!-- Super 8 Presgrip Title Section -->
 
-<!-- <h3 style="text-align:center;margin-top:20px;margin-bottom:30px;"><u>Super 8 Presgrip Projector</u></h3> -->
+<h3 style="text-align:center;margin-top:20px;margin-bottom:-20px;"><u>Images</u></h3>
 
 <style>
 .presgrip-frame{
