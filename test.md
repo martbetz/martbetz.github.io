@@ -403,7 +403,7 @@ layout: page
 <style>
 .presgrip-frame{
     position:relative;
-    width:min(400px, calc(100vw - 32px));
+    width:100%;
     aspect-ratio:4/3;
     margin:0 auto;
     background:#4b0d0d;
@@ -542,16 +542,21 @@ layout: page
 }
 </style>
 
-<div class="presgrip-frame" id="projectorFrame">
-    <div class="presgrip-screen">
-        <div class="presgrip-pop-overlay" id="dustOverlay"></div>
-        <div class="presgrip-viewport" id="projectorViewport">
-            <div class="presgrip-title">
-                <div class="presgrip-main">THE</div>
-                <div class="presgrip-main">PRESGRIP</div>
-                <div class="presgrip-main">PROJECT</div>
+<div style="
+    width:min(calc(100% - 40px), 600px);
+    margin:20px auto;
+">
+    <div class="presgrip-frame" id="projectorFrame">
+        <div class="presgrip-screen">
+            <div class="presgrip-pop-overlay" id="dustOverlay"></div>
+            <div class="presgrip-viewport" id="projectorViewport">
+                <div class="presgrip-title">
+                    <div class="presgrip-main">THE</div>
+                    <div class="presgrip-main">PRESGRIP</div>
+                    <div class="presgrip-main">PROJECT</div>
+                </div>
+                <div class="presgrip-grain"></div>
             </div>
-            <div class="presgrip-grain"></div>
         </div>
     </div>
 </div>
