@@ -438,22 +438,6 @@ body.dark {
 
 <style>
 
-html,
-body{
-    margin:0;
-    padding:0;
-    overflow-x:hidden;
-}
-
-body{
-    /* Center everything both horizontally and vertically against a dark theater background */
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
-    background: #0d0d0d; 
-}
-
 .presgrip-frame{
     position:relative;
 
