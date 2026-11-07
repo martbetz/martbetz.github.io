@@ -438,15 +438,28 @@ body.dark {
 
 
 
+
+
+<title>1970s Super 8 Presgrip Title</title>
+
 <style>
+
+html,
+body{
+    margin:20px;
+    padding:0;
+    overflow-x:hidden;
+}
 
 .presgrip-frame{
     position:relative;
 
-    width:min(calc(100% - 40px), 600px);
-    margin:20px auto; aspect-ratio:4/3;
+    width:min(400px, calc(100vw - 32px));
+    aspect-ratio:4/3;
 
-       /* Original dark red Super 8 background */
+    margin:0;
+
+    /* Original dark red Super 8 background */
     background:#4b0d0d;
 
     /* Original rounded off edges with a soft, glowing red projection halo */
@@ -462,12 +475,12 @@ body.dark {
     overflow:hidden;
     will-change: transform;
 
-    /* Feather the outer rectangle edges into transparency while preserving rounded corners */
-    -webkit-mask-image: linear-gradient(to right, transparent, black 12px, black calc(100% - 12px), transparent),
-                        linear-gradient(to bottom, transparent, black 12px, black calc(100% - 12px), transparent);
+    /* Scaled back 40% (12px reduced to 7px) for a tighter edge fade */
+    -webkit-mask-image: linear-gradient(to right, transparent, black 7px, black calc(100% - 7px), transparent),
+                        linear-gradient(to bottom, transparent, black 7px, black calc(100% - 7px), transparent);
     -webkit-mask-composite: intersect;
-    mask-image: linear-gradient(to right, transparent, black 12px, black calc(100% - 12px), transparent),
-                linear-gradient(to bottom, transparent, black 12px, black calc(100% - 12px), transparent);
+    mask-image: linear-gradient(to right, transparent, black 7px, black calc(100% - 7px), transparent),
+                linear-gradient(to bottom, transparent, black 7px, black calc(100% - 7px), transparent);
     mask-composite: intersect;
 }
 
@@ -648,6 +661,7 @@ body.dark {
 }
 
 </style>
+</head>
 <body>
 
 <div class="presgrip-frame" id="projectorFrame">
@@ -758,6 +772,7 @@ body.dark {
     spawnContaminationPop();
 })();
 </script>
+
 <br>
 
 
