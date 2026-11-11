@@ -175,14 +175,14 @@ So here's my soon-to-be Traffolyte pin badge&nbsp;— what you reckon, Bob?
 
                 <div
                     class="traffolyte-callsign"
-                    data-text="MARTBETZ.IO">
-                    MARTBETZ.IO
+                    data-text="MART BETZ">
+                    MART BETZ
                 </div>
 
                 <div
                     class="traffolyte-name"
-                    data-text="PERSONAL WEBSITE">
-                    PERSONAL WEBSITE
+                    data-text="martbetz.github.io">
+                    martbetz.github.io
                 </div>
 
             </div>
