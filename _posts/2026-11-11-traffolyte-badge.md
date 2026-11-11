@@ -4,13 +4,13 @@ layout: post
 categories: miscellaneous
 ---
 
-It's been a great many years since I wandered through that convention hall, but those little oblong red-and-white badges are something I'll never forget — for me, they've always held an attraction of curious magical charm.
+It's been a while since I wandered through that convention hall, but those little oblong red-and-white badges are something I'll never forget — for me, they've always held an attraction of curious magical charm.
 
 Everybody had one, and I wanted one too — but sadly I wasn't a radio ham, and I didn't have a cool callsign to show off.
 
 Today, I'm going to get one&nbsp;— and while I <i>still</i> don't have a cool callsign to show off, I <i>do</i> have a neat little website (even if I say so myself).
 
-So here's my soon-to-be Traffolyte pin badge&nbsp;— what you reckon, Bob?
+So here's my soon-to-be Traffolyte pin badge&nbsp;— <i>what you reckon, Bob?!</i>
 
 <style>
 .traffolyte-wrap{
